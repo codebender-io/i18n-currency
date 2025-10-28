@@ -17,6 +17,18 @@ Maintained by **CodeBender** — website: https://codebender.io · GitHub: https
 
 It is intended for server and client (Node >=18 / ESM) usage and designed in TypeScript with full types.
 
+## Size & bundle behaviour
+
+- **Base package (ESM, minified + gzipped)** — ~**93 KB**.
+- **Each locale file** (JSON) — ~**20–25 KB**.
+
+The library is **fully modular** and **tree-shakeable**: we expose ESM modules and ship locale files as separate JSON assets, so your bundler will include **only** the base code and the locale files you import. In other words — *you ship what you use only*.
+
+### How to keep bundles small
+
+- Import only the locales you need (don't import the entire `locales` directory).
+- Use a standard production build (e.g. `webpack`/`rollup`/`esbuild`) with tree-shaking enabled to remove any unused exports.
+
 ---
 
 ## Install
