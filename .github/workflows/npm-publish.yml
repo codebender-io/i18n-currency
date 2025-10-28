@@ -1,0 +1,39 @@
+name: Publish package to npm
+
+on:
+  release:
+    types: [created]
+
+permissions:
+  contents: write         # for checkout
+  packages: write         # not strictly needed for npmjs, but ok to include
+  id-token: write         # only if you use OIDC, otherwise safe to keep default
+
+jobs:
+  build-and-publish:
+    runs-on: ubuntu-latest
+    env:
+      NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}   # <-- your npm automation token stored as repo secret
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          registry-url: https://registry.npmjs.org/   # setup-node will write .npmrc when NODE_AUTH_TOKEN exists
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build (production)
+        run: npm run production
+
+      # Optional explicit auth line — useful for debugging auth issues
+      - name: Configure npm auth (explicit)
+        run: npm config set //registry.npmjs.org/:_authToken=${NODE_AUTH_TOKEN}
+
+      - name: Publish to npm
+        run: npm publish --access public
