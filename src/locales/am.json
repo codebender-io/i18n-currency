@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "የዩናይትድ አረብ ኤምሬትስ ዲርሃም",
+		"name_plural": "የዩናይትድ አረብ ኤምሬትስ ዲርሃሞች",
+		"subunit_name": "ፊልስ",
+		"subunit_name_plural": "ፊልስ"
+	},
+	"AFN": {
+		"name": "አፍጋን አፍጋኒ",
+		"name_plural": "አፍጋን አፍጋኒዎች",
+		"subunit_name": "ፑል",
+		"subunit_name_plural": "ፑሎች"
+	},
+	"ALL": {
+		"name": "አልባኒያን ሌክ",
+		"name_plural": "አልባኒያን ሌኮች",
+		"subunit_name": "ቂንዳርኬ",
+		"subunit_name_plural": "ቂንዳርኬ"
+	},
+	"AMD": {
+		"name": "አርሜኒያን ደራም",
+		"name_plural": "አርሜኒያን ደራሞች",
+		"subunit_name": "ሉማ",
+		"subunit_name_plural": "ሉማዎች"
+	},
+	"ANG": {
+		"name": "ኔዘርላንድስ አንቲልያን ጊልደር",
+		"name_plural": "ኔዘርላንድስ አንቲልያን ጊልደሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"AOA": {
+		"name": "አንጎላን ኵዋንዛ",
+		"name_plural": "አንጎላን ኵዋንዛዎች",
+		"subunit_name": "ሴንቲሞ",
+		"subunit_name_plural": "ሴንቲሞዎች"
+	},
+	"ARS": {
+		"name": "አርጀንቲና ፔሶ",
+		"name_plural": "አርጀንቲና ፔሶዎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"AUD": {
+		"name": "ኦስትራሊያን ዶላር",
+		"name_plural": "ኦስትራሊያን ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"AWG": {
+		"name": "አሩባን ፍሎሪን",
+		"name_plural": "አሩባን ፍሎሪኖች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"AZN": {
+		"name": "አዘርባይጃን ማናት",
+		"name_plural": "አዘርባይጃን ማናቶች",
+		"subunit_name": "ቀፒክ",
+		"subunit_name_plural": "ቀፒኮች"
+	},
+	"BAM": {
+		"name": "ቦስኒያ እና ሄርዞጎቪኒያ ኮንቨርቲብል ማርክ",
+		"name_plural": "ቦስኒያ እና ሄርዞጎቪኒያ ኮንቨርቲብል ማርኮች",
+		"subunit_name": "ፈኒንግ",
+		"subunit_name_plural": "ፈኒንጎች"
+	},
+	"BBD": {
+		"name": "ባርቤዶስ ዶላር",
+		"name_plural": "ባርቤዶስ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"BDT": {
+		"name": "ባንግላዲሽ ታካ",
+		"name_plural": "ባንግላዲሽ ታካዎች",
+		"subunit_name": "ፖይሻ",
+		"subunit_name_plural": "ፖይሻዎች"
+	},
+	"BGN": {
+		"name": "ቡልጋሪያን ሌቭ",
+		"name_plural": "ቡልጋሪያን ሌቮች",
+		"subunit_name": "ስቶቲንካ",
+		"subunit_name_plural": "ስቶቲንኪ"
+	},
+	"BHD": {
+		"name": "ባህሬን ዲናር",
+		"name_plural": "ባህሬን ዲናሮች",
+		"subunit_name": "ፊልስ",
+		"subunit_name_plural": "ፊልስ"
+	},
+	"BIF": {
+		"name": "ቡሩንዲ ፍራንክ",
+		"name_plural": "ቡሩንዲ ፍራንኮች",
+		"subunit_name": "ሴንቲም",
+		"subunit_name_plural": "ሴንቲሞች"
+	},
+	"BMD": {
+		"name": "ቤርሙዳ ዶላር",
+		"name_plural": "ቤርሙዳ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"BND": {
+		"name": "ብሩኒ ዶላር",
+		"name_plural": "ብሩኒ ዶላሮች",
+		"subunit_name": "ሴን",
+		"subunit_name_plural": "ሴኖች"
+	},
+	"BOB": {
+		"name": "ቦሊቪያን ቦሊቪያኖ",
+		"name_plural": "ቦሊቪያን ቦሊቪያኖዎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"BRL": {
+		"name": "ብራዚል ሪያል",
+		"name_plural": "ብራዚል ሪያሎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"BSD": {
+		"name": "ባሃማስ ዶላር",
+		"name_plural": "ባሃማስ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"BTN": {
+		"name": "ቡህታን ኑግልትሩም",
+		"name_plural": "ቡህታን ኑግልትሩሞች",
+		"subunit_name": "ቼትሩም",
+		"subunit_name_plural": "ቼትሩሞች"
+	},
+	"BWP": {
+		"name": "ቦትስዋና ፑላ",
+		"name_plural": "ቦትስዋና ፑላዎች",
+		"subunit_name": "ቴቤ",
+		"subunit_name_plural": "ቴቤ"
+	},
+	"BYN": {
+		"name": "ቤላሩስ ሩብል",
+		"name_plural": "ቤላሩስ ሩብሎች",
+		"subunit_name": "ኮፔክ",
+		"subunit_name_plural": "ኮፔኮች"
+	},
+	"BZD": {
+		"name": "ቤሊዘ ዶላር",
+		"name_plural": "ቤሊዘ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"CAD": {
+		"name": "ካናዳ ዶላር",
+		"name_plural": "ካናዳ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"CDF": {
+		"name": "ኮንጎ ፍራንክ",
+		"name_plural": "ኮንጎ ፍራንኮች",
+		"subunit_name": "ሴንቲም",
+		"subunit_name_plural": "ሴንቲሞች"
+	},
+	"CHF": {
+		"name": "ስዊስ ፍራንክ",
+		"name_plural": "ስዊስ ፍራንኮች",
+		"subunit_name": "ራፔን",
+		"subunit_name_plural": "ራፔኖች"
+	},
+	"CLP": {
+		"name": "ቺሊያን ፔሶ",
+		"name_plural": "ቺሊያን ፔሶዎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"CNY": {
+		"name": "ቻይና ዩዋን",
+		"name_plural": "ቻይና ዩዋኖች",
+		"subunit_name": "ፌን",
+		"subunit_name_plural": "ፌኖች"
+	},
+	"COP": {
+		"name": "ኮሎምቢያ ፔሶ",
+		"name_plural": "ኮሎምቢያ ፔሶዎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"CRC": {
+		"name": "ኮስታ ሪካ ኮሎን",
+		"name_plural": "ኮስታ ሪካ ኮሎኖች",
+		"subunit_name": "ሴንቲሞ",
+		"subunit_name_plural": "ሴንቲሞዎች"
+	},
+	"CUC": {
+		"name": "ኩባ ኮንቨርቲብል ፔሶ",
+		"name_plural": "ኩባ ኮንቨርቲብል ፔሶዎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"CUP": {
+		"name": "ኩባ ፔሶ",
+		"name_plural": "ኩባ ፔሶዎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"CVE": {
+		"name": "ኬፕ ቬርዴ ኤስኩዶ",
+		"name_plural": "ኬፕ ቬርዴ ኤስኩዶዎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"CZK": {
+		"name": "ቼክ ኮሩና",
+		"name_plural": "ቼክ ኮሩናዎች",
+		"subunit_name": "ሐለር",
+		"subunit_name_plural": "ሐለሮች"
+	},
+	"DJF": {
+		"name": "ጃቡቲ ፍራንክ",
+		"name_plural": "ጃቡቲ ፍራንኮች",
+		"subunit_name": "ሴንቲም",
+		"subunit_name_plural": "ሴንቲሞች"
+	},
+	"DKK": {
+		"name": "ዴንማርክ ክሮነ",
+		"name_plural": "ዴንማርክ ክሮኖች",
+		"subunit_name": "ኦሬ",
+		"subunit_name_plural": "ኦሬ"
+	},
+	"DOP": {
+		"name": "ዶሚኒካን ፔሶ",
+		"name_plural": "ዶሚኒካን ፔሶዎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"DZD": {
+		"name": "አልጄሪያ ዲናር",
+		"name_plural": "አልጄሪያ ዲናሮች",
+		"subunit_name": "ሴንቲም",
+		"subunit_name_plural": "ሴንቲሞች"
+	},
+	"EGP": {
+		"name": "ግብጽ ፓውንድ",
+		"name_plural": "ግብጽ ፓውንዶች",
+		"subunit_name": "ፒያስትረ",
+		"subunit_name_plural": "ፒያስትሬዎች"
+	},
+	"ERN": {
+		"name": "ኤርትራ ናክፋ",
+		"name_plural": "ኤርትራ ናክፋዎች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"ETB": {
+		"name": "ኢትዮጵያ ብር",
+		"name_plural": "ኢትዮጵያ ብሮች",
+		"subunit_name": "ሳንቲም",
+		"subunit_name_plural": "ሳንቲሞች"
+	},
+	"EUR": {
+		"name": "ዩሮ",
+		"name_plural": "ዩሮዎች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"FJD": {
+		"name": "ፊጂ ዶላር",
+		"name_plural": "ፊጂ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"FKP": {
+		"name": "ፋልክላንድ ደሴቶች ፓውንድ",
+		"name_plural": "ፋልክላንድ ደሴቶች ፓውንዶች",
+		"subunit_name": "ፔኒ",
+		"subunit_name_plural": "ፔንስ"
+	},
+	"GBP": {
+		"name": "የእንግሊዝ ፓውንድ",
+		"name_plural": "የእንግሊዝ ፓውንዶች",
+		"subunit_name": "ፔኒ",
+		"subunit_name_plural": "ፔንስ"
+	},
+	"GEL": {
+		"name": "ጆርጂያ ላሪ",
+		"name_plural": "ጆርጂያ ላሪዎች",
+		"subunit_name": "ቴትሪ",
+		"subunit_name_plural": "ቴትሪ"
+	},
+	"GHS": {
+		"name": "ጋና ሰዲ",
+		"name_plural": "ጋና ሰዲዎች",
+		"subunit_name": "ፔሴዋ",
+		"subunit_name_plural": "ፔሴዋዎች"
+	},
+	"GIP": {
+		"name": "ጊብራልታር ፓውንድ",
+		"name_plural": "ጊብራልታር ፓውንዶች",
+		"subunit_name": "ፔኒ",
+		"subunit_name_plural": "ፔንስ"
+	},
+	"GMD": {
+		"name": "ጋምቢያ ዳላሲ",
+		"name_plural": "ጋምቢያ ዳላሲዎች",
+		"subunit_name": "ቡቱት",
+		"subunit_name_plural": "ቡቱቶች"
+	},
+	"GNF": {
+		"name": "ጊኒ ፍራንክ",
+		"name_plural": "ጊኒ ፍራንኮች",
+		"subunit_name": "ሴንቲም",
+		"subunit_name_plural": "ሴንቲሞች"
+	},
+	"GTQ": {
+		"name": "ጉዋቴማላ ኩዜታል",
+		"name_plural": "ጉዋቴማላ ኩዜታሎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"GYD": {
+		"name": "ጉያና ዶላር",
+		"name_plural": "ጉያና ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"HKD": {
+		"name": "ሆንግ ኮንግ ዶላር",
+		"name_plural": "ሆንግ ኮንግ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"HNL": {
+		"name": "ሆንዱራስ ሌምፒራ",
+		"name_plural": "ሆንዱራስ ሌምፒራዎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"HRK": {
+		"name": "ክሮሽያ ኩና",
+		"name_plural": "ክሮሽያ ኩናዎች",
+		"subunit_name": "ሊፓ",
+		"subunit_name_plural": "ሊፓ"
+	},
+	"HTG": {
+		"name": "ሀይቲ ጉርድ",
+		"name_plural": "ሀይቲ ጉርዶች",
+		"subunit_name": "ሴንቲም",
+		"subunit_name_plural": "ሴንቲሞች"
+	},
+	"HUF": {
+		"name": "ሀንጋሪያን ፎሪንት",
+		"name_plural": "ሀንጋሪያን ፎሪንቶች",
+		"subunit_name": "ፊለር",
+		"subunit_name_plural": "ፊለሮች"
+	},
+	"IDR": {
+		"name": "ኢንዶኔዥያ ሩፒያ",
+		"name_plural": "ኢንዶኔዥያ ሩፒያዎች",
+		"subunit_name": "ሴን",
+		"subunit_name_plural": "ሴኖች"
+	},
+	"ILS": {
+		"name": "እስራኤል ኒው ሼኬል",
+		"name_plural": "እስራኤል ኒው ሼኬሎች",
+		"subunit_name": "አጎራ",
+		"subunit_name_plural": "አጎሮት"
+	},
+	"INR": {
+		"name": "የህንድ ሩፒ",
+		"name_plural": "የህንድ ሩፒዎች",
+		"subunit_name": "ፓይሳ",
+		"subunit_name_plural": "ፓይሴ"
+	},
+	"IQD": {
+		"name": "ኢራቅ ዲናር",
+		"name_plural": "ኢራቅ ዲናሮች",
+		"subunit_name": "ፊልስ",
+		"subunit_name_plural": "ፊልስ"
+	},
+	"IRR": {
+		"name": "ኢራን ሪያል",
+		"name_plural": "ኢራን ሪያሎች",
+		"subunit_name": "ዲናር",
+		"subunit_name_plural": "ዲናሮች"
+	},
+	"ISK": {
+		"name": "አይስላንድ ክሮና",
+		"name_plural": "አይስላንድ ክሮኖች",
+		"subunit_name": "ኢሪር",
+		"subunit_name_plural": "አውራር"
+	},
+	"JMD": {
+		"name": "ጃማይካ ዶላር",
+		"name_plural": "ጃማይካ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"JOD": {
+		"name": "ጆርዳን ዲናር",
+		"name_plural": "ጆርዳን ዲናሮች",
+		"subunit_name": "ፊልስ",
+		"subunit_name_plural": "ፊልስ"
+	},
+	"JPY": {
+		"name": "ጃፓን የን",
+		"name_plural": "ጃፓን የኖች",
+		"subunit_name": "ሴን",
+		"subunit_name_plural": "ሴኖች"
+	},
+	"KES": {
+		"name": "ኬንያ ሽሊንግ",
+		"name_plural": "ኬንያ ሽሊንጎች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"KGS": {
+		"name": "ኪርጊዝስታን ሶም",
+		"name_plural": "ኪርጊዝስታን ሶሞች",
+		"subunit_name": "ቲይን",
+		"subunit_name_plural": "ቲይኖች"
+	},
+	"KHR": {
+		"name": "ካምቦዲያ ሪኤል",
+		"name_plural": "ካምቦዲያ ሪኤሎች",
+		"subunit_name": "ሴን",
+		"subunit_name_plural": "ሴኖች"
+	},
+	"KMF": {
+		"name": "ኮሞሮስ ፍራንክ",
+		"name_plural": "ኮሞሮስ ፍራንኮች",
+		"subunit_name": "ሴንቲም",
+		"subunit_name_plural": "ሴንቲሞች"
+	},
+	"KPW": {
+		"name": "የሰሜን ኮሪያ ወን",
+		"name_plural": "የሰሜን ኮሪያ ወኖች",
+		"subunit_name": "ጁን",
+		"subunit_name_plural": "ጁኖች"
+	},
+	"KRW": {
+		"name": "የደቡብ ኮሪያ ወን",
+		"name_plural": "የደቡብ ኮሪያ �ወኖች",
+		"subunit_name": "ጁን",
+		"subunit_name_plural": "ጁኖች"
+	},
+	"KWD": {
+		"name": "ክዌት ዲናር",
+		"name_plural": "ክዌት ዲናሮች",
+		"subunit_name": "ፊልስ",
+		"subunit_name_plural": "ፊልስ"
+	},
+	"KYD": {
+		"name": "ካይማን ደሴቶች ዶላር",
+		"name_plural": "ካይማን ደሴቶች ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"KZT": {
+		"name": "ካዛክስታን ተንገ",
+		"name_plural": "ካዛክስታን ተንገዎች",
+		"subunit_name": "ቲይን",
+		"subunit_name_plural": "ቲይኖች"
+	},
+	"LAK": {
+		"name": "ላኦስ ኪፕ",
+		"name_plural": "ላኦስ ኪፖች",
+		"subunit_name": "አት",
+		"subunit_name_plural": "አቶች"
+	},
+	"LBP": {
+		"name": "ሊባኖን ፓውንድ",
+		"name_plural": "ሊባኖን ፓውንዶች",
+		"subunit_name": "ፒያስትረ",
+		"subunit_name_plural": "ፒያስትሬዎች"
+	},
+	"LKR": {
+		"name": "ስሪላንካ ሩፒ",
+		"name_plural": "ስሪላንካ ሩፒዎች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"LRD": {
+		"name": "ላይቤሪያ ዶላር",
+		"name_plural": "ላይቤሪያ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"LSL": {
+		"name": "ሌሶቶ ሎቲ",
+		"name_plural": "ሌሶቶ ሎቲዎች",
+		"subunit_name": "ሴንቴ",
+		"subunit_name_plural": "ሊሴንቴ"
+	},
+	"LYD": {
+		"name": "ሊቢያ ዲናር",
+		"name_plural": "ሊቢያ ዲናሮች",
+		"subunit_name": "ድርሃም",
+		"subunit_name_plural": "ድርሃሞች"
+	},
+	"MAD": {
+		"name": "ሞሮኮ ዲርሃም",
+		"name_plural": "ሞሮኮ ዲርሃሞች",
+		"subunit_name": "ሴንቲም",
+		"subunit_name_plural": "ሴንቲሞች"
+	},
+	"MDL": {
+		"name": "ሞልዶቫ ሌዩ",
+		"name_plural": "ሞልዶቫ ሌዮች",
+		"subunit_name": "ባን",
+		"subunit_name_plural": "ባኒ"
+	},
+	"MGA": {
+		"name": "ማዳጋስካር አሪያሪ",
+		"name_plural": "ማዳጋስካር አሪያሪዎች",
+		"subunit_name": "ኢራይምቢላንጃ",
+		"subunit_name_plural": "ኢራይምቢላንጃ"
+	},
+	"MKD": {
+		"name": "ማከዶኒያ ደናር",
+		"name_plural": "ማከዶኒያ ደናሮች",
+		"subunit_name": "ዲኒ",
+		"subunit_name_plural": "ዲኒ"
+	},
+	"MMK": {
+		"name": "ማይንማር ኪያት",
+		"name_plural": "ማይንማር ኪያቶች",
+		"subunit_name": "ፒያ",
+		"subunit_name_plural": "ፒያ"
+	},
+	"MNT": {
+		"name": "ሞንጎሊያ ቱግሪክ",
+		"name_plural": "ሞንጎሊያ ቱግሪኮች",
+		"subunit_name": "ሞንጎ",
+		"subunit_name_plural": "ሞንጎ"
+	},
+	"MOP": {
+		"name": "ማካኦ ፓታካ",
+		"name_plural": "ማካኦ ፓታካዎች",
+		"subunit_name": "አቮ",
+		"subunit_name_plural": "አቮዎች"
+	},
+	"MRU": {
+		"name": "ሞሪቴኒያ ኦኡጊያ",
+		"name_plural": "ሞሪቴኒያ ኦኡጊያዎች",
+		"subunit_name": "ኾሙስ",
+		"subunit_name_plural": "ኾሙስ"
+	},
+	"MUR": {
+		"name": "ሞሪሻስ ሩፒ",
+		"name_plural": "ሞሪሻስ ሩፒዎች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"MVR": {
+		"name": "ማልዲቭስ ሩፒያ",
+		"name_plural": "ማልዲቭስ ሩፒያዎች",
+		"subunit_name": "ላሪ",
+		"subunit_name_plural": "ላሪ"
+	},
+	"MWK": {
+		"name": "ማላዊ ኋቻ",
+		"name_plural": "ማላዊ ኋቻዎች",
+		"subunit_name": "ታምባላ",
+		"subunit_name_plural": "ታምባላ"
+	},
+	"MXN": {
+		"name": "ሜክሲኮ ፔሶ",
+		"name_plural": "ሜክሲኮ ፔሶዎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"MYR": {
+		"name": "ማሌዥያ ሪንጊት",
+		"name_plural": "ማሌዥያ ሪንጊቶች",
+		"subunit_name": "ሴን",
+		"subunit_name_plural": "ሴኖች"
+	},
+	"MZN": {
+		"name": "ሞዛምቢክ ሜቲካል",
+		"name_plural": "ሞዛምቢክ ሜቲካሎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"NAD": {
+		"name": "ናሚቢያ ዶላር",
+		"name_plural": "ናሚቢያ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"NGN": {
+		"name": "ናይጄሪያ ናይራ",
+		"name_plural": "ናይጄሪያ ናይራዎች",
+		"subunit_name": "ኮቦ",
+		"subunit_name_plural": "ኮቦ"
+	},
+	"NIO": {
+		"name": "ኒካራጉዋ ኮርዶባ",
+		"name_plural": "ኒካራጉዋ ኮርዶባዎች",
+		"subunit_name": "ሴንታቮ",
+		"subunit_name_plural": "ሴንታቮዎች"
+	},
+	"NOK": {
+		"name": "ኖርዌ ክሮነ",
+		"name_plural": "ኖርዌ ክሮኖች",
+		"subunit_name": "ኦሬ",
+		"subunit_name_plural": "ኦሬ"
+	},
+	"NPR": {
+		"name": "ኔፓል ሩፒ",
+		"name_plural": "ኔፓል ሩፒዎች",
+		"subunit_name": "ፓይሳ",
+		"subunit_name_plural": "ፓይሳ"
+	},
+	"NZD": {
+		"name": "ኒው ዚላንድ ዶላር",
+		"name_plural": "ኒው ዚላንድ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"OMR": {
+		"name": "ኦማን ሪያል",
+		"name_plural": "ኦማን ሪያሎች",
+		"subunit_name": "ባይሳ",
+		"subunit_name_plural": "ባይሳ"
+	},
+	"PAB": {
+		"name": "ፓናማ ባልቦአ",
+		"name_plural": "ፓናማ ባልቦአዎች",
+		"subunit_name": "ሴንቴሲሞ",
+		"subunit_name_plural": "ሴንቴሲሞዎች"
+	},
+	"PEN": {
+		"name": "ፔሩቪያን ሶል",
+		"name_plural": "ፔሩቪያን ሶሎች",
+		"subunit_name": "ሴንቲሞ",
+		"subunit_name_plural": "ሴንቲሞዎች"
+	},
+	"PGK": {
+		"name": "ፓፑዋ ኒው ጊኒ ኪና",
+		"name_plural": "ፓፑዋ ኒው ጊኒ ኪናዎች",
+		"subunit_name": "ቶኤ",
+		"subunit_name_plural": "ቶኤ"
+	},
+	"PHP": {
+		"name": "ፊሊፒን ፔሶ",
+		"name_plural": "ፊሊፒን ፔሶዎች",
+		"subunit_name": "ሴንቲሞ",
+		"subunit_name_plural": "ሴንቲሞዎች"
+	},
+	"PKR": {
+		"name": "ፓኪስታን ሩፒ",
+		"name_plural": "ፓኪስታን ሩፒዎች",
+		"subunit_name": "ፓይሳ",
+		"subunit_name_plural": "ፓይሳ"
+	},
+	"PLN": {
+		"name": "ፖላንድ ዘሎቲ",
+		"name_plural": "ፖላንድ ዘሎቲዎች",
+		"subunit_name": "ጎሮሽ",
+		"subunit_name_plural": "ጎሮዥ"
+	},
+	"PYG": {
+		"name": "ፓራጓይ ጉዋራኒ",
+		"name_plural": "ፓራጓይ ጉዋራኒዎች",
+		"subunit_name": "ሴንቲሞ",
+		"subunit_name_plural": "ሴንቲሞዎች"
+	},
+	"QAR": {
+		"name": "ቃታር ሪያል",
+		"name_plural": "ቃታር ሪያሎች",
+		"subunit_name": "ድርሃም",
+		"subunit_name_plural": "ድርሃሞች"
+	},
+	"RON": {
+		"name": "ሮማኒያ ሌዩ",
+		"name_plural": "ሮማኒያ ሌዮች",
+		"subunit_name": "ባን",
+		"subunit_name_plural": "ባኒ"
+	},
+	"RSD": {
+		"name": "ሰርቢያ ዲናር",
+		"name_plural": "ሰርቢያ ዲናሮች",
+		"subunit_name": "ፓራ",
+		"subunit_name_plural": "ፓራ"
+	},
+	"RUB": {
+		"name": "ራሺያ ሩብል",
+		"name_plural": "ራሺያ ሩብሎች",
+		"subunit_name": "ኮፔክ",
+		"subunit_name_plural": "ኮፔኮች"
+	},
+	"RWF": {
+		"name": "ሩዋንዳ ፍራንክ",
+		"name_plural": "ሩዋንዳ ፍራንኮች",
+		"subunit_name": "ሴንቲም",
+		"subunit_name_plural": "ሴንቲሞች"
+	},
+	"SAR": {
+		"name": "ሳውዲ ሪያል",
+		"name_plural": "ሳውዲ ሪያሎች",
+		"subunit_name": "ሃላላ",
+		"subunit_name_plural": "ሃላላስ"
+	},
+	"SBD": {
+		"name": "ሰሎሞን ደሴቶች ዶላር",
+		"name_plural": "ሰሎሞን ደሴቶች ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"SCR": {
+		"name": "ሴይሼል ሩፒ",
+		"name_plural": "ሴይሼል ሩፒዎች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"SDG": {
+		"name": "ሱዳን ፓውንድ",
+		"name_plural": "ሱዳን ፓውንዶች",
+		"subunit_name": "ፒያስትረ",
+		"subunit_name_plural": "ፒያስትሬዎች"
+	},
+	"SEK": {
+		"name": "ስዊድን ክሮና",
+		"name_plural": "ስዊድን ክሮኖች",
+		"subunit_name": "ኦሬ",
+		"subunit_name_plural": "ኦሬ"
+	},
+	"SGD": {
+		"name": "ሲንጋፖር ዶላር",
+		"name_plural": "ሲንጋፖር ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"SHP": {
+		"name": "ሴንት ሄለና ፓውንድ",
+		"name_plural": "ሴንት ሄለና ፓውንዶች",
+		"subunit_name": "ፔኒ",
+		"subunit_name_plural": "ፔንስ"
+	},
+	"SLL": {
+		"name": "ሴራሊዮን ሌዮን",
+		"name_plural": "ሴራሊዮን ሌዮኖች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"SOS": {
+		"name": "ሱማሌ ሽሊንግ",
+		"name_plural": "ሱማሌ ሽሊንጎች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"SRD": {
+		"name": "ሱሪናም ዶላር",
+		"name_plural": "ሱሪናም ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"SSP": {
+		"name": "ደቡብ ሱዳን ፓውንድ",
+		"name_plural": "ደቡብ ሱዳን ፓውንዶች",
+		"subunit_name": "ፒያስተር",
+		"subunit_name_plural": "ፒያስተሮች"
+	},
+	"STN": {
+		"name": "ሳኦ ቶሜ እና ፕሪንሲፔ ዶብራ",
+		"name_plural": "ሳኦ ቶሜ እና ፕሪንሲፔ ዶብራዎች",
+		"subunit_name": "ሴንቲሞ",
+		"subunit_name_plural": "ሴንቲሞዎች"
+	},
+	"SYP": {
+		"name": "ሲሪያ ፓውንድ",
+		"name_plural": "ሲሪያ ፓውንዶች",
+		"subunit_name": "ፒያስትረ",
+		"subunit_name_plural": "ፒያስትሬዎች"
+	},
+	"SZL": {
+		"name": "ስዋዚላንድ ሊላንገኒ",
+		"name_plural": "ስዋዚላንድ ሊላንገኒዎች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"THB": {
+		"name": "ታይላንድ ባህት",
+		"name_plural": "ታይላንድ ባህቶች",
+		"subunit_name": "ሳታንግ",
+		"subunit_name_plural": "ሳታንግ"
+	},
+	"TJS": {
+		"name": "ታጃኪስታን ሶሞኒ",
+		"name_plural": "ታጃኪስታን ሶሞኒዎች",
+		"subunit_name": "ዲራም",
+		"subunit_name_plural": "ዲራሞች"
+	},
+	"TMT": {
+		"name": "ቱርክሜኒስታን ማናት",
+		"name_plural": "ቱርክሜኒስታን ማናቶች",
+		"subunit_name": "ቴንገ",
+		"subunit_name_plural": "ቴንገ"
+	},
+	"TND": {
+		"name": "ቱኒዚያ ዲናር",
+		"name_plural": "ቱኒዚያ ዲናሮች",
+		"subunit_name": "ሚሊም",
+		"subunit_name_plural": "ሚሊሞች"
+	},
+	"TOP": {
+		"name": "ቶንጋ ፓአንጋ",
+		"name_plural": "ቶንጋ ፓአንጋዎች",
+		"subunit_name": "ሴኒቲ",
+		"subunit_name_plural": "ሴኒቲ"
+	},
+	"TRY": {
+		"name": "ቱርክ ሊራ",
+		"name_plural": "ቱርክ ሊራዎች",
+		"subunit_name": "ኩሩሽ",
+		"subunit_name_plural": "ኩሩሽ"
+	},
+	"TTD": {
+		"name": "ትሪኒዳድ እና ቶባጎ ዶላር",
+		"name_plural": "ትሪኒዳድ እና ቶባጎ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"TWD": {
+		"name": "ኒው ታይዋን ዶላር",
+		"name_plural": "ኒው ታይዋን ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"TZS": {
+		"name": "ታንዛኒያ ሽሊንግ",
+		"name_plural": "ታንዛኒያ ሽሊንጎች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"UAH": {
+		"name": "ዩክረን ሄርቭኒያ",
+		"name_plural": "ዩክረን ሄርቭኒያዎች",
+		"subunit_name": "ኮፔክ",
+		"subunit_name_plural": "ኮፔኮች"
+	},
+	"UGX": {
+		"name": "ዩጋንዳ ሽሊንግ",
+		"name_plural": "ዩጋንዳ ሽሊንጎች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"USD": {
+		"name": "የአሜሪካ ዶላር",
+		"name_plural": "የአሜሪካ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"UYU": {
+		"name": "ኡራጓይ ፔሶ",
+		"name_plural": "ኡራጓይ ፔሶዎች",
+		"subunit_name": "ሴንቴሲሞ",
+		"subunit_name_plural": "ሴንቴሲሞዎች"
+	},
+	"UZS": {
+		"name": "ዩዝበኪስታን ሶም",
+		"name_plural": "ዩዝበኪስታን ሶሞች",
+		"subunit_name": "ቲይን",
+		"subunit_name_plural": "ቲይኖች"
+	},
+	"VES": {
+		"name": "ቬንዙዌላ ቦሊቫር",
+		"name_plural": "ቬንዙዌላ ቦሊቫሮች",
+		"subunit_name": "ሴንቲሞ",
+		"subunit_name_plural": "ሴንቲሞዎች"
+	},
+	"VND": {
+		"name": "ቪትናም ዶንግ",
+		"name_plural": "ቪትናም ዶንጎች",
+		"subunit_name": "ሐኦ",
+		"subunit_name_plural": "ሐኦ"
+	},
+	"VUV": {
+		"name": "ቫኑአቱ ቫቱ",
+		"name_plural": "ቫኑአቱ ቫቱዎች",
+		"subunit_name": "ሴንቲም",
+		"subunit_name_plural": "ሴንቲሞች"
+	},
+	"WST": {
+		"name": "ሳሞአ ታላ",
+		"name_plural": "ሳሞአ ታላዎች",
+		"subunit_name": "ሴኒቴ",
+		"subunit_name_plural": "ሴኒቴ"
+	},
+	"XAF": {
+		"name": "መካከለኛ አፍሪካ ሲኤፍኤ ፍራንክ",
+		"name_plural": "መካከለኛ አፍሪካ ሲኤፍኤ ፍራንኮች",
+		"subunit_name": "ሴንቲም",
+		"subunit_name_plural": "ሴንቲሞች"
+	},
+	"XCD": {
+		"name": "ምስራቅ ካሪቢያን ዶላር",
+		"name_plural": "ምስራቅ ካሪቢያን ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"XOF": {
+		"name": "ምዕራብ አፍሪካ ሲኤፍኤ ፍራንክ",
+		"name_plural": "ምዕራብ አፍሪካ ሲኤፍኤ ፍራንኮች",
+		"subunit_name": "ሴንቲም",
+		"subunit_name_plural": "ሴንቲሞች"
+	},
+	"XPF": {
+		"name": "ሲፒኤፍ ፍራንክ",
+		"name_plural": "ሲፒኤፍ ፍራንኮች",
+		"subunit_name": "ሴንቲም",
+		"subunit_name_plural": "ሴንቲሞች"
+	},
+	"YER": {
+		"name": "የመን ሪያል",
+		"name_plural": "የመን ሪያሎች",
+		"subunit_name": "ፊልስ",
+		"subunit_name_plural": "ፊልስ"
+	},
+	"ZAR": {
+		"name": "ደቡብ አፍሪካ ራንድ",
+		"name_plural": "ደቡብ አፍሪካ ራንዶች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	},
+	"ZMW": {
+		"name": "ዛምቢያ ኋቻ",
+		"name_plural": "ዛምቢያ ኋቻዎች",
+		"subunit_name": "ንግዌ",
+		"subunit_name_plural": "ንግዌ"
+	},
+	"ZWL": {
+		"name": "ዚምባብዌ ዶላር",
+		"name_plural": "ዚምባብዌ ዶላሮች",
+		"subunit_name": "ሴንት",
+		"subunit_name_plural": "ሴንቶች"
+	}
+}

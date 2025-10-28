@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "بىرلەشمە ئەرەب ئەمىراتلىرى دىرھەم",
+		"name_plural": "بىرلەشمە ئەرەب ئەمىراتلىرى دىرھەملىرى",
+		"subunit_name": "فىلس",
+		"subunit_name_plural": "فىلس"
+	},
+	"AFN": {
+		"name": "ئافغان ئافغانى",
+		"name_plural": "ئافغان ئافغانىلىرى",
+		"subunit_name": "پۇل",
+		"subunit_name_plural": "پۇللار"
+	},
+	"ALL": {
+		"name": "ئالبانىيە لىكى",
+		"name_plural": "ئالبانىيە لىكىلىرى",
+		"subunit_name": "قىنداركە",
+		"subunit_name_plural": "قىنداركە"
+	},
+	"AMD": {
+		"name": "ئەرمىنىيە درامى",
+		"name_plural": "ئەرمىنىيە دراملىرى",
+		"subunit_name": "لۇما",
+		"subunit_name_plural": "لۇمالار"
+	},
+	"ANG": {
+		"name": "نىدېرلاندىيە ئانتىللىيان گىلدىرى",
+		"name_plural": "نىدېرلاندىيە ئانتىللىيان گىلدىرلىرى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"AOA": {
+		"name": "ئانگولا كۋانزاسى",
+		"name_plural": "ئانگولا كۋانزالىرى",
+		"subunit_name": "سېنتىمۇ",
+		"subunit_name_plural": "سېنتىمۇلار"
+	},
+	"ARS": {
+		"name": "ئارگېنتىنا پېسوسى",
+		"name_plural": "ئارگېنتىنا پېسولىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"AUD": {
+		"name": "ئاۋسترالىيە دوللىرى",
+		"name_plural": "ئاۋسترالىيە دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"AWG": {
+		"name": "ئارۇبا فلورىنى",
+		"name_plural": "ئارۇبا فلورىنلىرى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"AZN": {
+		"name": "ئەزەربەيجان ماناتى",
+		"name_plural": "ئەزەربەيجان ماناتلىرى",
+		"subunit_name": "گەپىك",
+		"subunit_name_plural": "گەپىكلەر"
+	},
+	"BAM": {
+		"name": "بوسىنىيە-گېرتسېگوۋىنا ئالماشتۇرۇشچان ماركى",
+		"name_plural": "بوسىنىيە-گېرتسېگوۋىنا ئالماشتۇرۇشچان ماركىلىرى",
+		"subunit_name": "فېنىڭ",
+		"subunit_name_plural": "فېنىڭلار"
+	},
+	"BBD": {
+		"name": "باربادوس دوللىرى",
+		"name_plural": "باربادوس دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"BDT": {
+		"name": "بەنگالىستان تاكاسى",
+		"name_plural": "بەنگالىستان تاكالىرى",
+		"subunit_name": "پوشا",
+		"subunit_name_plural": "پوشالار"
+	},
+	"BGN": {
+		"name": "بۇلغارىيە لېۋى",
+		"name_plural": "بۇلغارىيە لېۋلىرى",
+		"subunit_name": "ستوتىنكا",
+		"subunit_name_plural": "ستوتىنكىلار"
+	},
+	"BHD": {
+		"name": "بەھرەين دىنارى",
+		"name_plural": "بەھرەين دىنارلىرى",
+		"subunit_name": "فىلس",
+		"subunit_name_plural": "فىلس"
+	},
+	"BIF": {
+		"name": "بۇرۇندى فرانكى",
+		"name_plural": "بۇرۇندى فرانكلىرى",
+		"subunit_name": "سېنتىم",
+		"subunit_name_plural": "سېنتىملار"
+	},
+	"BMD": {
+		"name": "بېرمۇدا دوللىرى",
+		"name_plural": "بېرمۇدا دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"BND": {
+		"name": "بىرۇنېي دوللىرى",
+		"name_plural": "بىرۇنېي دوللارى",
+		"subunit_name": "سېن",
+		"subunit_name_plural": "سېن"
+	},
+	"BOB": {
+		"name": "بولىۋىيە بولىۋىيانوسى",
+		"name_plural": "بولىۋىيە بولىۋىيانولىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"BRL": {
+		"name": "بىرازىلىيە رېئالى",
+		"name_plural": "بىرازىلىيە رېئاللىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"BSD": {
+		"name": "باھاما دوللىرى",
+		"name_plural": "باھاما دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"BTN": {
+		"name": "بۇتان نگۇلتىرۇمى",
+		"name_plural": "بۇتان نگۇلتىرۇملىرى",
+		"subunit_name": "چېترۇم",
+		"subunit_name_plural": "چېترۇملار"
+	},
+	"BWP": {
+		"name": "بىتسۋانا پۇلا",
+		"name_plural": "بىتسۋانا پۇلالىرى",
+		"subunit_name": "تھېبې",
+		"subunit_name_plural": "تھېبې"
+	},
+	"BYN": {
+		"name": "بېلارۇس رۇبلى",
+		"name_plural": "بېلارۇس رۇبلىلىرى",
+		"subunit_name": "كۆپېك",
+		"subunit_name_plural": "كۆپېكلەر"
+	},
+	"BZD": {
+		"name": "بېلىز دوللىرى",
+		"name_plural": "بېلىز دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"CAD": {
+		"name": "كانادا دوللىرى",
+		"name_plural": "كانادا دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"CDF": {
+		"name": "كونگو فرانكى",
+		"name_plural": "كونگو فرانكلىرى",
+		"subunit_name": "سېنتىم",
+		"subunit_name_plural": "سېنتىملار"
+	},
+	"CHF": {
+		"name": "شىۋېتسارىيە فرانكى",
+		"name_plural": "شىۋېتسارىيە فرانكلىرى",
+		"subunit_name": "راپپېن",
+		"subunit_name_plural": "راپپېن"
+	},
+	"CLP": {
+		"name": "چىلى پېسوسى",
+		"name_plural": "چىلى پېسولىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"CNY": {
+		"name": "خەلق جۇمھۇرىيىتى يۈئەنى",
+		"name_plural": "خەلق جۇمھۇرىيىتى يۈئەنلىرى",
+		"subunit_name": "فېن",
+		"subunit_name_plural": "فېن"
+	},
+	"COP": {
+		"name": "كولۇمبىيە پېسوسى",
+		"name_plural": "كولۇمبىيە پېسولىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"CRC": {
+		"name": "كوستارىكا كولونى",
+		"name_plural": "كوستارىكا كولونلىرى",
+		"subunit_name": "سېنتىمۇ",
+		"subunit_name_plural": "سېنتىمۇلار"
+	},
+	"CUC": {
+		"name": "كۇبا ئالماشتۇرۇشچان پېسوسى",
+		"name_plural": "كۇبا ئالماشتۇرۇشچان پېسولىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"CUP": {
+		"name": "كۇبا پېسوسى",
+		"name_plural": "كۇبا پېسولىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"CVE": {
+		"name": "كېيپ ۋېردې ئېسكۇدوسى",
+		"name_plural": "كېيپ ۋېردې ئېسكۇدولىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"CZK": {
+		"name": "چېخ كوروناسى",
+		"name_plural": "چېخ كورونىلىرى",
+		"subunit_name": "ھالېر",
+		"subunit_name_plural": "ھالېرلەر"
+	},
+	"DJF": {
+		"name": "جىبۇتى فرانكى",
+		"name_plural": "جىبۇتى فرانكلىرى",
+		"subunit_name": "سېنتىم",
+		"subunit_name_plural": "سېنتىملار"
+	},
+	"DKK": {
+		"name": "دانىيە كرونېسى",
+		"name_plural": "دانىيە كرونېلىرى",
+		"subunit_name": "ئۆرە",
+		"subunit_name_plural": "ئۆرە"
+	},
+	"DOP": {
+		"name": "دومىنىكان پېسوسى",
+		"name_plural": "دومىنىكان پېسولىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"DZD": {
+		"name": "ئالجىرىيە دىنارى",
+		"name_plural": "ئالجىرىيە دىنارلىرى",
+		"subunit_name": "سېنتىم",
+		"subunit_name_plural": "سېنتىملار"
+	},
+	"EGP": {
+		"name": "مىسىر پونتى",
+		"name_plural": "مىسىر پونتلىرى",
+		"subunit_name": "پىياستىر",
+		"subunit_name_plural": "پىياستىرلار"
+	},
+	"ERN": {
+		"name": "ئېرىترېيە ناكفاسى",
+		"name_plural": "ئېرىترېيە ناكفالىرى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"ETB": {
+		"name": "ئېفىيوپىيە بىررى",
+		"name_plural": "ئېفىيوپىيە بىررلىرى",
+		"subunit_name": "سانتىم",
+		"subunit_name_plural": "سانتىملار"
+	},
+	"EUR": {
+		"name": "يېۋرو",
+		"name_plural": "يېۋرولار",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"FJD": {
+		"name": "فىجى دوللىرى",
+		"name_plural": "فىجى دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"FKP": {
+		"name": "فالكلاند ئاراللىرى پونتى",
+		"name_plural": "فالكلاند ئاراللىرى پونتلىرى",
+		"subunit_name": "پېنى",
+		"subunit_name_plural": "پېنس"
+	},
+	"GBP": {
+		"name": "ئەنگلىيە پونتى",
+		"name_plural": "ئەنگلىيە پونتلىرى",
+		"subunit_name": "پېنى",
+		"subunit_name_plural": "پېنس"
+	},
+	"GEL": {
+		"name": "گىرۇزىستان لارى",
+		"name_plural": "گىرۇزىستان لارلىرى",
+		"subunit_name": "تېترى",
+		"subunit_name_plural": "تېترى"
+	},
+	"GHS": {
+		"name": "گانا سېدىسى",
+		"name_plural": "گانا سېدىلىرى",
+		"subunit_name": "پېسېۋا",
+		"subunit_name_plural": "پېسېۋالار"
+	},
+	"GIP": {
+		"name": "گىبرالتار پونتى",
+		"name_plural": "گىبرالتار پونتلىرى",
+		"subunit_name": "پېنى",
+		"subunit_name_plural": "پېنس"
+	},
+	"GMD": {
+		"name": "گامبىيە دالاسى",
+		"name_plural": "گامبىيە دالالىرى",
+		"subunit_name": "بۇتۇت",
+		"subunit_name_plural": "بۇتۇتلار"
+	},
+	"GNF": {
+		"name": "گىۋىنىيە فرانكى",
+		"name_plural": "گىۋىنىيە فرانكلىرى",
+		"subunit_name": "سېنتىم",
+		"subunit_name_plural": "سېنتىملار"
+	},
+	"GTQ": {
+		"name": "گىۋاتىمالا كىۋېتسالى",
+		"name_plural": "گىۋاتىمالا كىۋېتساللىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"GYD": {
+		"name": "گىيانا دوللىرى",
+		"name_plural": "گىيانا دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"HKD": {
+		"name": "گوڭكوڭ دوللىرى",
+		"name_plural": "گوڭكوڭ دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"HNL": {
+		"name": "گوندۇراس لېمپىراسى",
+		"name_plural": "گوندۇراس لېمپىرالىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"HRK": {
+		"name": "خورۋاتىيە كۇناسى",
+		"name_plural": "خورۋاتىيە كۇنالىرى",
+		"subunit_name": "لىپا",
+		"subunit_name_plural": "لىپا"
+	},
+	"HTG": {
+		"name": "گايتى گۇردېسى",
+		"name_plural": "گايتى گۇردېلىرى",
+		"subunit_name": "سېنتىم",
+		"subunit_name_plural": "سېنتىملار"
+	},
+	"HUF": {
+		"name": "ۋېنگىرىيە فورىنتى",
+		"name_plural": "ۋېنگىرىيە فورىنتلىرى",
+		"subunit_name": "فىللىر",
+		"subunit_name_plural": "فىللىر"
+	},
+	"IDR": {
+		"name": "ھىندونېزىيە رۇپىيىسى",
+		"name_plural": "ھىندونېزىيە رۇپىيىلىرى",
+		"subunit_name": "سېن",
+		"subunit_name_plural": "سېن"
+	},
+	"ILS": {
+		"name": "يەھۇدىيە يېڭى شېكېلى",
+		"name_plural": "يەھۇدىيە يېڭى شېكېللەرى",
+		"subunit_name": "ئاگورا",
+		"subunit_name_plural": "ئاگوروت"
+	},
+	"INR": {
+		"name": "ھىندىستان رۇپىيىسى",
+		"name_plural": "ھىندىستان رۇپىيىلىرى",
+		"subunit_name": "پايسا",
+		"subunit_name_plural": "پايسە"
+	},
+	"IQD": {
+		"name": "ئىراق دىنارى",
+		"name_plural": "ئىراق دىنارلىرى",
+		"subunit_name": "فىلس",
+		"subunit_name_plural": "فىلس"
+	},
+	"IRR": {
+		"name": "ئىران رىيالى",
+		"name_plural": "ئىران رىياللىرى",
+		"subunit_name": "دىنار",
+		"subunit_name_plural": "دىنارلار"
+	},
+	"ISK": {
+		"name": "ئىسلاندىيە كروناسى",
+		"name_plural": "ئىسلاندىيە كرونالىرى",
+		"subunit_name": "ئېيرىر",
+		"subunit_name_plural": "ئاۋرار"
+	},
+	"JMD": {
+		"name": "جامايكا دوللىرى",
+		"name_plural": "جامايكا دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"JOD": {
+		"name": "ئىيوردانىيە دىنارى",
+		"name_plural": "ئىيوردانىيە دىنارلىرى",
+		"subunit_name": "فىلس",
+		"subunit_name_plural": "فىلس"
+	},
+	"JPY": {
+		"name": "ياپونىيە يېنى",
+		"name_plural": "ياپونىيە يېنلىرى",
+		"subunit_name": "سېن",
+		"subunit_name_plural": "سېن"
+	},
+	"KES": {
+		"name": "كېنىيە شىللىڭى",
+		"name_plural": "كېنىيە شىللىڭلىرى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"KGS": {
+		"name": "قىرغىزىستان سومۇ",
+		"name_plural": "قىرغىزىستان سوملىرى",
+		"subunit_name": "تىيىن",
+		"subunit_name_plural": "تىيىن"
+	},
+	"KHR": {
+		"name": "كامبودژا رىيېلى",
+		"name_plural": "كامبودژا رىيېللەرى",
+		"subunit_name": "سېن",
+		"subunit_name_plural": "سېن"
+	},
+	"KMF": {
+		"name": "كومور فرانكى",
+		"name_plural": "كومور فرانكلىرى",
+		"subunit_name": "سېنتىم",
+		"subunit_name_plural": "سېنتىملار"
+	},
+	"KPW": {
+		"name": "شىمالىي كورېيە وونى",
+		"name_plural": "شىمالىي كورېيە وونلىرى",
+		"subunit_name": "جېئون",
+		"subunit_name_plural": "جېئون"
+	},
+	"KRW": {
+		"name": "جەنۇبىي كورېيە وونى",
+		"name_plural": "جەنۇبىي كورېيە وونلىرى",
+		"subunit_name": "جېئون",
+		"subunit_name_plural": "جېئون"
+	},
+	"KWD": {
+		"name": "كۇۋەيت دىنارى",
+		"name_plural": "كۇۋەيت دىنارلىرى",
+		"subunit_name": "فىلس",
+		"subunit_name_plural": "فىلس"
+	},
+	"KYD": {
+		"name": "كېيمان ئاراللىرى دوللىرى",
+		"name_plural": "كېيمان ئاراللىرى دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"KZT": {
+		"name": "قازاقىستان تەڭگەسى",
+		"name_plural": "قازاقىستان تەڭگەلىرى",
+		"subunit_name": "تىيىن",
+		"subunit_name_plural": "تىيىن"
+	},
+	"LAK": {
+		"name": "لاوس كىپى",
+		"name_plural": "لاوس كىپلىرى",
+		"subunit_name": "ئاتت",
+		"subunit_name_plural": "ئاتت"
+	},
+	"LBP": {
+		"name": "لىۋان پونتى",
+		"name_plural": "لىۋان پونتلىرى",
+		"subunit_name": "پىياستىر",
+		"subunit_name_plural": "پىياستىرلار"
+	},
+	"LKR": {
+		"name": "شىرىلانكا رۇپىيىسى",
+		"name_plural": "شىرىلانكا رۇپىيىلىرى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"LRD": {
+		"name": "لىبېرىيا دوللىرى",
+		"name_plural": "لىبېرىيا دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"LSL": {
+		"name": "لېسوتو لوتى",
+		"name_plural": "لېسوتو لوتىلىرى",
+		"subunit_name": "سېنتې",
+		"subunit_name_plural": "لىسېنتې"
+	},
+	"LYD": {
+		"name": "لىۋىيە دىنارى",
+		"name_plural": "لىۋىيە دىنارلىرى",
+		"subunit_name": "دىرھەم",
+		"subunit_name_plural": "دىرھەملەر"
+	},
+	"MAD": {
+		"name": "ماراكەش دىرھەمى",
+		"name_plural": "ماراكەش دىرھەملىرى",
+		"subunit_name": "سېنتىم",
+		"subunit_name_plural": "سېنتىملار"
+	},
+	"MDL": {
+		"name": "مولدوفا لېۋى",
+		"name_plural": "مولدوفا لېۋلىرى",
+		"subunit_name": "بان",
+		"subunit_name_plural": "بانى"
+	},
+	"MGA": {
+		"name": "ماداغاسقار ئارىيارى",
+		"name_plural": "ماداغاسقار ئارىيارىلىرى",
+		"subunit_name": "ئىرايمبىلانجا",
+		"subunit_name_plural": "ئىرايمبىلانجا"
+	},
+	"MKD": {
+		"name": "مىكىدونىيە دېنارى",
+		"name_plural": "مىكىدونىيە دېنارلىرى",
+		"subunit_name": "دېنى",
+		"subunit_name_plural": "دېنى"
+	},
+	"MMK": {
+		"name": "مىيانمار كياتى",
+		"name_plural": "مىيانمار كياتلىرى",
+		"subunit_name": "پيا",
+		"subunit_name_plural": "پيا"
+	},
+	"MNT": {
+		"name": "موڭغۇل تۇگرىكى",
+		"name_plural": "موڭغۇل تۇگرىكلىرى",
+		"subunit_name": "مۆڭگۆ",
+		"subunit_name_plural": "مۆڭگۆ"
+	},
+	"MOP": {
+		"name": "ماكاۋ پاتاكاسى",
+		"name_plural": "ماكاۋ پاتاكالىرى",
+		"subunit_name": "ئاۋو",
+		"subunit_name_plural": "ئاۋولار"
+	},
+	"MRU": {
+		"name": "ماۋرىتانىيە ئۇگىياسى",
+		"name_plural": "ماۋرىتانىيە ئۇگىيالىرى",
+		"subunit_name": "خۇمس",
+		"subunit_name_plural": "خۇمس"
+	},
+	"MUR": {
+		"name": "ماۋرىتىيۇس رۇپىيىسى",
+		"name_plural": "ماۋرىتىيۇس رۇپىيىلىرى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"MVR": {
+		"name": "مالدىۋ رۇفىياسى",
+		"name_plural": "مالدىۋ رۇفىيالىرى",
+		"subunit_name": "لاارى",
+		"subunit_name_plural": "لاارى"
+	},
+	"MWK": {
+		"name": "مالاۋى كۋاچاسى",
+		"name_plural": "مالاۋى كۋاچالىرى",
+		"subunit_name": "تامبالا",
+		"subunit_name_plural": "تامبالا"
+	},
+	"MXN": {
+		"name": "مېكسىكا پېسوسى",
+		"name_plural": "مېكسىكا پېسولىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"MYR": {
+		"name": "مالايسىيە رىڭگىتى",
+		"name_plural": "مالايسىيە رىڭگىتلەرى",
+		"subunit_name": "سېن",
+		"subunit_name_plural": "سېن"
+	},
+	"MZN": {
+		"name": "موزامبىك مېتىكالى",
+		"name_plural": "موزامبىك مېتىكاللىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"NAD": {
+		"name": "نامىبىيە دوللىرى",
+		"name_plural": "نامىبىيە دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"NGN": {
+		"name": "نىگېرىيە نايراسى",
+		"name_plural": "نىگېرىيە نايرالىرى",
+		"subunit_name": "كوبو",
+		"subunit_name_plural": "كوبو"
+	},
+	"NIO": {
+		"name": "نىكاراگۇئا كوردوباسى",
+		"name_plural": "نىكاراگۇئا كوردوبالىرى",
+		"subunit_name": "سېنتاۋو",
+		"subunit_name_plural": "سېنتاۋولار"
+	},
+	"NOK": {
+		"name": "نورۋېگىيە كرونېسى",
+		"name_plural": "نورۋېگىيە كرونېلىرى",
+		"subunit_name": "ئۆرە",
+		"subunit_name_plural": "ئۆرە"
+	},
+	"NPR": {
+		"name": "نېپال رۇپىيىسى",
+		"name_plural": "نېپال رۇپىيىلىرى",
+		"subunit_name": "پايسا",
+		"subunit_name_plural": "پايسا"
+	},
+	"NZD": {
+		"name": "يېڭى زېلاندىيە دوللىرى",
+		"name_plural": "يېڭى زېلاندىيە دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"OMR": {
+		"name": "ئومان رىيالى",
+		"name_plural": "ئومان رىياللىرى",
+		"subunit_name": "بايسا",
+		"subunit_name_plural": "بايسا"
+	},
+	"PAB": {
+		"name": "پاناما بالبۇئاسى",
+		"name_plural": "پاناما بالبۇئالىرى",
+		"subunit_name": "سېنتېسىمو",
+		"subunit_name_plural": "سېنتېسىمولار"
+	},
+	"PEN": {
+		"name": "پېرۇ سولى",
+		"name_plural": "پېرۇ سوللىرى",
+		"subunit_name": "سېنتىمۇ",
+		"subunit_name_plural": "سېنتىمۇلار"
+	},
+	"PGK": {
+		"name": "پاپۇئا يېڭى گىۋىنىيە كىناسى",
+		"name_plural": "پاپۇئا يېڭى گىۋىنىيە كىنالىرى",
+		"subunit_name": "تۇئې",
+		"subunit_name_plural": "تۇئې"
+	},
+	"PHP": {
+		"name": "فىلىپپىن پېسوسى",
+		"name_plural": "فىلىپپىن پېسولىرى",
+		"subunit_name": "سېنتىمو",
+		"subunit_name_plural": "سېنتىمولار"
+	},
+	"PKR": {
+		"name": "پاكىستان رۇپىيىسى",
+		"name_plural": "پاكىستان رۇپىيىلىرى",
+		"subunit_name": "پايسا",
+		"subunit_name_plural": "پايسا"
+	},
+	"PLN": {
+		"name": "پولشا زلوتى",
+		"name_plural": "پولشا زلوتلارى",
+		"subunit_name": "گروش",
+		"subunit_name_plural": "گروشلار"
+	},
+	"PYG": {
+		"name": "پاراگۋاي گۇئارانى",
+		"name_plural": "پاراگۋاي گۇئارانىلىرى",
+		"subunit_name": "سېنتىمۇ",
+		"subunit_name_plural": "سېنتىمۇلار"
+	},
+	"QAR": {
+		"name": "قاتار رىيالى",
+		"name_plural": "قاتار رىياللىرى",
+		"subunit_name": "دىرھەم",
+		"subunit_name_plural": "دىرھەملەر"
+	},
+	"RON": {
+		"name": "رومانىيە لېۋى",
+		"name_plural": "رومانىيە لېۋلىرى",
+		"subunit_name": "بان",
+		"subunit_name_plural": "بانى"
+	},
+	"RSD": {
+		"name": "سېربىيە دىنارى",
+		"name_plural": "سېربىيە دىنارلىرى",
+		"subunit_name": "پارا",
+		"subunit_name_plural": "پارا"
+	},
+	"RUB": {
+		"name": "رۇس رۇبلى",
+		"name_plural": "رۇس رۇبلىلىرى",
+		"subunit_name": "كۆپېك",
+		"subunit_name_plural": "كۆپېكلەر"
+	},
+	"RWF": {
+		"name": "رۇۋاندا فرانكى",
+		"name_plural": "رۇۋاندا فرانكلىرى",
+		"subunit_name": "سېنتىم",
+		"subunit_name_plural": "سېنتىملار"
+	},
+	"SAR": {
+		"name": "سەئۇدىيە رىيالى",
+		"name_plural": "سەئۇدىيە رىياللىرى",
+		"subunit_name": "ھالالا",
+		"subunit_name_plural": "ھالالالار"
+	},
+	"SBD": {
+		"name": "سولومون ئاراللىرى دوللىرى",
+		"name_plural": "سولومون ئاراللىرى دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"SCR": {
+		"name": "سېيشېل رۇپىيىسى",
+		"name_plural": "سېيشېل رۇپىيىلىرى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"SDG": {
+		"name": "سۇدان پونتى",
+		"name_plural": "سۇدان پونتلىرى",
+		"subunit_name": "پىياستىر",
+		"subunit_name_plural": "پىياستىرلار"
+	},
+	"SEK": {
+		"name": "شىۋېتسىيە كروناسى",
+		"name_plural": "شىۋېتسىيە كرونالىرى",
+		"subunit_name": "ئۆرە",
+		"subunit_name_plural": "ئۆرە"
+	},
+	"SGD": {
+		"name": "سىنگاپور دوللىرى",
+		"name_plural": "سىنگاپور دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"SHP": {
+		"name": "سېنت ھېلېنا پونتى",
+		"name_plural": "سېنت ھېلېنا پونتلىرى",
+		"subunit_name": "پېنى",
+		"subunit_name_plural": "پېنس"
+	},
+	"SLL": {
+		"name": "سىيېررا لېئون لېئونى",
+		"name_plural": "سىيېررا لېئون لېئونلىرى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"SOS": {
+		"name": "سومالى شىللىڭى",
+		"name_plural": "سومالى شىللىڭلىرى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"SRD": {
+		"name": "سۇرىنام دوللىرى",
+		"name_plural": "سۇرىنام دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"SSP": {
+		"name": "جەنۇبىي سۇدان پونتى",
+		"name_plural": "جەنۇبىي سۇدان پونتلىرى",
+		"subunit_name": "پىياستىر",
+		"subunit_name_plural": "پىياستىرلار"
+	},
+	"STN": {
+		"name": "ساوتومې ۋە پىرىنسىپې دوبىراسى",
+		"name_plural": "ساوتومې ۋە پىرىنسىپې دوبىرالىرى",
+		"subunit_name": "سېنتىمۇ",
+		"subunit_name_plural": "سېنتىمۇلار"
+	},
+	"SYP": {
+		"name": "سىرىيە پونتى",
+		"name_plural": "سىرىيە پونتلىرى",
+		"subunit_name": "پىياستىر",
+		"subunit_name_plural": "پىياستىرلار"
+	},
+	"SZL": {
+		"name": "سىۋازىلاند لىلانگېنى",
+		"name_plural": "سىۋازىلاند ئېمالانگېنى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"THB": {
+		"name": "تايلاند باھتى",
+		"name_plural": "تايلاند باھتلارى",
+		"subunit_name": "ساتاڭ",
+		"subunit_name_plural": "ساتاڭ"
+	},
+	"TJS": {
+		"name": "تاجىكىستان سومونى",
+		"name_plural": "تاجىكىستان سومونلىرى",
+		"subunit_name": "دىرام",
+		"subunit_name_plural": "دىراملار"
+	},
+	"TMT": {
+		"name": "تۈركمەنىستان ماناتى",
+		"name_plural": "تۈركمەنىستان ماناتلىرى",
+		"subunit_name": "تەڭگە",
+		"subunit_name_plural": "تەڭگە"
+	},
+	"TND": {
+		"name": "تۇنىس دىنارى",
+		"name_plural": "تۇنىس دىنارلىرى",
+		"subunit_name": "مىللىم",
+		"subunit_name_plural": "مىللىملەر"
+	},
+	"TOP": {
+		"name": "تونگا پاڠگاسى",
+		"name_plural": "تونگا پاڠگالىرى",
+		"subunit_name": "سېنىتى",
+		"subunit_name_plural": "سېنىتى"
+	},
+	"TRY": {
+		"name": "تۈركىيە لىراسى",
+		"name_plural": "تۈركىيە لىرالىرى",
+		"subunit_name": "كۇرۇش",
+		"subunit_name_plural": "كۇرۇش"
+	},
+	"TTD": {
+		"name": "تىرىنىداد ۋە توباگو دوللىرى",
+		"name_plural": "تىرىنىداد ۋە توباگو دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"TWD": {
+		"name": "يېڭى تايوان دوللىرى",
+		"name_plural": "يېڭى تايوان دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"TZS": {
+		"name": "تانزانىيە شىللىڭى",
+		"name_plural": "تانزانىيە شىللىڭلىرى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"UAH": {
+		"name": "ئۇكرائىنا گىرۋىنىياسى",
+		"name_plural": "ئۇكرائىنا گىرۋىنىيالىرى",
+		"subunit_name": "كۆپېك",
+		"subunit_name_plural": "كۆپېكلەر"
+	},
+	"UGX": {
+		"name": "ئۇگاندا شىللىڭى",
+		"name_plural": "ئۇگاندا شىللىڭلىرى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"USD": {
+		"name": "ئامېرىكا دوللىرى",
+		"name_plural": "ئامېرىكا دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"UYU": {
+		"name": "ئۇرۇگۋاي پېسوسى",
+		"name_plural": "ئۇرۇگۋاي پېسولىرى",
+		"subunit_name": "سېنتېسىمو",
+		"subunit_name_plural": "سېنتېسىمولار"
+	},
+	"UZS": {
+		"name": "ئۆزبېكىستان سومى",
+		"name_plural": "ئۆزبېكىستان سوملىرى",
+		"subunit_name": "تىيىن",
+		"subunit_name_plural": "تىيىن"
+	},
+	"VES": {
+		"name": "ۋېنېسۇئېلا بولىۋارى",
+		"name_plural": "ۋېنېسۇئېلا بولىۋارلىرى",
+		"subunit_name": "سېنتىمۇ",
+		"subunit_name_plural": "سېنتىمۇلار"
+	},
+	"VND": {
+		"name": "ۋىيېتنام دونگى",
+		"name_plural": "ۋىيېتنام دونگلىرى",
+		"subunit_name": "ھاو",
+		"subunit_name_plural": "ھاو"
+	},
+	"VUV": {
+		"name": "ۋانۇئاتۇ ۋاتۇ",
+		"name_plural": "ۋانۇئاتۇ ۋاتۇلارى",
+		"subunit_name": "سېنتىم",
+		"subunit_name_plural": "سېنتىملار"
+	},
+	"WST": {
+		"name": "ساموئا تالاسى",
+		"name_plural": "ساموئا تالالىرى",
+		"subunit_name": "سېنىتى",
+		"subunit_name_plural": "سېنىتى"
+	},
+	"XAF": {
+		"name": "مەركىزىي ئافرىقا CFA فرانكى",
+		"name_plural": "مەركىزىي ئافرىقا CFA فرانكلىرى",
+		"subunit_name": "سېنتىم",
+		"subunit_name_plural": "سېنتىملار"
+	},
+	"XCD": {
+		"name": "شەرقىي كارائىب دوللىرى",
+		"name_plural": "شەرقىي كارائىب دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"XOF": {
+		"name": "غەربىي ئافرىقا CFA فرانكى",
+		"name_plural": "غەربىي ئافرىقا CFA فرانكلىرى",
+		"subunit_name": "سېنتىم",
+		"subunit_name_plural": "سېنتىملار"
+	},
+	"XPF": {
+		"name": "CFP فرانكى",
+		"name_plural": "CFP فرانكلىرى",
+		"subunit_name": "سېنتىم",
+		"subunit_name_plural": "سېنتىملار"
+	},
+	"YER": {
+		"name": "يەمەن رىيالى",
+		"name_plural": "يەمەن رىياللىرى",
+		"subunit_name": "فىلس",
+		"subunit_name_plural": "فىلس"
+	},
+	"ZAR": {
+		"name": "جەنۇبىي ئافرىقا راندى",
+		"name_plural": "جەنۇبىي ئافرىقا راندىلىرى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	},
+	"ZMW": {
+		"name": "زامبىيە كۋاچاسى",
+		"name_plural": "زامبىيە كۋاچالىرى",
+		"subunit_name": "ڭۋې",
+		"subunit_name_plural": "ڭۋې"
+	},
+	"ZWL": {
+		"name": "زىمبابۋې دوللىرى",
+		"name_plural": "زىمبابۋې دوللارى",
+		"subunit_name": "سېنت",
+		"subunit_name_plural": "سېنتلار"
+	}
+}

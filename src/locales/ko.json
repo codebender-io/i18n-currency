@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "아랍에미리트 디르함",
+		"name_plural": "아랍에미리트 디르함",
+		"subunit_name": "필스",
+		"subunit_name_plural": "필스"
+	},
+	"AFN": {
+		"name": "아프가니스탄 아프가니",
+		"name_plural": "아프가니스탄 아프가니",
+		"subunit_name": "풀",
+		"subunit_name_plural": "풀"
+	},
+	"ALL": {
+		"name": "알바니아 렉",
+		"name_plural": "알바니아 렉",
+		"subunit_name": "친다르케",
+		"subunit_name_plural": "친다르케"
+	},
+	"AMD": {
+		"name": "아르메니아 드람",
+		"name_plural": "아르메니아 드람",
+		"subunit_name": "루마",
+		"subunit_name_plural": "루마"
+	},
+	"ANG": {
+		"name": "네덜란드령 안틸레스 길더",
+		"name_plural": "네덜란드령 안틸레스 길더",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"AOA": {
+		"name": "앙골라 콴자",
+		"name_plural": "앙골라 콴자",
+		"subunit_name": "센티모",
+		"subunit_name_plural": "센티모"
+	},
+	"ARS": {
+		"name": "아르헨티나 페소",
+		"name_plural": "아르헨티나 페소",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"AUD": {
+		"name": "호주 달러",
+		"name_plural": "호주 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"AWG": {
+		"name": "아루바 플로린",
+		"name_plural": "아루바 플로린",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"AZN": {
+		"name": "아제르바이잔 마나트",
+		"name_plural": "아제르바이잔 마나트",
+		"subunit_name": "게픽",
+		"subunit_name_plural": "게픽"
+	},
+	"BAM": {
+		"name": "보스니아 헤르체고비나 태환 마르크",
+		"name_plural": "보스니아 헤르체고비나 태환 마르크",
+		"subunit_name": "페닝",
+		"subunit_name_plural": "페닝"
+	},
+	"BBD": {
+		"name": "바베이도스 달러",
+		"name_plural": "바베이도스 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"BDT": {
+		"name": "방글라데시 타카",
+		"name_plural": "방글라데시 타카",
+		"subunit_name": "포이샤",
+		"subunit_name_plural": "포이샤"
+	},
+	"BGN": {
+		"name": "불가리아 레프",
+		"name_plural": "불가리아 레프",
+		"subunit_name": "스토틴카",
+		"subunit_name_plural": "스토틴키"
+	},
+	"BHD": {
+		"name": "바레인 디나르",
+		"name_plural": "바레인 디나르",
+		"subunit_name": "필스",
+		"subunit_name_plural": "필스"
+	},
+	"BIF": {
+		"name": "부룬디 프랑",
+		"name_plural": "부룬디 프랑",
+		"subunit_name": "상팀",
+		"subunit_name_plural": "상팀"
+	},
+	"BMD": {
+		"name": "버뮤다 달러",
+		"name_plural": "버뮤다 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"BND": {
+		"name": "브루나이 달러",
+		"name_plural": "브루나이 달러",
+		"subunit_name": "센",
+		"subunit_name_plural": "센"
+	},
+	"BOB": {
+		"name": "볼리비아 볼리비아노",
+		"name_plural": "볼리비아 볼리비아노",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"BRL": {
+		"name": "브라질 헤알",
+		"name_plural": "브라질 헤알",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"BSD": {
+		"name": "바하마 달러",
+		"name_plural": "바하마 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"BTN": {
+		"name": "부탄 눌트룸",
+		"name_plural": "부탄 눌트룸",
+		"subunit_name": "체트룸",
+		"subunit_name_plural": "체트룸"
+	},
+	"BWP": {
+		"name": "보츠와나 풀라",
+		"name_plural": "보츠와나 풀라",
+		"subunit_name": "테베",
+		"subunit_name_plural": "테베"
+	},
+	"BYN": {
+		"name": "벨라루스 루블",
+		"name_plural": "벨라루스 루블",
+		"subunit_name": "코펙",
+		"subunit_name_plural": "코펙"
+	},
+	"BZD": {
+		"name": "벨리즈 달러",
+		"name_plural": "벨리즈 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"CAD": {
+		"name": "캐나다 달러",
+		"name_plural": "캐나다 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"CDF": {
+		"name": "콩고 프랑",
+		"name_plural": "콩고 프랑",
+		"subunit_name": "상팀",
+		"subunit_name_plural": "상팀"
+	},
+	"CHF": {
+		"name": "스위스 프랑",
+		"name_plural": "스위스 프랑",
+		"subunit_name": "라펜",
+		"subunit_name_plural": "라펜"
+	},
+	"CLP": {
+		"name": "칠레 페소",
+		"name_plural": "칠레 페소",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"CNY": {
+		"name": "중국 위안",
+		"name_plural": "중국 위안",
+		"subunit_name": "펀",
+		"subunit_name_plural": "펀"
+	},
+	"COP": {
+		"name": "콜롬비아 페소",
+		"name_plural": "콜롬비아 페소",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"CRC": {
+		"name": "코스타리카 콜론",
+		"name_plural": "코스타리카 콜론",
+		"subunit_name": "센티모",
+		"subunit_name_plural": "센티모"
+	},
+	"CUC": {
+		"name": "쿠바 태환 페소",
+		"name_plural": "쿠바 태환 페소",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"CUP": {
+		"name": "쿠바 페소",
+		"name_plural": "쿠바 페소",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"CVE": {
+		"name": "카보베르데 에스쿠도",
+		"name_plural": "카보베르데 에스쿠도",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"CZK": {
+		"name": "체코 코루나",
+		"name_plural": "체코 코루나",
+		"subunit_name": "할레르",
+		"subunit_name_plural": "할레르"
+	},
+	"DJF": {
+		"name": "지부티 프랑",
+		"name_plural": "지부티 프랑",
+		"subunit_name": "상팀",
+		"subunit_name_plural": "상팀"
+	},
+	"DKK": {
+		"name": "덴마크 크로네",
+		"name_plural": "덴마크 크로네",
+		"subunit_name": "외레",
+		"subunit_name_plural": "외레"
+	},
+	"DOP": {
+		"name": "도미니카 공화국 페소",
+		"name_plural": "도미니카 공화국 페소",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"DZD": {
+		"name": "알제리 디나르",
+		"name_plural": "알제리 디나르",
+		"subunit_name": "상팀",
+		"subunit_name_plural": "상팀"
+	},
+	"EGP": {
+		"name": "이집트 파운드",
+		"name_plural": "이집트 파운드",
+		"subunit_name": "피아스트르",
+		"subunit_name_plural": "피아스트르"
+	},
+	"ERN": {
+		"name": "에리트레아 낙파",
+		"name_plural": "에리트레아 낙파",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"ETB": {
+		"name": "에티오피아 비르",
+		"name_plural": "에티오피아 비르",
+		"subunit_name": "산팀",
+		"subunit_name_plural": "산팀"
+	},
+	"EUR": {
+		"name": "유로",
+		"name_plural": "유로",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"FJD": {
+		"name": "피지 달러",
+		"name_plural": "피지 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"FKP": {
+		"name": "포클랜드 제도 파운드",
+		"name_plural": "포클랜드 제도 파운드",
+		"subunit_name": "페니",
+		"subunit_name_plural": "펜스"
+	},
+	"GBP": {
+		"name": "영국 파운드",
+		"name_plural": "영국 파운드",
+		"subunit_name": "페니",
+		"subunit_name_plural": "펜스"
+	},
+	"GEL": {
+		"name": "조지아 라리",
+		"name_plural": "조지아 라리",
+		"subunit_name": "테트리",
+		"subunit_name_plural": "테트리"
+	},
+	"GHS": {
+		"name": "가나 세디",
+		"name_plural": "가나 세디",
+		"subunit_name": "페세와",
+		"subunit_name_plural": "페세와"
+	},
+	"GIP": {
+		"name": "지브롤터 파운드",
+		"name_plural": "지브롤터 파운드",
+		"subunit_name": "페니",
+		"subunit_name_plural": "펜스"
+	},
+	"GMD": {
+		"name": "감비아 달라시",
+		"name_plural": "감비아 달라시",
+		"subunit_name": "부투트",
+		"subunit_name_plural": "부투트"
+	},
+	"GNF": {
+		"name": "기니 프랑",
+		"name_plural": "기니 프랑",
+		"subunit_name": "상팀",
+		"subunit_name_plural": "상팀"
+	},
+	"GTQ": {
+		"name": "과테말라 케찰",
+		"name_plural": "과테말라 케찰",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"GYD": {
+		"name": "가이아나 달러",
+		"name_plural": "가이아나 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"HKD": {
+		"name": "홍콩 달러",
+		"name_plural": "홍콩 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"HNL": {
+		"name": "온두라스 렘피라",
+		"name_plural": "온두라스 렘피라",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"HRK": {
+		"name": "크로아티아 쿠나",
+		"name_plural": "크로아티아 쿠나",
+		"subunit_name": "리파",
+		"subunit_name_plural": "리파"
+	},
+	"HTG": {
+		"name": "아이티 구르드",
+		"name_plural": "아이티 구르드",
+		"subunit_name": "상팀",
+		"subunit_name_plural": "상팀"
+	},
+	"HUF": {
+		"name": "헝가리 포린트",
+		"name_plural": "헝가리 포린트",
+		"subunit_name": "필레르",
+		"subunit_name_plural": "필레르"
+	},
+	"IDR": {
+		"name": "인도네시아 루피아",
+		"name_plural": "인도네시아 루피아",
+		"subunit_name": "센",
+		"subunit_name_plural": "센"
+	},
+	"ILS": {
+		"name": "이스라엘 신 셰켈",
+		"name_plural": "이스라엘 신 셰켈",
+		"subunit_name": "아고라",
+		"subunit_name_plural": "아고로트"
+	},
+	"INR": {
+		"name": "인도 루피",
+		"name_plural": "인도 루피",
+		"subunit_name": "파이사",
+		"subunit_name_plural": "파이사"
+	},
+	"IQD": {
+		"name": "이라크 디나르",
+		"name_plural": "이라크 디나르",
+		"subunit_name": "필스",
+		"subunit_name_plural": "필스"
+	},
+	"IRR": {
+		"name": "이란 리알",
+		"name_plural": "이란 리알",
+		"subunit_name": "디나르",
+		"subunit_name_plural": "디나르"
+	},
+	"ISK": {
+		"name": "아이슬란드 크로나",
+		"name_plural": "아이슬란드 크로나",
+		"subunit_name": "에이리르",
+		"subunit_name_plural": "아우라르"
+	},
+	"JMD": {
+		"name": "자메이카 달러",
+		"name_plural": "자메이카 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"JOD": {
+		"name": "요르단 디나르",
+		"name_plural": "요르단 디나르",
+		"subunit_name": "필스",
+		"subunit_name_plural": "필스"
+	},
+	"JPY": {
+		"name": "일본 엔",
+		"name_plural": "일본 엔",
+		"subunit_name": "센",
+		"subunit_name_plural": "센"
+	},
+	"KES": {
+		"name": "케냐 실링",
+		"name_plural": "케냐 실링",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"KGS": {
+		"name": "키르기스스탄 솜",
+		"name_plural": "키르기스스탄 솜",
+		"subunit_name": "티인",
+		"subunit_name_plural": "티인"
+	},
+	"KHR": {
+		"name": "캄보디아 리엘",
+		"name_plural": "캄보디아 리엘",
+		"subunit_name": "센",
+		"subunit_name_plural": "센"
+	},
+	"KMF": {
+		"name": "코모로 프랑",
+		"name_plural": "코모로 프랑",
+		"subunit_name": "상팀",
+		"subunit_name_plural": "상팀"
+	},
+	"KPW": {
+		"name": "북한 원",
+		"name_plural": "북한 원",
+		"subunit_name": "전",
+		"subunit_name_plural": "전"
+	},
+	"KRW": {
+		"name": "대한민국 원",
+		"name_plural": "대한민국 원",
+		"subunit_name": "전",
+		"subunit_name_plural": "전"
+	},
+	"KWD": {
+		"name": "쿠웨이트 디나르",
+		"name_plural": "쿠웨이트 디나르",
+		"subunit_name": "필스",
+		"subunit_name_plural": "필스"
+	},
+	"KYD": {
+		"name": "케이맨 제도 달러",
+		"name_plural": "케이맨 제도 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"KZT": {
+		"name": "카자흐스탄 텡게",
+		"name_plural": "카자흐스탄 텡게",
+		"subunit_name": "티인",
+		"subunit_name_plural": "티인"
+	},
+	"LAK": {
+		"name": "라오스 킵",
+		"name_plural": "라오스 킵",
+		"subunit_name": "앗",
+		"subunit_name_plural": "앗"
+	},
+	"LBP": {
+		"name": "레바논 파운드",
+		"name_plural": "레바논 파운드",
+		"subunit_name": "피아스트르",
+		"subunit_name_plural": "피아스트르"
+	},
+	"LKR": {
+		"name": "스리랑카 루피",
+		"name_plural": "스리랑카 루피",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"LRD": {
+		"name": "라이베리아 달러",
+		"name_plural": "라이베리아 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"LSL": {
+		"name": "레소토 로티",
+		"name_plural": "레소토 로티",
+		"subunit_name": "센테",
+		"subunit_name_plural": "리센테"
+	},
+	"LYD": {
+		"name": "리비아 디나르",
+		"name_plural": "리비아 디나르",
+		"subunit_name": "디르함",
+		"subunit_name_plural": "디르함"
+	},
+	"MAD": {
+		"name": "모로코 디르함",
+		"name_plural": "모로코 디르함",
+		"subunit_name": "상팀",
+		"subunit_name_plural": "상팀"
+	},
+	"MDL": {
+		"name": "몰도바 레우",
+		"name_plural": "몰도바 레우",
+		"subunit_name": "반",
+		"subunit_name_plural": "바니"
+	},
+	"MGA": {
+		"name": "마다가스카르 아리아리",
+		"name_plural": "마다가스카르 아리아리",
+		"subunit_name": "이라임빌란자",
+		"subunit_name_plural": "이라임빌란자"
+	},
+	"MKD": {
+		"name": "북마케도니아 데나르",
+		"name_plural": "북마케도니아 데나르",
+		"subunit_name": "데니",
+		"subunit_name_plural": "데니"
+	},
+	"MMK": {
+		"name": "미얀마 챠트",
+		"name_plural": "미얀마 챠트",
+		"subunit_name": "퍄",
+		"subunit_name_plural": "퍄"
+	},
+	"MNT": {
+		"name": "몽골 투그릭",
+		"name_plural": "몽골 투그릭",
+		"subunit_name": "뭉게",
+		"subunit_name_plural": "뭉게"
+	},
+	"MOP": {
+		"name": "마카오 파타카",
+		"name_plural": "마카오 파타카",
+		"subunit_name": "아보",
+		"subunit_name_plural": "아보"
+	},
+	"MRU": {
+		"name": "모리타니 우기야",
+		"name_plural": "모리타니 우기야",
+		"subunit_name": "쿠움스",
+		"subunit_name_plural": "쿠움스"
+	},
+	"MUR": {
+		"name": "모리셔스 루피",
+		"name_plural": "모리셔스 루피",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"MVR": {
+		"name": "몰디브 루피야",
+		"name_plural": "몰디브 루피야",
+		"subunit_name": "라리",
+		"subunit_name_plural": "라리"
+	},
+	"MWK": {
+		"name": "말라위 콰차",
+		"name_plural": "말라위 콰차",
+		"subunit_name": "탐발라",
+		"subunit_name_plural": "탐발라"
+	},
+	"MXN": {
+		"name": "멕시코 페소",
+		"name_plural": "멕시코 페소",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"MYR": {
+		"name": "말레이시아 링깃",
+		"name_plural": "말레이시아 링깃",
+		"subunit_name": "센",
+		"subunit_name_plural": "센"
+	},
+	"MZN": {
+		"name": "모잠비크 메티칼",
+		"name_plural": "모잠비크 메티칼",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"NAD": {
+		"name": "나미비아 달러",
+		"name_plural": "나미비아 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"NGN": {
+		"name": "나이지리아 나이라",
+		"name_plural": "나이지리아 나이라",
+		"subunit_name": "코보",
+		"subunit_name_plural": "코보"
+	},
+	"NIO": {
+		"name": "니카라과 코르도바",
+		"name_plural": "니카라과 코르도바",
+		"subunit_name": "센타보",
+		"subunit_name_plural": "센타보"
+	},
+	"NOK": {
+		"name": "노르웨이 크로네",
+		"name_plural": "노르웨이 크로네",
+		"subunit_name": "외레",
+		"subunit_name_plural": "외레"
+	},
+	"NPR": {
+		"name": "네팔 루피",
+		"name_plural": "네팔 루피",
+		"subunit_name": "파이사",
+		"subunit_name_plural": "파이사"
+	},
+	"NZD": {
+		"name": "뉴질랜드 달러",
+		"name_plural": "뉴질랜드 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"OMR": {
+		"name": "오만 리알",
+		"name_plural": "오만 리알",
+		"subunit_name": "바이사",
+		"subunit_name_plural": "바이사"
+	},
+	"PAB": {
+		"name": "파나마 발보아",
+		"name_plural": "파나마 발보아",
+		"subunit_name": "센테시모",
+		"subunit_name_plural": "센테시모"
+	},
+	"PEN": {
+		"name": "페루 솔",
+		"name_plural": "페루 솔",
+		"subunit_name": "센티모",
+		"subunit_name_plural": "센티모"
+	},
+	"PGK": {
+		"name": "파푸아뉴기니 키나",
+		"name_plural": "파푸아뉴기니 키나",
+		"subunit_name": "토에아",
+		"subunit_name_plural": "토에아"
+	},
+	"PHP": {
+		"name": "필리핀 페소",
+		"name_plural": "필리핀 페소",
+		"subunit_name": "센티모",
+		"subunit_name_plural": "센티모"
+	},
+	"PKR": {
+		"name": "파키스탄 루피",
+		"name_plural": "파키스탄 루피",
+		"subunit_name": "파이사",
+		"subunit_name_plural": "파이사"
+	},
+	"PLN": {
+		"name": "폴란드 즐로티",
+		"name_plural": "폴란드 즐로티",
+		"subunit_name": "그로시",
+		"subunit_name_plural": "그로시"
+	},
+	"PYG": {
+		"name": "파라과이 과라니",
+		"name_plural": "파라과이 과라니",
+		"subunit_name": "센티모",
+		"subunit_name_plural": "센티모"
+	},
+	"QAR": {
+		"name": "카타르 리알",
+		"name_plural": "카타르 리알",
+		"subunit_name": "디르함",
+		"subunit_name_plural": "디르함"
+	},
+	"RON": {
+		"name": "루마니아 레우",
+		"name_plural": "루마니아 레우",
+		"subunit_name": "반",
+		"subunit_name_plural": "바니"
+	},
+	"RSD": {
+		"name": "세르비아 디나르",
+		"name_plural": "세르비아 디나르",
+		"subunit_name": "파라",
+		"subunit_name_plural": "파라"
+	},
+	"RUB": {
+		"name": "러시아 루블",
+		"name_plural": "러시아 루블",
+		"subunit_name": "코펙",
+		"subunit_name_plural": "코펙"
+	},
+	"RWF": {
+		"name": "르완다 프랑",
+		"name_plural": "르완다 프랑",
+		"subunit_name": "상팀",
+		"subunit_name_plural": "상팀"
+	},
+	"SAR": {
+		"name": "사우디아라비아 리얄",
+		"name_plural": "사우디아라비아 리얄",
+		"subunit_name": "할랄라",
+		"subunit_name_plural": "할랄라"
+	},
+	"SBD": {
+		"name": "솔로몬 제도 달러",
+		"name_plural": "솔로몬 제도 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"SCR": {
+		"name": "세이셸 루피",
+		"name_plural": "세이셸 루피",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"SDG": {
+		"name": "수단 파운드",
+		"name_plural": "수단 파운드",
+		"subunit_name": "피아스트르",
+		"subunit_name_plural": "피아스트르"
+	},
+	"SEK": {
+		"name": "스웨덴 크로나",
+		"name_plural": "스웨덴 크로나",
+		"subunit_name": "외레",
+		"subunit_name_plural": "외레"
+	},
+	"SGD": {
+		"name": "싱가포르 달러",
+		"name_plural": "싱가포르 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"SHP": {
+		"name": "세인트헬레나 파운드",
+		"name_plural": "세인트헬레나 파운드",
+		"subunit_name": "페니",
+		"subunit_name_plural": "펜스"
+	},
+	"SLL": {
+		"name": "시에라리온 레온",
+		"name_plural": "시에라리온 레온",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"SOS": {
+		"name": "소말리아 실링",
+		"name_plural": "소말리아 실링",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"SRD": {
+		"name": "수리남 달러",
+		"name_plural": "수리남 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"SSP": {
+		"name": "남수단 파운드",
+		"name_plural": "남수단 파운드",
+		"subunit_name": "피아스터",
+		"subunit_name_plural": "피아스터"
+	},
+	"STN": {
+		"name": "상투메 프린시페 도브라",
+		"name_plural": "상투메 프린시페 도브라",
+		"subunit_name": "센티모",
+		"subunit_name_plural": "센티모"
+	},
+	"SYP": {
+		"name": "시리아 파운드",
+		"name_plural": "시리아 파운드",
+		"subunit_name": "피아스트르",
+		"subunit_name_plural": "피아스트르"
+	},
+	"SZL": {
+		"name": "에스와티니 릴랑게니",
+		"name_plural": "에스와티니 에말랑게니",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"THB": {
+		"name": "태국 바트",
+		"name_plural": "태국 바트",
+		"subunit_name": "사탕",
+		"subunit_name_plural": "사탕"
+	},
+	"TJS": {
+		"name": "타지키스탄 소모니",
+		"name_plural": "타지키스탄 소모니",
+		"subunit_name": "디람",
+		"subunit_name_plural": "디람"
+	},
+	"TMT": {
+		"name": "투르크메니스탄 마나트",
+		"name_plural": "투르크메니스탄 마나트",
+		"subunit_name": "텡게",
+		"subunit_name_plural": "텡게"
+	},
+	"TND": {
+		"name": "튀니지 디나르",
+		"name_plural": "튀니지 디나르",
+		"subunit_name": "밀림",
+		"subunit_name_plural": "밀림"
+	},
+	"TOP": {
+		"name": "통가 파앙가",
+		"name_plural": "통가 파앙가",
+		"subunit_name": "세니티",
+		"subunit_name_plural": "세니티"
+	},
+	"TRY": {
+		"name": "터키 리라",
+		"name_plural": "터키 리라",
+		"subunit_name": "쿠루쉬",
+		"subunit_name_plural": "쿠루쉬"
+	},
+	"TTD": {
+		"name": "트리니다드 토바고 달러",
+		"name_plural": "트리니다드 토바고 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"TWD": {
+		"name": "신 대만 달러",
+		"name_plural": "신 대만 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"TZS": {
+		"name": "탄자니아 실링",
+		"name_plural": "탄자니아 실링",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"UAH": {
+		"name": "우크라이나 그리브나",
+		"name_plural": "우크라이나 그리브나",
+		"subunit_name": "코펙",
+		"subunit_name_plural": "코펙"
+	},
+	"UGX": {
+		"name": "우간다 실링",
+		"name_plural": "우간다 실링",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"USD": {
+		"name": "미국 달러",
+		"name_plural": "미국 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"UYU": {
+		"name": "우루과이 페소",
+		"name_plural": "우루과이 페소",
+		"subunit_name": "센테시모",
+		"subunit_name_plural": "센테시모"
+	},
+	"UZS": {
+		"name": "우즈베키스탄 솜",
+		"name_plural": "우즈베키스탄 솜",
+		"subunit_name": "티인",
+		"subunit_name_plural": "티인"
+	},
+	"VES": {
+		"name": "베네수엘라 볼리바르",
+		"name_plural": "베네수엘라 볼리바르",
+		"subunit_name": "센티모",
+		"subunit_name_plural": "센티모"
+	},
+	"VND": {
+		"name": "베트남 동",
+		"name_plural": "베트남 동",
+		"subunit_name": "하오",
+		"subunit_name_plural": "하오"
+	},
+	"VUV": {
+		"name": "바누아투 바투",
+		"name_plural": "바누아투 바투",
+		"subunit_name": "상팀",
+		"subunit_name_plural": "상팀"
+	},
+	"WST": {
+		"name": "사모아 탈라",
+		"name_plural": "사모아 탈라",
+		"subunit_name": "세네",
+		"subunit_name_plural": "세네"
+	},
+	"XAF": {
+		"name": "중앙아프리카 CFA 프랑",
+		"name_plural": "중앙아프리카 CFA 프랑",
+		"subunit_name": "상팀",
+		"subunit_name_plural": "상팀"
+	},
+	"XCD": {
+		"name": "동카리브 달러",
+		"name_plural": "동카리브 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"XOF": {
+		"name": "서아프리카 CFA 프랑",
+		"name_plural": "서아프리카 CFA 프랑",
+		"subunit_name": "상팀",
+		"subunit_name_plural": "상팀"
+	},
+	"XPF": {
+		"name": "CFP 프랑",
+		"name_plural": "CFP 프랑",
+		"subunit_name": "상팀",
+		"subunit_name_plural": "상팀"
+	},
+	"YER": {
+		"name": "예멘 리알",
+		"name_plural": "예멘 리알",
+		"subunit_name": "필스",
+		"subunit_name_plural": "필스"
+	},
+	"ZAR": {
+		"name": "남아프리카 공화국 랜드",
+		"name_plural": "남아프리카 공화국 랜드",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	},
+	"ZMW": {
+		"name": "잠비아 콰차",
+		"name_plural": "잠비아 콰차",
+		"subunit_name": "응궤",
+		"subunit_name_plural": "응궤"
+	},
+	"ZWL": {
+		"name": "짐바브웨 달러",
+		"name_plural": "짐바브웨 달러",
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
+	}
+}

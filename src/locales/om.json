@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "Diiraamii DHU",
+		"name_plural": "Diiraamoota DHU",
+		"subunit_name": "fiilsii",
+		"subunit_name_plural": "fiilsii"
+	},
+	"AFN": {
+		"name": "Afugaanii Afgaanistaan",
+		"name_plural": "Afugaanii Afgaanistaan",
+		"subunit_name": "pulii",
+		"subunit_name_plural": "pulii"
+	},
+	"ALL": {
+		"name": "Leekii Albaaniyaa",
+		"name_plural": "Leekoota Albaaniyaa",
+		"subunit_name": "qindarkee",
+		"subunit_name_plural": "qindarkee"
+	},
+	"AMD": {
+		"name": "Diraamii Armeeniyaa",
+		"name_plural": "Diraamoota Armeeniyaa",
+		"subunit_name": "lumaa",
+		"subunit_name_plural": "lumaa"
+	},
+	"ANG": {
+		"name": "Giildarii Antiliyaa Nederlaand",
+		"name_plural": "Giildarii Antiliyaa Nederlaand",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"AOA": {
+		"name": "Kuwaanzii Angoolaa",
+		"name_plural": "Kuwaanzii Angoolaa",
+		"subunit_name": "seentimoo",
+		"subunit_name_plural": "seentimoo"
+	},
+	"ARS": {
+		"name": "Peesoo Arjentiinaa",
+		"name_plural": "Peesoowwan Arjentiinaa",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"AUD": {
+		"name": "Doollarii Awustiraaliyaa",
+		"name_plural": "Doollaroota Awustiraaliyaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"AWG": {
+		"name": "Filoriinii Aruubaa",
+		"name_plural": "Filoriinoota Aruubaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"AZN": {
+		"name": "Maanaatii Azeribajaan",
+		"name_plural": "Maanaatoota Azeribajaan",
+		"subunit_name": "qepikii",
+		"subunit_name_plural": "qepikii"
+	},
+	"BAM": {
+		"name": "Maarkii Biyoosniyaa-Heerzegoviinaa",
+		"name_plural": "Maarkoota Biyoosniyaa-Heerzegoviinaa",
+		"subunit_name": "feniingii",
+		"subunit_name_plural": "feniingii"
+	},
+	"BBD": {
+		"name": "Doollarii Baarbadoos",
+		"name_plural": "Doollaroota Baarbadoos",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"BDT": {
+		"name": "Taakaa Baangilaadeesh",
+		"name_plural": "Taakoota Baangilaadeesh",
+		"subunit_name": "poishaa",
+		"subunit_name_plural": "poishaa"
+	},
+	"BGN": {
+		"name": "Levii Bulgaariyaa",
+		"name_plural": "Leviota Bulgaariyaa",
+		"subunit_name": "stotinkaa",
+		"subunit_name_plural": "stotinkaa"
+	},
+	"BHD": {
+		"name": "Diinaarii Bahareen",
+		"name_plural": "Diinaarii Bahareen",
+		"subunit_name": "fiilsii",
+		"subunit_name_plural": "fiilsii"
+	},
+	"BIF": {
+		"name": "Farankii Burundi",
+		"name_plural": "Farankoota Burundi",
+		"subunit_name": "seentiimii",
+		"subunit_name_plural": "seentiimii"
+	},
+	"BMD": {
+		"name": "Doollarii Bermuudaa",
+		"name_plural": "Doollaroota Bermuudaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"BND": {
+		"name": "Doollarii Buruneii",
+		"name_plural": "Doollaroota Buruneii",
+		"subunit_name": "seenii",
+		"subunit_name_plural": "seenii"
+	},
+	"BOB": {
+		"name": "Boliviyaanoo Boliviyaa",
+		"name_plural": "Boliviyaanoota Boliviyaa",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"BRL": {
+		"name": "Reaalii Baraziil",
+		"name_plural": "Reaaloota Baraziil",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"BSD": {
+		"name": "Doollarii Bahamaas",
+		"name_plural": "Doollaroota Bahamaas",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"BTN": {
+		"name": "Ngultrumii Buutan",
+		"name_plural": "Ngultrumoota Buutan",
+		"subunit_name": "chetrumii",
+		"subunit_name_plural": "chetrumii"
+	},
+	"BWP": {
+		"name": "Pulaa Botuswaanaa",
+		"name_plural": "Pulaawwan Botuswaanaa",
+		"subunit_name": "thebee",
+		"subunit_name_plural": "thebee"
+	},
+	"BYN": {
+		"name": "Rublii Belaarus",
+		"name_plural": "Rublee Belaarus",
+		"subunit_name": "kopekii",
+		"subunit_name_plural": "kopekii"
+	},
+	"BZD": {
+		"name": "Doollarii Beeliz",
+		"name_plural": "Doollaroota Beeliz",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"CAD": {
+		"name": "Doollarii Kanaadaa",
+		"name_plural": "Doollaroota Kanaadaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"CDF": {
+		"name": "Farankii Kongo",
+		"name_plural": "Farankoota Kongo",
+		"subunit_name": "seentiimii",
+		"subunit_name_plural": "seentiimii"
+	},
+	"CHF": {
+		"name": "Farankii Suwisi",
+		"name_plural": "Farankoota Suwisi",
+		"subunit_name": "raappeenii",
+		"subunit_name_plural": "raappeenii"
+	},
+	"CLP": {
+		"name": "Peesoo Chilii",
+		"name_plural": "Peesoowwan Chilii",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"CNY": {
+		"name": "Yuwaanii Chaayinaa",
+		"name_plural": "Yuwaanoota Chaayinaa",
+		"subunit_name": "feenii",
+		"subunit_name_plural": "feenii"
+	},
+	"COP": {
+		"name": "Peesoo Kolombiyaa",
+		"name_plural": "Peesoowwan Kolombiyaa",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"CRC": {
+		"name": "Koloonii Kosta Riikaa",
+		"name_plural": "Koloonoota Kosta Riikaa",
+		"subunit_name": "seentiimoo",
+		"subunit_name_plural": "seentiimoo"
+	},
+	"CUC": {
+		"name": "Peesoo Kuubaa Ijaarsaa",
+		"name_plural": "Peesoowwan Kuubaa Ijaarsaa",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"CUP": {
+		"name": "Peesoo Kuubaa",
+		"name_plural": "Peesoowwan Kuubaa",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"CVE": {
+		"name": "Eskudoo Kaabu Verdi",
+		"name_plural": "Eskudoota Kaabu Verdi",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"CZK": {
+		"name": "Koorunaa Cheek",
+		"name_plural": "Koorunoota Cheek",
+		"subunit_name": "haleerii",
+		"subunit_name_plural": "haleerii"
+	},
+	"DJF": {
+		"name": "Farankii Jibuti",
+		"name_plural": "Farankoota Jibuti",
+		"subunit_name": "seentiimii",
+		"subunit_name_plural": "seentiimii"
+	},
+	"DKK": {
+		"name": "Kuroonii Deenmaark",
+		"name_plural": "Kuroonoota Deenmaark",
+		"subunit_name": "ooree",
+		"subunit_name_plural": "ooree"
+	},
+	"DOP": {
+		"name": "Peesoo Domineeka",
+		"name_plural": "Peesoowwan Domineeka",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"DZD": {
+		"name": "Diinaarii Aljeeriyaa",
+		"name_plural": "Diinaarii Aljeeriyaa",
+		"subunit_name": "seentiimii",
+		"subunit_name_plural": "seentiimii"
+	},
+	"EGP": {
+		"name": "Paawundii Misra",
+		"name_plural": "Paawundoota Misra",
+		"subunit_name": "piyasitirii",
+		"subunit_name_plural": "piyasitirii"
+	},
+	"ERN": {
+		"name": "Nakfaa Eritiraa",
+		"name_plural": "Nakfoota Eritiraa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"ETB": {
+		"name": "Biirii Itoophiyaa",
+		"name_plural": "Biirroota Itoophiyaa",
+		"subunit_name": "saantimii",
+		"subunit_name_plural": "saantimii"
+	},
+	"EUR": {
+		"name": "Yuuroo",
+		"name_plural": "Yuuroowwan",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"FJD": {
+		"name": "Doollarii Fijii",
+		"name_plural": "Doollaroota Fijii",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"FKP": {
+		"name": "Paawundii Faalklaand",
+		"name_plural": "Paawundoota Faalklaand",
+		"subunit_name": "peenii",
+		"subunit_name_plural": "peensii"
+	},
+	"GBP": {
+		"name": "Paawundii Biiriten",
+		"name_plural": "Paawundoota Biiriten",
+		"subunit_name": "peenii",
+		"subunit_name_plural": "peensii"
+	},
+	"GEL": {
+		"name": "Laarii Joorjiyaa",
+		"name_plural": "Laarii Joorjiyaa",
+		"subunit_name": "teetirii",
+		"subunit_name_plural": "teetirii"
+	},
+	"GHS": {
+		"name": "Seedii Gaanaa",
+		"name_plural": "Seedoota Gaanaa",
+		"subunit_name": "peesewaa",
+		"subunit_name_plural": "peesewaa"
+	},
+	"GIP": {
+		"name": "Paawundii Jibraltaar",
+		"name_plural": "Paawundoota Jibraltaar",
+		"subunit_name": "peenii",
+		"subunit_name_plural": "peensii"
+	},
+	"GMD": {
+		"name": "Daalaasii Gambiyaa",
+		"name_plural": "Daalaasoota Gambiyaa",
+		"subunit_name": "butuutii",
+		"subunit_name_plural": "butuutii"
+	},
+	"GNF": {
+		"name": "Farankii Giinii",
+		"name_plural": "Farankoota Giinii",
+		"subunit_name": "seentiimii",
+		"subunit_name_plural": "seentiimii"
+	},
+	"GTQ": {
+		"name": "Kweetsaalii Guwatemaalaa",
+		"name_plural": "Kweetsaaloota Guwatemaalaa",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"GYD": {
+		"name": "Doollarii Guyaanaa",
+		"name_plural": "Doollaroota Guyaanaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"HKD": {
+		"name": "Doollarii Hong Kong",
+		"name_plural": "Doollaroota Hong Kong",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"HNL": {
+		"name": "Lempiiraa Honduraas",
+		"name_plural": "Lempiiroota Honduraas",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"HRK": {
+		"name": "Kunaa Kirooshiyaa",
+		"name_plural": "Kunoota Kirooshiyaa",
+		"subunit_name": "liipaa",
+		"subunit_name_plural": "liipaa"
+	},
+	"HTG": {
+		"name": "Goordii Haayitii",
+		"name_plural": "Goordoota Haayitii",
+		"subunit_name": "seentiimii",
+		"subunit_name_plural": "seentiimii"
+	},
+	"HUF": {
+		"name": "Forintii Hangarii",
+		"name_plural": "Forintoota Hangarii",
+		"subunit_name": "fillerii",
+		"subunit_name_plural": "fillerii"
+	},
+	"IDR": {
+		"name": "Rupiyaa Indoneeziyaa",
+		"name_plural": "Rupiyaawwan Indoneeziyaa",
+		"subunit_name": "seenii",
+		"subunit_name_plural": "seenii"
+	},
+	"ILS": {
+		"name": "Sheekelii Israa'el Haaraa",
+		"name_plural": "Sheekeloota Israa'el Haaraa",
+		"subunit_name": "agoraa",
+		"subunit_name_plural": "agoroota"
+	},
+	"INR": {
+		"name": "Rupiyaa Hindii",
+		"name_plural": "Rupiyaawwan Hindii",
+		"subunit_name": "paisaa",
+		"subunit_name_plural": "paisee"
+	},
+	"IQD": {
+		"name": "Diinaarii Iraaq",
+		"name_plural": "Diinaarii Iraaq",
+		"subunit_name": "fiilsii",
+		"subunit_name_plural": "fiilsii"
+	},
+	"IRR": {
+		"name": "Riyaalii Iraan",
+		"name_plural": "Riyaaloota Iraan",
+		"subunit_name": "diinaarii",
+		"subunit_name_plural": "diinaarii"
+	},
+	"ISK": {
+		"name": "Kuroonaa Ayslaandi",
+		"name_plural": "Kuroonoota Ayslaandi",
+		"subunit_name": "eyrii",
+		"subunit_name_plural": "awraarii"
+	},
+	"JMD": {
+		"name": "Doollarii Jamaayikaa",
+		"name_plural": "Doollaroota Jamaayikaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"JOD": {
+		"name": "Diinaarii Joordaan",
+		"name_plural": "Diinaarii Joordaan",
+		"subunit_name": "fiilsii",
+		"subunit_name_plural": "fiilsii"
+	},
+	"JPY": {
+		"name": "Yenii Jaappaan",
+		"name_plural": "Yenoota Jaappaan",
+		"subunit_name": "seenii",
+		"subunit_name_plural": "seenii"
+	},
+	"KES": {
+		"name": "Shiliingii Keeniyaa",
+		"name_plural": "Shiliingoota Keeniyaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"KGS": {
+		"name": "Soomii Kirgistaan",
+		"name_plural": "Soomoota Kirgistaan",
+		"subunit_name": "tyiynii",
+		"subunit_name_plural": "tyiynii"
+	},
+	"KHR": {
+		"name": "Riyelii Kambodiyaa",
+		"name_plural": "Riyeloota Kambodiyaa",
+		"subunit_name": "seenii",
+		"subunit_name_plural": "seenii"
+	},
+	"KMF": {
+		"name": "Farankii Komooros",
+		"name_plural": "Farankoota Komooros",
+		"subunit_name": "seentiimii",
+		"subunit_name_plural": "seentiimii"
+	},
+	"KPW": {
+		"name": "Woonii Kooree Kibbaa",
+		"name_plural": "Woonoota Kooree Kibbaa",
+		"subunit_name": "jeonii",
+		"subunit_name_plural": "jeonii"
+	},
+	"KRW": {
+		"name": "Woonii Kooree Dhihaa",
+		"name_plural": "Woonoota Kooree Dhihaa",
+		"subunit_name": "jeonii",
+		"subunit_name_plural": "jeonii"
+	},
+	"KWD": {
+		"name": "Diinaarii Kuweyt",
+		"name_plural": "Diinaarii Kuweyt",
+		"subunit_name": "fiilsii",
+		"subunit_name_plural": "fiilsii"
+	},
+	"KYD": {
+		"name": "Doollarii Kaymaan",
+		"name_plural": "Doollaroota Kaymaan",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"KZT": {
+		"name": "Tengee Kazaakistaan",
+		"name_plural": "Tengeewwan Kazaakistaan",
+		"subunit_name": "tiynii",
+		"subunit_name_plural": "tiynii"
+	},
+	"LAK": {
+		"name": "Kipii Laa'os",
+		"name_plural": "Kipoota Laa'os",
+		"subunit_name": "attii",
+		"subunit_name_plural": "attii"
+	},
+	"LBP": {
+		"name": "Paawundii Libaanoon",
+		"name_plural": "Paawundoota Libaanoon",
+		"subunit_name": "piyasitirii",
+		"subunit_name_plural": "piyasitirii"
+	},
+	"LKR": {
+		"name": "Rupiyaa Laankaa",
+		"name_plural": "Rupiyaawwan Laankaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"LRD": {
+		"name": "Doollarii Laayibeeriyaa",
+		"name_plural": "Doollaroota Laayibeeriyaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"LSL": {
+		"name": "Lootii Leesootoo",
+		"name_plural": "Lootoota Leesootoo",
+		"subunit_name": "seentii",
+		"subunit_name_plural": "lisentii"
+	},
+	"LYD": {
+		"name": "Diinaarii Liibiyaa",
+		"name_plural": "Diinaarii Liibiyaa",
+		"subunit_name": "dirhaamii",
+		"subunit_name_plural": "dirhaamii"
+	},
+	"MAD": {
+		"name": "Diraamii Morookoo",
+		"name_plural": "Diraamoota Morookoo",
+		"subunit_name": "seentiimii",
+		"subunit_name_plural": "seentiimii"
+	},
+	"MDL": {
+		"name": "Le'uu Moldova",
+		"name_plural": "Le'uwwan Moldova",
+		"subunit_name": "baanii",
+		"subunit_name_plural": "baanii"
+	},
+	"MGA": {
+		"name": "Ariyaarii Madagaskaar",
+		"name_plural": "Ariyaarii Madagaskaar",
+		"subunit_name": "iraimbilanjaa",
+		"subunit_name_plural": "iraimbilanjaa"
+	},
+	"MKD": {
+		"name": "Denaarii Masedooniyaa",
+		"name_plural": "Denaarii Masedooniyaa",
+		"subunit_name": "denii",
+		"subunit_name_plural": "denii"
+	},
+	"MMK": {
+		"name": "Kyatii Myaanmaar",
+		"name_plural": "Kyatoota Myaanmaar",
+		"subunit_name": "pyaa",
+		"subunit_name_plural": "pyaa"
+	},
+	"MNT": {
+		"name": "Tugrikii Mongooliyaa",
+		"name_plural": "Tugrikoota Mongooliyaa",
+		"subunit_name": "moongo",
+		"subunit_name_plural": "moongo"
+	},
+	"MOP": {
+		"name": "Patakaa Makaa",
+		"name_plural": "Patakaawwan Makaa",
+		"subunit_name": "awoo",
+		"subunit_name_plural": "awoo"
+	},
+	"MRU": {
+		"name": "Ouguiyaa Mooriteeniya",
+		"name_plural": "Ouguiyaawwan Mooriteeniya",
+		"subunit_name": "khoumsii",
+		"subunit_name_plural": "khoumsii"
+	},
+	"MUR": {
+		"name": "Rupiyaa Morishas",
+		"name_plural": "Rupiyaawwan Morishas",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"MVR": {
+		"name": "Rufiyaa Maldive",
+		"name_plural": "Rufiyaawwan Maldive",
+		"subunit_name": "laarii",
+		"subunit_name_plural": "laarii"
+	},
+	"MWK": {
+		"name": "Kwachaa Malawi",
+		"name_plural": "Kwachoota Malawi",
+		"subunit_name": "tambaalaa",
+		"subunit_name_plural": "tambaalaa"
+	},
+	"MXN": {
+		"name": "Peesoo Meksikoo",
+		"name_plural": "Peesoowwan Meksikoo",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"MYR": {
+		"name": "Ringgitii Maleeziyaa",
+		"name_plural": "Ringgitoota Maleeziyaa",
+		"subunit_name": "seenii",
+		"subunit_name_plural": "seenii"
+	},
+	"MZN": {
+		"name": "Metikaalii Mosambik",
+		"name_plural": "Metikaaloota Mosambik",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"NAD": {
+		"name": "Doollarii Namiibiyaa",
+		"name_plural": "Doollaroota Namiibiyaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"NGN": {
+		"name": "Nayiraa Naayijeeriyaa",
+		"name_plural": "Nayiroota Naayijeeriyaa",
+		"subunit_name": "koboo",
+		"subunit_name_plural": "koboo"
+	},
+	"NIO": {
+		"name": "Koordobaa Nikaraaguwaa",
+		"name_plural": "Koordoboota Nikaraaguwaa",
+		"subunit_name": "seentavoo",
+		"subunit_name_plural": "seentavoo"
+	},
+	"NOK": {
+		"name": "Kuroonii Noorwee",
+		"name_plural": "Kuroonoota Noorwee",
+		"subunit_name": "ooree",
+		"subunit_name_plural": "ooree"
+	},
+	"NPR": {
+		"name": "Rupiyaa Neepaal",
+		"name_plural": "Rupiyaawwan Neepaal",
+		"subunit_name": "paisaa",
+		"subunit_name_plural": "paisaa"
+	},
+	"NZD": {
+		"name": "Doollarii Niyuu Ziilaand",
+		"name_plural": "Doollaroota Niyuu Ziilaand",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"OMR": {
+		"name": "Riyaalii Omaan",
+		"name_plural": "Riyaaloota Omaan",
+		"subunit_name": "baysaa",
+		"subunit_name_plural": "baysaa"
+	},
+	"PAB": {
+		"name": "Balboaa Panamaa",
+		"name_plural": "Balboowwan Panamaa",
+		"subunit_name": "seentiimoo",
+		"subunit_name_plural": "seentiimoo"
+	},
+	"PEN": {
+		"name": "Solii Peru",
+		"name_plural": "Soloota Peru",
+		"subunit_name": "seentiimoo",
+		"subunit_name_plural": "seentiimoo"
+	},
+	"PGK": {
+		"name": "Kiinaa Paapuaa Niyuu Gini",
+		"name_plural": "Kiinoota Paapuaa Niyuu Gini",
+		"subunit_name": "toeaa",
+		"subunit_name_plural": "toeaa"
+	},
+	"PHP": {
+		"name": "Peesoo Filippiins",
+		"name_plural": "Peesoowwan Filippiins",
+		"subunit_name": "sentimoo",
+		"subunit_name_plural": "sentimoo"
+	},
+	"PKR": {
+		"name": "Rupiyaa Pakistan",
+		"name_plural": "Rupiyaawwan Pakistan",
+		"subunit_name": "paisaa",
+		"subunit_name_plural": "paisaa"
+	},
+	"PLN": {
+		"name": "Zlootii Poolaand",
+		"name_plural": "Zlootoota Poolaand",
+		"subunit_name": "groshii",
+		"subunit_name_plural": "groshii"
+	},
+	"PYG": {
+		"name": "Guaraanii Paraguwaay",
+		"name_plural": "Guaraaniota Paraguwaay",
+		"subunit_name": "seentiimoo",
+		"subunit_name_plural": "seentiimoo"
+	},
+	"QAR": {
+		"name": "Riyaalii Qataar",
+		"name_plural": "Riyaaloota Qataar",
+		"subunit_name": "dirhaamii",
+		"subunit_name_plural": "dirhaamii"
+	},
+	"RON": {
+		"name": "Le'uu Romaniyaa",
+		"name_plural": "Le'uwwan Romaniyaa",
+		"subunit_name": "baanii",
+		"subunit_name_plural": "baanii"
+	},
+	"RSD": {
+		"name": "Diinaarii Seerbiyaa",
+		"name_plural": "Diinaarii Seerbiyaa",
+		"subunit_name": "paraa",
+		"subunit_name_plural": "paraa"
+	},
+	"RUB": {
+		"name": "Rublii Raashiyaa",
+		"name_plural": "Rublee Raashiyaa",
+		"subunit_name": "kopekii",
+		"subunit_name_plural": "kopekii"
+	},
+	"RWF": {
+		"name": "Farankii Ruwaandaa",
+		"name_plural": "Farankoota Ruwaandaa",
+		"subunit_name": "seentiimii",
+		"subunit_name_plural": "seentiimii"
+	},
+	"SAR": {
+		"name": "Riyaalii Saudi",
+		"name_plural": "Riyaaloota Saudi",
+		"subunit_name": "halaalaa",
+		"subunit_name_plural": "halaalaa"
+	},
+	"SBD": {
+		"name": "Doollarii Solomon",
+		"name_plural": "Doollaroota Solomon",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"SCR": {
+		"name": "Rupiyaa Seyshels",
+		"name_plural": "Rupiyaawwan Seyshels",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"SDG": {
+		"name": "Paawundii Suudaan",
+		"name_plural": "Paawundoota Suudaan",
+		"subunit_name": "piyasitirii",
+		"subunit_name_plural": "piyasitirii"
+	},
+	"SEK": {
+		"name": "Kuroonaa Suwidiin",
+		"name_plural": "Kuroonoota Suwidiin",
+		"subunit_name": "ooree",
+		"subunit_name_plural": "ooree"
+	},
+	"SGD": {
+		"name": "Doollarii Singapoor",
+		"name_plural": "Doollaroota Singapoor",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"SHP": {
+		"name": "Paawundii Seent Heleena",
+		"name_plural": "Paawundoota Seent Heleena",
+		"subunit_name": "peenii",
+		"subunit_name_plural": "peensii"
+	},
+	"SLL": {
+		"name": "Leonee Siraaleeoon",
+		"name_plural": "Leoneewwan Siraaleeoon",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"SOS": {
+		"name": "Shiliingii Soomaaliyaa",
+		"name_plural": "Shiliingoota Soomaaliyaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"SRD": {
+		"name": "Doollarii Surinaam",
+		"name_plural": "Doollaroota Surinaam",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"SSP": {
+		"name": "Paawundii Suudaan Kibbaa",
+		"name_plural": "Paawundoota Suudaan Kibbaa",
+		"subunit_name": "piyasitirii",
+		"subunit_name_plural": "piyasitirii"
+	},
+	"STN": {
+		"name": "Doburaa Saoo Tomee fi Priinsipee",
+		"name_plural": "Doburaawwan Saoo Tomee fi Priinsipee",
+		"subunit_name": "seentiimoo",
+		"subunit_name_plural": "seentiimoo"
+	},
+	"SYP": {
+		"name": "Paawundii Suuriyaa",
+		"name_plural": "Paawundoota Suuriyaa",
+		"subunit_name": "piyasitirii",
+		"subunit_name_plural": "piyasitirii"
+	},
+	"SZL": {
+		"name": "Lilaangeenii Eswaatiini",
+		"name_plural": "Lilaangeenoota Eswaatiini",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"THB": {
+		"name": "Baati Taayilaand",
+		"name_plural": "Baatoota Taayilaand",
+		"subunit_name": "sataangii",
+		"subunit_name_plural": "sataangii"
+	},
+	"TJS": {
+		"name": "Soomonii Tajikistaan",
+		"name_plural": "Soomonoota Tajikistaan",
+		"subunit_name": "diraamii",
+		"subunit_name_plural": "diraamii"
+	},
+	"TMT": {
+		"name": "Maanaatii Turkmenistaan",
+		"name_plural": "Maanaatoota Turkmenistaan",
+		"subunit_name": "tenge",
+		"subunit_name_plural": "tenge"
+	},
+	"TND": {
+		"name": "Diinaarii Tuniisiyaa",
+		"name_plural": "Diinaarii Tuniisiyaa",
+		"subunit_name": "millimii",
+		"subunit_name_plural": "millimii"
+	},
+	"TOP": {
+		"name": "Pa'angaa Tongaa",
+		"name_plural": "Pa'angaawwan Tongaa",
+		"subunit_name": "senitii",
+		"subunit_name_plural": "senitii"
+	},
+	"TRY": {
+		"name": "Liiraa Turki",
+		"name_plural": "Liiraawwan Turki",
+		"subunit_name": "kuruushii",
+		"subunit_name_plural": "kuruushii"
+	},
+	"TTD": {
+		"name": "Doollarii Tirinidaad fi Tobagoo",
+		"name_plural": "Doollaroota Tirinidaad fi Tobagoo",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"TWD": {
+		"name": "Doollarii Taayiwaan Haaraa",
+		"name_plural": "Doollaroota Taayiwaan Haaraa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"TZS": {
+		"name": "Shiliingii Tanzaaniyaa",
+		"name_plural": "Shiliingoota Tanzaaniyaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"UAH": {
+		"name": "Hirivniyaa Ukreen",
+		"name_plural": "Hirivniyaawwan Ukreen",
+		"subunit_name": "kopekii",
+		"subunit_name_plural": "kopekii"
+	},
+	"UGX": {
+		"name": "Shiliingii Yugandaa",
+		"name_plural": "Shiliingoota Yugandaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"USD": {
+		"name": "Doollarii Ameerikaa",
+		"name_plural": "Doollaroota Ameerikaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"UYU": {
+		"name": "Peesoo Uruguwaay",
+		"name_plural": "Peesoowwan Uruguwaay",
+		"subunit_name": "seentiimoo",
+		"subunit_name_plural": "seentiimoo"
+	},
+	"UZS": {
+		"name": "Soomii Uzbeekistaan",
+		"name_plural": "Soomoota Uzbeekistaan",
+		"subunit_name": "tiyinii",
+		"subunit_name_plural": "tiyinii"
+	},
+	"VES": {
+		"name": "Bolivaarii Venizuwelaa",
+		"name_plural": "Bolivaariiwwan Venizuwelaa",
+		"subunit_name": "seentiimoo",
+		"subunit_name_plural": "seentiimoo"
+	},
+	"VND": {
+		"name": "Dongii Viyetinaam",
+		"name_plural": "Dongoota Viyetinaam",
+		"subunit_name": "haoo",
+		"subunit_name_plural": "haoo"
+	},
+	"VUV": {
+		"name": "Vaatuu Vanuwaatuu",
+		"name_plural": "Vaatuuwwan Vanuwaatuu",
+		"subunit_name": "seentiimii",
+		"subunit_name_plural": "seentiimii"
+	},
+	"WST": {
+		"name": "Taalaa Samoaa",
+		"name_plural": "Taalaawwan Samoaa",
+		"subunit_name": "seenitii",
+		"subunit_name_plural": "seenitii"
+	},
+	"XAF": {
+		"name": "Farankii CFA Aafrikaa Kibbaa",
+		"name_plural": "Farankoota CFA Aafrikaa Kibbaa",
+		"subunit_name": "seentiimii",
+		"subunit_name_plural": "seentiimii"
+	},
+	"XCD": {
+		"name": "Doollarii Karibiyaa Bahaati",
+		"name_plural": "Doollaroota Karibiyaa Bahaati",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"XOF": {
+		"name": "Farankii CFA Aafrikaa Dhihaa",
+		"name_plural": "Farankoota CFA Aafrikaa Dhihaa",
+		"subunit_name": "seentiimii",
+		"subunit_name_plural": "seentiimii"
+	},
+	"XPF": {
+		"name": "Farankii CFP",
+		"name_plural": "Farankoota CFP",
+		"subunit_name": "seentiimii",
+		"subunit_name_plural": "seentiimii"
+	},
+	"YER": {
+		"name": "Riyaalii Yaman",
+		"name_plural": "Riyaaloota Yaman",
+		"subunit_name": "fiilsii",
+		"subunit_name_plural": "fiilsii"
+	},
+	"ZAR": {
+		"name": "Raandii Aafrikaa Kibbaa",
+		"name_plural": "Raandoota Aafrikaa Kibbaa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	},
+	"ZMW": {
+		"name": "Kwachaa Zaambiyaa",
+		"name_plural": "Kwachoota Zaambiyaa",
+		"subunit_name": "ngwee",
+		"subunit_name_plural": "ngwee"
+	},
+	"ZWL": {
+		"name": "Doollarii Zimbabuwee",
+		"name_plural": "Doollaroota Zimbabuwee",
+		"subunit_name": "senti",
+		"subunit_name_plural": "senti"
+	}
+}

@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "Dirhama Emîratiyên Yekbûyî",
+		"name_plural": "Dirhamên Emîratiyên Yekbûyî",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"AFN": {
+		"name": "Efxanîya Efxanistanê",
+		"name_plural": "Efxaniyên Efxanistanê",
+		"subunit_name": "pul",
+		"subunit_name_plural": "pul"
+	},
+	"ALL": {
+		"name": "Lekê Albanî",
+		"name_plural": "Lekên Albanî",
+		"subunit_name": "qindarkë",
+		"subunit_name_plural": "qindarkë"
+	},
+	"AMD": {
+		"name": "Dramê Ermenistanê",
+		"name_plural": "Dramên Ermenistanê",
+		"subunit_name": "luma",
+		"subunit_name_plural": "luma"
+	},
+	"ANG": {
+		"name": "Guilderê Antîlên Holandî",
+		"name_plural": "Guilderên Antîlên Holandî",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"AOA": {
+		"name": "Kwanzaya Angolayê",
+		"name_plural": "Kwanzayên Angolayê",
+		"subunit_name": "cêntimo",
+		"subunit_name_plural": "cêntimo"
+	},
+	"ARS": {
+		"name": "Pesoya Arjentînê",
+		"name_plural": "Pesoyên Arjentînê",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"AUD": {
+		"name": "Dolarê Awistralyayê",
+		"name_plural": "Dolarên Awistralyayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"AWG": {
+		"name": "Florîna Arûbayê",
+		"name_plural": "Florînên Arûbayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"AZN": {
+		"name": "Manata Azerbaycanê",
+		"name_plural": "Manatên Azerbaycanê",
+		"subunit_name": "qəpik",
+		"subunit_name_plural": "qəpik"
+	},
+	"BAM": {
+		"name": "Marka Konvertîbil a Bosna-Hersekê",
+		"name_plural": "Markên Konvertîbil a Bosna-Hersekê",
+		"subunit_name": "fenîng",
+		"subunit_name_plural": "fenîng"
+	},
+	"BBD": {
+		"name": "Dolarê Barbadosê",
+		"name_plural": "Dolarên Barbadosê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"BDT": {
+		"name": "Takaya Bangladeşê",
+		"name_plural": "Takayên Bangladeşê",
+		"subunit_name": "poisha",
+		"subunit_name_plural": "poisha"
+	},
+	"BGN": {
+		"name": "Leva Bulgarî",
+		"name_plural": "Levên Bulgarî",
+		"subunit_name": "stotinka",
+		"subunit_name_plural": "stotinka"
+	},
+	"BHD": {
+		"name": "Dînara Behreynê",
+		"name_plural": "Dînarên Behreynê",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"BIF": {
+		"name": "Franga Burundî",
+		"name_plural": "Frangên Burundî",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"BMD": {
+		"name": "Dolarê Bermûdayê",
+		"name_plural": "Dolarên Bermûdayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"BND": {
+		"name": "Dolarê Brûneyê",
+		"name_plural": "Dolarên Brûneyê",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"BOB": {
+		"name": "Bolivyanoya Bolîvyayê",
+		"name_plural": "Bolivyanoyên Bolîvyayê",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"BRL": {
+		"name": "Reala Brezîlyayê",
+		"name_plural": "Realên Brezîlyayê",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"BSD": {
+		"name": "Dolarê Bahamayê",
+		"name_plural": "Dolarên Bahamayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"BTN": {
+		"name": "Ngultruma Butanê",
+		"name_plural": "Ngultrumên Butanê",
+		"subunit_name": "çetrum",
+		"subunit_name_plural": "çetrum"
+	},
+	"BWP": {
+		"name": "Pulaya Botswanayê",
+		"name_plural": "Pulayên Botswanayê",
+		"subunit_name": "thebe",
+		"subunit_name_plural": "thebe"
+	},
+	"BYN": {
+		"name": "Rubleya Belarusê",
+		"name_plural": "Rubleyên Belarusê",
+		"subunit_name": "kopek",
+		"subunit_name_plural": "kopek"
+	},
+	"BZD": {
+		"name": "Dolarê Belîzê",
+		"name_plural": "Dolarên Belîzê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"CAD": {
+		"name": "Dolarê Kanadayê",
+		"name_plural": "Dolarên Kanadayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"CDF": {
+		"name": "Franga Konoyê",
+		"name_plural": "Frangên Konoyê",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"CHF": {
+		"name": "Franga Swîsreyê",
+		"name_plural": "Frangên Swîsreyê",
+		"subunit_name": "rappen",
+		"subunit_name_plural": "rappen"
+	},
+	"CLP": {
+		"name": "Pesoya Şîlî",
+		"name_plural": "Pesoyên Şîlî",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"CNY": {
+		"name": "Yuanê Çînê",
+		"name_plural": "Yuanên Çînê",
+		"subunit_name": "fen",
+		"subunit_name_plural": "fen"
+	},
+	"COP": {
+		"name": "Pesoya Kolombiyayê",
+		"name_plural": "Pesoyên Kolombiyayê",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"CRC": {
+		"name": "Kolona Kosta Rîkayê",
+		"name_plural": "Kolonên Kosta Rîkayê",
+		"subunit_name": "santîmo",
+		"subunit_name_plural": "santîmo"
+	},
+	"CUC": {
+		"name": "Pesoya Konvertîbil a Kubayê",
+		"name_plural": "Pesoyên Konvertîbil a Kubayê",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"CUP": {
+		"name": "Pesoya Kubayê",
+		"name_plural": "Pesoyên Kubayê",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"CVE": {
+		"name": "Eskûdoya Kape Verdeyê",
+		"name_plural": "Eskûdoyên Kape Verdeyê",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"CZK": {
+		"name": "Korunaya Çekyayê",
+		"name_plural": "Korunayên Çekyayê",
+		"subunit_name": "haléř",
+		"subunit_name_plural": "haléř"
+	},
+	"DJF": {
+		"name": "Franga Cîbûtî",
+		"name_plural": "Frangên Cîbûtî",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"DKK": {
+		"name": "Krona Danîmarkayê",
+		"name_plural": "Kronên Danîmarkayê",
+		"subunit_name": "øre",
+		"subunit_name_plural": "øre"
+	},
+	"DOP": {
+		"name": "Pesoya Domînîkanê",
+		"name_plural": "Pesoyên Domînîkanê",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"DZD": {
+		"name": "Dînara Cezayîrê",
+		"name_plural": "Dînarên Cezayîrê",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"EGP": {
+		"name": "Sterlîna Misirê",
+		"name_plural": "Sterlînên Misirê",
+		"subunit_name": "pîastre",
+		"subunit_name_plural": "pîastre"
+	},
+	"ERN": {
+		"name": "Nakfaya Erîtreyayê",
+		"name_plural": "Nakfayên Erîtreyayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"ETB": {
+		"name": "Bîra Etiyopyayê",
+		"name_plural": "Bîrên Etiyopyayê",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"EUR": {
+		"name": "Euro",
+		"name_plural": "Euro",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"FJD": {
+		"name": "Dolarê Fîjî",
+		"name_plural": "Dolarên Fîjî",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"FKP": {
+		"name": "Sterlîna Giravên Falklandê",
+		"name_plural": "Sterlînên Giravên Falklandê",
+		"subunit_name": "pence",
+		"subunit_name_plural": "pence"
+	},
+	"GBP": {
+		"name": "Sterlîna Brîtanyayê",
+		"name_plural": "Sterlînên Brîtanyayê",
+		"subunit_name": "pence",
+		"subunit_name_plural": "pence"
+	},
+	"GEL": {
+		"name": "Larîya Gurcistanê",
+		"name_plural": "Larîyên Gurcistanê",
+		"subunit_name": "tetri",
+		"subunit_name_plural": "tetri"
+	},
+	"GHS": {
+		"name": "Sedîya Ganayê",
+		"name_plural": "Sedîyên Ganayê",
+		"subunit_name": "pesewa",
+		"subunit_name_plural": "pesewa"
+	},
+	"GIP": {
+		"name": "Sterlîna Cebelitarîqê",
+		"name_plural": "Sterlînên Cebelitarîqê",
+		"subunit_name": "pence",
+		"subunit_name_plural": "pence"
+	},
+	"GMD": {
+		"name": "Dalasîya Gambiyayê",
+		"name_plural": "Dalasîyên Gambiyayê",
+		"subunit_name": "butut",
+		"subunit_name_plural": "butut"
+	},
+	"GNF": {
+		"name": "Franga Gîneyayê",
+		"name_plural": "Frangên Gîneyayê",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"GTQ": {
+		"name": "Kwetzala Gwatemalayê",
+		"name_plural": "Kwetzalên Gwatemalayê",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"GYD": {
+		"name": "Dolarê Guyanayê",
+		"name_plural": "Dolarên Guyanayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"HKD": {
+		"name": "Dolarê Hong Kongê",
+		"name_plural": "Dolarên Hong Kongê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"HNL": {
+		"name": "Lempîraya Hondûrasê",
+		"name_plural": "Lempîrayên Hondûrasê",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"HRK": {
+		"name": "Kûnaya Xirwatistanê",
+		"name_plural": "Kûnayên Xirwatistanê",
+		"subunit_name": "lîpa",
+		"subunit_name_plural": "lîpa"
+	},
+	"HTG": {
+		"name": "Gourdê Haîtî",
+		"name_plural": "Gourdayên Haîtî",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"HUF": {
+		"name": "Forînta Macaristanê",
+		"name_plural": "Forîntên Macaristanê",
+		"subunit_name": "fillér",
+		"subunit_name_plural": "fillér"
+	},
+	"IDR": {
+		"name": "Rupiya Endonezyayê",
+		"name_plural": "Rupiyayên Endonezyayê",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"ILS": {
+		"name": "Şekela Nû ya Îsraîlê",
+		"name_plural": "Şekelayên Nû yên Îsraîlê",
+		"subunit_name": "agora",
+		"subunit_name_plural": "agora"
+	},
+	"INR": {
+		"name": "Rupiya Hindistanê",
+		"name_plural": "Rupiyayên Hindistanê",
+		"subunit_name": "paîsa",
+		"subunit_name_plural": "paîsa"
+	},
+	"IQD": {
+		"name": "Dînara Îraqê",
+		"name_plural": "Dînarên Îraqê",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"IRR": {
+		"name": "Riyala Îranê",
+		"name_plural": "Riyalên Îranê",
+		"subunit_name": "dînar",
+		"subunit_name_plural": "dînar"
+	},
+	"ISK": {
+		"name": "Krona Îslandayê",
+		"name_plural": "Kronên Îslandayê",
+		"subunit_name": "eyrir",
+		"subunit_name_plural": "eyrir"
+	},
+	"JMD": {
+		"name": "Dolarê Jamaîkayê",
+		"name_plural": "Dolarên Jamaîkayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"JOD": {
+		"name": "Dînara Urdunê",
+		"name_plural": "Dînarên Urdunê",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"JPY": {
+		"name": "Yena Japonê",
+		"name_plural": "Yenên Japonê",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KES": {
+		"name": "Şîlînga Kenyayê",
+		"name_plural": "Şîlîngên Kenyayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"KGS": {
+		"name": "Somê Qirgizistanê",
+		"name_plural": "Somên Qirgizistanê",
+		"subunit_name": "tyiyn",
+		"subunit_name_plural": "tyiyn"
+	},
+	"KHR": {
+		"name": "Riyela Kambocayê",
+		"name_plural": "Riyelên Kambocayê",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KMF": {
+		"name": "Franga Komorayê",
+		"name_plural": "Frangên Komorayê",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"KPW": {
+		"name": "Wona Koreya Bakur",
+		"name_plural": "Wonên Koreya Bakur",
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeon"
+	},
+	"KRW": {
+		"name": "Wona Koreya Başûr",
+		"name_plural": "Wonên Koreya Başûr",
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeon"
+	},
+	"KWD": {
+		"name": "Dînara Kuwaitê",
+		"name_plural": "Dînarên Kuwaitê",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"KYD": {
+		"name": "Dolarê Giravên Kaymanê",
+		"name_plural": "Dolarên Giravên Kaymanê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"KZT": {
+		"name": "Tengaya Qazaxistanê",
+		"name_plural": "Tengayên Qazaxistanê",
+		"subunit_name": "tiyn",
+		"subunit_name_plural": "tiyn"
+	},
+	"LAK": {
+		"name": "Kîpa Laosê",
+		"name_plural": "Kîpên Laosê",
+		"subunit_name": "att",
+		"subunit_name_plural": "att"
+	},
+	"LBP": {
+		"name": "Sterlîna Libnanê",
+		"name_plural": "Sterlînên Libnanê",
+		"subunit_name": "pîastre",
+		"subunit_name_plural": "pîastre"
+	},
+	"LKR": {
+		"name": "Rupiya Srî Lanqayê",
+		"name_plural": "Rupiyayên Srî Lanqayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"LRD": {
+		"name": "Dolarê Lîberyayê",
+		"name_plural": "Dolarên Lîberyayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"LSL": {
+		"name": "Lotiya Lesotoyê",
+		"name_plural": "Lotiyên Lesotoyê",
+		"subunit_name": "sente",
+		"subunit_name_plural": "sente"
+	},
+	"LYD": {
+		"name": "Dînara Lîbyayê",
+		"name_plural": "Dînarên Lîbyayê",
+		"subunit_name": "dirhem",
+		"subunit_name_plural": "dirhem"
+	},
+	"MAD": {
+		"name": "Dirhama Fasê",
+		"name_plural": "Dirhamên Fasê",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"MDL": {
+		"name": "Leuya Moldovayê",
+		"name_plural": "Leuyên Moldovayê",
+		"subunit_name": "ban",
+		"subunit_name_plural": "ban"
+	},
+	"MGA": {
+		"name": "Arîarya Madagaskarê",
+		"name_plural": "Arîaryên Madagaskarê",
+		"subunit_name": "iraimbilanja",
+		"subunit_name_plural": "iraimbilanja"
+	},
+	"MKD": {
+		"name": "Denara Makedonyayê",
+		"name_plural": "Denarên Makedonyayê",
+		"subunit_name": "deni",
+		"subunit_name_plural": "deni"
+	},
+	"MMK": {
+		"name": "Kyata Mîyanmarê",
+		"name_plural": "Kyatên Mîyanmarê",
+		"subunit_name": "pya",
+		"subunit_name_plural": "pya"
+	},
+	"MNT": {
+		"name": "Tugrîka Mongolyayê",
+		"name_plural": "Tugrîkên Mongolyayê",
+		"subunit_name": "möngö",
+		"subunit_name_plural": "möngö"
+	},
+	"MOP": {
+		"name": "Pataka Makayê",
+		"name_plural": "Patakayên Makayê",
+		"subunit_name": "avo",
+		"subunit_name_plural": "avo"
+	},
+	"MRU": {
+		"name": "Ouguiya Morîtanyayê",
+		"name_plural": "Ouguiyayên Morîtanyayê",
+		"subunit_name": "khoums",
+		"subunit_name_plural": "khoums"
+	},
+	"MUR": {
+		"name": "Rupiya Mûrisyûsê",
+		"name_plural": "Rupiyayên Mûrisyûsê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"MVR": {
+		"name": "Rufiyaaya Maldivan",
+		"name_plural": "Rufiyaayên Maldivan",
+		"subunit_name": "laari",
+		"subunit_name_plural": "laari"
+	},
+	"MWK": {
+		"name": "Kwaçaya Malawî",
+		"name_plural": "Kwaçayên Malawî",
+		"subunit_name": "tambala",
+		"subunit_name_plural": "tambala"
+	},
+	"MXN": {
+		"name": "Pesoya Meksîkoyê",
+		"name_plural": "Pesoyên Meksîkoyê",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"MYR": {
+		"name": "Rîngîtê Malezyayê",
+		"name_plural": "Rîngîtên Malezyayê",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"MZN": {
+		"name": "Metîkala Mozambîqê",
+		"name_plural": "Metîkalên Mozambîqê",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"NAD": {
+		"name": "Dolarê Namîbyayê",
+		"name_plural": "Dolarên Namîbyayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"NGN": {
+		"name": "Nayraya Nîjeryayê",
+		"name_plural": "Nayrayên Nîjeryayê",
+		"subunit_name": "kobo",
+		"subunit_name_plural": "kobo"
+	},
+	"NIO": {
+		"name": "Kordobaya Nîkaragwayê",
+		"name_plural": "Kordobayên Nîkaragwayê",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"NOK": {
+		"name": "Krona Norwêcê",
+		"name_plural": "Kronên Norwêcê",
+		"subunit_name": "øre",
+		"subunit_name_plural": "øre"
+	},
+	"NPR": {
+		"name": "Rupiya Nepaliyê",
+		"name_plural": "Rupiyayên Nepaliyê",
+		"subunit_name": "paîsa",
+		"subunit_name_plural": "paîsa"
+	},
+	"NZD": {
+		"name": "Dolarê Zelanda Nû",
+		"name_plural": "Dolarên Zelanda Nû",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"OMR": {
+		"name": "Riyala Omanê",
+		"name_plural": "Riyalên Omanê",
+		"subunit_name": "baisa",
+		"subunit_name_plural": "baisa"
+	},
+	"PAB": {
+		"name": "Balboaya Panamayê",
+		"name_plural": "Balboayên Panamayê",
+		"subunit_name": "sentésimo",
+		"subunit_name_plural": "sentésimo"
+	},
+	"PEN": {
+		"name": "Sola Perû",
+		"name_plural": "Solên Perû",
+		"subunit_name": "santîmo",
+		"subunit_name_plural": "santîmo"
+	},
+	"PGK": {
+		"name": "Kînaya Papua Gîneya Nû",
+		"name_plural": "Kînayên Papua Gîneya Nû",
+		"subunit_name": "toea",
+		"subunit_name_plural": "toea"
+	},
+	"PHP": {
+		"name": "Pesoya Fîlîpînê",
+		"name_plural": "Pesoyên Fîlîpînê",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimo"
+	},
+	"PKR": {
+		"name": "Rupiya Pakistanê",
+		"name_plural": "Rupiyayên Pakistanê",
+		"subunit_name": "paîsa",
+		"subunit_name_plural": "paîsa"
+	},
+	"PLN": {
+		"name": "Zlotiya Polonyayê",
+		"name_plural": "Zlotiyên Polonyayê",
+		"subunit_name": "grosz",
+		"subunit_name_plural": "grosz"
+	},
+	"PYG": {
+		"name": "Guaranîya Paragwayê",
+		"name_plural": "Guaranîyên Paragwayê",
+		"subunit_name": "santîmo",
+		"subunit_name_plural": "santîmo"
+	},
+	"QAR": {
+		"name": "Riyala Qatarê",
+		"name_plural": "Riyalên Qatarê",
+		"subunit_name": "dirhem",
+		"subunit_name_plural": "dirhem"
+	},
+	"RON": {
+		"name": "Leuya Romanyayê",
+		"name_plural": "Leuyên Romanyayê",
+		"subunit_name": "ban",
+		"subunit_name_plural": "ban"
+	},
+	"RSD": {
+		"name": "Dînara Serbistanê",
+		"name_plural": "Dînarên Serbistanê",
+		"subunit_name": "para",
+		"subunit_name_plural": "para"
+	},
+	"RUB": {
+		"name": "Rubleya Rûsî",
+		"name_plural": "Rubleyên Rûsî",
+		"subunit_name": "kopek",
+		"subunit_name_plural": "kopek"
+	},
+	"RWF": {
+		"name": "Franga Rwandayê",
+		"name_plural": "Frangên Rwandayê",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"SAR": {
+		"name": "Riyala Siûdî",
+		"name_plural": "Riyalên Siûdî",
+		"subunit_name": "halala",
+		"subunit_name_plural": "halala"
+	},
+	"SBD": {
+		"name": "Dolarê Giravên Solomonê",
+		"name_plural": "Dolarên Giravên Solomonê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"SCR": {
+		"name": "Rupiya Seyşelê",
+		"name_plural": "Rupiyayên Seyşelê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"SDG": {
+		"name": "Sterlîna Sûdanê",
+		"name_plural": "Sterlînên Sûdanê",
+		"subunit_name": "pîastre",
+		"subunit_name_plural": "pîastre"
+	},
+	"SEK": {
+		"name": "Krona Swêdê",
+		"name_plural": "Kronên Swêdê",
+		"subunit_name": "öre",
+		"subunit_name_plural": "öre"
+	},
+	"SGD": {
+		"name": "Dolarê Sîngapûrê",
+		"name_plural": "Dolarên Sîngapûrê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"SHP": {
+		"name": "Sterlîna Saint Helena",
+		"name_plural": "Sterlînên Saint Helena",
+		"subunit_name": "pence",
+		"subunit_name_plural": "pence"
+	},
+	"SLL": {
+		"name": "Leoneya Sîerra Leonê",
+		"name_plural": "Leoneyên Sîerra Leonê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"SOS": {
+		"name": "Şîlînga Somalyayê",
+		"name_plural": "Şîlîngên Somalyayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"SRD": {
+		"name": "Dolarê Surînamê",
+		"name_plural": "Dolarên Surînamê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"SSP": {
+		"name": "Sterlîna Sûdana Başûr",
+		"name_plural": "Sterlînên Sûdana Başûr",
+		"subunit_name": "pîaster",
+		"subunit_name_plural": "pîaster"
+	},
+	"STN": {
+		"name": "Dobraya São Tomé û Prînsîpê",
+		"name_plural": "Dobrayên São Tomé û Prînsîpê",
+		"subunit_name": "santîmo",
+		"subunit_name_plural": "santîmo"
+	},
+	"SYP": {
+		"name": "Sterlîna Sûrî",
+		"name_plural": "Sterlînên Sûrî",
+		"subunit_name": "pîastre",
+		"subunit_name_plural": "pîastre"
+	},
+	"SZL": {
+		"name": "Lilangenîya Swazîlandê",
+		"name_plural": "Emalangenîyên Swazîlandê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"THB": {
+		"name": "Bahta Taylandê",
+		"name_plural": "Bahtên Taylandê",
+		"subunit_name": "satang",
+		"subunit_name_plural": "satang"
+	},
+	"TJS": {
+		"name": "Somonya Tacikistanê",
+		"name_plural": "Somonyên Tacikistanê",
+		"subunit_name": "diram",
+		"subunit_name_plural": "diram"
+	},
+	"TMT": {
+		"name": "Manata Tirkmenistanê",
+		"name_plural": "Manatên Tirkmenistanê",
+		"subunit_name": "tenge",
+		"subunit_name_plural": "tenge"
+	},
+	"TND": {
+		"name": "Dînara Tunisê",
+		"name_plural": "Dînarên Tunisê",
+		"subunit_name": "mîlîm",
+		"subunit_name_plural": "mîlîm"
+	},
+	"TOP": {
+		"name": "Paʻangaya Tongayê",
+		"name_plural": "Paʻangayên Tongayê",
+		"subunit_name": "senîtî",
+		"subunit_name_plural": "senîtî"
+	},
+	"TRY": {
+		"name": "Lîraya Tirkiyeyê",
+		"name_plural": "Lîrayên Tirkiyeyê",
+		"subunit_name": "kuruş",
+		"subunit_name_plural": "kuruş"
+	},
+	"TTD": {
+		"name": "Dolarê Trînîdad û Tobago",
+		"name_plural": "Dolarên Trînîdad û Tobago",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"TWD": {
+		"name": "Dolarê Taywanê",
+		"name_plural": "Dolarên Taywanê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"TZS": {
+		"name": "Şîlînga Tanzanyayê",
+		"name_plural": "Şîlîngên Tanzanyayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"UAH": {
+		"name": "Grîvniya Ukraynayê",
+		"name_plural": "Grîvniyên Ukraynayê",
+		"subunit_name": "kopek",
+		"subunit_name_plural": "kopek"
+	},
+	"UGX": {
+		"name": "Şîlînga Ugandayê",
+		"name_plural": "Şîlîngên Ugandayê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"USD": {
+		"name": "Dolarê Dewletên Yekbûyî",
+		"name_plural": "Dolarên Dewletên Yekbûyî",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"UYU": {
+		"name": "Pesoya Ûrûgwayê",
+		"name_plural": "Pesoyên Ûrûgwayê",
+		"subunit_name": "sentésimo",
+		"subunit_name_plural": "sentésimo"
+	},
+	"UZS": {
+		"name": "Soma Ozbekistanê",
+		"name_plural": "Somên Ozbekistanê",
+		"subunit_name": "tiyin",
+		"subunit_name_plural": "tiyin"
+	},
+	"VES": {
+		"name": "Bolîvara Venêswêlayê",
+		"name_plural": "Bolîvarên Venêswêlayê",
+		"subunit_name": "santîmo",
+		"subunit_name_plural": "santîmo"
+	},
+	"VND": {
+		"name": "Donga Vyetnamê",
+		"name_plural": "Dongên Vyetnamê",
+		"subunit_name": "hào",
+		"subunit_name_plural": "hào"
+	},
+	"VUV": {
+		"name": "Vatuya Vanûatû",
+		"name_plural": "Vatuyên Vanûatû",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"WST": {
+		"name": "Talaya Samoayê",
+		"name_plural": "Talayên Samoayê",
+		"subunit_name": "sene",
+		"subunit_name_plural": "sene"
+	},
+	"XAF": {
+		"name": "Franga CFA ya Afrîkaya Navîn",
+		"name_plural": "Frangên CFA yên Afrîkaya Navîn",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"XCD": {
+		"name": "Dolarê Karayîba Rojhilat",
+		"name_plural": "Dolarên Karayîba Rojhilat",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"XOF": {
+		"name": "Franga CFA ya Afrîkaya Başûrê Rojhilat",
+		"name_plural": "Frangên CFA yên Afrîkaya Başûrê Rojhilat",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"XPF": {
+		"name": "Franga CFP",
+		"name_plural": "Frangên CFP",
+		"subunit_name": "santîm",
+		"subunit_name_plural": "santîm"
+	},
+	"YER": {
+		"name": "Riyala Yemenê",
+		"name_plural": "Riyalên Yemenê",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"ZAR": {
+		"name": "Randê Afrîkaya Başûr",
+		"name_plural": "Randên Afrîkaya Başûr",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"ZMW": {
+		"name": "Kwaçaya Zambiyayê",
+		"name_plural": "Kwaçayên Zambiyayê",
+		"subunit_name": "ngwee",
+		"subunit_name_plural": "ngwee"
+	},
+	"ZWL": {
+		"name": "Dolarê Zîmbabwê",
+		"name_plural": "Dolarên Zîmbabwê",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	}
+}

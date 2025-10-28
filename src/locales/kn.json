@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "ಯುಎಇ ದಿರ್ಹಾಂ",
+		"name_plural": "ಯುಎಇ ದಿರ್ಹಾಂಗಳು",
+		"subunit_name": "ಫಿಲ್ಸ್",
+		"subunit_name_plural": "ಫಿಲ್ಸ್ಗಳು"
+	},
+	"AFN": {
+		"name": "ಅಫ್ಘಾನ್ ಅಫ್ಘಾನಿ",
+		"name_plural": "ಅಫ್ಘಾನ್ ಅಫ್ಘಾನಿಗಳು",
+		"subunit_name": "ಪುಲ್",
+		"subunit_name_plural": "ಪುಲ್ಗಳು"
+	},
+	"ALL": {
+		"name": "ಅಲ್ಬೇನಿಯನ್ ಲೆಕ್",
+		"name_plural": "ಅಲ್ಬೇನಿಯನ್ ಲೆಕ್ಗಳು",
+		"subunit_name": "ಕ್ವಿಂಡಾರ್ಕಾ",
+		"subunit_name_plural": "ಕ್ವಿಂಡಾರ್ಕಾಗಳು"
+	},
+	"AMD": {
+		"name": "ಅರ್ಮೇನಿಯನ್ ಡ್ರಾಮ್",
+		"name_plural": "ಅರ್ಮೇನಿಯನ್ ಡ್ರಾಮ್ಗಳು",
+		"subunit_name": "ಲೂಮಾ",
+		"subunit_name_plural": "ಲೂಮಾಗಳು"
+	},
+	"ANG": {
+		"name": "ನೆದರ್ಲೆಂಡ್ಸ್ ಆಂಟಿಲಿಯನ್ ಗಿಲ್ಡರ್",
+		"name_plural": "ನೆದರ್ಲೆಂಡ್ಸ್ ಆಂಟಿಲಿಯನ್ ಗಿಲ್ಡರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"AOA": {
+		"name": "ಅಂಗೋಲನ್ ಕ್ವಾಂಜಾ",
+		"name_plural": "ಅಂಗೋಲನ್ ಕ್ವಾಂಜಾಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮೊ",
+		"subunit_name_plural": "ಸೆಂಟಿಮೊಗಳು"
+	},
+	"ARS": {
+		"name": "ಅರ್ಜೆಂಟೀನಾ ಪೆಸೊ",
+		"name_plural": "ಅರ್ಜೆಂಟೀನಾ ಪೆಸೊಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"AUD": {
+		"name": "ಆಸ್ಟ್ರೇಲಿಯನ್ ಡಾಲರ್",
+		"name_plural": "ಆಸ್ಟ್ರೇಲಿಯನ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"AWG": {
+		"name": "ಅರುಬನ್ ಫ್ಲೋರಿನ್",
+		"name_plural": "ಅರುಬನ್ ಫ್ಲೋರಿನ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"AZN": {
+		"name": "ಅಜರ್ಬೈಜಾನಿ ಮನಾಟ್",
+		"name_plural": "ಅಜರ್ಬೈಜಾನಿ ಮನಾಟ್ಗಳು",
+		"subunit_name": "ಗಪಿಕ್",
+		"subunit_name_plural": "ಗಪಿಕ್ಗಳು"
+	},
+	"BAM": {
+		"name": "ಬೋಸ್ನಿಯಾ-ಹರ್ಜೆಗೋವಿನಾ ಪರಿವರ್ತನೀಯ ಮಾರ್ಕ್",
+		"name_plural": "ಬೋಸ್ನಿಯಾ-ಹರ್ಜೆಗೋವಿನಾ ಪರಿವರ್ತನೀಯ ಮಾರ್ಕ್ಗಳು",
+		"subunit_name": "ಫೆನ್ನಿಗ್",
+		"subunit_name_plural": "ಫೆನ್ನಿಗ್ಗಳು"
+	},
+	"BBD": {
+		"name": "ಬಾರ್ಬಡೋಸ್ ಡಾಲರ್",
+		"name_plural": "ಬಾರ್ಬಡೋಸ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"BDT": {
+		"name": "ಬಾಂಗ್ಲಾದೇಶಿ ಟಾಕಾ",
+		"name_plural": "ಬಾಂಗ್ಲಾದೇಶಿ ಟಾಕಾಗಳು",
+		"subunit_name": "ಪೊಯ್ಶಾ",
+		"subunit_name_plural": "ಪೊಯ್ಶಾಗಳು"
+	},
+	"BGN": {
+		"name": "ಬಲ್ಗೇರಿಯನ್ ಲೆವ್",
+		"name_plural": "ಬಲ್ಗೇರಿಯನ್ ಲೆವ್ಗಳು",
+		"subunit_name": "ಸ್ಟೋಟಿನ್ಕಿ",
+		"subunit_name_plural": "ಸ್ಟೋಟಿನ್ಕಿಗಳು"
+	},
+	"BHD": {
+		"name": "ಬಹರೈನಿ ದಿನಾರ್",
+		"name_plural": "ಬಹರೈನಿ ದಿನಾರ್ಗಳು",
+		"subunit_name": "ಫಿಲ್ಸ್",
+		"subunit_name_plural": "ಫಿಲ್ಸ್ಗಳು"
+	},
+	"BIF": {
+		"name": "ಬುರುಂಡಿಯನ್ ಫ್ರಾಂಕ್",
+		"name_plural": "ಬುರುಂಡಿಯನ್ ಫ್ರಾಂಕ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮ್",
+		"subunit_name_plural": "ಸೆಂಟಿಮ್ಗಳು"
+	},
+	"BMD": {
+		"name": "ಬರ್ಮುಡಿಯನ್ ಡಾಲರ್",
+		"name_plural": "ಬರ್ಮುಡಿಯನ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"BND": {
+		"name": "ಬ್ರೂನೈ ಡಾಲರ್",
+		"name_plural": "ಬ್ರೂನೈ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆನ್",
+		"subunit_name_plural": "ಸೆನ್ಗಳು"
+	},
+	"BOB": {
+		"name": "ಬೊಲಿವಿಯನ್ ಬೊಲಿವಿಯಾನೊ",
+		"name_plural": "ಬೊಲಿವಿಯನ್ ಬೊಲಿವಿಯಾನೊಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"BRL": {
+		"name": "ಬ್ರೆಜಿಲಿಯನ್ ರಿಯಾಲ್",
+		"name_plural": "ಬ್ರೆಜಿಲಿಯನ್ ರಿಯಾಲ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"BSD": {
+		"name": "ಬಹಾಮಿಯನ್ ಡಾಲರ್",
+		"name_plural": "ಬಹಾಮಿಯನ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"BTN": {
+		"name": "ಭೂಟಾನೀಸ್ ನ್ಗುಲ್ಟ್ರಮ್",
+		"name_plural": "ಭೂಟಾನೀಸ್ ನ್ಗುಲ್ಟ್ರಮ್ಗಳು",
+		"subunit_name": "ಚೆರ್ಟಮ್",
+		"subunit_name_plural": "ಚೆರ್ಟಮ್ಗಳು"
+	},
+	"BWP": {
+		"name": "ಬೊಟ್ಸ್ವಾನನ್ ಪುಲಾ",
+		"name_plural": "ಬೊಟ್ಸ್ವಾನನ್ ಪುಲಾಗಳು",
+		"subunit_name": "ಥೆಬೆ",
+		"subunit_name_plural": "ಥೆಬೆಗಳು"
+	},
+	"BYN": {
+		"name": "ಬೆಲಾರೂಸಿಯನ್ ರೂಬಲ್",
+		"name_plural": "ಬೆಲಾರೂಸಿಯನ್ ರೂಬಲ್ಗಳು",
+		"subunit_name": "ಕೊಪೇಕ್",
+		"subunit_name_plural": "ಕೊಪೇಕ್ಗಳು"
+	},
+	"BZD": {
+		"name": "ಬೆಲೀಜ್ ಡಾಲರ್",
+		"name_plural": "ಬೆಲೀಜ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"CAD": {
+		"name": "ಕೆನಡಿಯನ್ ಡಾಲರ್",
+		"name_plural": "ಕೆನಡಿಯನ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"CDF": {
+		"name": "ಕಾಂಗೋಲೀಸ್ ಫ್ರಾಂಕ್",
+		"name_plural": "ಕಾಂಗೋಲೀಸ್ ಫ್ರಾಂಕ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮ್",
+		"subunit_name_plural": "ಸೆಂಟಿಮ್ಗಳು"
+	},
+	"CHF": {
+		"name": "ಸ್ವಿಸ್ ಫ್ರಾಂಕ್",
+		"name_plural": "ಸ್ವಿಸ್ ಫ್ರಾಂಕ್ಗಳು",
+		"subunit_name": "ರಾಪೆನ್",
+		"subunit_name_plural": "ರಾಪೆನ್ಗಳು"
+	},
+	"CLP": {
+		"name": "ಚಿಲಿಯನ್ ಪೆಸೊ",
+		"name_plural": "ಚಿಲಿಯನ್ ಪೆಸೊಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"CNY": {
+		"name": "ಚೀನೀ ಯುವಾನ್",
+		"name_plural": "ಚೀನೀ ಯುವಾನ್ಗಳು",
+		"subunit_name": "ಫೆನ್",
+		"subunit_name_plural": "ಫೆನ್ಗಳು"
+	},
+	"COP": {
+		"name": "ಕೊಲಂಬಿಯನ್ ಪೆಸೊ",
+		"name_plural": "ಕೊಲಂಬಿಯನ್ ಪೆಸೊಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"CRC": {
+		"name": "ಕೋಸ್ಟಾ ರಿಕಾನ್ ಕೊಲೋನ್",
+		"name_plural": "ಕೋಸ್ಟಾ ರಿಕಾನ್ ಕೊಲೋನ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮೊ",
+		"subunit_name_plural": "ಸೆಂಟಿಮೊಗಳು"
+	},
+	"CUC": {
+		"name": "ಕ್ಯೂಬನ್ ಪರಿವರ್ತನೀಯ ಪೆಸೊ",
+		"name_plural": "ಕ್ಯೂಬನ್ ಪರಿವರ್ತನೀಯ ಪೆಸೊಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"CUP": {
+		"name": "ಕ್ಯೂಬನ್ ಪೆಸೊ",
+		"name_plural": "ಕ್ಯೂಬನ್ ಪೆಸೊಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"CVE": {
+		"name": "ಕೇಪ್ ವರ್ಡಿಯನ್ ಎಸ್ಕುಡೊ",
+		"name_plural": "ಕೇಪ್ ವರ್ಡಿಯನ್ ಎಸ್ಕುಡೊಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"CZK": {
+		"name": "ಚೆಕ್ ಕೊರುನಾ",
+		"name_plural": "ಚೆಕ್ ಕೊರುನಾಗಳು",
+		"subunit_name": "ಹಲೇರ್",
+		"subunit_name_plural": "ಹಲೇರ್ಗಳು"
+	},
+	"DJF": {
+		"name": "ಜಿಬೂಟಿಯನ್ ಫ್ರಾಂಕ್",
+		"name_plural": "ಜಿಬೂಟಿಯನ್ ಫ್ರಾಂಕ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮ್",
+		"subunit_name_plural": "ಸೆಂಟಿಮ್ಗಳು"
+	},
+	"DKK": {
+		"name": "ಡ್ಯಾನಿಷ್ ಕ್ರೋನ್",
+		"name_plural": "ಡ್ಯಾನಿಷ್ ಕ್ರೋನರ್",
+		"subunit_name": "ಓರೆ",
+		"subunit_name_plural": "ಓರೆಗಳು"
+	},
+	"DOP": {
+		"name": "ಡೊಮಿನಿಕನ್ ಪೆಸೊ",
+		"name_plural": "ಡೊಮಿನಿಕನ್ ಪೆಸೊಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"DZD": {
+		"name": "ಅಲ್ಜೀರಿಯನ್ ದಿನಾರ್",
+		"name_plural": "ಅಲ್ಜೀರಿಯನ್ ದಿನಾರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮ್",
+		"subunit_name_plural": "ಸೆಂಟಿಮ್ಗಳು"
+	},
+	"EGP": {
+		"name": "ಈಜಿಪ್ಟಿನ ಪೌಂಡ್",
+		"name_plural": "ಈಜಿಪ್ಟಿನ ಪೌಂಡ್ಗಳು",
+		"subunit_name": "ಪಿಯಾಸ್ಟರ್",
+		"subunit_name_plural": "ಪಿಯಾಸ್ಟರ್ಗಳು"
+	},
+	"ERN": {
+		"name": "ಎರಿಟ್ರಿಯನ್ ನಕ್ಫಾ",
+		"name_plural": "ಎರಿಟ್ರಿಯನ್ ನಕ್ಫಾಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"ETB": {
+		"name": "ಎಥಿಯೋಪಿಯನ್ ಬಿರ್",
+		"name_plural": "ಎಥಿಯೋಪಿಯನ್ ಬಿರ್ಗಳು",
+		"subunit_name": "ಸಂಟಿಮ್",
+		"subunit_name_plural": "ಸಂಟಿಮ್ಗಳು"
+	},
+	"EUR": {
+		"name": "ಯೂರೋ",
+		"name_plural": "ಯೂರೋಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"FJD": {
+		"name": "ಫಿಜಿಯನ್ ಡಾಲರ್",
+		"name_plural": "ಫಿಜಿಯನ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"FKP": {
+		"name": "ಫಾಕ್ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳ ಪೌಂಡ್",
+		"name_plural": "ಫಾಕ್ಲ್ಯಾಂಡ್ ದ್ವೀಪಗಳ ಪೌಂಡ್ಗಳು",
+		"subunit_name": "ಪೆನ್ನಿ",
+		"subunit_name_plural": "ಪೆನ್ನಿಗಳು"
+	},
+	"GBP": {
+		"name": "ಬ್ರಿಟಿಷ್ ಪೌಂಡ್",
+		"name_plural": "ಬ್ರಿಟಿಷ್ ಪೌಂಡ್ಗಳು",
+		"subunit_name": "ಪೆನ್ನಿ",
+		"subunit_name_plural": "ಪೆನ್ನಿಗಳು"
+	},
+	"GEL": {
+		"name": "ಜಾರ್ಜಿಯನ್ ಲಾರಿ",
+		"name_plural": "ಜಾರ್ಜಿಯನ್ ಲಾರಿಗಳು",
+		"subunit_name": "ಟೆಟ್ರಿ",
+		"subunit_name_plural": "ಟೆಟ್ರಿಗಳು"
+	},
+	"GHS": {
+		"name": "ಘಾನಾ ಸೆಡಿ",
+		"name_plural": "ಘಾನಾ ಸೆಡಿಗಳು",
+		"subunit_name": "ಪೆಸೆವಾ",
+		"subunit_name_plural": "ಪೆಸೆವಾಗಳು"
+	},
+	"GIP": {
+		"name": "ಜಿಬ್ರಾಲ್ಟರ್ ಪೌಂಡ್",
+		"name_plural": "ಜಿಬ್ರಾಲ್ಟರ್ ಪೌಂಡ್ಗಳು",
+		"subunit_name": "ಪೆನ್ನಿ",
+		"subunit_name_plural": "ಪೆನ್ನಿಗಳು"
+	},
+	"GMD": {
+		"name": "ಗಾಂಬಿಯನ್ ದಲಾಸಿ",
+		"name_plural": "ಗಾಂಬಿಯನ್ ದಲಾಸಿಗಳು",
+		"subunit_name": "ಬುಟುಟ್",
+		"subunit_name_plural": "ಬುಟುಟ್ಗಳು"
+	},
+	"GNF": {
+		"name": "ಗಿನಿಯನ್ ಫ್ರಾಂಕ್",
+		"name_plural": "ಗಿನಿಯನ್ ಫ್ರಾಂಕ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮ್",
+		"subunit_name_plural": "ಸೆಂಟಿಮ್ಗಳು"
+	},
+	"GTQ": {
+		"name": "ಗ್ವಾಟೆಮಾಲನ್ ಕ್ವೆಟ್ಜಲ್",
+		"name_plural": "ಗ್ವಾಟೆಮಾಲನ್ ಕ್ವೆಟ್ಜಲ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"GYD": {
+		"name": "ಗಯಾನೀಸ್ ಡಾಲರ್",
+		"name_plural": "ಗಯಾನೀಸ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"HKD": {
+		"name": "ಹಾಂಗ್ ಕಾಂಗ್ ಡಾಲರ್",
+		"name_plural": "ಹಾಂಗ್ ಕಾಂಗ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"HNL": {
+		"name": "ಹೊಂಡುರಾನ್ ಲೆಂಪಿರಾ",
+		"name_plural": "ಹೊಂಡುರಾನ್ ಲೆಂಪಿರಾಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"HRK": {
+		"name": "ಕ್ರೊಯೇಶಿಯನ್ ಕುನಾ",
+		"name_plural": "ಕ್ರೊಯೇಶಿಯನ್ ಕುನಾಗಳು",
+		"subunit_name": "ಲಿಪಾ",
+		"subunit_name_plural": "ಲಿಪಾಗಳು"
+	},
+	"HTG": {
+		"name": "ಹೈಟಿಯನ್ ಗೌರ್ಡ್",
+		"name_plural": "ಹೈಟಿಯನ್ ಗೌರ್ಡ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮ್",
+		"subunit_name_plural": "ಸೆಂಟಿಮ್ಗಳು"
+	},
+	"HUF": {
+		"name": "ಹಂಗೇರಿಯನ್ ಫೊರಿಂಟ್",
+		"name_plural": "ಹಂಗೇರಿಯನ್ ಫೊರಿಂಟ್ಗಳು",
+		"subunit_name": "ಫಿಲ್ಲರ್",
+		"subunit_name_plural": "ಫಿಲ್ಲರ್ಗಳು"
+	},
+	"IDR": {
+		"name": "ಇಂಡೋನೇಶಿಯನ್ ರೂಪಾಯಿ",
+		"name_plural": "ಇಂಡೋನೇಶಿಯನ್ ರೂಪಾಯಿಗಳು",
+		"subunit_name": "ಸೆನ್",
+		"subunit_name_plural": "ಸೆನ್ಗಳು"
+	},
+	"ILS": {
+		"name": "ಇಸ್ರೇಲಿಯನ್ ನ್ಯೂ ಶೆಕೆಲ್",
+		"name_plural": "ಇಸ್ರೇಲಿಯನ್ ನ್ಯೂ ಶೆಕೆಲ್ಗಳು",
+		"subunit_name": "ಅಗೊರಾ",
+		"subunit_name_plural": "ಅಗೊರೋಟ್"
+	},
+	"INR": {
+		"name": "ಭಾರತೀಯ ರೂಪಾಯಿ",
+		"name_plural": "ಭಾರತೀಯ ರೂಪಾಯಿಗಳು",
+		"subunit_name": "ಪೈಸಾ",
+		"subunit_name_plural": "ಪೈಸೆಗಳು"
+	},
+	"IQD": {
+		"name": "ಇರಾಕಿ ದಿನಾರ್",
+		"name_plural": "ಇರಾಕಿ ದಿನಾರ್ಗಳು",
+		"subunit_name": "ಫಿಲ್ಸ್",
+		"subunit_name_plural": "ಫಿಲ್ಸ್ಗಳು"
+	},
+	"IRR": {
+		"name": "ಇರಾನಿಯನ್ ರಿಯಾಲ್",
+		"name_plural": "ಇರಾನಿಯನ್ ರಿಯಾಲ್ಗಳು",
+		"subunit_name": "ದಿನಾರ್",
+		"subunit_name_plural": "ದಿನಾರ್ಗಳು"
+	},
+	"ISK": {
+		"name": "ಐಸ್ಲ್ಯಾಂಡಿಕ್ ಕ್ರೋನಾ",
+		"name_plural": "ಐಸ್ಲ್ಯಾಂಡಿಕ್ ಕ್ರೋನೂರ್",
+		"subunit_name": "ಏಯ್ರರ್",
+		"subunit_name_plural": "ಏಯ್ರರ್ಗಳು"
+	},
+	"JMD": {
+		"name": "ಜಮೈಕನ್ ಡಾಲರ್",
+		"name_plural": "ಜಮೈಕನ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"JOD": {
+		"name": "ಜಾರ್ಡನಿಯನ್ ದಿನಾರ್",
+		"name_plural": "ಜಾರ್ಡನಿಯನ್ ದಿನಾರ್ಗಳು",
+		"subunit_name": "ಫಿಲ್ಸ್",
+		"subunit_name_plural": "ಫಿಲ್ಸ್ಗಳು"
+	},
+	"JPY": {
+		"name": "ಜಪಾನೀಸ್ ಯೆನ್",
+		"name_plural": "ಜಪಾನೀಸ್ ಯೆನ್ಗಳು",
+		"subunit_name": "ಸೆನ್",
+		"subunit_name_plural": "ಸೆನ್ಗಳು"
+	},
+	"KES": {
+		"name": "ಕೆನ್ಯಾನ್ ಶಿಲ್ಲಿಂಗ್",
+		"name_plural": "ಕೆನ್ಯಾನ್ ಶಿಲ್ಲಿಂಗ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"KGS": {
+		"name": "ಕಿರ್ಗಿಸ್ತಾನಿ ಸೊಮ್",
+		"name_plural": "ಕಿರ್ಗಿಸ್ತಾನಿ ಸೊಮ್ಗಳು",
+		"subunit_name": "ತ್ಯಿಯಿನ್",
+		"subunit_name_plural": "ತ್ಯಿಯಿನ್ಗಳು"
+	},
+	"KHR": {
+		"name": "ಕಾಂಬೋಡಿಯನ್ ರಿಯಲ್",
+		"name_plural": "ಕಾಂಬೋಡಿಯನ್ ರಿಯಲ್ಗಳು",
+		"subunit_name": "ಸೆನ್",
+		"subunit_name_plural": "ಸೆನ್ಗಳು"
+	},
+	"KMF": {
+		"name": "ಕೊಮೊರಿಯನ್ ಫ್ರಾಂಕ್",
+		"name_plural": "ಕೊಮೊರಿಯನ್ ಫ್ರಾಂಕ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮ್",
+		"subunit_name_plural": "ಸೆಂಟಿಮ್ಗಳು"
+	},
+	"KPW": {
+		"name": "ಉತ್ತರ ಕೊರಿಯನ್ ವೊನ್",
+		"name_plural": "ಉತ್ತರ ಕೊರಿಯನ್ ವೊನ್ಗಳು",
+		"subunit_name": "ಚೊನ್",
+		"subunit_name_plural": "ಚೊನ್ಗಳು"
+	},
+	"KRW": {
+		"name": "ದಕ್ಷಿಣ ಕೊರಿಯನ್ ವೊನ್",
+		"name_plural": "ದಕ್ಷಿಣ ಕೊರಿಯನ್ ವೊನ್ಗಳು",
+		"subunit_name": "ಜೆಯೋನ್",
+		"subunit_name_plural": "ಜೆಯೋನ್ಗಳು"
+	},
+	"KWD": {
+		"name": "ಕುವೈಟಿ ದಿನಾರ್",
+		"name_plural": "ಕುವೈಟಿ ದಿನಾರ್ಗಳು",
+		"subunit_name": "ಫಿಲ್ಸ್",
+		"subunit_name_plural": "ಫಿಲ್ಸ್ಗಳು"
+	},
+	"KYD": {
+		"name": "ಕೇಮನ್ ದ್ವೀಪಗಳ ಡಾಲರ್",
+		"name_plural": "ಕೇಮನ್ ದ್ವೀಪಗಳ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"KZT": {
+		"name": "ಕಜಾಖ್ಸ್ತಾನಿ ಟೆಂಗೆ",
+		"name_plural": "ಕಜಾಖ್ಸ್ತಾನಿ ಟೆಂಗೆಗಳು",
+		"subunit_name": "ತಿಯಿನ್",
+		"subunit_name_plural": "ತಿಯಿನ್ಗಳು"
+	},
+	"LAK": {
+		"name": "ಲಾವೋಶಿಯನ್ ಕಿಪ್",
+		"name_plural": "ಲಾವೋಶಿಯನ್ ಕಿಪ್ಗಳು",
+		"subunit_name": "ಅಟ್",
+		"subunit_name_plural": "ಅಟ್ಗಳು"
+	},
+	"LBP": {
+		"name": "ಲೆಬನೀಸ್ ಪೌಂಡ್",
+		"name_plural": "ಲೆಬನೀಸ್ ಪೌಂಡ್ಗಳು",
+		"subunit_name": "ಪಿಯಾಸ್ಟರ್",
+		"subunit_name_plural": "ಪಿಯಾಸ್ಟರ್ಗಳು"
+	},
+	"LKR": {
+		"name": "ಶ್ರೀಲಂಕಾ ರೂಪಾಯಿ",
+		"name_plural": "ಶ್ರೀಲಂಕಾ ರೂಪಾಯಿಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"LRD": {
+		"name": "ಲೈಬೀರಿಯನ್ ಡಾಲರ್",
+		"name_plural": "ಲೈಬೀರಿಯನ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"LSL": {
+		"name": "ಲೆಸೊಥೊ ಲೋಟಿ",
+		"name_plural": "ಲೆಸೊಥೊ ಲೋಟಿಗಳು",
+		"subunit_name": "ಸೆಂಟೆ",
+		"subunit_name_plural": "ಸೆಂಟೆಗಳು"
+	},
+	"LYD": {
+		"name": "ಲಿಬಿಯನ್ ದಿನಾರ್",
+		"name_plural": "ಲಿಬಿಯನ್ ದಿನಾರ್ಗಳು",
+		"subunit_name": "ದಿರ್ಹಾಂ",
+		"subunit_name_plural": "ದಿರ್ಹಾಂಗಳು"
+	},
+	"MAD": {
+		"name": "ಮೊರಾಕನ್ ದಿರ್ಹಾಂ",
+		"name_plural": "ಮೊರಾಕನ್ ದಿರ್ಹಾಂಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮ್",
+		"subunit_name_plural": "ಸೆಂಟಿಮ್ಗಳು"
+	},
+	"MDL": {
+		"name": "ಮೊಲ್ಡೋವನ್ ಲೆಯು",
+		"name_plural": "ಮೊಲ್ಡೋವನ್ ಲೆಯುಗಳು",
+		"subunit_name": "ಬಾನ್",
+		"subunit_name_plural": "ಬಾನಿಗಳು"
+	},
+	"MGA": {
+		"name": "ಮಲಗಾಸಿ ಅರಿಯಾರಿ",
+		"name_plural": "ಮಲಗಾಸಿ ಅರಿಯಾರಿಗಳು",
+		"subunit_name": "ಇರೈಂಬಿಲಂಜಾ",
+		"subunit_name_plural": "ಇರೈಂಬಿಲಂಜಾಗಳು"
+	},
+	"MKD": {
+		"name": "ಮ್ಯಾಸಿಡೋನಿಯನ್ ದಿನಾರ್",
+		"name_plural": "ಮ್ಯಾಸಿಡೋನಿಯನ್ ದಿನಾರ್ಗಳು",
+		"subunit_name": "ಡೆನಿ",
+		"subunit_name_plural": "ಡೆನಿಗಳು"
+	},
+	"MMK": {
+		"name": "ಮಿಯಾನ್ಮಾರ್ ಕ್ಯಾಟ್",
+		"name_plural": "ಮಿಯಾನ್ಮಾರ್ ಕ್ಯಾಟ್ಗಳು",
+		"subunit_name": "ಪ್ಯಾ",
+		"subunit_name_plural": "ಪ್ಯಾಗಳು"
+	},
+	"MNT": {
+		"name": "ಮಂಗೋಲಿಯನ್ ಟುಗ್ರಿಕ್",
+		"name_plural": "ಮಂಗೋಲಿಯನ್ ಟುಗ್ರಿಕ್ಗಳು",
+		"subunit_name": "ಮೊಂಗೊ",
+		"subunit_name_plural": "ಮೊಂಗೊಗಳು"
+	},
+	"MOP": {
+		"name": "ಮಕಾವು ಪಟಾಕಾ",
+		"name_plural": "ಮಕಾವು ಪಟಾಕಾಗಳು",
+		"subunit_name": "ಅವೊ",
+		"subunit_name_plural": "ಅವೊಗಳು"
+	},
+	"MRU": {
+		"name": "ಮಾರಿಟಾನಿಯನ್ ಔಗುಯ್ಯಾ",
+		"name_plural": "ಮಾರಿಟಾನಿಯನ್ ಔಗುಯ್ಯಾಗಳು",
+		"subunit_name": "ಖೌಮ್ಸ್",
+		"subunit_name_plural": "ಖೌಮ್ಸ್ಗಳು"
+	},
+	"MUR": {
+		"name": "ಮಾರಿಷಿಯನ್ ರೂಪಾಯಿ",
+		"name_plural": "ಮಾರಿಷಿಯನ್ ರೂಪಾಯಿಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"MVR": {
+		"name": "ಮಾಲ್ದೀವಿಯನ್ ರುಫಿಯಾ",
+		"name_plural": "ಮಾಲ್ದೀವಿಯನ್ ರುಫಿಯಾಗಳು",
+		"subunit_name": "ಲಾರಿ",
+		"subunit_name_plural": "ಲಾರಿಗಳು"
+	},
+	"MWK": {
+		"name": "ಮಲಾವಿಯನ್ ಕ್ವಾಚಾ",
+		"name_plural": "ಮಲಾವಿಯನ್ ಕ್ವಾಚಾಗಳು",
+		"subunit_name": "ತಂಬಾಲಾ",
+		"subunit_name_plural": "ತಂಬಾಲಾಗಳು"
+	},
+	"MXN": {
+		"name": "ಮೆಕ್ಸಿಕನ್ ಪೆಸೊ",
+		"name_plural": "ಮೆಕ್ಸಿಕನ್ ಪೆಸೊಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"MYR": {
+		"name": "ಮಲೇಶಿಯನ್ ರಿಂಗ್ಗಿಟ್",
+		"name_plural": "ಮಲೇಶಿಯನ್ ರಿಂಗ್ಗಿಟ್ಗಳು",
+		"subunit_name": "ಸೆನ್",
+		"subunit_name_plural": "ಸೆನ್ಗಳು"
+	},
+	"MZN": {
+		"name": "ಮೊಜಾಂಬಿಕನ್ ಮೆಟಿಕಲ್",
+		"name_plural": "ಮೊಜಾಂಬಿಕನ್ ಮೆಟಿಕಲ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"NAD": {
+		"name": "ನಮೀಬಿಯನ್ ಡಾಲರ್",
+		"name_plural": "ನಮೀಬಿಯನ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"NGN": {
+		"name": "ನೈಜೀರಿಯನ್ ನೈರಾ",
+		"name_plural": "ನೈಜೀರಿಯನ್ ನೈರಾಗಳು",
+		"subunit_name": "ಕೊಬೊ",
+		"subunit_name_plural": "ಕೊಬೊಗಳು"
+	},
+	"NIO": {
+		"name": "ನಿಕರಾಗುವನ್ ಕೊರ್ಡೊಬಾ",
+		"name_plural": "ನಿಕರಾಗುವನ್ ಕೊರ್ಡೊಬಾಗಳು",
+		"subunit_name": "ಸೆಂಟಾವೊ",
+		"subunit_name_plural": "ಸೆಂಟಾವೊಗಳು"
+	},
+	"NOK": {
+		"name": "ನಾರ್ವೇಜಿಯನ್ ಕ್ರೋನ್",
+		"name_plural": "ನಾರ್ವೇಜಿಯನ್ ಕ್ರೋನರ್",
+		"subunit_name": "ಓರೆ",
+		"subunit_name_plural": "ಓರೆಗಳು"
+	},
+	"NPR": {
+		"name": "ನೇಪಾಳಿ ರೂಪಾಯಿ",
+		"name_plural": "ನೇಪಾಳಿ ರೂಪಾಯಿಗಳು",
+		"subunit_name": "ಪೈಸಾ",
+		"subunit_name_plural": "ಪೈಸೆಗಳು"
+	},
+	"NZD": {
+		"name": "ನ್ಯೂಜಿಲೆಂಡ್ ಡಾಲರ್",
+		"name_plural": "ನ್ಯೂಜಿಲೆಂಡ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"OMR": {
+		"name": "ಒಮಾನಿ ರಿಯಾಲ್",
+		"name_plural": "ಒಮಾನಿ ರಿಯಾಲ್ಗಳು",
+		"subunit_name": "ಬೈಸಾ",
+		"subunit_name_plural": "ಬೈಸಾಗಳು"
+	},
+	"PAB": {
+		"name": "ಪನಾಮಾನಿಯನ್ ಬಲ್ಬೋವಾ",
+		"name_plural": "ಪನಾಮಾನಿಯನ್ ಬಲ್ಬೋವಾಗಳು",
+		"subunit_name": "ಸೆಂಟೆಸಿಮೊ",
+		"subunit_name_plural": "ಸೆಂಟೆಸಿಮೊಗಳು"
+	},
+	"PEN": {
+		"name": "ಪೆರುವಿಯನ್ ಸೋಲ್",
+		"name_plural": "ಪೆರುವಿಯನ್ ಸೋಲ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮೊ",
+		"subunit_name_plural": "ಸೆಂಟಿಮೊಗಳು"
+	},
+	"PGK": {
+		"name": "ಪಪುವಾ ನ್ಯೂ ಗಿನಿಯನ್ ಕಿನಾ",
+		"name_plural": "ಪಪುವಾ ನ್ಯೂ ಗಿನಿಯನ್ ಕಿನಾಗಳು",
+		"subunit_name": "ಟೋಯಾ",
+		"subunit_name_plural": "ಟೋಯಾಗಳು"
+	},
+	"PHP": {
+		"name": "ಫಿಲಿಪ್ಪೀನ್ ಪೆಸೊ",
+		"name_plural": "ಫಿಲಿಪ್ಪೀನ್ ಪೆಸೊಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮೊ",
+		"subunit_name_plural": "ಸೆಂಟಿಮೊಗಳು"
+	},
+	"PKR": {
+		"name": "ಪಾಕಿಸ್ತಾನಿ ರೂಪಾಯಿ",
+		"name_plural": "ಪಾಕಿಸ್ತಾನಿ ರೂಪಾಯಿಗಳು",
+		"subunit_name": "ಪೈಸಾ",
+		"subunit_name_plural": "ಪೈಸೆಗಳು"
+	},
+	"PLN": {
+		"name": "ಪೋಲಿಷ್ ಜ್ಲೋಟಿ",
+		"name_plural": "ಪೋಲಿಷ್ ಜ್ಲೋಟಿಗಳು",
+		"subunit_name": "ಗ್ರೋಷ್",
+		"subunit_name_plural": "ಗ್ರೋಷ್ಗಳು"
+	},
+	"PYG": {
+		"name": "ಪರಾಗ್ವೇಯನ್ ಗುವಾರಾನಿ",
+		"name_plural": "ಪರಾಗ್ವೇಯನ್ ಗುವಾರಾನಿಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮೊ",
+		"subunit_name_plural": "ಸೆಂಟಿಮೊಗಳು"
+	},
+	"QAR": {
+		"name": "ಕತಾರಿ ರಿಯಾಲ್",
+		"name_plural": "ಕತಾರಿ ರಿಯಾಲ್ಗಳು",
+		"subunit_name": "ದಿರ್ಹಾಂ",
+		"subunit_name_plural": "ದಿರ್ಹಾಂಗಳು"
+	},
+	"RON": {
+		"name": "ರೊಮೇನಿಯನ್ ಲೆಯು",
+		"name_plural": "ರೊಮೇನಿಯನ್ ಲೆಯುಗಳು",
+		"subunit_name": "ಬಾನ್",
+		"subunit_name_plural": "ಬಾನಿಗಳು"
+	},
+	"RSD": {
+		"name": "ಸರ್ಬಿಯನ್ ದಿನಾರ್",
+		"name_plural": "ಸರ್ಬಿಯನ್ ದಿನಾರ್ಗಳು",
+		"subunit_name": "ಪಾರಾ",
+		"subunit_name_plural": "ಪಾರಾಗಳು"
+	},
+	"RUB": {
+		"name": "ರಷ್ಯನ್ ರೂಬಲ್",
+		"name_plural": "ರಷ್ಯನ್ ರೂಬಲ್ಗಳು",
+		"subunit_name": "ಕೊಪೇಕ್",
+		"subunit_name_plural": "ಕೊಪೇಕ್ಗಳು"
+	},
+	"RWF": {
+		"name": "ರುವಾಂಡನ್ ಫ್ರಾಂಕ್",
+		"name_plural": "ರುವಾಂಡನ್ ಫ್ರಾಂಕ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮ್",
+		"subunit_name_plural": "ಸೆಂಟಿಮ್ಗಳು"
+	},
+	"SAR": {
+		"name": "ಸೌದಿ ರಿಯಾಲ್",
+		"name_plural": "ಸೌದಿ ರಿಯಾಲ್ಗಳು",
+		"subunit_name": "ಹಲಾಲಾ",
+		"subunit_name_plural": "ಹಲಾಲಾಗಳು"
+	},
+	"SBD": {
+		"name": "ಸೊಲೊಮನ್ ದ್ವೀಪಗಳ ಡಾಲರ್",
+		"name_plural": "ಸೊಲೊಮನ್ ದ್ವೀಪಗಳ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"SCR": {
+		"name": "ಸೆಶೆಲೋಯಿಸ್ ರೂಪಾಯಿ",
+		"name_plural": "ಸೆಶೆಲೋಯಿಸ್ ರೂಪಾಯಿಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"SDG": {
+		"name": "ಸುಡಾನೀಸ್ ಪೌಂಡ್",
+		"name_plural": "ಸುಡಾನೀಸ್ ಪೌಂಡ್ಗಳು",
+		"subunit_name": "ಪಿಯಾಸ್ಟರ್",
+		"subunit_name_plural": "ಪಿಯಾಸ್ಟರ್ಗಳು"
+	},
+	"SEK": {
+		"name": "ಸ್ವೀಡಿಷ್ ಕ್ರೋನಾ",
+		"name_plural": "ಸ್ವೀಡಿಷ್ ಕ್ರೋನೊರ್",
+		"subunit_name": "ಓರೆ",
+		"subunit_name_plural": "ಓರೆಗಳು"
+	},
+	"SGD": {
+		"name": "ಸಿಂಗಾಪುರ್ ಡಾಲರ್",
+		"name_plural": "ಸಿಂಗಾಪುರ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"SHP": {
+		"name": "ಸೇಂಟ್ ಹೆಲೆನಾ ಪೌಂಡ್",
+		"name_plural": "ಸೇಂಟ್ ಹೆಲೆನಾ ಪೌಂಡ್ಗಳು",
+		"subunit_name": "ಪೆನ್ನಿ",
+		"subunit_name_plural": "ಪೆನ್ನಿಗಳು"
+	},
+	"SLL": {
+		"name": "ಸಿಯೆರಾ ಲಿಯೋನಿಯನ್ ಲಿಯೋನ್",
+		"name_plural": "ಸಿಯೆರಾ ಲಿಯೋನಿಯನ್ ಲಿಯೋನ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"SOS": {
+		"name": "ಸೊಮಾಲಿ ಶಿಲ್ಲಿಂಗ್",
+		"name_plural": "ಸೊಮಾಲಿ ಶಿಲ್ಲಿಂಗ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"SRD": {
+		"name": "ಸುರಿನಾಮೀಸ್ ಡಾಲರ್",
+		"name_plural": "ಸುरಿನಾಮೀಸ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"SSP": {
+		"name": "ದಕ್ಷಿಣ ಸುಡಾನೀಸ್ ಪೌಂಡ್",
+		"name_plural": "ದಕ್ಷಿಣ ಸುಡಾನೀಸ್ ಪೌಂಡ್ಗಳು",
+		"subunit_name": "ಪಿಯಾಸ್ಟರ್",
+		"subunit_name_plural": "ಪಿಯಾಸ್ಟರ್ಗಳು"
+	},
+	"STN": {
+		"name": "ಸಾವೊ ಟೊಮೆ ಮತ್ತು ಪ್ರಿನ್ಸಿಪೆ ಡೊಬ್ರಾ",
+		"name_plural": "ಸಾವೊ ಟೊಮೆ ಮತ್ತು ಪ್ರಿನ್ಸಿಪೆ ಡೊಬ್ರಾಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮೊ",
+		"subunit_name_plural": "ಸೆಂಟಿಮೊಗಳು"
+	},
+	"SYP": {
+		"name": "ಸಿರಿಯನ್ ಪೌಂಡ್",
+		"name_plural": "ಸಿರಿಯನ್ ಪೌಂಡ್ಗಳು",
+		"subunit_name": "ಪಿಯಾಸ್ಟರ್",
+		"subunit_name_plural": "ಪಿಯಾಸ್ಟರ್ಗಳು"
+	},
+	"SZL": {
+		"name": "ಸ್ವಾಜಿ ಲಿಲಾಂಗೆನಿ",
+		"name_plural": "ಸ್ವಾಜಿ ಲಿಲಾಂಗೆನಿಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"THB": {
+		"name": "ಥಾಯ್ ಬಾಹ್ಟ್",
+		"name_plural": "ಥಾಯ್ ಬಾಹ್ಟ್ಗಳು",
+		"subunit_name": "ಸಾಟಾಂಗ್",
+		"subunit_name_plural": "ಸಾಟಾಂಗ್ಗಳು"
+	},
+	"TJS": {
+		"name": "ತಾಜಿಕಿಸ್ತಾನಿ ಸೊಮೋನಿ",
+		"name_plural": "ತಾಜಿಕಿಸ್ತಾನಿ ಸೊಮೋನಿಗಳು",
+		"subunit_name": "ದಿರಾಮ್",
+		"subunit_name_plural": "ದಿರಾಮ್ಗಳು"
+	},
+	"TMT": {
+		"name": "ತುರ್ಕ್ಮೆನಿಸ್ತಾನಿ ಮನಾಟ್",
+		"name_plural": "ತುರ್ಕ್ಮೆನಿಸ್ತಾನಿ ಮನಾಟ್ಗಳು",
+		"subunit_name": "ಟೆನ್ಗೆ",
+		"subunit_name_plural": "ಟೆನ್ಗೆಗಳು"
+	},
+	"TND": {
+		"name": "ಟ್ಯೂನಿಶಿಯನ್ ದಿನಾರ್",
+		"name_plural": "ಟ್ಯೂನಿಶಿಯನ್ ದಿನಾರ್ಗಳು",
+		"subunit_name": "ಮಿಲ್ಲೀಮ್",
+		"subunit_name_plural": "ಮಿಲ್ಲೀಮ್ಗಳು"
+	},
+	"TOP": {
+		"name": "ಟೊಂಗನ್ ಪಾಂಗಾ",
+		"name_plural": "ಟೊಂಗನ್ ಪಾಂಗಾಗಳು",
+		"subunit_name": "ಸೆನಿಟಿ",
+		"subunit_name_plural": "ಸೆನಿಟಿಗಳು"
+	},
+	"TRY": {
+		"name": "ಟರ್ಕಿಷ್ ಲಿರಾ",
+		"name_plural": "ಟರ್ಕಿಷ್ ಲಿರಾಗಳು",
+		"subunit_name": "ಕುರುಷ್",
+		"subunit_name_plural": "ಕುರುಷ್ಗಳು"
+	},
+	"TTD": {
+		"name": "ಟ್ರಿನಿಡಾಡ್ ಮತ್ತು ಟೊಬಾಗೊ ಡಾಲರ್",
+		"name_plural": "ಟ್ರಿನಿಡಾಡ್ ಮತ್ತು ಟೊಬಾಗೊ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"TWD": {
+		"name": "ನ್ಯೂ ತೈವಾನೀಸ್ ಡಾಲರ್",
+		"name_plural": "ನ್ಯೂ ತೈವಾನೀಸ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"TZS": {
+		"name": "ಟಾಂಜಾನಿಯನ್ ಶಿಲ್ಲಿಂಗ್",
+		"name_plural": "ಟಾಂಜಾನಿಯನ್ ಶಿಲ್ಲಿಂಗ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"UAH": {
+		"name": "ಉಕ್ರೇನಿಯನ್ ಹ್ರಿವ್ನಿಯಾ",
+		"name_plural": "ಉಕ್ರೇನಿಯನ್ ಹ್ರಿವ್ನಿಯಾಗಳು",
+		"subunit_name": "ಕೊಪಿಯೆಕ್",
+		"subunit_name_plural": "ಕೊಪಿಯೆಕ್ಗಳು"
+	},
+	"UGX": {
+		"name": "ಉಗಾಂಡನ್ ಶಿಲ್ಲಿಂಗ್",
+		"name_plural": "ಉಗಾಂಡನ್ ಶಿಲ್ಲಿಂಗ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"USD": {
+		"name": "ಯುಎಸ್ ಡಾಲರ್",
+		"name_plural": "ಯುಎಸ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"UYU": {
+		"name": "ಉರುಗ್ವೇಯನ್ ಪೆಸೊ",
+		"name_plural": "ಉರುಗ್ವೇಯನ್ ಪೆಸೊಗಳು",
+		"subunit_name": "ಸೆಂಟೆಸಿಮೊ",
+		"subunit_name_plural": "ಸೆಂಟೆಸಿಮೊಗಳು"
+	},
+	"UZS": {
+		"name": "ಉಜ್ಬೇಕಿಸ್ತಾನಿ ಸೊಮ್",
+		"name_plural": "ಉಜ್ಬೇಕಿಸ್ತಾನಿ ಸೊಮ್ಗಳು",
+		"subunit_name": "ತಿಯಿನ್",
+		"subunit_name_plural": "ತಿಯಿನ್ಗಳು"
+	},
+	"VES": {
+		"name": "ವೆನಿಜುವೇಲನ್ ಬೊಲಿವಾರ್",
+		"name_plural": "ವೆನಿಜುವೇಲನ್ ಬೊಲಿವಾರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮೊ",
+		"subunit_name_plural": "ಸೆಂಟಿಮೊಗಳು"
+	},
+	"VND": {
+		"name": "ವಿಯೆತ್ನಾಮೀಸ್ ಡಾಂಗ್",
+		"name_plural": "ವಿಯೆತ್ನಾಮೀಸ್ ಡಾಂಗ್ಗಳು",
+		"subunit_name": "ಹಾವೊ",
+		"subunit_name_plural": "ಹಾವೊಗಳು"
+	},
+	"VUV": {
+		"name": "ವನುವಾಟು ವಾಟು",
+		"name_plural": "ವನುವಾಟು ವಾಟುಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮ್",
+		"subunit_name_plural": "ಸೆಂಟಿಮ್ಗಳು"
+	},
+	"WST": {
+		"name": "ಸಮೋವನ್ ತಾಲಾ",
+		"name_plural": "ಸಮೋವನ್ ತಾಲಾಗಳು",
+		"subunit_name": "ಸೆನೆ",
+		"subunit_name_plural": "ಸೆನೆಗಳು"
+	},
+	"XAF": {
+		"name": "ಮಧ್ಯ ಆಫ್ರಿಕನ್ ಸಿಎಫ್ಎ ಫ್ರಾಂಕ್",
+		"name_plural": "ಮಧ್ಯ ಆಫ್ರಿಕನ್ ಸಿಎಫ್ಎ ಫ್ರಾಂಕ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮ್",
+		"subunit_name_plural": "ಸೆಂಟಿಮ್ಗಳು"
+	},
+	"XCD": {
+		"name": "ಪೂರ್ವ ಕೆರಿಬಿಯನ್ ಡಾಲರ್",
+		"name_plural": "ಪೂರ್ವ ಕೆರಿಬಿಯನ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"XOF": {
+		"name": "ಪಶ್ಚಿಮ ಆಫ್ರಿಕನ್ ಸಿಎಫ್ಎ ಫ್ರಾಂಕ್",
+		"name_plural": "ಪಶ್ಚಿಮ ಆಫ್ರಿಕನ್ ಸಿಎಫ್ಎ ಫ್ರಾಂಕ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮ್",
+		"subunit_name_plural": "ಸೆಂಟಿಮ್ಗಳು"
+	},
+	"XPF": {
+		"name": "ಸಿಎಫ್‌ಪಿ ಫ್ರಾಂಕ್",
+		"name_plural": "ಸಿಎಫ್‌ಪಿ ಫ್ರಾಂಕ್ಗಳು",
+		"subunit_name": "ಸೆಂಟಿಮ್",
+		"subunit_name_plural": "ಸೆಂಟಿಮ್ಗಳು"
+	},
+	"YER": {
+		"name": "ಯೆಮೆನಿ ರಿಯಾಲ್",
+		"name_plural": "ಯೆಮೆನಿ ರಿಯಾಲ್ಗಳು",
+		"subunit_name": "ಫಿಲ್ಸ್",
+		"subunit_name_plural": "ಫಿಲ್ಸ್ಗಳು"
+	},
+	"ZAR": {
+		"name": "ದಕ್ಷಿಣ ಆಫ್ರಿಕನ್ ರ್ಯಾಂಡ್",
+		"name_plural": "ದಕ್ಷಿಣ ಆಫ್ರಿಕನ್ ರ್ಯಾಂಡ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	},
+	"ZMW": {
+		"name": "ಜಾಂಬಿಯನ್ ಕ್ವಾಚಾ",
+		"name_plural": "ಜಾಂಬಿಯನ್ ಕ್ವಾಚಾಗಳು",
+		"subunit_name": "ಂಗ್ವೀ",
+		"subunit_name_plural": "ಂಗ್ವೀಗಳು"
+	},
+	"ZWL": {
+		"name": "ಜಿಂಬಾಬ್ವೆಯನ್ ಡಾಲರ್",
+		"name_plural": "ಜಿಂಬಾಬ್ವೆಯನ್ ಡಾಲರ್ಗಳು",
+		"subunit_name": "ಸೆಂಟ್",
+		"subunit_name_plural": "ಸೆಂಟ್ಗಳು"
+	}
+}

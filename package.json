@@ -1,0 +1,57 @@
+{
+	"name": "@codebender-io/i18n-currency",
+	"version": "0.1.0",
+	"description": "Utils project for dealing with currencies",
+	"license": "Apache-2.0",
+	"author": "codebender-io",
+	"type": "module",
+	"types": "./dist/index.d.ts",
+	"main": "./dist/index.cjs",
+	"module": "./dist/index.js",
+	"exports": {
+		".": {
+			"types": "./dist/index.d.ts",
+			"import": "./dist/index.js",
+			"require": "./dist/index.cjs"
+		},
+		"./locales/*": "./locales/*"
+	},
+	"files": [
+		"dist",
+		"locales",
+		"README.md",
+		"EXAMPLES.md"
+	],
+	"scripts": {
+		"barrel": "tsx scripts/generate-barrel.ts",
+		"clean": "rimraf dist",
+		"build:ts": "tsup",
+		"copy-locales": "tsx scripts/copy-locales.ts",
+		"build": "pnpm run clean && pnpm run copy-locales && pnpm run barrel && pnpm run pretty:fix && pnpm run lint:fix && pnpm run build:ts",
+		"lint": "eslint ./src",
+		"lint:fix": "eslint ./src --fix",
+		"pretty": "prettier './**/*.{js,ts,jsx,tsx}' --check",
+		"pretty:fix": "prettier './**/*.{js,ts,jsx,tsx}' --write",
+		"production": "pnpm run clean && pnpm i && pnpm run build && pnpm pack",
+		"prepack": "tsx scripts/prepare-package.ts",
+		"postpack": "mv package.json.bak package.json && rimraf package.publish.json && prettier package.json --write"
+	},
+	"devDependencies": {
+		"@eslint/js": "^9.32.0",
+		"@types/node": "^22.17.0",
+		"eslint": "^9.27.0",
+		"eslint-plugin-unused-imports": "^4.1.4",
+		"fast-glob": "^3.3.3",
+		"globals": "^16.3.0",
+		"pnpm": "^10.13.1",
+		"prettier": "^3.6.2",
+		"rimraf": "^5.0.0",
+		"tsup": "^8.5.0",
+		"tsx": "^4.20.3",
+		"typescript": "^5.8.3",
+		"typescript-eslint": "^8.38.0"
+	},
+	"engines": {
+		"node": ">=18"
+	}
+}

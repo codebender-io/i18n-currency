@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "ឌីរ៉ាម អេមីរ៉ាត់ អារ៉ាប់ រួម",
+		"name_plural": "ឌីរ៉ាម អេមីរ៉ាត់ អារ៉ាប់ រួម",
+		"subunit_name": "ហ្វីល",
+		"subunit_name_plural": "ហ្វីល"
+	},
+	"AFN": {
+		"name": "អាហ្វហ្គានី អាហ្វហ្គានីស្ថាន",
+		"name_plural": "អាហ្វហ្គានី អាហ្វហ្គានីស្ថាន",
+		"subunit_name": "ភូល",
+		"subunit_name_plural": "ភូល"
+	},
+	"ALL": {
+		"name": "ឡេក អាល់បានី",
+		"name_plural": "ឡេក អាល់បានី",
+		"subunit_name": "គីនដាកា",
+		"subunit_name_plural": "គីនដាកា"
+	},
+	"AMD": {
+		"name": "ដ្រាម អារមេនី",
+		"name_plural": "ដ្រាម អារមេនី",
+		"subunit_name": "លូម៉ា",
+		"subunit_name_plural": "លូម៉ា"
+	},
+	"ANG": {
+		"name": "ហ្គីលដ័រ នៃ អង់ទីល​ ន័រឡង់",
+		"name_plural": "ហ្គីលដ័រ នៃ អង់ទីល​ ន័រឡង់",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"AOA": {
+		"name": "ក្វ៉ាន់ហ្សា អង់ហ្គោឡា",
+		"name_plural": "ក្វ៉ាន់ហ្សា អង់ហ្គោឡា",
+		"subunit_name": "សេនទីម៉ូ",
+		"subunit_name_plural": "សេនទីម៉ូ"
+	},
+	"ARS": {
+		"name": "បេសូ អាហ្សង់ទីន",
+		"name_plural": "បេសូ អាហ្សង់ទីន",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"AUD": {
+		"name": "ដុល្លារ អូស្ត្រាលី",
+		"name_plural": "ដុល្លារ អូស្ត្រាលី",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"AWG": {
+		"name": "ហ្វ្ល័រីន អារូបា",
+		"name_plural": "ហ្វ្ល័រីន អារូបា",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"AZN": {
+		"name": "ម៉ាណាត អាហ្សែបែហ្សង់",
+		"name_plural": "ម៉ាណាត អាហ្សែបែហ្សង់",
+		"subunit_name": "កូពិក",
+		"subunit_name_plural": "កូពិក"
+	},
+	"BAM": {
+		"name": "ម៉ាក ប៊ូស្នី និង ហ៊ែរហ្សេហ្គោវីណា",
+		"name_plural": "ម៉ាក ប៊ូស្នី និង ហ៊ែរហ្សេហ្គោវីណា",
+		"subunit_name": "ហ្វេនីង",
+		"subunit_name_plural": "ហ្វេនីង"
+	},
+	"BBD": {
+		"name": "ដុល្លារ បាបាដូស",
+		"name_plural": "ដុល្លារ បាបាដូស",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"BDT": {
+		"name": "តាកា បង់ក្លាដែស",
+		"name_plural": "តាកា បង់ក្លាដែស",
+		"subunit_name": "ព័យសា",
+		"subunit_name_plural": "ព័យសា"
+	},
+	"BGN": {
+		"name": "ឡេវ ប៊ុលហ្គារី",
+		"name_plural": "ឡេវ ប៊ុលហ្គារី",
+		"subunit_name": "ស្តូទីនកា",
+		"subunit_name_plural": "ស្តូទីនកា"
+	},
+	"BHD": {
+		"name": "ឌីណារ បារ៉ែន",
+		"name_plural": "ឌីណារ បារ៉ែន",
+		"subunit_name": "ហ្វីល",
+		"subunit_name_plural": "ហ្វីល"
+	},
+	"BIF": {
+		"name": "ហ្វ្រង់ ប៊ូរុនឌី",
+		"name_plural": "ហ្វ្រង់ ប៊ូរុនឌី",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"BMD": {
+		"name": "ដុល្លារ ប៊ែមុយដា",
+		"name_plural": "ដុល្លារ ប៊ែមុយដា",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"BND": {
+		"name": "ដុល្លារ ប្រូណេ",
+		"name_plural": "ដុល្លារ ប្រូណេ",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"BOB": {
+		"name": "បូលីវីយ៉ាណូ បូលីវី",
+		"name_plural": "បូលីវីយ៉ាណូ បូលីវី",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"BRL": {
+		"name": "រៀល ប្រេស៊ីល",
+		"name_plural": "រៀល ប្រេស៊ីល",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"BSD": {
+		"name": "ដុល្លារ បាហាម៉ាស",
+		"name_plural": "ដុល្លារ បាហាម៉ាស",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"BTN": {
+		"name": "ង់គ្លុត្រុម ភូតាន",
+		"name_plural": "ង់គ្លុត្រុម ភូតាន",
+		"subunit_name": "ឆេត្រុម",
+		"subunit_name_plural": "ឆេត្រុម"
+	},
+	"BWP": {
+		"name": "ភូឡា បូតស្វាណា",
+		"name_plural": "ភូឡា បូតស្វាណា",
+		"subunit_name": "ថេបេ",
+		"subunit_name_plural": "ថេបេ"
+	},
+	"BYN": {
+		"name": "រូបលេ បែឡារុស",
+		"name_plural": "រូបលេ បែឡារុស",
+		"subunit_name": "កូពែក",
+		"subunit_name_plural": "កូពែក"
+	},
+	"BZD": {
+		"name": "ដុល្លារ បែលីហ្សេ",
+		"name_plural": "ដុល្លារ បែលីហ្សេ",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"CAD": {
+		"name": "ដុល្លារ កាណាដា",
+		"name_plural": "ដុល្លារ កាណាដា",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"CDF": {
+		"name": "ហ្វ្រង់ កុងហ្គោ",
+		"name_plural": "ហ្វ្រង់ កុងហ្គោ",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"CHF": {
+		"name": "ហ្វ្រង់ ស្វីស",
+		"name_plural": "ហ្វ្រង់ ស្វីស",
+		"subunit_name": "រ៉ាបែន",
+		"subunit_name_plural": "រ៉ាបែន"
+	},
+	"CLP": {
+		"name": "បេសូ ឆីលី",
+		"name_plural": "បេសូ ឆីលី",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"CNY": {
+		"name": "យ័ន ចិន",
+		"name_plural": "យ័ន ចិន",
+		"subunit_name": "ហ្វេន",
+		"subunit_name_plural": "ហ្វេន"
+	},
+	"COP": {
+		"name": "បេសូ កូឡុំប៊ី",
+		"name_plural": "បេសូ កូឡុំប៊ី",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"CRC": {
+		"name": "កូឡុន កូស្តារីកា",
+		"name_plural": "កូឡុន កូស្តារីកា",
+		"subunit_name": "សេនទីម៉ូ",
+		"subunit_name_plural": "សេនទីម៉ូ"
+	},
+	"CUC": {
+		"name": "បេសូ ប្តូរបាន គុយបា",
+		"name_plural": "បេសូ ប្តូរបាន គុយបា",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"CUP": {
+		"name": "បេសូ គុយបា",
+		"name_plural": "បេសូ គុយបា",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"CVE": {
+		"name": "អេស្កូដូ កេបវែរដេ",
+		"name_plural": "អេស្កូដូ កេបវែរដេ",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"CZK": {
+		"name": "កូរូណា ឆែក",
+		"name_plural": "កូរូណា ឆែក",
+		"subunit_name": "ហាឡេច",
+		"subunit_name_plural": "ហាឡេច"
+	},
+	"DJF": {
+		"name": "ហ្វ្រង់ ជីបូទី",
+		"name_plural": "ហ្វ្រង់ ជីបូទី",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"DKK": {
+		"name": "ក្រូណា ដាណឺម៉ាក",
+		"name_plural": "ក្រូណា ដាណឺម៉ាក",
+		"subunit_name": "អ័រ",
+		"subunit_name_plural": "អ័រ"
+	},
+	"DOP": {
+		"name": "បេសូ ដូមីនីកែន",
+		"name_plural": "បេសូ ដូមីនីកែន",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"DZD": {
+		"name": "ឌីណារ អាល់ហ្សេរី",
+		"name_plural": "ឌីណារ អាល់ហ្សេរី",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"EGP": {
+		"name": "ផោន អេហ្ស៊ីប",
+		"name_plural": "ផោន អេហ្ស៊ីប",
+		"subunit_name": "ពៀស្ត្រ",
+		"subunit_name_plural": "ពៀស្ត្រ"
+	},
+	"ERN": {
+		"name": "ណាកហ្វា អេរីត្រេ",
+		"name_plural": "ណាកហ្វា អេរីត្រេ",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"ETB": {
+		"name": "ប៊ីរ អេត្យូពី",
+		"name_plural": "ប៊ីរ អេត្យូពី",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"EUR": {
+		"name": "អឺរ៉ូ",
+		"name_plural": "អឺរ៉ូ",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"FJD": {
+		"name": "ដុល្លារ ហ្វីជី",
+		"name_plural": "ដុល្លារ ហ្វីជី",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"FKP": {
+		"name": "ផោន កោះ ហ្វកឡែន",
+		"name_plural": "ផោន កោះ ហ្វកឡែន",
+		"subunit_name": "ពេននី",
+		"subunit_name_plural": "ពេនី"
+	},
+	"GBP": {
+		"name": "ផោន ចក្រភពអង់គ្លេស",
+		"name_plural": "ផោន ចក្រភពអង់គ្លេស",
+		"subunit_name": "ពេននី",
+		"subunit_name_plural": "ពេនី"
+	},
+	"GEL": {
+		"name": "ឡារី ហ្សកហ្ស៊ី",
+		"name_plural": "ឡារី ហ្សកហ្ស៊ី",
+		"subunit_name": "តេត្រី",
+		"subunit_name_plural": "តេត្រី"
+	},
+	"GHS": {
+		"name": "សេដី ហ្គាណា",
+		"name_plural": "សេដី ហ្គាណា",
+		"subunit_name": "ផេសេវ៉ា",
+		"subunit_name_plural": "ផេសេវ៉ា"
+	},
+	"GIP": {
+		"name": "ផោន ហ្ស៊ីប្រាល់តា",
+		"name_plural": "ផោន ហ្ស៊ីប្រាល់តា",
+		"subunit_name": "ពេននី",
+		"subunit_name_plural": "ពេនី"
+	},
+	"GMD": {
+		"name": "ដាឡាស៊ី ហ្គាំប៊ី",
+		"name_plural": "ដាឡាស៊ី ហ្គាំប៊ី",
+		"subunit_name": "ប៊ូទូត",
+		"subunit_name_plural": "ប៊ូទូត"
+	},
+	"GNF": {
+		"name": "ហ្វ្រង់ ហ្គីណេ",
+		"name_plural": "ហ្វ្រង់ ហ្គីណេ",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"GTQ": {
+		"name": "កេតសាល់ ហ្គាតេម៉ាឡា",
+		"name_plural": "កេតសាល់ ហ្គាតេម៉ាឡា",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"GYD": {
+		"name": "ដុល្លារ ហ្គីយ៉ាណា",
+		"name_plural": "ដុល្លារ ហ្គីយ៉ាណា",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"HKD": {
+		"name": "ដុល្លារ ហុងកុង",
+		"name_plural": "ដុល្លារ ហុងកុង",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"HNL": {
+		"name": "លេមពីរ៉ា ហុងឌូរ៉ាស",
+		"name_plural": "លេមពីរ៉ា ហុងឌូរ៉ាស",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"HRK": {
+		"name": "គូណា ក្រូអាស៊ី",
+		"name_plural": "គូណា ក្រូអាស៊ី",
+		"subunit_name": "លីប៉ា",
+		"subunit_name_plural": "លីប៉ា"
+	},
+	"HTG": {
+		"name": "ហ្គោដ ហៃទី",
+		"name_plural": "ហ្គោដ ហៃទី",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"HUF": {
+		"name": "ហ្វូរីន ហុងគ្រី",
+		"name_plural": "ហ្វូរីន ហុងគ្រី",
+		"subunit_name": "ផីលែរ",
+		"subunit_name_plural": "ផីលែរ"
+	},
+	"IDR": {
+		"name": "រូពីឥណ្ឌូនេស៊ី",
+		"name_plural": "រូពីឥណ្ឌូនេស៊ី",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"ILS": {
+		"name": "សេគែលថ្មី អ៊ីស្រាអែល",
+		"name_plural": "សេគែលថ្មី អ៊ីស្រាអែល",
+		"subunit_name": "អាហ្គោរ៉ា",
+		"subunit_name_plural": "អាហ្គោរ៉ូត"
+	},
+	"INR": {
+		"name": "រូពី ឥណ្ឌា",
+		"name_plural": "រូពី ឥណ្ឌា",
+		"subunit_name": "ប៉ៃសា",
+		"subunit_name_plural": "ប៉ៃសា"
+	},
+	"IQD": {
+		"name": "ឌីណារ អ៊ីរ៉ាក់",
+		"name_plural": "ឌីណារ អ៊ីរ៉ាក់",
+		"subunit_name": "ហ្វីល",
+		"subunit_name_plural": "ហ្វីល"
+	},
+	"IRR": {
+		"name": "រៀល អ៊ីរ៉ង់",
+		"name_plural": "រៀល អ៊ីរ៉ង់",
+		"subunit_name": "ឌីណារ",
+		"subunit_name_plural": "ឌីណារ"
+	},
+	"ISK": {
+		"name": "ក្រូណា អ៊ីស្លង់",
+		"name_plural": "ក្រូណា អ៊ីស្លង់",
+		"subunit_name": "អ៊ីរ៉ា",
+		"subunit_name_plural": "អ៊ីរ៉ា"
+	},
+	"JMD": {
+		"name": "ដុល្លារ ចាម៉ៃកា",
+		"name_plural": "ដុល្លារ ចាម៉ៃកា",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"JOD": {
+		"name": "ឌីណារ ហ្សកដានី",
+		"name_plural": "ឌីណារ ហ្សកដានី",
+		"subunit_name": "ហ្វីល",
+		"subunit_name_plural": "ហ្វីល"
+	},
+	"JPY": {
+		"name": "យែន ជប៉ុន",
+		"name_plural": "យែន ជប៉ុន",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"KES": {
+		"name": "ស៊ីលិង កេនយ៉ា",
+		"name_plural": "ស៊ីលិង កេនយ៉ា",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"KGS": {
+		"name": "សុម គៀរហ្ស៊ីស្ថាន",
+		"name_plural": "សុម គៀរហ្ស៊ីស្ថាន",
+		"subunit_name": "ទីយីន",
+		"subunit_name_plural": "ទីយីន"
+	},
+	"KHR": {
+		"name": "រៀល កម្ពុជា",
+		"name_plural": "រៀល កម្ពុជា",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"KMF": {
+		"name": "ហ្វ្រង់ កូម័រ",
+		"name_plural": "ហ្វ្រង់ កូម័រ",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"KPW": {
+		"name": "វ៉ុន កូរ៉េខាងជើង",
+		"name_plural": "វ៉ុន កូរ៉េខាងជើង",
+		"subunit_name": "ឈុន",
+		"subunit_name_plural": "ឈុន"
+	},
+	"KRW": {
+		"name": "វ៉ុន កូរ៉េខាងត្បូង",
+		"name_plural": "វ៉ុន កូរ៉េខាងត្បូង",
+		"subunit_name": "ជុន",
+		"subunit_name_plural": "ជុន"
+	},
+	"KWD": {
+		"name": "ឌីណារ គុយវ៉ែត",
+		"name_plural": "ឌីណារ គុយវ៉ែត",
+		"subunit_name": "ហ្វីល",
+		"subunit_name_plural": "ហ្វីល"
+	},
+	"KYD": {
+		"name": "ដុល្លារ កោះ កៃមែន",
+		"name_plural": "ដុល្លារ កោះ កៃមែន",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"KZT": {
+		"name": "តង់គេ កាហ្សាក់ស្ថាន",
+		"name_plural": "តង់គេ កាហ្សាក់ស្ថាន",
+		"subunit_name": "ទីយីន",
+		"subunit_name_plural": "ទីយីន"
+	},
+	"LAK": {
+		"name": "កៀប ឡាវ",
+		"name_plural": "កៀប ឡាវ",
+		"subunit_name": "អាត",
+		"subunit_name_plural": "អាត"
+	},
+	"LBP": {
+		"name": "ផោន លីបង់",
+		"name_plural": "ផោន លីបង់",
+		"subunit_name": "ពៀស្ត្រ",
+		"subunit_name_plural": "ពៀស្ត្រ"
+	},
+	"LKR": {
+		"name": "រូពី ស្រីលង្កា",
+		"name_plural": "រូពី ស្រីលង្កា",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"LRD": {
+		"name": "ដុល្លារ លីបេរីយ៉ា",
+		"name_plural": "ដុល្លារ លីបេរីយ៉ា",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"LSL": {
+		"name": "ឡូទី ឡេសូតូ",
+		"name_plural": "ឡូទី ឡេសូតូ",
+		"subunit_name": "សេនតេ",
+		"subunit_name_plural": "លីសេនតេ"
+	},
+	"LYD": {
+		"name": "ឌីណារ លីប៊ី",
+		"name_plural": "ឌីណារ លីប៊ី",
+		"subunit_name": "ឌីរ៉ាម",
+		"subunit_name_plural": "ឌីរ៉ាម"
+	},
+	"MAD": {
+		"name": "ឌីរ៉ាម ម៉ារ៉ុក",
+		"name_plural": "ឌីរ៉ាម ម៉ារ៉ុក",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"MDL": {
+		"name": "លីយ៉ូ ម៉ុលដាវី",
+		"name_plural": "លីយ៉ូ ម៉ុលដាវី",
+		"subunit_name": "បាន",
+		"subunit_name_plural": "បានី"
+	},
+	"MGA": {
+		"name": "អារៀរី ម៉ាដាហ្គាស្កា",
+		"name_plural": "អារៀរី ម៉ាដាហ្គាស្កា",
+		"subunit_name": "អ៊ីរ៉ែមប៊ីឡានចា",
+		"subunit_name_plural": "អ៊ីរ៉ែមប៊ីឡានចា"
+	},
+	"MKD": {
+		"name": "ដេណារ ម៉ាសេដូនី",
+		"name_plural": "ដេណារ ម៉ាសេដូនី",
+		"subunit_name": "ដេនី",
+		"subunit_name_plural": "ដេនី"
+	},
+	"MMK": {
+		"name": "ក្យាត មីយ៉ាន់ម៉ា",
+		"name_plural": "ក្យាត មីយ៉ាន់ម៉ា",
+		"subunit_name": "ព្យាត",
+		"subunit_name_plural": "ព្យាត"
+	},
+	"MNT": {
+		"name": "ទូគ្រីក ម៉ុងហ្គោលី",
+		"name_plural": "ទូគ្រីក ម៉ុងហ្គោលី",
+		"subunit_name": "ម៉ុងហ្គោ",
+		"subunit_name_plural": "ម៉ុងហ្គោ"
+	},
+	"MOP": {
+		"name": "ប៉ាតាកា ម៉ាកាវ",
+		"name_plural": "ប៉ាតាកា ម៉ាកាវ",
+		"subunit_name": "អាវ៉ូ",
+		"subunit_name_plural": "អាវ៉ូ"
+	},
+	"MRU": {
+		"name": "អ៊ូហ្គីយ៉ា ម៉ូរីតានី",
+		"name_plural": "អ៊ូហ្គីយ៉ា ម៉ូរីតានី",
+		"subunit_name": "ខូម",
+		"subunit_name_plural": "ខូម"
+	},
+	"MUR": {
+		"name": "រូពី ម៉ូរីស",
+		"name_plural": "រូពី ម៉ូរីស",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"MVR": {
+		"name": "រូហ្វីយ៉ា ម៉ាល់ឌីវ",
+		"name_plural": "រូហ្វីយ៉ា ម៉ាល់ឌីវ",
+		"subunit_name": "ឡារី",
+		"subunit_name_plural": "ឡារី"
+	},
+	"MWK": {
+		"name": "ក្វាចា ម៉ាឡាវី",
+		"name_plural": "ក្វាចា ម៉ាឡាវី",
+		"subunit_name": "តាំបាឡា",
+		"subunit_name_plural": "តាំបាឡា"
+	},
+	"MXN": {
+		"name": "បេសូ ម៉ិកស៊ិក",
+		"name_plural": "បេសូ ម៉ិកស៊ិក",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"MYR": {
+		"name": "រីងហ្គីត ម៉ាឡេស៊ី",
+		"name_plural": "រីងហ្គីត ម៉ាឡេស៊ី",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"MZN": {
+		"name": "មេទីកាល់ ម៉ូសាំប៊ិក",
+		"name_plural": "មេទីកាល់ ម៉ូសាំប៊ិក",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"NAD": {
+		"name": "ដុល្លារ ណាមីប៊ី",
+		"name_plural": "ដុល្លារ ណាមីប៊ី",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"NGN": {
+		"name": "ណៃរ៉ា នីហ្សេរីយ៉ា",
+		"name_plural": "ណៃរ៉ា នីហ្សេរីយ៉ា",
+		"subunit_name": "កូប៉ូ",
+		"subunit_name_plural": "កូប៉ូ"
+	},
+	"NIO": {
+		"name": "កូដូបា នីការ៉ាហ្គា",
+		"name_plural": "កូដូបា នីការ៉ាហ្គា",
+		"subunit_name": "សេនតាវ៉ូ",
+		"subunit_name_plural": "សេនតាវ៉ូ"
+	},
+	"NOK": {
+		"name": "ក្រូណា ន័រវែស",
+		"name_plural": "ក្រូណា ន័រវែស",
+		"subunit_name": "អ័រ",
+		"subunit_name_plural": "អ័រ"
+	},
+	"NPR": {
+		"name": "រូពី នេប៉ាល់",
+		"name_plural": "រូពី នេប៉ាល់",
+		"subunit_name": "ប៉ៃសា",
+		"subunit_name_plural": "ប៉ៃសា"
+	},
+	"NZD": {
+		"name": "ដុល្លារ ញូវស៊ីឡង់",
+		"name_plural": "ដុល្លារ ញូវស៊ីឡង់",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"OMR": {
+		"name": "រៀល អូម៉ង់",
+		"name_plural": "រៀល អូម៉ង់",
+		"subunit_name": "បៃសា",
+		"subunit_name_plural": "បៃសា"
+	},
+	"PAB": {
+		"name": "បាល់បូអា ប៉ាណាម៉ា",
+		"name_plural": "បាល់បូអា ប៉ាណាម៉ា",
+		"subunit_name": "សេនទីស៊ីម៉ូ",
+		"subunit_name_plural": "សេនទីស៊ីម៉ូ"
+	},
+	"PEN": {
+		"name": "ស៊ូល ប៉េរូ",
+		"name_plural": "ស៊ូល ប៉េរូ",
+		"subunit_name": "សេនទីម៉ូ",
+		"subunit_name_plural": "សេនទីម៉ូ"
+	},
+	"PGK": {
+		"name": "គីណា ប៉ាពួញូហ្គីណេ",
+		"name_plural": "គីណា ប៉ាពួញូហ្គីណេ",
+		"subunit_name": "តូអេ",
+		"subunit_name_plural": "តូអេ"
+	},
+	"PHP": {
+		"name": "បេសូ ហ្វីលីពីន",
+		"name_plural": "បេសូ ហ្វីលីពីន",
+		"subunit_name": "សេនទីម៉ូ",
+		"subunit_name_plural": "សេនទីម៉ូ"
+	},
+	"PKR": {
+		"name": "រូពី ប៉ាគីស្ថាន",
+		"name_plural": "រូពី ប៉ាគីស្ថាន",
+		"subunit_name": "ប៉ៃសា",
+		"subunit_name_plural": "ប៉ៃសា"
+	},
+	"PLN": {
+		"name": "ហ្ស្លូទី ប៉ូឡូញ",
+		"name_plural": "ហ្ស្លូទី ប៉ូឡូញ",
+		"subunit_name": "ហ្គ្រោស",
+		"subunit_name_plural": "ហ្គ្រោស"
+	},
+	"PYG": {
+		"name": "ហ្គូរ៉ានី ប៉ារ៉ាហ្គាយ",
+		"name_plural": "ហ្គូរ៉ានី ប៉ារ៉ាហ្គាយ",
+		"subunit_name": "សេនទីម៉ូ",
+		"subunit_name_plural": "សេនទីម៉ូ"
+	},
+	"QAR": {
+		"name": "រៀល កាតា",
+		"name_plural": "រៀល កាតា",
+		"subunit_name": "ឌីរ៉ាម",
+		"subunit_name_plural": "ឌីរ៉ាម"
+	},
+	"RON": {
+		"name": "លីយូ រូម៉ានី",
+		"name_plural": "លីយូ រូម៉ានី",
+		"subunit_name": "បាន",
+		"subunit_name_plural": "បានី"
+	},
+	"RSD": {
+		"name": "ឌីណារ ស៊ែប៊ី",
+		"name_plural": "ឌីណារ ស៊ែប៊ី",
+		"subunit_name": "ប៉ារ៉ា",
+		"subunit_name_plural": "ប៉ារ៉ា"
+	},
+	"RUB": {
+		"name": "រូបលេ រុស្ស៊ី",
+		"name_plural": "រូបលេ រុស្ស៊ី",
+		"subunit_name": "កូប៉េក",
+		"subunit_name_plural": "កូប៉េក"
+	},
+	"RWF": {
+		"name": "ហ្វ្រង់ រវ៉ាន់ដា",
+		"name_plural": "ហ្វ្រង់ រវ៉ាន់ដា",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"SAR": {
+		"name": "រីយ៉ាល់ អារ៉ាប៊ីសាអូឌីត",
+		"name_plural": "រីយ៉ាល់ អារ៉ាប៊ីសាអូឌីត",
+		"subunit_name": "ហាឡាឡា",
+		"subunit_name_plural": "ហាឡាឡា"
+	},
+	"SBD": {
+		"name": "ដុល្លារ កោះ សូឡូម៉ុន",
+		"name_plural": "ដុល្លារ កោះ សូឡូម៉ុន",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"SCR": {
+		"name": "រូពី សីស្ហែល",
+		"name_plural": "រូពី សីស្ហែល",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"SDG": {
+		"name": "ផោន ស៊ូដង់",
+		"name_plural": "ផោន ស៊ូដង់",
+		"subunit_name": "ពៀស្ត្រ",
+		"subunit_name_plural": "ពៀស្ត្រ"
+	},
+	"SEK": {
+		"name": "ក្រូណា ស៊ុយអែត",
+		"name_plural": "ក្រូណា ស៊ុយអែត",
+		"subunit_name": "អ័រ",
+		"subunit_name_plural": "អ័រ"
+	},
+	"SGD": {
+		"name": "ដុល្លារ សិង្ហបុរី",
+		"name_plural": "ដុល្លារ សិង្ហបុរី",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"SHP": {
+		"name": "ផោន សាំងហេឡេណា",
+		"name_plural": "ផោន សាំងហេឡេណា",
+		"subunit_name": "ពេននី",
+		"subunit_name_plural": "ពេនី"
+	},
+	"SLL": {
+		"name": "លេអូន សៀរ៉ាឡេអូន",
+		"name_plural": "លេអូន សៀរ៉ាឡេអូន",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"SOS": {
+		"name": "ស៊ីលិង សូម៉ាលី",
+		"name_plural": "ស៊ីលិង សូម៉ាលី",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"SRD": {
+		"name": "ដុល្លារ សូរីណាម",
+		"name_plural": "ដុល្លារ សូរីណាម",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"SSP": {
+		"name": "ផោន ស៊ូដង់ខាងត្បូង",
+		"name_plural": "ផោន ស៊ូដង់ខាងត្បូង",
+		"subunit_name": "ពៀស្ត្រ",
+		"subunit_name_plural": "ពៀស្ត្រ"
+	},
+	"STN": {
+		"name": "ដូប្រា សៅតូមេ និង ប្រីនស៊ីប",
+		"name_plural": "ដូប្រា សៅតូមេ និង ប្រីនស៊ីប",
+		"subunit_name": "សេនទីម៉ូ",
+		"subunit_name_plural": "សេនទីម៉ូ"
+	},
+	"SYP": {
+		"name": "ផោន ស៊ីរី",
+		"name_plural": "ផោន ស៊ីរី",
+		"subunit_name": "ពៀស្ត្រ",
+		"subunit_name_plural": "ពៀស្ត្រ"
+	},
+	"SZL": {
+		"name": "លីឡាងហ្គេនី ស្វាស៊ីឡង់",
+		"name_plural": "អេម៉ាឡាងហ្គេនី ស្វាស៊ីឡង់",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"THB": {
+		"name": "បាត ថៃ",
+		"name_plural": "បាត ថៃ",
+		"subunit_name": "សាតាំង",
+		"subunit_name_plural": "សាតាំង"
+	},
+	"TJS": {
+		"name": "សូម៉ូនី តាហ្ស៊ីគីស្ថាន",
+		"name_plural": "សូម៉ូនី តាហ្ស៊ីគីស្ថាន",
+		"subunit_name": "ឌីរ៉ាម",
+		"subunit_name_plural": "ឌីរ៉ាម"
+	},
+	"TMT": {
+		"name": "ម៉ាណាត តួកមេនីស្ថាន",
+		"name_plural": "ម៉ាណាត តួកមេនីស្ថាន",
+		"subunit_name": "តេនហ្គេ",
+		"subunit_name_plural": "តេនហ្គេ"
+	},
+	"TND": {
+		"name": "ឌីណារ ទុយនីស៊ី",
+		"name_plural": "ឌីណារ ទុយនីស៊ី",
+		"subunit_name": "មីលីម",
+		"subunit_name_plural": "មីលីម"
+	},
+	"TOP": {
+		"name": "ប៉ាអង់ហ្គា តុងហ្គា",
+		"name_plural": "ប៉ាអង់ហ្គា តុងហ្គា",
+		"subunit_name": "សេនីតី",
+		"subunit_name_plural": "សេនីតី"
+	},
+	"TRY": {
+		"name": "លីរ៉ា តួកគី",
+		"name_plural": "លីរ៉ា តួកគី",
+		"subunit_name": "គូរុស",
+		"subunit_name_plural": "គូរុស"
+	},
+	"TTD": {
+		"name": "ដុល្លារ ទ្រីនីដាដ និង តូបាហ្គោ",
+		"name_plural": "ដុល្លារ ទ្រីនីដាដ និង តូបាហ្គោ",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"TWD": {
+		"name": "ដុល្លារ តៃវ៉ាន់",
+		"name_plural": "ដុល្លារ តៃវ៉ាន់",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"TZS": {
+		"name": "ស៊ីលិង តង់សានី",
+		"name_plural": "ស៊ីលិង តង់សានី",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"UAH": {
+		"name": "ហ៊ីវញា អ៊ុយក្រែន",
+		"name_plural": "ហ៊ីវញា អ៊ុយក្រែន",
+		"subunit_name": "កូប៉េក",
+		"subunit_name_plural": "កូប៉េក"
+	},
+	"UGX": {
+		"name": "ស៊ីលិង អ៊ូហ្គង់ដា",
+		"name_plural": "ស៊ីលិង អ៊ូហ្គង់ដា",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"USD": {
+		"name": "ដុល្លារ អាមេរិក",
+		"name_plural": "ដុល្លារ អាមេរិក",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"UYU": {
+		"name": "បេសូ អ៊ុយរុហ្គាយ",
+		"name_plural": "បេសូ អ៊ុយរុហ្គាយ",
+		"subunit_name": "សេនទីស៊ីម៉ូ",
+		"subunit_name_plural": "សេនទីស៊ីម៉ូ"
+	},
+	"UZS": {
+		"name": "សុម អ៊ូហ្សបេគីស្ថាន",
+		"name_plural": "សុម អ៊ូហ្សបេគីស្ថាន",
+		"subunit_name": "ទីយីន",
+		"subunit_name_plural": "ទីយីន"
+	},
+	"VES": {
+		"name": "បូលីវ៉ារ វេនេស៊ុយអេឡា",
+		"name_plural": "បូលីវ៉ារ វេនេស៊ុយអេឡា",
+		"subunit_name": "សេនទីម៉ូ",
+		"subunit_name_plural": "សេនទីម៉ូ"
+	},
+	"VND": {
+		"name": "ដុង វៀតណាម",
+		"name_plural": "ដុង វៀតណាម",
+		"subunit_name": "ហៅ",
+		"subunit_name_plural": "ហៅ"
+	},
+	"VUV": {
+		"name": "វ៉ាទូ វ៉ានូអាទូ",
+		"name_plural": "វ៉ាទូ វ៉ានូអាទូ",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"WST": {
+		"name": "តាឡា សាមូអា",
+		"name_plural": "តាឡា សាមូអា",
+		"subunit_name": "សេនី",
+		"subunit_name_plural": "សេនី"
+	},
+	"XAF": {
+		"name": "ហ្វ្រង់ CFA អាហ្វ្រិកកណ្តាល",
+		"name_plural": "ហ្វ្រង់ CFA អាហ្វ្រិកកណ្តាល",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"XCD": {
+		"name": "ដុល្លារ ការ៉ាអ៊ីបខាងកើត",
+		"name_plural": "ដុល្លារ ការ៉ាអ៊ីបខាងកើត",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"XOF": {
+		"name": "ហ្វ្រង់ CFA អាហ្វ្រិកខាងលិច",
+		"name_plural": "ហ្វ្រង់ CFA អាហ្វ្រិកខាងលិច",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"XPF": {
+		"name": "ហ្វ្រង់ CFP",
+		"name_plural": "ហ្វ្រង់ CFP",
+		"subunit_name": "សង់ទីម",
+		"subunit_name_plural": "សង់ទីម"
+	},
+	"YER": {
+		"name": "រៀល យេមែន",
+		"name_plural": "រៀល យេមែន",
+		"subunit_name": "ហ្វីល",
+		"subunit_name_plural": "ហ្វីល"
+	},
+	"ZAR": {
+		"name": "រ៉ង់ អាហ្វ្រិកខាងត្បូង",
+		"name_plural": "រ៉ង់ អាហ្វ្រិកខាងត្បូង",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	},
+	"ZMW": {
+		"name": "ក្វាចា ហ្សាំប៊ី",
+		"name_plural": "ក្វាចា ហ្សាំប៊ី",
+		"subunit_name": "ង្វេ",
+		"subunit_name_plural": "ង្វេ"
+	},
+	"ZWL": {
+		"name": "ដុល្លារ ហ្ស៊ីមបាវ៉េ",
+		"name_plural": "ដុល្លារ ហ្ស៊ីមបាវ៉េ",
+		"subunit_name": "សេន",
+		"subunit_name_plural": "សេន"
+	}
+}

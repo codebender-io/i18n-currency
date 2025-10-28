@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "דירהם של איחוד האמירויות",
+		"name_plural": "דירהמים של איחוד האמירויות",
+		"subunit_name": "פילס",
+		"subunit_name_plural": "פילס"
+	},
+	"AFN": {
+		"name": "אפגני אפגני",
+		"name_plural": "אפגנים אפגניים",
+		"subunit_name": "פול",
+		"subunit_name_plural": "פולים"
+	},
+	"ALL": {
+		"name": "לק אלבני",
+		"name_plural": "לקה אלבניים",
+		"subunit_name": "קינדרקה",
+		"subunit_name_plural": "קינדרקה"
+	},
+	"AMD": {
+		"name": "דראם ארמני",
+		"name_plural": "דראמים ארמניים",
+		"subunit_name": "לומה",
+		"subunit_name_plural": "לומות"
+	},
+	"ANG": {
+		"name": "גילדר של האנטילים ההולנדיים",
+		"name_plural": "גילדרים של האנטילים ההולנדיים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"AOA": {
+		"name": "קואנזה אנגולי",
+		"name_plural": "קואנזות אנגוליות",
+		"subunit_name": "סנטימו",
+		"subunit_name_plural": "סנטימוס"
+	},
+	"ARS": {
+		"name": "פסו ארגנטינאי",
+		"name_plural": "פסוס ארגנטינאים",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"AUD": {
+		"name": "דולר אוסטרלי",
+		"name_plural": "דולרים אוסטרליים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"AWG": {
+		"name": "פלורין ארובני",
+		"name_plural": "פלורינים ארובניים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"AZN": {
+		"name": "מנאט אזרבייג'ני",
+		"name_plural": "מנאטים אזרבייג'ניים",
+		"subunit_name": "קפיק",
+		"subunit_name_plural": "קפיקים"
+	},
+	"BAM": {
+		"name": "מארק בר-המרה של בוסניה והרצגובינה",
+		"name_plural": "מארקים בר-המרה של בוסניה והרצגובינה",
+		"subunit_name": "פנינג",
+		"subunit_name_plural": "פנינגים"
+	},
+	"BBD": {
+		"name": "דולר ברבדיאני",
+		"name_plural": "דולרים ברבדיאניים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"BDT": {
+		"name": "טקה בנגלדשי",
+		"name_plural": "טקות בנגלדשיות",
+		"subunit_name": "פוישה",
+		"subunit_name_plural": "פוישות"
+	},
+	"BGN": {
+		"name": "לב בולגרי",
+		"name_plural": "לבה בולגריים",
+		"subunit_name": "סטוטינקה",
+		"subunit_name_plural": "סטוטינקי"
+	},
+	"BHD": {
+		"name": "דינר בחרייני",
+		"name_plural": "דינרים בחרייניים",
+		"subunit_name": "פילס",
+		"subunit_name_plural": "פילס"
+	},
+	"BIF": {
+		"name": "פרנק בורונדי",
+		"name_plural": "פרנקים בורונדיים",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"BMD": {
+		"name": "דולר ברמודיאני",
+		"name_plural": "דולרים ברמודיאניים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"BND": {
+		"name": "דולר ברוניי",
+		"name_plural": "דולרים של ברוניי",
+		"subunit_name": "סן",
+		"subunit_name_plural": "סן"
+	},
+	"BOB": {
+		"name": "בוליביאנו בוליביאני",
+		"name_plural": "בוליביאנוס בוליביאניים",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"BRL": {
+		"name": "ריאל ברזילאי",
+		"name_plural": "ריאלים ברזילאים",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"BSD": {
+		"name": "דולר בהאמי",
+		"name_plural": "דולרים בהאמיים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"BTN": {
+		"name": "נגולטרום בהוטני",
+		"name_plural": "נגולטרומים בהוטניים",
+		"subunit_name": "צ'רטום",
+		"subunit_name_plural": "צ'רטומים"
+	},
+	"BWP": {
+		"name": "פולה בוטסואני",
+		"name_plural": "פולות בוטסואניות",
+		"subunit_name": "תבה",
+		"subunit_name_plural": "תבה"
+	},
+	"BYN": {
+		"name": "רובל בלארוסי",
+		"name_plural": "רובלים בלארוסיים",
+		"subunit_name": "קופק",
+		"subunit_name_plural": "קופקים"
+	},
+	"BZD": {
+		"name": "דולר בליזי",
+		"name_plural": "דולרים בליזיים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"CAD": {
+		"name": "דולר קנדי",
+		"name_plural": "דולרים קנדיים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"CDF": {
+		"name": "פרנק קונגולזי",
+		"name_plural": "פרנקים קונגולזיים",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"CHF": {
+		"name": "פרנק שוויצרי",
+		"name_plural": "פרנקים שוויצריים",
+		"subunit_name": "ראפן",
+		"subunit_name_plural": "ראפן"
+	},
+	"CLP": {
+		"name": "פסו צ'יליאני",
+		"name_plural": "פסוס צ'יליאניים",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"CNY": {
+		"name": "יואן סיני",
+		"name_plural": "יואנים סיניים",
+		"subunit_name": "פן",
+		"subunit_name_plural": "פן"
+	},
+	"COP": {
+		"name": "פסו קולומביאני",
+		"name_plural": "פסוס קולומביאניים",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"CRC": {
+		"name": "קולון קוסטה-ריקני",
+		"name_plural": "קולונים קוסטה-ריקניים",
+		"subunit_name": "סנטימו",
+		"subunit_name_plural": "סנטימוס"
+	},
+	"CUC": {
+		"name": "פסו קובני בר-המרה",
+		"name_plural": "פסוס קובניים בר-המרה",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"CUP": {
+		"name": "פסו קובני",
+		"name_plural": "פסוס קובניים",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"CVE": {
+		"name": "אסקודו של כף ורדה",
+		"name_plural": "אסקודוס של כף ורדה",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"CZK": {
+		"name": "קורונה צ'כית",
+		"name_plural": "קורונות צ'כיות",
+		"subunit_name": "הלר",
+		"subunit_name_plural": "הלר"
+	},
+	"DJF": {
+		"name": "פרנק ג'יבוטי",
+		"name_plural": "פרנקים של ג'יבוטי",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"DKK": {
+		"name": "קרונה דנית",
+		"name_plural": "קרונות דניות",
+		"subunit_name": "אורה",
+		"subunit_name_plural": "אורה"
+	},
+	"DOP": {
+		"name": "פסו דומיניקני",
+		"name_plural": "פסוס דומיניקניים",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"DZD": {
+		"name": "דינר אלג'יראי",
+		"name_plural": "דינרים אלג'יראים",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"EGP": {
+		"name": "לירה מצרית",
+		"name_plural": "לירות מצריות",
+		"subunit_name": "פיאסטר",
+		"subunit_name_plural": "פיאסטרים"
+	},
+	"ERN": {
+		"name": "נאקְפָה אריתריאי",
+		"name_plural": "נאקְפות אריתריאיות",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"ETB": {
+		"name": "ביר אתיופי",
+		"name_plural": "בירים אתיופיים",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"EUR": {
+		"name": "אירו",
+		"name_plural": "אירו",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"FJD": {
+		"name": "דולר פיג'י",
+		"name_plural": "דולרים של פיג'י",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"FKP": {
+		"name": "לירה של איי פוקלנד",
+		"name_plural": "לירות של איי פוקלנד",
+		"subunit_name": "פני",
+		"subunit_name_plural": "פנס"
+	},
+	"GBP": {
+		"name": "לירה שטרלינג",
+		"name_plural": "לירות שטרלינג",
+		"subunit_name": "פני",
+		"subunit_name_plural": "פנס"
+	},
+	"GEL": {
+		"name": "לארי גאורגי",
+		"name_plural": "לארי גאורגיים",
+		"subunit_name": "טטרי",
+		"subunit_name_plural": "טטרי"
+	},
+	"GHS": {
+		"name": "סדי גאני",
+		"name_plural": "סדים גאניים",
+		"subunit_name": "פסווה",
+		"subunit_name_plural": "פסווה"
+	},
+	"GIP": {
+		"name": "לירה של גיברלטר",
+		"name_plural": "לירות של גיברלטר",
+		"subunit_name": "פני",
+		"subunit_name_plural": "פנס"
+	},
+	"GMD": {
+		"name": "דלסי גמביאני",
+		"name_plural": "דלסים גמביאניים",
+		"subunit_name": "בוטוט",
+		"subunit_name_plural": "בוטוטים"
+	},
+	"GNF": {
+		"name": "פרנק גינאי",
+		"name_plural": "פרנקים גינאיים",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"GTQ": {
+		"name": "קצאל גואטמלי",
+		"name_plural": "קצאלים גואטמליים",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"GYD": {
+		"name": "דולר גיאני",
+		"name_plural": "דולרים גיאניים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"HKD": {
+		"name": "דולר הונג קונג",
+		"name_plural": "דולרי הונג קונג",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"HNL": {
+		"name": "למפירה הונדורסי",
+		"name_plural": "למפירות הונדורסיים",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"HRK": {
+		"name": "קונה קרואטי",
+		"name_plural": "קונה קרואטיים",
+		"subunit_name": "ליפה",
+		"subunit_name_plural": "ליפה"
+	},
+	"HTG": {
+		"name": "גורד האיטי",
+		"name_plural": "גורדים האיטיים",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"HUF": {
+		"name": "פורינט הונגרי",
+		"name_plural": "פורינטים הונגריים",
+		"subunit_name": "פילר",
+		"subunit_name_plural": "פילר"
+	},
+	"IDR": {
+		"name": "רופיה אינדונזית",
+		"name_plural": "רופיות אינדונזיות",
+		"subunit_name": "סן",
+		"subunit_name_plural": "סן"
+	},
+	"ILS": {
+		"name": "שקל חדש",
+		"name_plural": "שקלים חדשים",
+		"subunit_name": "אגורה",
+		"subunit_name_plural": "אגורות"
+	},
+	"INR": {
+		"name": "רופי הודי",
+		"name_plural": "רופיות הודיות",
+		"subunit_name": "פאיסה",
+		"subunit_name_plural": "פאיסה"
+	},
+	"IQD": {
+		"name": "דינר עיראקי",
+		"name_plural": "דינרים עיראקיים",
+		"subunit_name": "פילס",
+		"subunit_name_plural": "פילס"
+	},
+	"IRR": {
+		"name": "ריאל איראני",
+		"name_plural": "ריאלים איראניים",
+		"subunit_name": "דינר",
+		"subunit_name_plural": "דינרים"
+	},
+	"ISK": {
+		"name": "קרונה איסלנדית",
+		"name_plural": "קרונות איסלנדיות",
+		"subunit_name": "איריר",
+		"subunit_name_plural": "אוריר"
+	},
+	"JMD": {
+		"name": "דולר ג'מייקני",
+		"name_plural": "דולרים ג'מייקניים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"JOD": {
+		"name": "דינר ירדני",
+		"name_plural": "דינרים ירדניים",
+		"subunit_name": "פילס",
+		"subunit_name_plural": "פילס"
+	},
+	"JPY": {
+		"name": "ין יפני",
+		"name_plural": "ין יפני",
+		"subunit_name": "סן",
+		"subunit_name_plural": "סן"
+	},
+	"KES": {
+		"name": "שילינג קנייתי",
+		"name_plural": "שילינגים קנייתיים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"KGS": {
+		"name": "סום קירגיזי",
+		"name_plural": "סומים קירגיזיים",
+		"subunit_name": "טיין",
+		"subunit_name_plural": "טיין"
+	},
+	"KHR": {
+		"name": "ריאל קמבודי",
+		"name_plural": "ריאלים קמבודיים",
+		"subunit_name": "סן",
+		"subunit_name_plural": "סן"
+	},
+	"KMF": {
+		"name": "פרנק קומורואי",
+		"name_plural": "פרנקים קומורואיים",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"KPW": {
+		"name": "וון צפון קוריאני",
+		"name_plural": "וון צפון קוריאניים",
+		"subunit_name": "ג'ון",
+		"subunit_name_plural": "ג'ון"
+	},
+	"KRW": {
+		"name": "וון דרום קוריאני",
+		"name_plural": "וון דרום קוריאניים",
+		"subunit_name": "ג'ון",
+		"subunit_name_plural": "ג'ון"
+	},
+	"KWD": {
+		"name": "דינר כוויתי",
+		"name_plural": "דינרים כוויתיים",
+		"subunit_name": "פילס",
+		"subunit_name_plural": "פילס"
+	},
+	"KYD": {
+		"name": "דולר איי קיימן",
+		"name_plural": "דולרי איי קיימן",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"KZT": {
+		"name": "טנגה קזחי",
+		"name_plural": "טנגות קזחיות",
+		"subunit_name": "טין",
+		"subunit_name_plural": "טין"
+	},
+	"LAK": {
+		"name": "קיפ לאוסי",
+		"name_plural": "קיפים לאוסיים",
+		"subunit_name": "אט",
+		"subunit_name_plural": "אט"
+	},
+	"LBP": {
+		"name": "לירה לבנונית",
+		"name_plural": "לירות לבנוניות",
+		"subunit_name": "פיאסטר",
+		"subunit_name_plural": "פיאסטרים"
+	},
+	"LKR": {
+		"name": "רופי סרי-לנקי",
+		"name_plural": "רופיות סרי-לנקיות",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"LRD": {
+		"name": "דולר ליברי",
+		"name_plural": "דולרים ליבריים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"LSL": {
+		"name": "לוטי לסותי",
+		"name_plural": "מלוטי לסותי",
+		"subunit_name": "סנטה",
+		"subunit_name_plural": "ליסנטה"
+	},
+	"LYD": {
+		"name": "דינר לובי",
+		"name_plural": "דינרים לובים",
+		"subunit_name": "דירהם",
+		"subunit_name_plural": "דירהמים"
+	},
+	"MAD": {
+		"name": "דירהם מרוקאי",
+		"name_plural": "דירהמים מרוקאים",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"MDL": {
+		"name": "לאו מולדובני",
+		"name_plural": "לאי מולדובניים",
+		"subunit_name": "באן",
+		"subunit_name_plural": "באני"
+	},
+	"MGA": {
+		"name": "אריארי מלגשי",
+		"name_plural": "אריארים מלגשיים",
+		"subunit_name": "איראימבילנג'ה",
+		"subunit_name_plural": "איראימבילנג'ה"
+	},
+	"MKD": {
+		"name": "דינר מקדוני",
+		"name_plural": "דינרים מקדוניים",
+		"subunit_name": "דני",
+		"subunit_name_plural": "דני"
+	},
+	"MMK": {
+		"name": "קיאט מיאנמרי",
+		"name_plural": "קיאטים מיאנמריים",
+		"subunit_name": "פייה",
+		"subunit_name_plural": "פייה"
+	},
+	"MNT": {
+		"name": "טוגריק מונגולי",
+		"name_plural": "טוגריקים מונגוליים",
+		"subunit_name": "מונגו",
+		"subunit_name_plural": "מונגו"
+	},
+	"MOP": {
+		"name": "פאטקה מקאו",
+		"name_plural": "פאטקות מקאו",
+		"subunit_name": "או",
+		"subunit_name_plural": "או"
+	},
+	"MRU": {
+		"name": "אוגויה מאוריטני",
+		"name_plural": "אוגויות מאוריטניות",
+		"subunit_name": "ח'ום",
+		"subunit_name_plural": "ח'ום"
+	},
+	"MUR": {
+		"name": "רופי מאוריציאני",
+		"name_plural": "רופיות מאוריציאניות",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"MVR": {
+		"name": "רופיה מלדיבית",
+		"name_plural": "רופיות מלדיביות",
+		"subunit_name": "לארי",
+		"subunit_name_plural": "לארי"
+	},
+	"MWK": {
+		"name": "קוואצ'ה מלאווי",
+		"name_plural": "קוואצ'ות מלאווי",
+		"subunit_name": "טמבלה",
+		"subunit_name_plural": "טמבלה"
+	},
+	"MXN": {
+		"name": "פסו מקסיקני",
+		"name_plural": "פסוס מקסיקניים",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"MYR": {
+		"name": "רינגיט מלזי",
+		"name_plural": "רינגיטים מלזיים",
+		"subunit_name": "סן",
+		"subunit_name_plural": "סן"
+	},
+	"MZN": {
+		"name": "מטיקל מוזמביקי",
+		"name_plural": "מטיקלים מוזמביקיים",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"NAD": {
+		"name": "דולר נמיבי",
+		"name_plural": "דולרים נמיביים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"NGN": {
+		"name": "נאירה ניגרי",
+		"name_plural": "נאירות ניגריות",
+		"subunit_name": "קובו",
+		"subunit_name_plural": "קובו"
+	},
+	"NIO": {
+		"name": "קורדובה ניקרגואי",
+		"name_plural": "קורדובות ניקרגואיות",
+		"subunit_name": "סנטבו",
+		"subunit_name_plural": "סנטבוס"
+	},
+	"NOK": {
+		"name": "קרונה נורווגית",
+		"name_plural": "קרונות נורווגיות",
+		"subunit_name": "אורה",
+		"subunit_name_plural": "אורה"
+	},
+	"NPR": {
+		"name": "רופי נפאלי",
+		"name_plural": "רופיות נפאליות",
+		"subunit_name": "פאיסה",
+		"subunit_name_plural": "פאיסה"
+	},
+	"NZD": {
+		"name": "דולר ניו זילנדי",
+		"name_plural": "דולרים ניו זילנדיים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"OMR": {
+		"name": "ריאל עומאני",
+		"name_plural": "ריאלים עומאניים",
+		"subunit_name": "ביסה",
+		"subunit_name_plural": "ביסה"
+	},
+	"PAB": {
+		"name": "בלבואה פנמי",
+		"name_plural": "בלבואה פנמיים",
+		"subunit_name": "סנטסימו",
+		"subunit_name_plural": "סנטסימוס"
+	},
+	"PEN": {
+		"name": "סול פרואני",
+		"name_plural": "סולים פרואניים",
+		"subunit_name": "סנטימו",
+		"subunit_name_plural": "סנטימוס"
+	},
+	"PGK": {
+		"name": "קינה של פפואה גינאה החדשה",
+		"name_plural": "קינות של פפואה גינאה החדשה",
+		"subunit_name": "טואה",
+		"subunit_name_plural": "טואה"
+	},
+	"PHP": {
+		"name": "פסו פיליפיני",
+		"name_plural": "פסוס פיליפיניים",
+		"subunit_name": "סנטימו",
+		"subunit_name_plural": "סנטימוס"
+	},
+	"PKR": {
+		"name": "רופי פקיסטני",
+		"name_plural": "רופיות פקיסטניות",
+		"subunit_name": "פאיסה",
+		"subunit_name_plural": "פאיסה"
+	},
+	"PLN": {
+		"name": "זלוטי פולני",
+		"name_plural": "זלוטי פולניים",
+		"subunit_name": "גרוש",
+		"subunit_name_plural": "גרושי"
+	},
+	"PYG": {
+		"name": "גוארני פרגוואי",
+		"name_plural": "גוארנים פרגוואיים",
+		"subunit_name": "סנטימו",
+		"subunit_name_plural": "סנטימוס"
+	},
+	"QAR": {
+		"name": "ריאל קטרי",
+		"name_plural": "ריאלים קטריים",
+		"subunit_name": "דירהם",
+		"subunit_name_plural": "דירהמים"
+	},
+	"RON": {
+		"name": "לאו רומני",
+		"name_plural": "לאי רומניים",
+		"subunit_name": "באן",
+		"subunit_name_plural": "באני"
+	},
+	"RSD": {
+		"name": "דינר סרבי",
+		"name_plural": "דינרים סרביים",
+		"subunit_name": "פארה",
+		"subunit_name_plural": "פארה"
+	},
+	"RUB": {
+		"name": "רובל רוסי",
+		"name_plural": "רובלים רוסיים",
+		"subunit_name": "קופק",
+		"subunit_name_plural": "קופקים"
+	},
+	"RWF": {
+		"name": "פרנק רואנדי",
+		"name_plural": "פרנקים רואנדיים",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"SAR": {
+		"name": "ריאל סעודי",
+		"name_plural": "ריאלים סעודיים",
+		"subunit_name": "חללה",
+		"subunit_name_plural": "חללה"
+	},
+	"SBD": {
+		"name": "דולר איי שלמה",
+		"name_plural": "דולרי איי שלמה",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"SCR": {
+		"name": "רופי סיישלי",
+		"name_plural": "רופיות סיישליות",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"SDG": {
+		"name": "לירה סודאנית",
+		"name_plural": "לירות סודאניות",
+		"subunit_name": "פיאסטר",
+		"subunit_name_plural": "פיאסטרים"
+	},
+	"SEK": {
+		"name": "קרונה שוודית",
+		"name_plural": "קרונות שוודיות",
+		"subunit_name": "אורה",
+		"subunit_name_plural": "אורה"
+	},
+	"SGD": {
+		"name": "דולר סינגפורי",
+		"name_plural": "דולרים סינגפוריים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"SHP": {
+		"name": "לירה של סנט הלנה",
+		"name_plural": "לירות של סנט הלנה",
+		"subunit_name": "פני",
+		"subunit_name_plural": "פנס"
+	},
+	"SLL": {
+		"name": "לאון סיירה-לאוני",
+		"name_plural": "לאונים סיירה-לאוניים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"SOS": {
+		"name": "שילינג סומלי",
+		"name_plural": "שילינגים סומליים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"SRD": {
+		"name": "דולר סורינאמי",
+		"name_plural": "דולרים סורינאמיים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"SSP": {
+		"name": "לירה של דרום סודאן",
+		"name_plural": "לירות של דרום סודאן",
+		"subunit_name": "פיאסטר",
+		"subunit_name_plural": "פיאסטרים"
+	},
+	"STN": {
+		"name": "דוברה של סאו טומה ופרינסיפה",
+		"name_plural": "דוברות של סאו טומה ופרינסיפה",
+		"subunit_name": "סנטימו",
+		"subunit_name_plural": "סנטימוס"
+	},
+	"SYP": {
+		"name": "לירה סורית",
+		"name_plural": "לירות סוריות",
+		"subunit_name": "פיאסטר",
+		"subunit_name_plural": "פיאסטרים"
+	},
+	"SZL": {
+		"name": "לילנגני סווזילנדי",
+		"name_plural": "אמלנגני סווזילנדיים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"THB": {
+		"name": "בהט תאילנדי",
+		"name_plural": "בהטים תאילנדיים",
+		"subunit_name": "סאטנג",
+		"subunit_name_plural": "סאטנג"
+	},
+	"TJS": {
+		"name": "סומוני טג'יקי",
+		"name_plural": "סומונים טג'יקיים",
+		"subunit_name": "דירהם",
+		"subunit_name_plural": "דירהמים"
+	},
+	"TMT": {
+		"name": "מנאט טורקמני",
+		"name_plural": "מנאטים טורקמניים",
+		"subunit_name": "טנגה",
+		"subunit_name_plural": "טנגה"
+	},
+	"TND": {
+		"name": "דינר טוניסאי",
+		"name_plural": "דינרים טוניסאים",
+		"subunit_name": "מילימה",
+		"subunit_name_plural": "מילימות"
+	},
+	"TOP": {
+		"name": "פאנגה טונגי",
+		"name_plural": "פאנגה טונגיים",
+		"subunit_name": "סניטי",
+		"subunit_name_plural": "סניטי"
+	},
+	"TRY": {
+		"name": "לירה טורקית",
+		"name_plural": "לירות טורקיות",
+		"subunit_name": "קורוש",
+		"subunit_name_plural": "קורוש"
+	},
+	"TTD": {
+		"name": "דולר טרינידד וטובגו",
+		"name_plural": "דולרים של טרינידד וטובגו",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"TWD": {
+		"name": "דולר טייוואני חדש",
+		"name_plural": "דולרים טייוואניים חדשים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"TZS": {
+		"name": "שילינג טנזני",
+		"name_plural": "שילינגים טנזניים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"UAH": {
+		"name": "הריבניה אוקראינית",
+		"name_plural": "הריבניות אוקראיניות",
+		"subunit_name": "קופק",
+		"subunit_name_plural": "קופקים"
+	},
+	"UGX": {
+		"name": "שילינג אוגנדי",
+		"name_plural": "שילינגים אוגנדיים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"USD": {
+		"name": "דולר אמריקאי",
+		"name_plural": "דולרים אמריקאים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"UYU": {
+		"name": "פסו אורוגוואי",
+		"name_plural": "פסוס אורוגוואיים",
+		"subunit_name": "סנטסימו",
+		"subunit_name_plural": "סנטסימוס"
+	},
+	"UZS": {
+		"name": "סום אוזבקי",
+		"name_plural": "סומים אוזבקיים",
+		"subunit_name": "טיין",
+		"subunit_name_plural": "טיין"
+	},
+	"VES": {
+		"name": "בוליבר ונצואלי",
+		"name_plural": "בוליברים ונצואליים",
+		"subunit_name": "סנטימו",
+		"subunit_name_plural": "סנטימוס"
+	},
+	"VND": {
+		"name": "דונג וייטנאמי",
+		"name_plural": "דונגים וייטנאמיים",
+		"subunit_name": "האו",
+		"subunit_name_plural": "האו"
+	},
+	"VUV": {
+		"name": "ואטו ואנואטי",
+		"name_plural": "ואטו ואנואטיים",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"WST": {
+		"name": "טאלה סמואי",
+		"name_plural": "טאלה סמואיים",
+		"subunit_name": "סנה",
+		"subunit_name_plural": "סנה"
+	},
+	"XAF": {
+		"name": "פרנק CFA מרכז אפריקאי",
+		"name_plural": "פרנקים CFA מרכז אפריקאיים",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"XCD": {
+		"name": "דולר מזרח קריבי",
+		"name_plural": "דולרים מזרח קריביים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"XOF": {
+		"name": "פרנק CFA מערב אפריקאי",
+		"name_plural": "פרנקים CFA מערב אפריקאיים",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"XPF": {
+		"name": "פרנק CFP",
+		"name_plural": "פרנקים CFP",
+		"subunit_name": "סנטים",
+		"subunit_name_plural": "סנטימים"
+	},
+	"YER": {
+		"name": "ריאל תימני",
+		"name_plural": "ריאלים תימניים",
+		"subunit_name": "פילס",
+		"subunit_name_plural": "פילס"
+	},
+	"ZAR": {
+		"name": "רנד דרום אפריקאי",
+		"name_plural": "רנדים דרום אפריקאיים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	},
+	"ZMW": {
+		"name": "קוואצ'ה זמבי",
+		"name_plural": "קוואצ'ות זמביות",
+		"subunit_name": "נגווה",
+		"subunit_name_plural": "נגווה"
+	},
+	"ZWL": {
+		"name": "דולר זימבבואי",
+		"name_plural": "דולרים זימבבואיים",
+		"subunit_name": "סנט",
+		"subunit_name_plural": "סנטים"
+	}
+}

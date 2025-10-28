@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "ယူအေအီး ဒီရာမ်",
+		"name_plural": "ယူအေအီး ဒီရာမ်များ",
+		"subunit_name": "ဖစ်လ်စ်",
+		"subunit_name_plural": "ဖစ်လ်စ်များ"
+	},
+	"AFN": {
+		"name": "အာဖ်ဂန် အာဖ်ဂါနီ",
+		"name_plural": "အာဖ်ဂန် အာဖ်ဂါနီများ",
+		"subunit_name": "ပူလ်",
+		"subunit_name_plural": "ပူလ်များ"
+	},
+	"ALL": {
+		"name": "အယ်လ်ဘေးနီးယား လက်ခ်",
+		"name_plural": "အယ်လ်ဘေးနီးယား လက်ခ်များ",
+		"subunit_name": "ချင်ဒါကာ",
+		"subunit_name_plural": "ချင်ဒါကာများ"
+	},
+	"AMD": {
+		"name": "အာမေးနီးယား ဒရမ်",
+		"name_plural": "အာမေးနီးယား ဒရမ်များ",
+		"subunit_name": "လူမာ",
+		"subunit_name_plural": "လူမာများ"
+	},
+	"ANG": {
+		"name": "နယ်သာလန် အန်တီလီးယန်း ဂူလ်ဒါ",
+		"name_plural": "နယ်သာလန် အန်တီလီးယန်း ဂူလ်ဒါများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"AOA": {
+		"name": "အင်ဂိုလာ ကွမ်ဇာ",
+		"name_plural": "အင်ဂိုလာ ကွမ်ဇာများ",
+		"subunit_name": "စင့်တီမို",
+		"subunit_name_plural": "စင့်တီမိုများ"
+	},
+	"ARS": {
+		"name": "အာဂျင်တီးနား ပီဆို",
+		"name_plural": "အာဂျင်တီးနား ပီဆိုများ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"AUD": {
+		"name": "ဩစတြေးလျ ဒေါ်လာ",
+		"name_plural": "ဩစတြေးလျ ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"AWG": {
+		"name": "အာရူဘာ ဖလိုရင်",
+		"name_plural": "အာရူဘာ ဖလိုရင်များ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"AZN": {
+		"name": "အဇာဘိုင်ဂျန် မာနတ်",
+		"name_plural": "အဇာဘိုင်ဂျန် မာနတ်များ",
+		"subunit_name": "ဂပိတ်",
+		"subunit_name_plural": "ဂပိတ်များ"
+	},
+	"BAM": {
+		"name": "ဘော့စ်နီးယားနှင့် ဟာဇီဂိုဗီးနား ကွန်ဗတ်တီဘယ် မတ်ခ်",
+		"name_plural": "ဘော့စ်နီးယားနှင့် ဟာဇီဂိုဗီးနား ကွန်ဗတ်တီဘယ် မတ်ခ်များ",
+		"subunit_name": "ဖီနင်",
+		"subunit_name_plural": "ဖီနင်များ"
+	},
+	"BBD": {
+		"name": "ဘာဘေးဒီးယန်း ဒေါ်လာ",
+		"name_plural": "ဘာဘေးဒီးယန်း ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"BDT": {
+		"name": "ဘင်္ဂလားဒေ့ရှ် တကာ",
+		"name_plural": "ဘင်္ဂလားဒေ့ရှ် တကာများ",
+		"subunit_name": "ပိုရှာ",
+		"subunit_name_plural": "ပိုရှာများ"
+	},
+	"BGN": {
+		"name": "ဘူလ်ဂေးရီးယား လက်ဗာ",
+		"name_plural": "ဘူလ်ဂေးရီးယား လက်ဗာများ",
+		"subunit_name": "စတိုတင်ကာ",
+		"subunit_name_plural": "စတိုတင်ကီ"
+	},
+	"BHD": {
+		"name": "ဘာရိန်း ဒီနာ",
+		"name_plural": "ဘာရိန်း ဒီနာများ",
+		"subunit_name": "ဖစ်လ်စ်",
+		"subunit_name_plural": "ဖစ်လ်စ်များ"
+	},
+	"BIF": {
+		"name": "ဘူရွန်ဒီ ဖရန့်",
+		"name_plural": "ဘူရွန်ဒီ ဖရန့်များ",
+		"subunit_name": "စင့်တိမ်း",
+		"subunit_name_plural": "စင့်တိမ်းများ"
+	},
+	"BMD": {
+		"name": "ဘာမူဒါ ဒေါ်လာ",
+		"name_plural": "ဘာမူဒါ ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"BND": {
+		"name": "ဘရူနိုင်း ဒေါ်လာ",
+		"name_plural": "ဘရူနိုင်း ဒေါ်လာများ",
+		"subunit_name": "ဆင်",
+		"subunit_name_plural": "ဆင်များ"
+	},
+	"BOB": {
+		"name": "ဘိုလီးဗီးယား ဘိုလီဗီယာနို",
+		"name_plural": "ဘိုလီးဗီးယား ဘိုလီဗီယာနိုများ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"BRL": {
+		"name": "ဘရာဇီး ရီးအေးလ်",
+		"name_plural": "ဘရာဇီး ရီးအေးလ်များ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"BSD": {
+		"name": "ဘဟာမား ဒေါ်လာ",
+		"name_plural": "ဘဟာမား ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"BTN": {
+		"name": "ဘူတန် ငူးလ်ထရမ်",
+		"name_plural": "ဘူတန် ငူးလ်ထရမ်များ",
+		"subunit_name": "ချီထရမ်",
+		"subunit_name_plural": "ချီထရမ်များ"
+	},
+	"BWP": {
+		"name": "ဘော့စ်ဝါနာ ပူလာ",
+		"name_plural": "ဘော့စ်ဝါနာ ပူလာများ",
+		"subunit_name": "သီဘီ",
+		"subunit_name_plural": "သီဘီများ"
+	},
+	"BYN": {
+		"name": "ဘီလာရုစ် ရုဘယ်",
+		"name_plural": "ဘီလာရုစ် ရုဘယ်များ",
+		"subunit_name": "ကိုပိတ်ခ်",
+		"subunit_name_plural": "ကိုပိတ်ခ်များ"
+	},
+	"BZD": {
+		"name": "ဘေလီဇ် ဒေါ်လာ",
+		"name_plural": "ဘေလီဇ် ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"CAD": {
+		"name": "ကနေဒါ ဒေါ်လာ",
+		"name_plural": "ကနေဒါ ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"CDF": {
+		"name": "ကွန်ဂို ဖရန့်",
+		"name_plural": "ကွန်ဂို ဖရန့်များ",
+		"subunit_name": "စင့်တိမ်း",
+		"subunit_name_plural": "စင့်တိမ်းများ"
+	},
+	"CHF": {
+		"name": "ဆွစ်ဇာလန် ဖရန့်",
+		"name_plural": "ဆွစ်ဇာလန် ဖရန့်များ",
+		"subunit_name": "ရပ်ပင်",
+		"subunit_name_plural": "ရပ်ပင်များ"
+	},
+	"CLP": {
+		"name": "ချီလီ ပီဆို",
+		"name_plural": "ချီလီ ပီဆိုများ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"CNY": {
+		"name": "တရုတ် ယွမ်",
+		"name_plural": "တရုတ် ယွမ်များ",
+		"subunit_name": "ဖန်",
+		"subunit_name_plural": "ဖန်များ"
+	},
+	"COP": {
+		"name": "ကိုလံဘီယာ ပီဆို",
+		"name_plural": "ကိုလံဘီယာ ပီဆိုများ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"CRC": {
+		"name": "ကော့စ်တာရီကာ ကိုလွန်",
+		"name_plural": "ကော့စ်တာရီကာ ကိုလွန်များ",
+		"subunit_name": "စင့်တီမို",
+		"subunit_name_plural": "စင့်တီမိုများ"
+	},
+	"CUC": {
+		"name": "ကျူးဘား ကွန်ဗတ်တီဘယ် ပီဆို",
+		"name_plural": "ကျူးဘား ကွန်ဗတ်တီဘယ် ပီဆိုများ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"CUP": {
+		"name": "ကျူးဘား ပီဆို",
+		"name_plural": "ကျူးဘား ပီဆိုများ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"CVE": {
+		"name": "ကိပ်ဗာဒီ အက်စကူဒို",
+		"name_plural": "ကိပ်ဗာဒီ အက်စကူဒိုများ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"CZK": {
+		"name": "ချက် ကိုရူနာ",
+		"name_plural": "ချက် ကိုရူနာများ",
+		"subunit_name": "ဟာလီယာ",
+		"subunit_name_plural": "ဟာလီယာများ"
+	},
+	"DJF": {
+		"name": "ဂျီဘူတီ ဖရန့်",
+		"name_plural": "ဂျီဘူတီ ဖရန့်များ",
+		"subunit_name": "စင့်တိမ်း",
+		"subunit_name_plural": "စင့်တိမ်းများ"
+	},
+	"DKK": {
+		"name": "ဒိန်းမတ် ခရိုနာ",
+		"name_plural": "ဒိန်းမတ် ခရိုနာများ",
+		"subunit_name": "အိုရီ",
+		"subunit_name_plural": "အိုရီများ"
+	},
+	"DOP": {
+		"name": "ဒိုမီနီကန် ပီဆို",
+		"name_plural": "ဒိုမီနီကန် ပီဆိုများ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"DZD": {
+		"name": "အယ်လ်ဂျီးရီးယား ဒီနာ",
+		"name_plural": "အယ်လ်ဂျီးရီးယား ဒီနာများ",
+		"subunit_name": "စင့်တိမ်း",
+		"subunit_name_plural": "စင့်တိမ်းများ"
+	},
+	"EGP": {
+		"name": "အီဂျစ် ပေါင်",
+		"name_plural": "အီဂျစ် ပေါင်များ",
+		"subunit_name": "ပီယာစတာ",
+		"subunit_name_plural": "ပီယာစတာများ"
+	},
+	"ERN": {
+		"name": "အီရီထရီးယား နက်ဖာ",
+		"name_plural": "အီရီထရီးယား နက်ဖာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"ETB": {
+		"name": "အီသီယိုးပီးယား ဘာ",
+		"name_plural": "အီသီယိုးပီးယား ဘာများ",
+		"subunit_name": "ဆန်တင်",
+		"subunit_name_plural": "ဆန်တင်များ"
+	},
+	"EUR": {
+		"name": "ယူရို",
+		"name_plural": "ယူရိုများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"FJD": {
+		"name": "ဖီဂျီ ဒေါ်လာ",
+		"name_plural": "ဖီဂျီ ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"FKP": {
+		"name": "ဖော့ခ်လန် ကျွန်းစု ပေါင်",
+		"name_plural": "ဖော့ခ်လန် ကျွန်းစု ပေါင်များ",
+		"subunit_name": "ပင်နီ",
+		"subunit_name_plural": "ပင်စ်"
+	},
+	"GBP": {
+		"name": "ဗြိတိသျှ ပေါင်",
+		"name_plural": "ဗြိတိသျှ ပေါင်များ",
+		"subunit_name": "ပင်နီ",
+		"subunit_name_plural": "ပင်စ်"
+	},
+	"GEL": {
+		"name": "ဂျော်ဂျီယာ လာရီ",
+		"name_plural": "ဂျော်ဂျီယာ လာရီများ",
+		"subunit_name": "တီတြီ",
+		"subunit_name_plural": "တီတြီများ"
+	},
+	"GHS": {
+		"name": "ဂါနာ စီဒီ",
+		"name_plural": "ဂါနာ စီဒီများ",
+		"subunit_name": "ပီဆွာ",
+		"subunit_name_plural": "ပီဆွာများ"
+	},
+	"GIP": {
+		"name": "ဂျီဘရော်လ်တာ ပေါင်",
+		"name_plural": "ဂျီဘရော်လ်တာ ပေါင်များ",
+		"subunit_name": "ပင်နီ",
+		"subunit_name_plural": "ပင်စ်"
+	},
+	"GMD": {
+		"name": "ဂမ်ဘီယာ ဒါလာစီ",
+		"name_plural": "ဂမ်ဘီယာ ဒါလာစီများ",
+		"subunit_name": "ဘူတူတ်",
+		"subunit_name_plural": "ဘူတူတ်များ"
+	},
+	"GNF": {
+		"name": "ဂီနီ ဖရန့်",
+		"name_plural": "ဂီနီ ဖရန့်များ",
+		"subunit_name": "စင့်တိမ်း",
+		"subunit_name_plural": "စင့်တိမ်းများ"
+	},
+	"GTQ": {
+		"name": "ဂွာတီမာလာ ကွက်ဇယ်",
+		"name_plural": "ဂွာတီမာလာ ကွက်ဇယ်များ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"GYD": {
+		"name": "ဂိုင်ယာနာ ဒေါ်လာ",
+		"name_plural": "ဂိုင်ယာနာ ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"HKD": {
+		"name": "ဟောင်ကောင် ဒေါ်လာ",
+		"name_plural": "ဟောင်ကောင် ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"HNL": {
+		"name": "ဟွန်ဒူးရပ်စ် လမ်ပီရာ",
+		"name_plural": "ဟွန်ဒူးရပ်စ် လမ်ပီရာများ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"HRK": {
+		"name": "ခရိုအေးရှား ကူနာ",
+		"name_plural": "ခရိုအေးရှား ကူနာများ",
+		"subunit_name": "လီပါ",
+		"subunit_name_plural": "လီပါများ"
+	},
+	"HTG": {
+		"name": "ဟေတီ ဂေါဒ်",
+		"name_plural": "ဟေတီ ဂေါဒ်များ",
+		"subunit_name": "စင့်တိမ်း",
+		"subunit_name_plural": "စင့်တိမ်းများ"
+	},
+	"HUF": {
+		"name": "ဟန်ဂေရီ ဖိုရင့်",
+		"name_plural": "ဟန်ဂေရီ ဖိုရင့်များ",
+		"subunit_name": "ဖီလာ",
+		"subunit_name_plural": "ဖီလာများ"
+	},
+	"IDR": {
+		"name": "အင်ဒိုနီးရှား ရူပီ",
+		"name_plural": "အင်ဒိုနီးရှား ရူပီများ",
+		"subunit_name": "ဆင်",
+		"subunit_name_plural": "ဆင်များ"
+	},
+	"ILS": {
+		"name": "အစ္စရေး ရှီကယ်လ်",
+		"name_plural": "အစ္စရေး ရှီကယ်လ်များ",
+		"subunit_name": "အာဂိုရာ",
+		"subunit_name_plural": "အာဂိုရောတ်"
+	},
+	"INR": {
+		"name": "အိန္ဒိယ ရူပီ",
+		"name_plural": "အိန္ဒိယ ရူပီများ",
+		"subunit_name": "ပိသာ",
+		"subunit_name_plural": "ပိသာများ"
+	},
+	"IQD": {
+		"name": "အီရတ် ဒီနာ",
+		"name_plural": "အီရတ် ဒီနာများ",
+		"subunit_name": "ဖစ်လ်စ်",
+		"subunit_name_plural": "ဖစ်လ်စ်များ"
+	},
+	"IRR": {
+		"name": "အီရန် ရီယာလ်",
+		"name_plural": "အီရန် ရီယာလ်များ",
+		"subunit_name": "ဒီနာ",
+		"subunit_name_plural": "ဒီနာများ"
+	},
+	"ISK": {
+		"name": "အိုက်စလန် ခရိုနာ",
+		"name_plural": "အိုက်စလန် ခရိုနာများ",
+		"subunit_name": "အိုင်ရီ",
+		"subunit_name_plural": "အော်ရာ"
+	},
+	"JMD": {
+		"name": "ဂျမေကာ ဒေါ်လာ",
+		"name_plural": "ဂျမေကာ ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"JOD": {
+		"name": "ဂျော်ဒန် ဒီနာ",
+		"name_plural": "ဂျော်ဒန် ဒီနာများ",
+		"subunit_name": "ဖစ်လ်စ်",
+		"subunit_name_plural": "ဖစ်လ်စ်များ"
+	},
+	"JPY": {
+		"name": "ဂျပန် ယန်း",
+		"name_plural": "ဂျပန် ယန်းများ",
+		"subunit_name": "ဆင်",
+		"subunit_name_plural": "ဆင်များ"
+	},
+	"KES": {
+		"name": "ကင်ညာ ရှီလင်း",
+		"name_plural": "ကင်ညာ ရှီလင်းများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"KGS": {
+		"name": "ကာဂျစ်စတန် ဆိုမ်",
+		"name_plural": "ကာဂျစ်စတန် ဆိုမ်များ",
+		"subunit_name": "တီယင်",
+		"subunit_name_plural": "တီယင်များ"
+	},
+	"KHR": {
+		"name": "ကမ္ဘောဒီးယား ရီယယ်",
+		"name_plural": "ကမ္ဘောဒီးယား ရီယယ်များ",
+		"subunit_name": "ဆင်",
+		"subunit_name_plural": "ဆင်များ"
+	},
+	"KMF": {
+		"name": "ကိုမိုရို ဖရန့်",
+		"name_plural": "ကိုမိုရို ဖရန့်များ",
+		"subunit_name": "စင့်တိမ်း",
+		"subunit_name_plural": "စင့်တိမ်းများ"
+	},
+	"KPW": {
+		"name": "မြောက်ကိုရီးယား ဝမ်",
+		"name_plural": "မြောက်ကိုရီးယား ဝမ်များ",
+		"subunit_name": "ဂျွန်",
+		"subunit_name_plural": "ဂျွန်များ"
+	},
+	"KRW": {
+		"name": "တောင်ကိုရီးယား ဝမ်",
+		"name_plural": "တောင်ကိုရီးယား ဝမ်များ",
+		"subunit_name": "ဂျွန်",
+		"subunit_name_plural": "ဂျွန်များ"
+	},
+	"KWD": {
+		"name": "ကူဝိတ် ဒီနာ",
+		"name_plural": "ကူဝိတ် ဒီနာများ",
+		"subunit_name": "ဖစ်လ်စ်",
+		"subunit_name_plural": "ဖစ်လ်စ်များ"
+	},
+	"KYD": {
+		"name": "ကေမန် ကျွန်းစု ဒေါ်လာ",
+		"name_plural": "ကေမန် ကျွန်းစု ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"KZT": {
+		"name": "ကာဇက်စတန် တင်ဂီ",
+		"name_plural": "ကာဇက်စတန် တင်ဂီများ",
+		"subunit_name": "တီယင်",
+		"subunit_name_plural": "တီယင်များ"
+	},
+	"LAK": {
+		"name": "လာအို ကစ်",
+		"name_plural": "လာအို ကစ်များ",
+		"subunit_name": "အက်တ်",
+		"subunit_name_plural": "အက်တ်များ"
+	},
+	"LBP": {
+		"name": "လက်ဘနွန် ပေါင်",
+		"name_plural": "လက်ဘနွန် ပေါင်များ",
+		"subunit_name": "ပီယာစတာ",
+		"subunit_name_plural": "ပီယာစတာများ"
+	},
+	"LKR": {
+		"name": "သီရိလင်္ကာ ရူပီ",
+		"name_plural": "သီရိလင်္ကာ ရူပီများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"LRD": {
+		"name": "လိုက်ဘီးရီးယား ဒေါ်လာ",
+		"name_plural": "လိုက်ဘီးရီးယား ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"LSL": {
+		"name": "လီဆိုသို လိုတီ",
+		"name_plural": "လီဆိုသို လိုတီများ",
+		"subunit_name": "ဆင့်တီ",
+		"subunit_name_plural": "လီဆင့်တီ"
+	},
+	"LYD": {
+		"name": "လစ်ဘီယာ ဒီနာ",
+		"name_plural": "လစ်ဘီယာ ဒီနာများ",
+		"subunit_name": "ဒီရာမ်",
+		"subunit_name_plural": "ဒီရာမ်များ"
+	},
+	"MAD": {
+		"name": "မော်ရိုကို ဒီရာမ်",
+		"name_plural": "မော်ရိုကို ဒီရာမ်များ",
+		"subunit_name": "စင့်တိမ်း",
+		"subunit_name_plural": "စင့်တိမ်းများ"
+	},
+	"MDL": {
+		"name": "မော်လ်ဒိုးဝါး လီးယူ",
+		"name_plural": "မော်လ်ဒိုးဝါး လီးယူများ",
+		"subunit_name": "ဘန်",
+		"subunit_name_plural": "ဘနီ"
+	},
+	"MGA": {
+		"name": "မဒါဂတ်စကာ အရီယာရီ",
+		"name_plural": "မဒါဂတ်စကာ အရီယာရီများ",
+		"subunit_name": "အိုင်ရိုင်မ်ဘီလန်ဂျာ",
+		"subunit_name_plural": "အိုင်ရိုင်မ်ဘီလန်ဂျာများ"
+	},
+	"MKD": {
+		"name": "မာစီဒိုးနီးယား ဒီနာ",
+		"name_plural": "မာစီဒိုးနီးယား ဒီနာများ",
+		"subunit_name": "ဒီနီ",
+		"subunit_name_plural": "ဒီနီများ"
+	},
+	"MMK": {
+		"name": "မြန်မာ ကျပ်",
+		"name_plural": "မြန်မာ ကျပ်များ",
+		"subunit_name": "ပြား",
+		"subunit_name_plural": "ပြားများ"
+	},
+	"MNT": {
+		"name": "မွန်ဂိုးလီးယား တူဂရစ်ခ်",
+		"name_plural": "မွန်ဂိုးလီးယား တူဂရစ်ခ်များ",
+		"subunit_name": "မွန်ဂို",
+		"subunit_name_plural": "မွန်ဂိုများ"
+	},
+	"MOP": {
+		"name": "မကာအို ပါတာကာ",
+		"name_plural": "မကာအို ပါတာကာများ",
+		"subunit_name": "အာဗို",
+		"subunit_name_plural": "အာဗိုများ"
+	},
+	"MRU": {
+		"name": "မော်ရီတေးနီးယား အိုဂီယာ",
+		"name_plural": "မော်ရီတေးနီးယား အိုဂီယာများ",
+		"subunit_name": "ခိုင်မ်စ်",
+		"subunit_name_plural": "ခိုင်မ်စ်များ"
+	},
+	"MUR": {
+		"name": "မော်ရီရှန် ရူပီ",
+		"name_plural": "မော်ရီရှန် ရူပီများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"MVR": {
+		"name": "မော်လ်ဒိုက် ရူဖီယာ",
+		"name_plural": "မော်လ်ဒိုက် ရူဖီယာများ",
+		"subunit_name": "လာရီ",
+		"subunit_name_plural": "လာရီများ"
+	},
+	"MWK": {
+		"name": "မာလာဝီ ကွာချာ",
+		"name_plural": "မာလာဝီ ကွာချာများ",
+		"subunit_name": "တမ်ဘာလာ",
+		"subunit_name_plural": "တမ်ဘာလာများ"
+	},
+	"MXN": {
+		"name": "မက္ကဆီကို ပီဆို",
+		"name_plural": "မက္ကဆီကို ပီဆိုများ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"MYR": {
+		"name": "မလေးရှား ရင်ဂစ်",
+		"name_plural": "မလေးရှား ရင်ဂစ်များ",
+		"subunit_name": "ဆင်",
+		"subunit_name_plural": "ဆင်များ"
+	},
+	"MZN": {
+		"name": "မိုဇမ်ဘစ် မီတီကယ်",
+		"name_plural": "မိုဇမ်ဘစ် မီတီကယ်များ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"NAD": {
+		"name": "နမ်မီးဘီးယား ဒေါ်လာ",
+		"name_plural": "နမ်မီးဘီးယား ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"NGN": {
+		"name": "နိုင်ဂျီးရီးယား နိုင်ရာ",
+		"name_plural": "နိုင်ဂျီးရီးယား နိုင်ရာများ",
+		"subunit_name": "ကိုဘို",
+		"subunit_name_plural": "ကိုဘိုများ"
+	},
+	"NIO": {
+		"name": "နီကာရာဂွာ ကော်ဒိုဘာ",
+		"name_plural": "နီကာရာဂွာ ကော်ဒိုဘာများ",
+		"subunit_name": "စင့်တာဗို",
+		"subunit_name_plural": "စင့်တာဗိုများ"
+	},
+	"NOK": {
+		"name": "နော်ဝေ ခရိုနာ",
+		"name_plural": "နော်ဝေ ခရိုနာများ",
+		"subunit_name": "အိုရီ",
+		"subunit_name_plural": "အိုရီများ"
+	},
+	"NPR": {
+		"name": "နီပေါ ရူပီ",
+		"name_plural": "နီပေါ ရူပီများ",
+		"subunit_name": "ပိသာ",
+		"subunit_name_plural": "ပိသာများ"
+	},
+	"NZD": {
+		"name": "နယူးဇီလန် ဒေါ်လာ",
+		"name_plural": "နယူးဇီလန် ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"OMR": {
+		"name": "အိုမန် ရီယာလ်",
+		"name_plural": "အိုမန် ရီယာလ်များ",
+		"subunit_name": "ဘိုင်ဆာ",
+		"subunit_name_plural": "ဘိုင်ဆာများ"
+	},
+	"PAB": {
+		"name": "ပနားမား ဘယ်လ်ဘိုအာ",
+		"name_plural": "ပနားမား ဘယ်လ်ဘိုအာများ",
+		"subunit_name": "စင့်တီမို",
+		"subunit_name_plural": "စင့်တီမိုများ"
+	},
+	"PEN": {
+		"name": "ပီရူး ဆောလ်",
+		"name_plural": "ပီရူး ဆောလ်များ",
+		"subunit_name": "စင့်တီမို",
+		"subunit_name_plural": "စင့်တီမိုများ"
+	},
+	"PGK": {
+		"name": "ပါပူအာ နယူးဂီနီ ကီနာ",
+		"name_plural": "ပါပူအာ နယူးဂီနီ ကီနာများ",
+		"subunit_name": "တိုအီ",
+		"subunit_name_plural": "တိုအီများ"
+	},
+	"PHP": {
+		"name": "ဖိလစ်ပိုင် ပီဆို",
+		"name_plural": "ဖိလစ်ပိုင် ပီဆိုများ",
+		"subunit_name": "စင့်တီမို",
+		"subunit_name_plural": "စင့်တီမိုများ"
+	},
+	"PKR": {
+		"name": "ပါကစ္စတန် ရူပီ",
+		"name_plural": "ပါကစ္စတန် ရူပီများ",
+		"subunit_name": "ပိသာ",
+		"subunit_name_plural": "ပိသာများ"
+	},
+	"PLN": {
+		"name": "ပိုလန် ဇလော့တီ",
+		"name_plural": "ပိုလန် ဇလော့တီများ",
+		"subunit_name": "ဂရော့ဇ်",
+		"subunit_name_plural": "ဂရော့ဇီ"
+	},
+	"PYG": {
+		"name": "ပါရာဂွေး ဂွာရာနီ",
+		"name_plural": "ပါရာဂွေး ဂွာရာနီများ",
+		"subunit_name": "စင့်တီမို",
+		"subunit_name_plural": "စင့်တီမိုများ"
+	},
+	"QAR": {
+		"name": "ကာတာ ရီယာလ်",
+		"name_plural": "ကာတာ ရီယာလ်များ",
+		"subunit_name": "ဒီရာမ်",
+		"subunit_name_plural": "ဒီရာမ်များ"
+	},
+	"RON": {
+		"name": "ရိုမေးနီးယား လီးယူ",
+		"name_plural": "ရိုမေးနီးယား လီးယူများ",
+		"subunit_name": "ဘန်",
+		"subunit_name_plural": "ဘနီ"
+	},
+	"RSD": {
+		"name": "ဆားဘီးယား ဒီနာ",
+		"name_plural": "ဆားဘီးယား ဒီနာများ",
+		"subunit_name": "ပါရာ",
+		"subunit_name_plural": "ပါရာများ"
+	},
+	"RUB": {
+		"name": "ရုရှ ရုဘယ်",
+		"name_plural": "ရုရှ ရုဘယ်များ",
+		"subunit_name": "ကိုပိတ်ခ်",
+		"subunit_name_plural": "ကိုပိတ်ခ်များ"
+	},
+	"RWF": {
+		"name": "ရဝန်ဒါ ဖရန့်",
+		"name_plural": "ရဝန်ဒါ ဖရန့်များ",
+		"subunit_name": "စင့်တိမ်း",
+		"subunit_name_plural": "စင့်တိမ်းများ"
+	},
+	"SAR": {
+		"name": "ဆော်ဒီ ရီယာလ်",
+		"name_plural": "ဆော်ဒီ ရီယာလ်များ",
+		"subunit_name": "ဟလာလာ",
+		"subunit_name_plural": "ဟလာလာများ"
+	},
+	"SBD": {
+		"name": "ဆော်လမွန် ကျွန်းစု ဒေါ်လာ",
+		"name_plural": "ဆော်လမွန် ကျွန်းစု ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"SCR": {
+		"name": "ဆေးရှယ်လ် ရူပီ",
+		"name_plural": "ဆေးရှယ်လ် ရူပီများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"SDG": {
+		"name": "ဆူဒန် ပေါင်",
+		"name_plural": "ဆူဒန် ပေါင်များ",
+		"subunit_name": "ပီယာစတာ",
+		"subunit_name_plural": "ပီယာစတာများ"
+	},
+	"SEK": {
+		"name": "ဆွီဒင် ခရိုနာ",
+		"name_plural": "ဆွီဒင် ခရိုနာများ",
+		"subunit_name": "အိုရီ",
+		"subunit_name_plural": "အိုရီများ"
+	},
+	"SGD": {
+		"name": "စင်ကာပူ ဒေါ်လာ",
+		"name_plural": "စင်ကာပူ ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"SHP": {
+		"name": "စိန့်ဟယ်လီနာ ပေါင်",
+		"name_plural": "စိန့်ဟယ်လီနာ ပေါင်များ",
+		"subunit_name": "ပင်နီ",
+		"subunit_name_plural": "ပင်စ်"
+	},
+	"SLL": {
+		"name": "ဆီယာရာလီအိုန်း လီအိုန်",
+		"name_plural": "ဆီယာရာလီအိုန်း လီအိုန်များ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"SOS": {
+		"name": "ဆိုမာလီ ရှီလင်း",
+		"name_plural": "ဆိုမာလီ ရှီလင်းများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"SRD": {
+		"name": "ဆူရီနိမ် ဒေါ်လာ",
+		"name_plural": "ဆူရီနိမ် ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"SSP": {
+		"name": "တောင်ဆူဒန် ပေါင်",
+		"name_plural": "တောင်ဆူဒန် ပေါင်များ",
+		"subunit_name": "ပီယာစတာ",
+		"subunit_name_plural": "ပီယာစတာများ"
+	},
+	"STN": {
+		"name": "စာအိုတိုမီနှင့် ပရင်စီပီ ဒိုဘရာ",
+		"name_plural": "စာအိုတိုမီနှင့် ပရင်စီပီ ဒိုဘရာများ",
+		"subunit_name": "စင့်တီမို",
+		"subunit_name_plural": "စင့်တီမိုများ"
+	},
+	"SYP": {
+		"name": "ဆီးရီးယား ပေါင်",
+		"name_plural": "ဆီးရီးယား ပေါင်များ",
+		"subunit_name": "ပီယာစတာ",
+		"subunit_name_plural": "ပီယာစတာများ"
+	},
+	"SZL": {
+		"name": "ဆွာဇီလန် လီလန်ဂျနီ",
+		"name_plural": "ဆွာဇီလန် အီမလန်ဂျနီ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"THB": {
+		"name": "ထိုင်း ဘတ်",
+		"name_plural": "ထိုင်း ဘတ်များ",
+		"subunit_name": "ဆာတန်",
+		"subunit_name_plural": "ဆာတန်များ"
+	},
+	"TJS": {
+		"name": "တာဂျီကစ္စတန် ဆိုမိုနီ",
+		"name_plural": "တာဂျီကစ္စတန် ဆိုမိုနီများ",
+		"subunit_name": "ဒီရမ်",
+		"subunit_name_plural": "ဒီရမ်များ"
+	},
+	"TMT": {
+		"name": "တူရက်မန်နစ္စတန် မာနတ်",
+		"name_plural": "တူရက်မန်နစ္စတန် မာနတ်များ",
+		"subunit_name": "တင်ဂီ",
+		"subunit_name_plural": "တင်ဂီများ"
+	},
+	"TND": {
+		"name": "တူနီးရှား ဒီနာ",
+		"name_plural": "တူနီးရှား ဒီနာများ",
+		"subunit_name": "မီလီမ်",
+		"subunit_name_plural": "မီလီမ်များ"
+	},
+	"TOP": {
+		"name": "တွန်ဂါ ပါအင်ဂါ",
+		"name_plural": "တွန်ဂါ ပါအင်ဂါများ",
+		"subunit_name": "စင်နီတီ",
+		"subunit_name_plural": "စင်နီတီများ"
+	},
+	"TRY": {
+		"name": "တူရကီ လီရာ",
+		"name_plural": "တူရကီ လီရာများ",
+		"subunit_name": "ကူရုရှ်",
+		"subunit_name_plural": "ကူရုရှ်များ"
+	},
+	"TTD": {
+		"name": "ထရီနီဒက်နှင့် တိုဘာဂို ဒေါ်လာ",
+		"name_plural": "ထရီနီဒက်နှင့် တိုဘာဂို ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"TWD": {
+		"name": "ထိုင်ဝမ် ဒေါ်လာ",
+		"name_plural": "ထိုင်ဝမ် ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"TZS": {
+		"name": "တန်ဇန်နီးယား ရှီလင်း",
+		"name_plural": "တန်ဇန်နီးယား ရှီလင်းများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"UAH": {
+		"name": "ယူကရိန်း ဂရစ်ဗ်နီ",
+		"name_plural": "ယူကရိန်း ဂရစ်ဗ်နီများ",
+		"subunit_name": "ကိုပိတ်ခ်",
+		"subunit_name_plural": "ကိုပိတ်ခ်များ"
+	},
+	"UGX": {
+		"name": "ယူဂန္ဒာ ရှီလင်း",
+		"name_plural": "ယူဂန္ဒာ ရှီလင်းများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"USD": {
+		"name": "အမေရိကန် ဒေါ်လာ",
+		"name_plural": "အမေရိကန် ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"UYU": {
+		"name": "ဥရုဂွေး ပီဆို",
+		"name_plural": "ဥရုဂွေး ပီဆိုများ",
+		"subunit_name": "စင့်တီမို",
+		"subunit_name_plural": "စင့်တီမိုများ"
+	},
+	"UZS": {
+		"name": "ဥဇဘက်ကစ္စတန် ဆိုမ်",
+		"name_plural": "ဥဇဘက်ကစ္စတန် ဆိုမ်များ",
+		"subunit_name": "တီယင်",
+		"subunit_name_plural": "တီယင်များ"
+	},
+	"VES": {
+		"name": "ဗင်နီဇွဲလား ဘိုလီဗာ",
+		"name_plural": "ဗင်နီဇွဲလား ဘိုလီဗာများ",
+		"subunit_name": "စင့်တီမို",
+		"subunit_name_plural": "စင့်တီမိုများ"
+	},
+	"VND": {
+		"name": "ဗီယက်နမ် ဒေါင်",
+		"name_plural": "ဗီယက်နမ် ဒေါင်များ",
+		"subunit_name": "ဟာအို",
+		"subunit_name_plural": "ဟာအိုများ"
+	},
+	"VUV": {
+		"name": "ဗနွာတူ ဗာတူ",
+		"name_plural": "ဗနွာတူ ဗာတူများ",
+		"subunit_name": "စင့်တိမ်း",
+		"subunit_name_plural": "စင့်တိမ်းများ"
+	},
+	"WST": {
+		"name": "ဆာမိုအာ တလာ",
+		"name_plural": "ဆာမိုအာ တလာများ",
+		"subunit_name": "ဆင်နီ",
+		"subunit_name_plural": "ဆင်နီများ"
+	},
+	"XAF": {
+		"name": "အလယ်ပိုင်း အာဖရိက စီအက်ဖ်အေ ဖရန့်",
+		"name_plural": "အလယ်ပိုင်း အာဖရိက စီအက်ဖ်အေ ဖရန့်များ",
+		"subunit_name": "စင့်တိမ်း",
+		"subunit_name_plural": "စင့်တိမ်းများ"
+	},
+	"XCD": {
+		"name": "အရှေ့ကာရေဘီယန် ဒေါ်လာ",
+		"name_plural": "အရှေ့ကာရေဘီယန် ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"XOF": {
+		"name": "အနောက်အာဖရိက စီအက်ဖ်အေ ဖရန့်",
+		"name_plural": "အနောက်အာဖရိက စီအက်ဖ်အေ ဖရန့်များ",
+		"subunit_name": "စင့်တိမ်း",
+		"subunit_name_plural": "စင့်တိမ်းများ"
+	},
+	"XPF": {
+		"name": "စီအက်ဖ်ပီ ဖရန့်",
+		"name_plural": "စီအက်ဖ်ပီ ဖရန့်များ",
+		"subunit_name": "စင့်တိမ်း",
+		"subunit_name_plural": "စင့်တိမ်းများ"
+	},
+	"YER": {
+		"name": "ယီမင် ရီယာလ်",
+		"name_plural": "ယီမင် ရီယာလ်များ",
+		"subunit_name": "ဖစ်လ်စ်",
+		"subunit_name_plural": "ဖစ်လ်စ်များ"
+	},
+	"ZAR": {
+		"name": "တောင်အာဖရိက ရန်",
+		"name_plural": "တောင်အာဖရိက ရန်များ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	},
+	"ZMW": {
+		"name": "ဇမ်ဘီယာ ကွာချာ",
+		"name_plural": "ဇမ်ဘီယာ ကွာချာများ",
+		"subunit_name": "ငွီ",
+		"subunit_name_plural": "ငွီများ"
+	},
+	"ZWL": {
+		"name": "ဇင်ဘာဘွေ ဒေါ်လာ",
+		"name_plural": "ဇင်ဘာဘွေ ဒေါ်လာများ",
+		"subunit_name": "စင့်",
+		"subunit_name_plural": "စင့်များ"
+	}
+}

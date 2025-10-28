@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "Dirham Aontas na nÉimíríochtaí Arabacha",
+		"name_plural": "Dirham Aontas na nÉimíríochtaí Arabacha",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"AFN": {
+		"name": "Afghani na hAfganastáine",
+		"name_plural": "Afghani na hAfganastáine",
+		"subunit_name": "pul",
+		"subunit_name_plural": "pul"
+	},
+	"ALL": {
+		"name": "Lek na hAlbáine",
+		"name_plural": "Lek na hAlbáine",
+		"subunit_name": "qindarkë",
+		"subunit_name_plural": "qindarkë"
+	},
+	"AMD": {
+		"name": "Dram na hAirméine",
+		"name_plural": "Dram na hAirméine",
+		"subunit_name": "luma",
+		"subunit_name_plural": "luma"
+	},
+	"ANG": {
+		"name": "Guilder Antillí na hÍsiltíre",
+		"name_plural": "Guilder Antillí na hÍsiltíre",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"AOA": {
+		"name": "Kwanza na hAngóla",
+		"name_plural": "Kwanza na hAngóla",
+		"subunit_name": "cêntimo",
+		"subunit_name_plural": "cêntimo"
+	},
+	"ARS": {
+		"name": "Peso na hAirgintíne",
+		"name_plural": "Peso na hAirgintíne",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"AUD": {
+		"name": "Dollar na hAstráile",
+		"name_plural": "Dollar na hAstráile",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"AWG": {
+		"name": "Florin Arúba",
+		"name_plural": "Florin Arúba",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"AZN": {
+		"name": "Manat na hAsarbaiseáine",
+		"name_plural": "Manat na hAsarbaiseáine",
+		"subunit_name": "qəpik",
+		"subunit_name_plural": "qəpik"
+	},
+	"BAM": {
+		"name": "Marc Inmhalartaithe na Boisnia agus Heirseagaivéine",
+		"name_plural": "Marc Inmhalartaithe na Boisnia agus Heirseagaivéine",
+		"subunit_name": "fening",
+		"subunit_name_plural": "fening"
+	},
+	"BBD": {
+		"name": "Dollar Bharbadós",
+		"name_plural": "Dollar Bharbadós",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"BDT": {
+		"name": "Taka na Banglaidéise",
+		"name_plural": "Taka na Banglaidéise",
+		"subunit_name": "poisha",
+		"subunit_name_plural": "poisha"
+	},
+	"BGN": {
+		"name": "Lev na Bulgáire",
+		"name_plural": "Lev na Bulgáire",
+		"subunit_name": "stotinka",
+		"subunit_name_plural": "stotinki"
+	},
+	"BHD": {
+		"name": "Dínéar na Bairéine",
+		"name_plural": "Dínéar na Bairéine",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"BIF": {
+		"name": "Franc na Burúine",
+		"name_plural": "Franc na Burúine",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"BMD": {
+		"name": "Dollar Bheirmiúda",
+		"name_plural": "Dollar Bheirmiúda",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"BND": {
+		"name": "Dollar Bhrúiné",
+		"name_plural": "Dollar Bhrúiné",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"BOB": {
+		"name": "Boliviano na Bolaive",
+		"name_plural": "Boliviano na Bolaive",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"BRL": {
+		"name": "Real na Brasaíle",
+		"name_plural": "Real na Brasaíle",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"BSD": {
+		"name": "Dollar na mBahámaí",
+		"name_plural": "Dollar na mBahámaí",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"BTN": {
+		"name": "Ngultrum na Bhútáine",
+		"name_plural": "Ngultrum na Bhútáine",
+		"subunit_name": "chetrum",
+		"subunit_name_plural": "chetrum"
+	},
+	"BWP": {
+		"name": "Pula na Botsuáine",
+		"name_plural": "Pula na Botsuáine",
+		"subunit_name": "thebe",
+		"subunit_name_plural": "thebe"
+	},
+	"BYN": {
+		"name": "Rúbal na Bealarúise",
+		"name_plural": "Rúbal na Bealarúise",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopeck"
+	},
+	"BZD": {
+		"name": "Dollar na Beilíse",
+		"name_plural": "Dollar na Beilíse",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"CAD": {
+		"name": "Dollar Cheanada",
+		"name_plural": "Dollar Cheanada",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"CDF": {
+		"name": "Franc an Chongó",
+		"name_plural": "Franc an Chongó",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"CHF": {
+		"name": "Franc na hEilvéise",
+		"name_plural": "Franc na hEilvéise",
+		"subunit_name": "rappen",
+		"subunit_name_plural": "rappen"
+	},
+	"CLP": {
+		"name": "Peso na Sile",
+		"name_plural": "Peso na Sile",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CNY": {
+		"name": "Yuan na Síne",
+		"name_plural": "Yuan na Síne",
+		"subunit_name": "fen",
+		"subunit_name_plural": "fen"
+	},
+	"COP": {
+		"name": "Peso na Colóime",
+		"name_plural": "Peso na Colóime",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CRC": {
+		"name": "Colón Chósta Ríce",
+		"name_plural": "Colón Chósta Ríce",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimo"
+	},
+	"CUC": {
+		"name": "Peso Inmhalartaithe Chúba",
+		"name_plural": "Peso Inmhalartaithe Chúba",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CUP": {
+		"name": "Peso Chúba",
+		"name_plural": "Peso Chúba",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CVE": {
+		"name": "Escudo Rinn Verde",
+		"name_plural": "Escudo Rinn Verde",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CZK": {
+		"name": "Koruna na Seice",
+		"name_plural": "Koruna na Seice",
+		"subunit_name": "haléř",
+		"subunit_name_plural": "haléř"
+	},
+	"DJF": {
+		"name": "Franc Djibouti",
+		"name_plural": "Franc Djibouti",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"DKK": {
+		"name": "Krone na Danmhairge",
+		"name_plural": "Kroner na Danmhairge",
+		"subunit_name": "øre",
+		"subunit_name_plural": "øre"
+	},
+	"DOP": {
+		"name": "Peso na Poblachta Doiminicí",
+		"name_plural": "Peso na Poblachta Doiminicí",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"DZD": {
+		"name": "Dínéar na hAilgéire",
+		"name_plural": "Dínéar na hAilgéire",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"EGP": {
+		"name": "Punt na hÉigipte",
+		"name_plural": "Punt na hÉigipte",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"ERN": {
+		"name": "Nakfa na hEiritré",
+		"name_plural": "Nakfa na hEiritré",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"ETB": {
+		"name": "Birr na hAetóipe",
+		"name_plural": "Birr na hAetóipe",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"EUR": {
+		"name": "Euro",
+		"name_plural": "Euro",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"FJD": {
+		"name": "Dollar Fhidsí",
+		"name_plural": "Dollar Fhidsí",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"FKP": {
+		"name": "Punt Oileáin Fháclainne",
+		"name_plural": "Punt Oileáin Fháclainne",
+		"subunit_name": "pingin",
+		"subunit_name_plural": "pinginí"
+	},
+	"GBP": {
+		"name": "Punt Steirling",
+		"name_plural": "Punt Steirling",
+		"subunit_name": "pingin",
+		"subunit_name_plural": "pinginí"
+	},
+	"GEL": {
+		"name": "Lari na Seoirsia",
+		"name_plural": "Lari na Seoirsia",
+		"subunit_name": "tetri",
+		"subunit_name_plural": "tetri"
+	},
+	"GHS": {
+		"name": "Cedi Ghána",
+		"name_plural": "Cedi Ghána",
+		"subunit_name": "pesewa",
+		"subunit_name_plural": "pesewa"
+	},
+	"GIP": {
+		"name": "Punt Ghiobráltar",
+		"name_plural": "Punt Ghiobráltar",
+		"subunit_name": "pingin",
+		"subunit_name_plural": "pinginí"
+	},
+	"GMD": {
+		"name": "Dalasi na Gaimbia",
+		"name_plural": "Dalasi na Gaimbia",
+		"subunit_name": "butut",
+		"subunit_name_plural": "butut"
+	},
+	"GNF": {
+		"name": "Franc na Guine",
+		"name_plural": "Franc na Guine",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"GTQ": {
+		"name": "Quetzal Ghuatamala",
+		"name_plural": "Quetzal Ghuatamala",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"GYD": {
+		"name": "Dollar na Guáine",
+		"name_plural": "Dollar na Guáine",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"HKD": {
+		"name": "Dollar Hong Cong",
+		"name_plural": "Dollar Hong Cong",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"HNL": {
+		"name": "Lempira na Hondúras",
+		"name_plural": "Lempira na Hondúras",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"HRK": {
+		"name": "Kuna na Cróite",
+		"name_plural": "Kuna na Cróite",
+		"subunit_name": "lipa",
+		"subunit_name_plural": "lipa"
+	},
+	"HTG": {
+		"name": "Gourde Háítí",
+		"name_plural": "Gourde Háítí",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"HUF": {
+		"name": "Forint na hUngáire",
+		"name_plural": "Forint na hUngáire",
+		"subunit_name": "fillér",
+		"subunit_name_plural": "fillér"
+	},
+	"IDR": {
+		"name": "Rupiah na hIndinéise",
+		"name_plural": "Rupiah na hIndinéise",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"ILS": {
+		"name": "Seicel Nua Iosrael",
+		"name_plural": "Seicel Nua Iosrael",
+		"subunit_name": "agora",
+		"subunit_name_plural": "agorot"
+	},
+	"INR": {
+		"name": "Rúipí na hIndia",
+		"name_plural": "Rúipí na hIndia",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisa"
+	},
+	"IQD": {
+		"name": "Dínéar na hIaráice",
+		"name_plural": "Dínéar na hIaráice",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"IRR": {
+		"name": "Rial na hIaráine",
+		"name_plural": "Rial na hIaráine",
+		"subunit_name": "dinar",
+		"subunit_name_plural": "dinar"
+	},
+	"ISK": {
+		"name": "Króna na hÍoslainne",
+		"name_plural": "Krónur na hÍoslainne",
+		"subunit_name": "eyrir",
+		"subunit_name_plural": "aurar"
+	},
+	"JMD": {
+		"name": "Dollar na hIamáice",
+		"name_plural": "Dollar na hIamáice",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"JOD": {
+		"name": "Dínéar na hIordáine",
+		"name_plural": "Dínéar na hIordáine",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"JPY": {
+		"name": "Yen na Seapáine",
+		"name_plural": "Yen na Seapáine",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KES": {
+		"name": "Scilling na Céinia",
+		"name_plural": "Scilling na Céinia",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"KGS": {
+		"name": "Som na Cirgeastáine",
+		"name_plural": "Som na Cirgeastáine",
+		"subunit_name": "tyiyn",
+		"subunit_name_plural": "tyiyn"
+	},
+	"KHR": {
+		"name": "Riel na Cambóide",
+		"name_plural": "Riel na Cambóide",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KMF": {
+		"name": "Franc Oileáin Chomóra",
+		"name_plural": "Franc Oileáin Chomóra",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"KPW": {
+		"name": "Won na Cóiré Thuaidh",
+		"name_plural": "Won na Cóiré Thuaidh",
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeon"
+	},
+	"KRW": {
+		"name": "Won na Cóiré Theas",
+		"name_plural": "Won na Cóiré Theas",
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeon"
+	},
+	"KWD": {
+		"name": "Dínéar Chuáit",
+		"name_plural": "Dínéar Chuáit",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"KYD": {
+		"name": "Dollar Oileáin Cayman",
+		"name_plural": "Dollar Oileáin Cayman",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"KZT": {
+		"name": "Tenge na Casacstáine",
+		"name_plural": "Tenge na Casacstáine",
+		"subunit_name": "tiyn",
+		"subunit_name_plural": "tiyn"
+	},
+	"LAK": {
+		"name": "Kip Laos",
+		"name_plural": "Kip Laos",
+		"subunit_name": "att",
+		"subunit_name_plural": "att"
+	},
+	"LBP": {
+		"name": "Punt na Liobáine",
+		"name_plural": "Punt na Liobáine",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"LKR": {
+		"name": "Rúipí Shrí Lanca",
+		"name_plural": "Rúipí Shrí Lanca",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"LRD": {
+		"name": "Dollar na Libéire",
+		"name_plural": "Dollar na Libéire",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"LSL": {
+		"name": "Loti Leosóta",
+		"name_plural": "Loti Leosóta",
+		"subunit_name": "sente",
+		"subunit_name_plural": "lisente"
+	},
+	"LYD": {
+		"name": "Dínéar na Libia",
+		"name_plural": "Dínéar na Libia",
+		"subunit_name": "dirham",
+		"subunit_name_plural": "dirham"
+	},
+	"MAD": {
+		"name": "Dirham Mharacó",
+		"name_plural": "Dirham Mharacó",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"MDL": {
+		"name": "Leu na Moldóive",
+		"name_plural": "Leu na Moldóive",
+		"subunit_name": "ban",
+		"subunit_name_plural": "bani"
+	},
+	"MGA": {
+		"name": "Ariary Mhadagascar",
+		"name_plural": "Ariary Mhadagascar",
+		"subunit_name": "iraimbilanja",
+		"subunit_name_plural": "iraimbilanja"
+	},
+	"MKD": {
+		"name": "Denar na Macadóine",
+		"name_plural": "Denar na Macadóine",
+		"subunit_name": "deni",
+		"subunit_name_plural": "deni"
+	},
+	"MMK": {
+		"name": "Kyat Mhaenmar",
+		"name_plural": "Kyat Mhaenmar",
+		"subunit_name": "pya",
+		"subunit_name_plural": "pya"
+	},
+	"MNT": {
+		"name": "Tugrik na Mongóile",
+		"name_plural": "Tugrik na Mongóile",
+		"subunit_name": "möngö",
+		"subunit_name_plural": "möngö"
+	},
+	"MOP": {
+		"name": "Pataca Mhacao",
+		"name_plural": "Pataca Mhacao",
+		"subunit_name": "avo",
+		"subunit_name_plural": "avo"
+	},
+	"MRU": {
+		"name": "Ouguiya na Máratáine",
+		"name_plural": "Ouguiya na Máratáine",
+		"subunit_name": "khoums",
+		"subunit_name_plural": "khoums"
+	},
+	"MUR": {
+		"name": "Rúipí Oileán Mhuirís",
+		"name_plural": "Rúipí Oileán Mhuirís",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"MVR": {
+		"name": "Rufiyaa Oileáin Mhaildíve",
+		"name_plural": "Rufiyaa Oileáin Mhaildíve",
+		"subunit_name": "laari",
+		"subunit_name_plural": "laari"
+	},
+	"MWK": {
+		"name": "Kwacha na Maláive",
+		"name_plural": "Kwacha na Maláive",
+		"subunit_name": "tambala",
+		"subunit_name_plural": "tambala"
+	},
+	"MXN": {
+		"name": "Peso Mheicsiceo",
+		"name_plural": "Peso Mheicsiceo",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"MYR": {
+		"name": "Ringgit na Malaeisia",
+		"name_plural": "Ringgit na Malaeisia",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"MZN": {
+		"name": "Metical Mhósaimbíc",
+		"name_plural": "Metical Mhósaimbíc",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"NAD": {
+		"name": "Dollar na Namaibe",
+		"name_plural": "Dollar na Namaibe",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"NGN": {
+		"name": "Naira na Nigéire",
+		"name_plural": "Naira na Nigéire",
+		"subunit_name": "kobo",
+		"subunit_name_plural": "kobo"
+	},
+	"NIO": {
+		"name": "Córdoba Nicearagua",
+		"name_plural": "Córdoba Nicearagua",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"NOK": {
+		"name": "Krone na hIorua",
+		"name_plural": "Kroner na hIorua",
+		"subunit_name": "øre",
+		"subunit_name_plural": "øre"
+	},
+	"NPR": {
+		"name": "Rúipí Neipeal",
+		"name_plural": "Rúipí Neipeal",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisa"
+	},
+	"NZD": {
+		"name": "Dollar na Nua-Shéalainne",
+		"name_plural": "Dollar na Nua-Shéalainne",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"OMR": {
+		"name": "Rial Óman",
+		"name_plural": "Rial Óman",
+		"subunit_name": "baisa",
+		"subunit_name_plural": "baisa"
+	},
+	"PAB": {
+		"name": "Balboa Phanama",
+		"name_plural": "Balboa Phanama",
+		"subunit_name": "centésimo",
+		"subunit_name_plural": "centésimo"
+	},
+	"PEN": {
+		"name": "Sol Pheiriú",
+		"name_plural": "Sol Pheiriú",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimo"
+	},
+	"PGK": {
+		"name": "Kina Nua-Ghuine Phapua",
+		"name_plural": "Kina Nua-Ghuine Phapua",
+		"subunit_name": "toea",
+		"subunit_name_plural": "toea"
+	},
+	"PHP": {
+		"name": "Peso na nOileán Filipíneach",
+		"name_plural": "Peso na nOileán Filipíneach",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimo"
+	},
+	"PKR": {
+		"name": "Rúipí na Pacastáine",
+		"name_plural": "Rúipí na Pacastáine",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisa"
+	},
+	"PLN": {
+		"name": "Złoty na Polainne",
+		"name_plural": "Złoty na Polainne",
+		"subunit_name": "grosz",
+		"subunit_name_plural": "groszy"
+	},
+	"PYG": {
+		"name": "Guaraní Pharagua",
+		"name_plural": "Guaraní Pharagua",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimo"
+	},
+	"QAR": {
+		"name": "Rial Chatar",
+		"name_plural": "Rial Chatar",
+		"subunit_name": "dirham",
+		"subunit_name_plural": "dirham"
+	},
+	"RON": {
+		"name": "Leu na Rómáine",
+		"name_plural": "Leu na Rómáine",
+		"subunit_name": "ban",
+		"subunit_name_plural": "bani"
+	},
+	"RSD": {
+		"name": "Dínéar na Seirbia",
+		"name_plural": "Dínéar na Seirbia",
+		"subunit_name": "para",
+		"subunit_name_plural": "para"
+	},
+	"RUB": {
+		"name": "Rúbal na Rúise",
+		"name_plural": "Rúbal na Rúise",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopeck"
+	},
+	"RWF": {
+		"name": "Franc Ruanda",
+		"name_plural": "Franc Ruanda",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"SAR": {
+		"name": "Riyal na hAraibe Sádaí",
+		"name_plural": "Riyal na hAraibe Sádaí",
+		"subunit_name": "halala",
+		"subunit_name_plural": "halala"
+	},
+	"SBD": {
+		"name": "Dollar Oileáin Sholomón",
+		"name_plural": "Dollar Oileáin Sholomón",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"SCR": {
+		"name": "Rúipí na Séiséal",
+		"name_plural": "Rúipí na Séiséal",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"SDG": {
+		"name": "Punt na Súdáine",
+		"name_plural": "Punt na Súdáine",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"SEK": {
+		"name": "Krona na Sualainne",
+		"name_plural": "Kronor na Sualainne",
+		"subunit_name": "öre",
+		"subunit_name_plural": "öre"
+	},
+	"SGD": {
+		"name": "Dollar Shingeapór",
+		"name_plural": "Dollar Shingeapór",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"SHP": {
+		"name": "Punt San Héilin",
+		"name_plural": "Punt San Héilin",
+		"subunit_name": "pingin",
+		"subunit_name_plural": "pinginí"
+	},
+	"SLL": {
+		"name": "Leone Shiarra Leon",
+		"name_plural": "Leone Shiarra Leon",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"SOS": {
+		"name": "Scilling na Somáile",
+		"name_plural": "Scilling na Somáile",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"SRD": {
+		"name": "Dollar Shuranam",
+		"name_plural": "Dollar Shuranam",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"SSP": {
+		"name": "Punt na Súdáine Theas",
+		"name_plural": "Punt na Súdáine Theas",
+		"subunit_name": "piaster",
+		"subunit_name_plural": "piaster"
+	},
+	"STN": {
+		"name": "Dobra São Tomé agus Príncipe",
+		"name_plural": "Dobra São Tomé agus Príncipe",
+		"subunit_name": "cêntimo",
+		"subunit_name_plural": "cêntimo"
+	},
+	"SYP": {
+		"name": "Punt na Siria",
+		"name_plural": "Punt na Siria",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"SZL": {
+		"name": "Lilangeni na Suasalainne",
+		"name_plural": "Emalangeni na Suasalainne",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"THB": {
+		"name": "Baht na Téalainne",
+		"name_plural": "Baht na Téalainne",
+		"subunit_name": "satang",
+		"subunit_name_plural": "satang"
+	},
+	"TJS": {
+		"name": "Somoni na Táidsíceastáine",
+		"name_plural": "Somoni na Táidsíceastáine",
+		"subunit_name": "diram",
+		"subunit_name_plural": "diram"
+	},
+	"TMT": {
+		"name": "Manat na Tuircméanastáine",
+		"name_plural": "Manat na Tuircméanastáine",
+		"subunit_name": "tenge",
+		"subunit_name_plural": "tenge"
+	},
+	"TND": {
+		"name": "Dínéar na Túinéise",
+		"name_plural": "Dínéar na Túinéise",
+		"subunit_name": "millime",
+		"subunit_name_plural": "millime"
+	},
+	"TOP": {
+		"name": "Paʻanga Thonga",
+		"name_plural": "Paʻanga Thonga",
+		"subunit_name": "seniti",
+		"subunit_name_plural": "seniti"
+	},
+	"TRY": {
+		"name": "Lira na Tuirce",
+		"name_plural": "Lira na Tuirce",
+		"subunit_name": "kuruş",
+		"subunit_name_plural": "kuruş"
+	},
+	"TTD": {
+		"name": "Dollar Oileán na Tríonóide agus Tobága",
+		"name_plural": "Dollar Oileán na Tríonóide agus Tobága",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"TWD": {
+		"name": "Dollar Nua na Téaváine",
+		"name_plural": "Dollar Nua na Téaváine",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"TZS": {
+		"name": "Scilling na Tansáine",
+		"name_plural": "Scilling na Tansáine",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"UAH": {
+		"name": "Hryvnia na hÚcráine",
+		"name_plural": "Hryvnia na hÚcráine",
+		"subunit_name": "kopiyka",
+		"subunit_name_plural": "kopiyky"
+	},
+	"UGX": {
+		"name": "Scilling na hÚganda",
+		"name_plural": "Scilling na hÚganda",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"USD": {
+		"name": "Dollar S.A.M.",
+		"name_plural": "Dollar S.A.M.",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"UYU": {
+		"name": "Peso Urugua",
+		"name_plural": "Peso Urugua",
+		"subunit_name": "centésimo",
+		"subunit_name_plural": "centésimo"
+	},
+	"UZS": {
+		"name": "Som na hÚisbéiceastáine",
+		"name_plural": "Som na hÚisbéiceastáine",
+		"subunit_name": "tiyin",
+		"subunit_name_plural": "tiyin"
+	},
+	"VES": {
+		"name": "Bolívar Veiniséala",
+		"name_plural": "Bolívar Veiniséala",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimo"
+	},
+	"VND": {
+		"name": "Dong Vítneam",
+		"name_plural": "Dong Vítneam",
+		"subunit_name": "hào",
+		"subunit_name_plural": "hào"
+	},
+	"VUV": {
+		"name": "Vatu Vanuatú",
+		"name_plural": "Vatu Vanuatú",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"WST": {
+		"name": "Tala Samó",
+		"name_plural": "Tala Samó",
+		"subunit_name": "sene",
+		"subunit_name_plural": "sene"
+	},
+	"XAF": {
+		"name": "Franc CFA na hAfraice Láir",
+		"name_plural": "Franc CFA na hAfraice Láir",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"XCD": {
+		"name": "Dollar na Cairibe Thoir",
+		"name_plural": "Dollar na Cairibe Thoir",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"XOF": {
+		"name": "Franc CFA na hAfraice Thiar",
+		"name_plural": "Franc CFA na hAfraice Thiar",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"XPF": {
+		"name": "Franc CFP",
+		"name_plural": "Franc CFP",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"YER": {
+		"name": "Rial Éimin",
+		"name_plural": "Rial Éimin",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"ZAR": {
+		"name": "Rand na hAfraice Theas",
+		"name_plural": "Rand na hAfraice Theas",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	},
+	"ZMW": {
+		"name": "Kwacha na Saimbia",
+		"name_plural": "Kwacha na Saimbia",
+		"subunit_name": "ngwee",
+		"subunit_name_plural": "ngwee"
+	},
+	"ZWL": {
+		"name": "Dollar na Siombáibe",
+		"name_plural": "Dollar na Siombáibe",
+		"subunit_name": "ceint",
+		"subunit_name_plural": "ceint"
+	}
+}

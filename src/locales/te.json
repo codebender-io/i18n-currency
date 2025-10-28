@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "UAE దిర్హాం",
+		"name_plural": "UAE దిర్హాములు",
+		"subunit_name": "ఫిల్స్",
+		"subunit_name_plural": "ఫిల్స్"
+	},
+	"AFN": {
+		"name": "ఆఫ్ఘాన్ అఫ్ఘానీ",
+		"name_plural": "ఆఫ్ఘాన్ అఫ్ఘానీలు",
+		"subunit_name": "పుల్",
+		"subunit_name_plural": "పుల్స్"
+	},
+	"ALL": {
+		"name": "అల్బేనియన్ లెక్",
+		"name_plural": "అల్బేనియన్ లెక్లు",
+		"subunit_name": "ఖిందార్కా",
+		"subunit_name_plural": "ఖిందార్కాలు"
+	},
+	"AMD": {
+		"name": "ఆర్మేనియన్ డ్రామ్",
+		"name_plural": "ఆర్మేనియన్ డ్రామ్లు",
+		"subunit_name": "లూమా",
+		"subunit_name_plural": "లూమాలు"
+	},
+	"ANG": {
+		"name": "నెదర్లాండ్స్ ఆంటిల్లియన్ గిల్డర్",
+		"name_plural": "నెదర్లాండ్స్ ఆంటిల్లియన్ గిల్డర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"AOA": {
+		"name": "అంగోలన్ క్వాంజా",
+		"name_plural": "అంగోలన్ క్వాంజాలు",
+		"subunit_name": "సెంటిమో",
+		"subunit_name_plural": "సెంటిమోలు"
+	},
+	"ARS": {
+		"name": "అర్జెంటీనా పెసో",
+		"name_plural": "అర్జెంటీనా పెసోలు",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"AUD": {
+		"name": "ఆస్ట్రేలియన్ డాలర్",
+		"name_plural": "ఆస్ట్రేలియన్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"AWG": {
+		"name": "అరుబన్ ఫ్లోరిన్",
+		"name_plural": "అరుబన్ ఫ్లోరిన్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"AZN": {
+		"name": "అజెర్బైజానీ మనాత్",
+		"name_plural": "అజెర్బైజానీ మనాత్లు",
+		"subunit_name": "క్యాపిక్",
+		"subunit_name_plural": "క్యాపిక్లు"
+	},
+	"BAM": {
+		"name": "బోస్నియా-హెర్జెగోవినా కన్వర్టిబుల్ మార్క్",
+		"name_plural": "బోస్నియా-హెర్జెగోవినా కన్వర్టిబుల్ మార్క్లు",
+		"subunit_name": "ఫెనింగ్",
+		"subunit_name_plural": "ఫెనింగ్లు"
+	},
+	"BBD": {
+		"name": "బార్బేడియన్ డాలర్",
+		"name_plural": "బార్బేడియన్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"BDT": {
+		"name": "బంగ్లాదేశ్ టాకా",
+		"name_plural": "బంగ్లాదేశ్ టాకాలు",
+		"subunit_name": "పొయిషా",
+		"subunit_name_plural": "పొయిషాలు"
+	},
+	"BGN": {
+		"name": "బల్గేరియన్ లెవ్",
+		"name_plural": "బల్గేరియన్ లెవా",
+		"subunit_name": "స్టోటింకా",
+		"subunit_name_plural": "స్టోటింకి"
+	},
+	"BHD": {
+		"name": "బహరైనీ దినార్",
+		"name_plural": "బహరైనీ దినార్లు",
+		"subunit_name": "ఫిల్స్",
+		"subunit_name_plural": "ఫిల్స్"
+	},
+	"BIF": {
+		"name": "బురుండియన్ ఫ్రాంక్",
+		"name_plural": "బురుండియన్ ఫ్రాంక్లు",
+		"subunit_name": "సెంటైమ్",
+		"subunit_name_plural": "సెంటైమ్లు"
+	},
+	"BMD": {
+		"name": "బెర్ముడియన్ డాలర్",
+		"name_plural": "బెర్ముడియన్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"BND": {
+		"name": "బ్రూనై డాలర్",
+		"name_plural": "బ్రూనై డాలర్లు",
+		"subunit_name": "సెన్",
+		"subunit_name_plural": "సెన్లు"
+	},
+	"BOB": {
+		"name": "బొలీవియన్ బొలివియానో",
+		"name_plural": "బొలీవియన్ బొలివియానోలు",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"BRL": {
+		"name": "బ్రెజిలియన్ రియల్",
+		"name_plural": "బ్రెజిలియన్ రియాయిస్",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"BSD": {
+		"name": "బహామియన్ డాలర్",
+		"name_plural": "బహామియన్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"BTN": {
+		"name": "భూటానీస్ న్గుల్ట్రం",
+		"name_plural": "భూటానీస్ న్గుల్ట్రమ్లు",
+		"subunit_name": "చెత్రుం",
+		"subunit_name_plural": "చెత్రుమ్లు"
+	},
+	"BWP": {
+		"name": "బోట్స్వానన్ పులా",
+		"name_plural": "బోట్స్వానన్ పులాలు",
+		"subunit_name": "థెబె",
+		"subunit_name_plural": "థెబెలు"
+	},
+	"BYN": {
+		"name": "బెలారసియన్ రూబుల్",
+		"name_plural": "బెలారసియన్ రూబుల్స్",
+		"subunit_name": "కోపెక్",
+		"subunit_name_plural": "కోపెక్స్"
+	},
+	"BZD": {
+		"name": "బెలీజ్ డాలర్",
+		"name_plural": "బెలీజ్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"CAD": {
+		"name": "కెనడియన్ డాలర్",
+		"name_plural": "కెనడియన్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"CDF": {
+		"name": "కాంగోలీస్ ఫ్రాంక్",
+		"name_plural": "కాంగోలీస్ ఫ్రాంక్లు",
+		"subunit_name": "సెంటైమ్",
+		"subunit_name_plural": "సెంటైమ్లు"
+	},
+	"CHF": {
+		"name": "స్విస్ ఫ్రాంక్",
+		"name_plural": "స్విస్ ఫ్రాంక్లు",
+		"subunit_name": "రాపెన్",
+		"subunit_name_plural": "రాపెన్లు"
+	},
+	"CLP": {
+		"name": "చిలీయన్ పెసో",
+		"name_plural": "చిలీయన్ పెసోలు",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"CNY": {
+		"name": "చైనీస్ యువాన్",
+		"name_plural": "చైనీస్ యువాన్లు",
+		"subunit_name": "ఫెన్",
+		"subunit_name_plural": "ఫెన్లు"
+	},
+	"COP": {
+		"name": "కొలంబియన్ పెసో",
+		"name_plural": "కొలంబియన్ పెసోలు",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"CRC": {
+		"name": "కోస్టా రికన్ కొలాన్",
+		"name_plural": "కోస్టా రికన్ కొలాన్లు",
+		"subunit_name": "సెంటిమో",
+		"subunit_name_plural": "సెంటిమోలు"
+	},
+	"CUC": {
+		"name": "క్యూబన్ కన్వర్టిబుల్ పెసో",
+		"name_plural": "క్యూబన్ కన్వర్టిబుల్ పెసోలు",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"CUP": {
+		"name": "క్యూబన్ పెసో",
+		"name_plural": "క్యూబన్ పెసోలు",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"CVE": {
+		"name": "కేప్ వెర్డియన్ ఎస్కుడో",
+		"name_plural": "కేప్ వెర్డియన్ ఎస్కుడోలు",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"CZK": {
+		"name": "చెక్ కొరూనా",
+		"name_plural": "చెక్ కొరూనాలు",
+		"subunit_name": "హలేర్",
+		"subunit_name_plural": "హలేర్లు"
+	},
+	"DJF": {
+		"name": "జిబౌటియన్ ఫ్రాంక్",
+		"name_plural": "జిబౌటియన్ ఫ్రాంక్లు",
+		"subunit_name": "సెంటైమ్",
+		"subunit_name_plural": "సెంటైమ్లు"
+	},
+	"DKK": {
+		"name": "డెనిష్ క్రోన్",
+		"name_plural": "డెనిష్ క్రోనర్",
+		"subunit_name": "ఓరే",
+		"subunit_name_plural": "ఓరే"
+	},
+	"DOP": {
+		"name": "డొమినికన్ పెసో",
+		"name_plural": "డొమినికన్ పెసోలు",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"DZD": {
+		"name": "అల్జీరియన్ దినార్",
+		"name_plural": "అల్జీరియన్ దినార్లు",
+		"subunit_name": "సెంటైమ్",
+		"subunit_name_plural": "సెంటైమ్లు"
+	},
+	"EGP": {
+		"name": "ఈజిప్షియన్ పౌండ్",
+		"name_plural": "ఈజిప్షియన్ పౌండ్లు",
+		"subunit_name": "పియాస్టర్",
+		"subunit_name_plural": "పియాస్టర్లు"
+	},
+	"ERN": {
+		"name": "ఎరిట్రియన్ నక్ఫా",
+		"name_plural": "ఎరిట్రియన్ నక్ఫాలు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"ETB": {
+		"name": "ఎథియోపియన్ బిర్",
+		"name_plural": "ఎథియోపియన్ బిర్లు",
+		"subunit_name": "సంతిమ్",
+		"subunit_name_plural": "సంతిమ్లు"
+	},
+	"EUR": {
+		"name": "యూరో",
+		"name_plural": "యూరోలు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"FJD": {
+		"name": "ఫిజియన్ డాలర్",
+		"name_plural": "ఫిజియన్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"FKP": {
+		"name": "ఫాక్లాండ్ ద్వీపాల పౌండ్",
+		"name_plural": "ఫాక్లాండ్ ద్వీపాల పౌండ్లు",
+		"subunit_name": "పెన్నీ",
+		"subunit_name_plural": "పెన్స్"
+	},
+	"GBP": {
+		"name": "బ్రిటిష్ పౌండ్",
+		"name_plural": "బ్రిటిష్ పౌండ్లు",
+		"subunit_name": "పెన్నీ",
+		"subunit_name_plural": "పెన్స్"
+	},
+	"GEL": {
+		"name": "జార్జియన్ లారి",
+		"name_plural": "జార్జియన్ లారిస్",
+		"subunit_name": "టెట్రి",
+		"subunit_name_plural": "టెట్రి"
+	},
+	"GHS": {
+		"name": "ఘనా సెడి",
+		"name_plural": "ఘనా సెడిస్",
+		"subunit_name": "పెసెవా",
+		"subunit_name_plural": "పెసెవాలు"
+	},
+	"GIP": {
+		"name": "జిబ్రాల్టర్ పౌండ్",
+		"name_plural": "జిబ్రాల్టర్ పౌండ్లు",
+		"subunit_name": "పెన్నీ",
+		"subunit_name_plural": "పెన్స్"
+	},
+	"GMD": {
+		"name": "గాంబియన్ దలాసి",
+		"name_plural": "గాంబియన్ దలాసిస్",
+		"subunit_name": "బుటుత్",
+		"subunit_name_plural": "బుటుత్లు"
+	},
+	"GNF": {
+		"name": "గినియన్ ఫ్రాంక్",
+		"name_plural": "గినియన్ ఫ్రాంక్లు",
+		"subunit_name": "సెంటైమ్",
+		"subunit_name_plural": "సెంటైమ్లు"
+	},
+	"GTQ": {
+		"name": "గ్వాటెమాలన్ క్వెట్జల్",
+		"name_plural": "గ్వాటెమాలన్ క్వెట్జల్స్",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"GYD": {
+		"name": "గైయానీస్ డాలర్",
+		"name_plural": "గైయానీస్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"HKD": {
+		"name": "హాంకాంగ్ డాలర్",
+		"name_plural": "హాంకాంగ్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"HNL": {
+		"name": "హోండ్యూరన్ లెంపిరా",
+		"name_plural": "హోండ్యూరన్ లెంపిరాలు",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"HRK": {
+		"name": "క్రొయేషియన్ కునా",
+		"name_plural": "క్రొయేషియన్ కునాలు",
+		"subunit_name": "లిపా",
+		"subunit_name_plural": "లిపాలు"
+	},
+	"HTG": {
+		"name": "హైతియన్ గౌర్డ్",
+		"name_plural": "హైతియన్ గౌర్డ్లు",
+		"subunit_name": "సెంటైమ్",
+		"subunit_name_plural": "సెంటైమ్లు"
+	},
+	"HUF": {
+		"name": "హంగేరియన్ ఫోరింట్",
+		"name_plural": "హంగేరియన్ ఫోరింట్లు",
+		"subunit_name": "ఫిల్లెర్",
+		"subunit_name_plural": "ఫిల్లెర్లు"
+	},
+	"IDR": {
+		"name": "ఇండోనేషియన్ రూపాయి",
+		"name_plural": "ఇండోనేషియన్ రూపాయిలు",
+		"subunit_name": "సెన్",
+		"subunit_name_plural": "సెన్లు"
+	},
+	"ILS": {
+		"name": "ఇజ్రాయెల్ కొత్త షెకెల్",
+		"name_plural": "ఇజ్రాయెల్ కొత్త షెకెల్స్",
+		"subunit_name": "అగోరా",
+		"subunit_name_plural": "అగోరోట్"
+	},
+	"INR": {
+		"name": "భారతీయ రూపాయి",
+		"name_plural": "భారతీయ రూపాయిలు",
+		"subunit_name": "పైసా",
+		"subunit_name_plural": "పైసలు"
+	},
+	"IQD": {
+		"name": "ఇరాకీ దినార్",
+		"name_plural": "ఇరాకీ దినార్లు",
+		"subunit_name": "ఫిల్స్",
+		"subunit_name_plural": "ఫిల్స్"
+	},
+	"IRR": {
+		"name": "ఇరానియన్ రియాల్",
+		"name_plural": "ఇరానియన్ రియాల్స్",
+		"subunit_name": "దినార్",
+		"subunit_name_plural": "దినార్లు"
+	},
+	"ISK": {
+		"name": "ఐస్లాండిక్ క్రోనా",
+		"name_plural": "ఐస్లాండిక్ క్రోనుర్",
+		"subunit_name": "ఎయిరిర్",
+		"subunit_name_plural": "ఆవురార్"
+	},
+	"JMD": {
+		"name": "జమైకన్ డాలర్",
+		"name_plural": "జమైకన్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"JOD": {
+		"name": "జోర్డానియన్ దినార్",
+		"name_plural": "జోర్డానియన్ దినార్లు",
+		"subunit_name": "ఫిల్స్",
+		"subunit_name_plural": "ఫిల్స్"
+	},
+	"JPY": {
+		"name": "జపనీస్ యెన్",
+		"name_plural": "జపనీస్ యెన్లు",
+		"subunit_name": "సెన్",
+		"subunit_name_plural": "సెన్లు"
+	},
+	"KES": {
+		"name": "కెనియన్ షిల్లింగ్",
+		"name_plural": "కెనియన్ షిల్లింగ్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"KGS": {
+		"name": "కిర్గిజ్ సోమ్",
+		"name_plural": "కిర్గిజ్ సోమ్స్",
+		"subunit_name": "త్యియిన్",
+		"subunit_name_plural": "త్యియిన్లు"
+	},
+	"KHR": {
+		"name": "కంబోడియన్ రియల్",
+		"name_plural": "కంబోడియన్ రియల్స్",
+		"subunit_name": "సెన్",
+		"subunit_name_plural": "సెన్లు"
+	},
+	"KMF": {
+		"name": "కొమోరియన్ ఫ్రాంక్",
+		"name_plural": "కొమోరియన్ ఫ్రాంక్లు",
+		"subunit_name": "సెంటైమ్",
+		"subunit_name_plural": "సెంటైమ్లు"
+	},
+	"KPW": {
+		"name": "ఉత్తర కొరియన్ వాన్",
+		"name_plural": "ఉత్తర కొరియన్ వాన్లు",
+		"subunit_name": "జియోన్",
+		"subunit_name_plural": "జియోన్లు"
+	},
+	"KRW": {
+		"name": "దక్షిణ కొరియన్ వాన్",
+		"name_plural": "దక్షిణ కొరియన్ వాన్లు",
+		"subunit_name": "జియోన్",
+		"subunit_name_plural": "జియోన్లు"
+	},
+	"KWD": {
+		"name": "కువైటీ దినార్",
+		"name_plural": "కువైటీ దినార్లు",
+		"subunit_name": "ఫిల్స్",
+		"subunit_name_plural": "ఫిల్స్"
+	},
+	"KYD": {
+		"name": "కేమెన్ ద్వీపాల డాలర్",
+		"name_plural": "కేమెన్ ద్వీపాల డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"KZT": {
+		"name": "కజఖ్ తెంగె",
+		"name_plural": "కజఖ్ తెంగెలు",
+		"subunit_name": "తియిన్",
+		"subunit_name_plural": "తియిన్లు"
+	},
+	"LAK": {
+		"name": "లావోషియన్ కిప్",
+		"name_plural": "లావోషియన్ కిప్స్",
+		"subunit_name": "అట్",
+		"subunit_name_plural": "అట్లు"
+	},
+	"LBP": {
+		"name": "లెబనీస్ పౌండ్",
+		"name_plural": "లెబనీస్ పౌండ్లు",
+		"subunit_name": "పియాస్టర్",
+		"subunit_name_plural": "పియాస్టర్లు"
+	},
+	"LKR": {
+		"name": "శ్రీలంక రూపాయి",
+		"name_plural": "శ్రీలంక రూపాయిలు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"LRD": {
+		"name": "లైబీరియన్ డాలర్",
+		"name_plural": "లైబీరియన్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"LSL": {
+		"name": "లెసోథో లోటి",
+		"name_plural": "లెసోథో లోటి",
+		"subunit_name": "సెంటె",
+		"subunit_name_plural": "లిసెంటె"
+	},
+	"LYD": {
+		"name": "లిబియన్ దినార్",
+		"name_plural": "లిబియన్ దినార్లు",
+		"subunit_name": "దిర్హాం",
+		"subunit_name_plural": "దిర్హాములు"
+	},
+	"MAD": {
+		"name": "మొరాక్కో దిర్హాం",
+		"name_plural": "మొరాక్కో దిర్హాములు",
+		"subunit_name": "సెంటైమ్",
+		"subunit_name_plural": "సెంటైమ్లు"
+	},
+	"MDL": {
+		"name": "మోల్డోవన్ ల్యూ",
+		"name_plural": "మోల్డోవన్ ల్యూలు",
+		"subunit_name": "బాన్",
+		"subunit_name_plural": "బాని"
+	},
+	"MGA": {
+		"name": "మలగాసి అరియరి",
+		"name_plural": "మలగాసి అరియరీలు",
+		"subunit_name": "ఇరైంబిలంజా",
+		"subunit_name_plural": "ఇరైంబిలంజాలు"
+	},
+	"MKD": {
+		"name": "మెసిడోనియన్ డెనార్",
+		"name_plural": "మెసిడోనియన్ డెనారి",
+		"subunit_name": "డెని",
+		"subunit_name_plural": "డెని"
+	},
+	"MMK": {
+		"name": "మయన్మార్ క్యాట్",
+		"name_plural": "మయన్మార్ క్యాట్లు",
+		"subunit_name": "ప్యా",
+		"subunit_name_plural": "ప్యాలు"
+	},
+	"MNT": {
+		"name": "మంగోలియన్ తుగ్రిక్",
+		"name_plural": "మంగోలియన్ తుగ్రిక్స్",
+		"subunit_name": "మోంగో",
+		"subunit_name_plural": "మోంగోలు"
+	},
+	"MOP": {
+		"name": "మకావు పాటాకా",
+		"name_plural": "మకావు పాటాకాలు",
+		"subunit_name": "అవో",
+		"subunit_name_plural": "అవోలు"
+	},
+	"MRU": {
+		"name": "మౌరిటానియన్ ఔగుయియా",
+		"name_plural": "మౌరిటానియన్ ఔగుయియాలు",
+		"subunit_name": "ఖౌమ్స్",
+		"subunit_name_plural": "ఖౌమ్స్"
+	},
+	"MUR": {
+		"name": "మారిషియస్ రూపాయి",
+		"name_plural": "మారిషియస్ రూపాయిలు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"MVR": {
+		"name": "మాల్దీవుల రుఫియా",
+		"name_plural": "మాల్దీవుల రుఫియాలు",
+		"subunit_name": "లారి",
+		"subunit_name_plural": "లారి"
+	},
+	"MWK": {
+		"name": "మలావియన్ క్వాచా",
+		"name_plural": "మలావియన్ క్వాచాలు",
+		"subunit_name": "తంబాలా",
+		"subunit_name_plural": "తంబాలాలు"
+	},
+	"MXN": {
+		"name": "మెక్సికన్ పెసో",
+		"name_plural": "మెక్సికన్ పెసోలు",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"MYR": {
+		"name": "మలేషియన్ రింగ్గిట్",
+		"name_plural": "మలేషియన్ రింగ్గిట్లు",
+		"subunit_name": "సెన్",
+		"subunit_name_plural": "సెన్లు"
+	},
+	"MZN": {
+		"name": "మొజాంబిక్ మెటికల్",
+		"name_plural": "మొజాంబిక్ మెటికల్స్",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"NAD": {
+		"name": "నమీబియన్ డాలర్",
+		"name_plural": "నమీబియన్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"NGN": {
+		"name": "నైజీరియన్ నైరా",
+		"name_plural": "నైజీరియన్ నైరాలు",
+		"subunit_name": "కోబో",
+		"subunit_name_plural": "కోబోలు"
+	},
+	"NIO": {
+		"name": "నికారాగువన్ కోర్డోబా",
+		"name_plural": "నికారాగువన్ కోర్డోబాలు",
+		"subunit_name": "సెంటావో",
+		"subunit_name_plural": "సెంటావోలు"
+	},
+	"NOK": {
+		"name": "నార్వేజియన్ క్రోన్",
+		"name_plural": "నార్వేజియన్ క్రోనర్",
+		"subunit_name": "ఓరే",
+		"subunit_name_plural": "ఓరే"
+	},
+	"NPR": {
+		"name": "నేపాలీ రూపాయి",
+		"name_plural": "నేపాలీ రూపాయిలు",
+		"subunit_name": "పైసా",
+		"subunit_name_plural": "పైసాలు"
+	},
+	"NZD": {
+		"name": "న్యూజిలాండ్ డాలర్",
+		"name_plural": "న్యూజిలాండ్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"OMR": {
+		"name": "ఒమానీ రియాల్",
+		"name_plural": "ఒమానీ రియాల్స్",
+		"subunit_name": "బైసా",
+		"subunit_name_plural": "బైసాలు"
+	},
+	"PAB": {
+		"name": "పనామా బాల్బోవా",
+		"name_plural": "పనామా బాల్బోవాలు",
+		"subunit_name": "సెంటెసిమో",
+		"subunit_name_plural": "సెంటెసిమోలు"
+	},
+	"PEN": {
+		"name": "పెరువియన్ సోల్",
+		"name_plural": "పెరువియన్ సోల్స్",
+		"subunit_name": "సెంటిమో",
+		"subunit_name_plural": "సెంటిమోలు"
+	},
+	"PGK": {
+		"name": "పపువా న్యూ గినియా కినా",
+		"name_plural": "పపువా న్యూ గినియా కినాలు",
+		"subunit_name": "టోయా",
+		"subunit_name_plural": "టోయాలు"
+	},
+	"PHP": {
+		"name": "ఫిలిప్పీన్ పెసో",
+		"name_plural": "ఫిలిప్పీన్ పెసోలు",
+		"subunit_name": "సెంటిమో",
+		"subunit_name_plural": "సెంటిమోలు"
+	},
+	"PKR": {
+		"name": "పాకిస్తానీ రూపాయి",
+		"name_plural": "పాకిస్తానీ రూపాయిలు",
+		"subunit_name": "పైసా",
+		"subunit_name_plural": "పైసాలు"
+	},
+	"PLN": {
+		"name": "పోలిష్ జ్లోటి",
+		"name_plural": "పోలిష్ జ్లోటీస్",
+		"subunit_name": "గ్రోష్",
+		"subunit_name_plural": "గ్రోషీ"
+	},
+	"PYG": {
+		"name": "పరాగ్వేయన్ గువారాని",
+		"name_plural": "పరాగ్వేయన్ గువారానీలు",
+		"subunit_name": "సెంటిమో",
+		"subunit_name_plural": "సెంటిమోలు"
+	},
+	"QAR": {
+		"name": "కతార్ రియాల్",
+		"name_plural": "కతార్ రియాల్స్",
+		"subunit_name": "దిర్హాం",
+		"subunit_name_plural": "దిర్హాములు"
+	},
+	"RON": {
+		"name": "రొమేనియన్ ల్యూ",
+		"name_plural": "రొమేనియన్ ల్యూలు",
+		"subunit_name": "బాన్",
+		"subunit_name_plural": "బాని"
+	},
+	"RSD": {
+		"name": "సెర్బియన్ దినార్",
+		"name_plural": "సెర్బియన్ దినార్లు",
+		"subunit_name": "పారా",
+		"subunit_name_plural": "పారాలు"
+	},
+	"RUB": {
+		"name": "రష్యన్ రూబుల్",
+		"name_plural": "రష్యన్ రూబుల్స్",
+		"subunit_name": "కోపెక్",
+		"subunit_name_plural": "కోపెక్స్"
+	},
+	"RWF": {
+		"name": "రువాండన్ ఫ్రాంక్",
+		"name_plural": "రువాండన్ ఫ్రాంక్లు",
+		"subunit_name": "సెంటైమ్",
+		"subunit_name_plural": "సెంటైమ్లు"
+	},
+	"SAR": {
+		"name": "సౌదీ రియాల్",
+		"name_plural": "సౌదీ రియాల్స్",
+		"subunit_name": "హలాలా",
+		"subunit_name_plural": "హలాలాలు"
+	},
+	"SBD": {
+		"name": "సొలొమన్ ద్వీపాల డాలర్",
+		"name_plural": "సొలొమన్ ద్వీపాల డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"SCR": {
+		"name": "సెయిచెల్లోయిస్ రూపాయి",
+		"name_plural": "సెయిచెల్లోయిస్ రూపాయిలు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"SDG": {
+		"name": "సూడానీస్ పౌండ్",
+		"name_plural": "సూడానీస్ పౌండ్లు",
+		"subunit_name": "పియాస్టర్",
+		"subunit_name_plural": "పియాస్టర్లు"
+	},
+	"SEK": {
+		"name": "స్వీడిష్ క్రోనా",
+		"name_plural": "స్వీడిష్ క్రోనోర్",
+		"subunit_name": "ఓరే",
+		"subunit_name_plural": "ఓరే"
+	},
+	"SGD": {
+		"name": "సింగపూర్ డాలర్",
+		"name_plural": "సింగపూర్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"SHP": {
+		"name": "సెయింట్ హెలెనా పౌండ్",
+		"name_plural": "సెయింట్ హెలెనా పౌండ్లు",
+		"subunit_name": "పెన్నీ",
+		"subunit_name_plural": "పెన్స్"
+	},
+	"SLL": {
+		"name": "సియెరా లియోనియన్ లియోన్",
+		"name_plural": "సియెరా లియోనియన్ లియోన్స్",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"SOS": {
+		"name": "సొమాలి షిల్లింగ్",
+		"name_plural": "సొమాలి షిల్లింగ్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"SRD": {
+		"name": "సురినామీస్ డాలర్",
+		"name_plural": "సురినామీస్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"SSP": {
+		"name": "దక్షిణ సూడాన్ పౌండ్",
+		"name_plural": "దక్షిణ సూడాన్ పౌండ్లు",
+		"subunit_name": "పియాస్టర్",
+		"subunit_name_plural": "పియాస్టర్లు"
+	},
+	"STN": {
+		"name": "సావో టోమ్ & ప్రిన్సిప్ డోబ్రా",
+		"name_plural": "సావో టోమ్ & ప్రిన్సిప్ డోబ్రాలు",
+		"subunit_name": "సెంటిమో",
+		"subunit_name_plural": "సెంటిమోలు"
+	},
+	"SYP": {
+		"name": "సిరియన్ పౌండ్",
+		"name_plural": "సిరియన్ పౌండ్లు",
+		"subunit_name": "పియాస్టర్",
+		"subunit_name_plural": "పియాస్టర్లు"
+	},
+	"SZL": {
+		"name": "స్వాజి లిలాంగెని",
+		"name_plural": "స్వాజి ఎమలాంగెని",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"THB": {
+		"name": "థాయ్ బాట్",
+		"name_plural": "థాయ్ బాట్లు",
+		"subunit_name": "సతాంగ్",
+		"subunit_name_plural": "సతాంగ్లు"
+	},
+	"TJS": {
+		"name": "తజికిస్తాన్ సోమోని",
+		"name_plural": "తజికిస్తాన్ సోమోనీలు",
+		"subunit_name": "దిరమ్",
+		"subunit_name_plural": "దిరమ్లు"
+	},
+	"TMT": {
+		"name": "తుర్క్మెనిస్తాన్ మనాత్",
+		"name_plural": "తుర్క్మెనిస్తాన్ మనాత్లు",
+		"subunit_name": "తెంగె",
+		"subunit_name_plural": "తెంగెలు"
+	},
+	"TND": {
+		"name": "ట్యూనీషియన్ దినార్",
+		"name_plural": "ట్యూనీషియన్ దినార్లు",
+		"subunit_name": "మిల్లిమ్",
+		"subunit_name_plural": "మిల్లిమ్లు"
+	},
+	"TOP": {
+		"name": "టోంగన్ పాఅంగా",
+		"name_plural": "టోంగన్ పాఅంగాలు",
+		"subunit_name": "సెనిటి",
+		"subunit_name_plural": "సెనిటి"
+	},
+	"TRY": {
+		"name": "టర్కిష్ లిరా",
+		"name_plural": "టర్కిష్ లిరాలు",
+		"subunit_name": "కురుష్",
+		"subunit_name_plural": "కురుష్"
+	},
+	"TTD": {
+		"name": "ట్రినిడాడ్ & టొబాగో డాలర్",
+		"name_plural": "ట్రినిడాడ్ & టొబాగో డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"TWD": {
+		"name": "న్యూ తైవాన్ డాలర్",
+		"name_plural": "న్యూ తైవాన్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"TZS": {
+		"name": "టాంజానియన్ షిల్లింగ్",
+		"name_plural": "టాంజానియన్ షిల్లింగ్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"UAH": {
+		"name": "ఉక్రేనియన్ హ్రివ్నియా",
+		"name_plural": "ఉక్రేనియన్ హ్రివ్నియాలు",
+		"subunit_name": "కోపెక్",
+		"subunit_name_plural": "కోపెక్స్"
+	},
+	"UGX": {
+		"name": "ఉగాండన్ షిల్లింగ్",
+		"name_plural": "ఉగాండన్ షిల్లింగ్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"USD": {
+		"name": "US డాలర్",
+		"name_plural": "US డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"UYU": {
+		"name": "ఉరుగ్వేయన్ పెసో",
+		"name_plural": "ఉరుగ్వేయన్ పెసోలు",
+		"subunit_name": "సెంటెసిమో",
+		"subunit_name_plural": "సెంటెసిమోలు"
+	},
+	"UZS": {
+		"name": "ఉజ్బెకిస్తాన్ సోమ్",
+		"name_plural": "ఉజ్బెకిస్తాన్ సోమ్లు",
+		"subunit_name": "తియిన్",
+		"subunit_name_plural": "తియిన్లు"
+	},
+	"VES": {
+		"name": "వెనిజులా బొలివార్",
+		"name_plural": "వెనిజులా బొలివార్లు",
+		"subunit_name": "సెంటిమో",
+		"subunit_name_plural": "సెంటిమోలు"
+	},
+	"VND": {
+		"name": "వియత్నామీస్ డాంగ్",
+		"name_plural": "వియత్నామీస్ డాంగ్లు",
+		"subunit_name": "హావో",
+		"subunit_name_plural": "హావోలు"
+	},
+	"VUV": {
+		"name": "వనువాటు వాటు",
+		"name_plural": "వనువాటు వాటులు",
+		"subunit_name": "సెంటైమ్",
+		"subunit_name_plural": "సెంటైమ్లు"
+	},
+	"WST": {
+		"name": "సమోవాన్ తాలా",
+		"name_plural": "సమోవాన్ తాలాలు",
+		"subunit_name": "సెనే",
+		"subunit_name_plural": "సెనేలు"
+	},
+	"XAF": {
+		"name": "సెంట్రల్ ఆఫ్రికన్ CFA ఫ్రాంక్",
+		"name_plural": "సెంట్రల్ ఆఫ్రికన్ CFA ఫ్రాంక్లు",
+		"subunit_name": "సెంటైమ్",
+		"subunit_name_plural": "సెంటైమ్లు"
+	},
+	"XCD": {
+		"name": "ఈస్ట్ కరీబియన్ డాలర్",
+		"name_plural": "ఈస్ట్ కరీబియన్ డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"XOF": {
+		"name": "వెస్ట్ ఆఫ్రికన్ CFA ఫ్రాంక్",
+		"name_plural": "వెస్ట్ ఆఫ్రికన్ CFA ఫ్రాంక్లు",
+		"subunit_name": "సెంటైమ్",
+		"subunit_name_plural": "సెంటైమ్లు"
+	},
+	"XPF": {
+		"name": "CFP ఫ్రాంక్",
+		"name_plural": "CFP ఫ్రాంక్లు",
+		"subunit_name": "సెంటైమ్",
+		"subunit_name_plural": "సెంటైమ్లు"
+	},
+	"YER": {
+		"name": "యెమెనీ రియాల్",
+		"name_plural": "యెమెనీ రియాల్స్",
+		"subunit_name": "ఫిల్స్",
+		"subunit_name_plural": "ఫిల్స్"
+	},
+	"ZAR": {
+		"name": "దక్షిణ ఆఫ్రికా రాండ్",
+		"name_plural": "దక్షిణ ఆఫ్రికా రాండ్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	},
+	"ZMW": {
+		"name": "జాంబియన్ క్వాచా",
+		"name_plural": "జాంబియన్ క్వాచాలు",
+		"subunit_name": "ఎంగ్వీ",
+		"subunit_name_plural": "ఎంగ్వీలు"
+	},
+	"ZWL": {
+		"name": "జింబాబ్వే డాలర్",
+		"name_plural": "జింబాబ్వే డాలర్లు",
+		"subunit_name": "సెంట్",
+		"subunit_name_plural": "సెంట్లు"
+	}
+}

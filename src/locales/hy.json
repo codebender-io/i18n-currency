@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "Արաբական Միացյալ Էմիրաթների դիրհամ",
+		"name_plural": "Արաբական Միացյալ Էմիրաթների դիրհամներ",
+		"subunit_name": "ֆիլս",
+		"subunit_name_plural": "ֆիլսեր"
+	},
+	"AFN": {
+		"name": "Աֆղանական աֆղան",
+		"name_plural": "Աֆղանական աֆղաններ",
+		"subunit_name": "պուլ",
+		"subunit_name_plural": "պուլներ"
+	},
+	"ALL": {
+		"name": "Ալբանական լեկ",
+		"name_plural": "Ալբանական լեկներ",
+		"subunit_name": "քինդարկա",
+		"subunit_name_plural": "քինդարկաներ"
+	},
+	"AMD": {
+		"name": "Հայկական դրամ",
+		"name_plural": "Հայկական դրամներ",
+		"subunit_name": "լումա",
+		"subunit_name_plural": "լումաներ"
+	},
+	"ANG": {
+		"name": "Նիդերլանդների Անտիլների գուլդեն",
+		"name_plural": "Նիդերլանդների Անտիլների գուլդեններ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"AOA": {
+		"name": "Անգոլական կվանզա",
+		"name_plural": "Անգոլական կվանզաներ",
+		"subunit_name": "սենտիմո",
+		"subunit_name_plural": "սենտիմոներ"
+	},
+	"ARS": {
+		"name": "Արգենտինական պեսո",
+		"name_plural": "Արգենտինական պեսոներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"AUD": {
+		"name": "Ավստրալիական դոլար",
+		"name_plural": "Ավստրալիական դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"AWG": {
+		"name": "Արուբայի ֆլորին",
+		"name_plural": "Արուբայի ֆլորիններ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"AZN": {
+		"name": "Ադրբեջանական մանաթ",
+		"name_plural": "Ադրբեջանական մանաթներ",
+		"subunit_name": "գապիկ",
+		"subunit_name_plural": "գապիկներ"
+	},
+	"BAM": {
+		"name": "Բոսնիա և Հերցեգովինայի փոխանակելի մարկ",
+		"name_plural": "Բոսնիա և Հերցեգովինայի փոխանակելի մարկներ",
+		"subunit_name": "ֆենինգ",
+		"subunit_name_plural": "ֆենինգներ"
+	},
+	"BBD": {
+		"name": "Բարբադոսի դոլար",
+		"name_plural": "Բարբադոսի դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"BDT": {
+		"name": "Բանգլադեշի թակա",
+		"name_plural": "Բանգլադեշի թականեր",
+		"subunit_name": "փոյշա",
+		"subunit_name_plural": "փոյշաներ"
+	},
+	"BGN": {
+		"name": "Բուլղարական լև",
+		"name_plural": "Բուլղարական լևներ",
+		"subunit_name": "ստոտինկա",
+		"subunit_name_plural": "ստոտինկաներ"
+	},
+	"BHD": {
+		"name": "Բահրեյնի դինար",
+		"name_plural": "Բահրեյնի դինարներ",
+		"subunit_name": "ֆիլս",
+		"subunit_name_plural": "ֆիլսեր"
+	},
+	"BIF": {
+		"name": "Բուրունդիի ֆրանկ",
+		"name_plural": "Բուրունդիի ֆրանկներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"BMD": {
+		"name": "Բերմուդյան դոլար",
+		"name_plural": "Բերմուդյան դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"BND": {
+		"name": "Բրունեյի դոլար",
+		"name_plural": "Բրունեյի դոլարներ",
+		"subunit_name": "սեն",
+		"subunit_name_plural": "սեններ"
+	},
+	"BOB": {
+		"name": "Բոլիվիական բոլիվիանո",
+		"name_plural": "Բոլիվիական բոլիվիանոներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"BRL": {
+		"name": "Բրազիլական ռեալ",
+		"name_plural": "Բրազիլական ռեալներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"BSD": {
+		"name": "Բահամյան դոլար",
+		"name_plural": "Բահամյան դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"BTN": {
+		"name": "Բութանի նգուլտրում",
+		"name_plural": "Բութանի նգուլտրումներ",
+		"subunit_name": "չետրում",
+		"subunit_name_plural": "չետրումներ"
+	},
+	"BWP": {
+		"name": "Բոտսվանայի պուլա",
+		"name_plural": "Բոտսվանայի պուլաներ",
+		"subunit_name": "թեբե",
+		"subunit_name_plural": "թեբեներ"
+	},
+	"BYN": {
+		"name": "Բելառուսական ռուբլի",
+		"name_plural": "Բելառուսական ռուբլիներ",
+		"subunit_name": "կոպեկ",
+		"subunit_name_plural": "կոպեկներ"
+	},
+	"BZD": {
+		"name": "Բելիզի դոլար",
+		"name_plural": "Բելիզի դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"CAD": {
+		"name": "Կանադական դոլար",
+		"name_plural": "Կանադական դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"CDF": {
+		"name": "Կոնգոյի ֆրանկ",
+		"name_plural": "Կոնգոյի ֆրանկներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"CHF": {
+		"name": "Շվեյցարական ֆրանկ",
+		"name_plural": "Շվեյցարական ֆրանկներ",
+		"subunit_name": "ռապեն",
+		"subunit_name_plural": "ռապեններ"
+	},
+	"CLP": {
+		"name": "Չիլիական պեսո",
+		"name_plural": "Չիլիական պեսոներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"CNY": {
+		"name": "Չինական յուան",
+		"name_plural": "Չինական յուաններ",
+		"subunit_name": "ֆեն",
+		"subunit_name_plural": "ֆեններ"
+	},
+	"COP": {
+		"name": "Կոլումբիական պեսո",
+		"name_plural": "Կոլումբիական պեսոներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"CRC": {
+		"name": "Կոստա Ռիկայի կոլոն",
+		"name_plural": "Կոստա Ռիկայի կոլոններ",
+		"subunit_name": "սենտիմո",
+		"subunit_name_plural": "սենտիմոներ"
+	},
+	"CUC": {
+		"name": "Կուբայի փոխանակելի պեսո",
+		"name_plural": "Կուբայի փոխանակելի պեսոներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"CUP": {
+		"name": "Կուբայի պեսո",
+		"name_plural": "Կուբայի պեսոներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"CVE": {
+		"name": "Կաբո Վերդեի էսկուդո",
+		"name_plural": "Կաբո Վերդեի էսկուդոներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"CZK": {
+		"name": "Չեխական կորունա",
+		"name_plural": "Չեխական կորունաներ",
+		"subunit_name": "հալեժ",
+		"subunit_name_plural": "հալեժներ"
+	},
+	"DJF": {
+		"name": "Ջիբութիի ֆրանկ",
+		"name_plural": "Ջիբութիի ֆրանկներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"DKK": {
+		"name": "Դանիական կրոնա",
+		"name_plural": "Դանիական կրոնաներ",
+		"subunit_name": "էրե",
+		"subunit_name_plural": "էրեներ"
+	},
+	"DOP": {
+		"name": "Դոմինիկյան պեսո",
+		"name_plural": "Դոմինիկյան պեսոներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"DZD": {
+		"name": "Ալժիրի դինար",
+		"name_plural": "Ալժիրի դինարներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"EGP": {
+		"name": "Եգիպտական ֆունտ",
+		"name_plural": "Եգիպտական ֆունտներ",
+		"subunit_name": "պիաստր",
+		"subunit_name_plural": "պիաստրներ"
+	},
+	"ERN": {
+		"name": "Էրիթրեական նակֆա",
+		"name_plural": "Էրիթրեական նակֆաներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"ETB": {
+		"name": "Եթովպիական բիր",
+		"name_plural": "Եթովպիական բիրներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"EUR": {
+		"name": "Եվրո",
+		"name_plural": "Եվրոներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"FJD": {
+		"name": "Ֆիջիի դոլար",
+		"name_plural": "Ֆիջիի դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"FKP": {
+		"name": "Ֆոլքլենդյան կղզիների ֆունտ",
+		"name_plural": "Ֆոլքլենդյան կղզիների ֆունտներ",
+		"subunit_name": "փեննի",
+		"subunit_name_plural": "փենս"
+	},
+	"GBP": {
+		"name": "Բրիտանական ֆունտ",
+		"name_plural": "Բրիտանական ֆունտներ",
+		"subunit_name": "փեննի",
+		"subunit_name_plural": "փենս"
+	},
+	"GEL": {
+		"name": "Վրացական լարի",
+		"name_plural": "Վրացական լարիներ",
+		"subunit_name": "թեթրի",
+		"subunit_name_plural": "թեթրիներ"
+	},
+	"GHS": {
+		"name": "Գանայի սեդի",
+		"name_plural": "Գանայի սեդիներ",
+		"subunit_name": "փեսեվա",
+		"subunit_name_plural": "փեսեվաներ"
+	},
+	"GIP": {
+		"name": "Ջիբրալթարի ֆունտ",
+		"name_plural": "Ջիբրալթարի ֆունտներ",
+		"subunit_name": "փեննի",
+		"subunit_name_plural": "փենս"
+	},
+	"GMD": {
+		"name": "Գամբիայի դալասի",
+		"name_plural": "Գամբիայի դալասիներ",
+		"subunit_name": "բութուտ",
+		"subunit_name_plural": "բութուտներ"
+	},
+	"GNF": {
+		"name": "Գվինեայի ֆրանկ",
+		"name_plural": "Գվինեայի ֆրանկներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"GTQ": {
+		"name": "Գվատեմալայի քեցալ",
+		"name_plural": "Գվատեմալայի քեցալներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"GYD": {
+		"name": "Գայանայի դոլար",
+		"name_plural": "Գայանայի դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"HKD": {
+		"name": "Հոնկոնգի դոլար",
+		"name_plural": "Հոնկոնգի դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"HNL": {
+		"name": "Հոնդուրասի լեմպիրա",
+		"name_plural": "Հոնդուրասի լեմպիրաներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"HRK": {
+		"name": "Խորվաթական կունա",
+		"name_plural": "Խորվաթական կունաներ",
+		"subunit_name": "լիպա",
+		"subunit_name_plural": "լիպաներ"
+	},
+	"HTG": {
+		"name": "Հաիթիի գուրդ",
+		"name_plural": "Հաիթիի գուրդներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"HUF": {
+		"name": "Հունգարական ֆորինտ",
+		"name_plural": "Հունգարական ֆորինտներ",
+		"subunit_name": "ֆիլլեր",
+		"subunit_name_plural": "ֆիլլերներ"
+	},
+	"IDR": {
+		"name": "Ինդոնեզական ռուպի",
+		"name_plural": "Ինդոնեզական ռուպիներ",
+		"subunit_name": "սեն",
+		"subunit_name_plural": "սեններ"
+	},
+	"ILS": {
+		"name": "Իսրայելական նոր շեկել",
+		"name_plural": "Իսրայելական նոր շեկելներ",
+		"subunit_name": "ագորա",
+		"subunit_name_plural": "ագորոտ"
+	},
+	"INR": {
+		"name": "Հնդկական ռուփի",
+		"name_plural": "Հնդկական ռուփիներ",
+		"subunit_name": "փայսա",
+		"subunit_name_plural": "փայսաներ"
+	},
+	"IQD": {
+		"name": "Իրաքյան դինար",
+		"name_plural": "Իրաքյան դինարներ",
+		"subunit_name": "ֆիլս",
+		"subunit_name_plural": "ֆիլսեր"
+	},
+	"IRR": {
+		"name": "Իրանական ռիալ",
+		"name_plural": "Իրանական ռիալներ",
+		"subunit_name": "դինար",
+		"subunit_name_plural": "դինարներ"
+	},
+	"ISK": {
+		"name": "Իսլանդական կրոնա",
+		"name_plural": "Իսլանդական կրոնաներ",
+		"subunit_name": "էյրիր",
+		"subunit_name_plural": "աուրար"
+	},
+	"JMD": {
+		"name": "Ճամայկայի դոլար",
+		"name_plural": "Ճամայկայի դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"JOD": {
+		"name": "Հորդանանի դինար",
+		"name_plural": "Հորդանանի դինարներ",
+		"subunit_name": "ֆիլս",
+		"subunit_name_plural": "ֆիլսեր"
+	},
+	"JPY": {
+		"name": "Ճապոնական իեն",
+		"name_plural": "Ճապոնական իեններ",
+		"subunit_name": "սեն",
+		"subunit_name_plural": "սեններ"
+	},
+	"KES": {
+		"name": "Քենիայի շիլինգ",
+		"name_plural": "Քենիայի շիլինգներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"KGS": {
+		"name": "Ղրղզստանի սոմ",
+		"name_plural": "Ղրղզստանի սոմեր",
+		"subunit_name": "տիյին",
+		"subunit_name_plural": "տիյիններ"
+	},
+	"KHR": {
+		"name": "Կամբոջիայի րիել",
+		"name_plural": "Կամբոջիայի րիելներ",
+		"subunit_name": "սեն",
+		"subunit_name_plural": "սեններ"
+	},
+	"KMF": {
+		"name": "Կոմորների ֆրանկ",
+		"name_plural": "Կոմորների ֆրանկներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"KPW": {
+		"name": "Հյուսիսկորեական վոն",
+		"name_plural": "Հյուսիսկորեական վոններ",
+		"subunit_name": "չոն",
+		"subunit_name_plural": "չոններ"
+	},
+	"KRW": {
+		"name": "Հարավկորեական վոն",
+		"name_plural": "Հարավկորեական վոններ",
+		"subunit_name": "չոն",
+		"subunit_name_plural": "չոններ"
+	},
+	"KWD": {
+		"name": "Քուվեյթի դինար",
+		"name_plural": "Քուվեյթի դինարներ",
+		"subunit_name": "ֆիլս",
+		"subunit_name_plural": "ֆիլսեր"
+	},
+	"KYD": {
+		"name": "Կայմանյան կղզիների դոլար",
+		"name_plural": "Կայմանյան կղզիների դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"KZT": {
+		"name": "Ղազախստանի տենգե",
+		"name_plural": "Ղազախստանի տենգեներ",
+		"subunit_name": "տիյն",
+		"subunit_name_plural": "տիյններ"
+	},
+	"LAK": {
+		"name": "Լաոսի կիպ",
+		"name_plural": "Լաոսի կիպեր",
+		"subunit_name": "ատ",
+		"subunit_name_plural": "ատներ"
+	},
+	"LBP": {
+		"name": "Լիբանանի ֆունտ",
+		"name_plural": "Լիբանանի ֆունտներ",
+		"subunit_name": "պիաստր",
+		"subunit_name_plural": "պիաստրներ"
+	},
+	"LKR": {
+		"name": "Շրի Լանկայի ռուփի",
+		"name_plural": "Շրի Լանկայի ռուփիներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"LRD": {
+		"name": "Լիբերիայի դոլար",
+		"name_plural": "Լիբերիայի դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"LSL": {
+		"name": "Լեսոթոյի լոտի",
+		"name_plural": "Լեսոթոյի լոտիներ",
+		"subunit_name": "սենտե",
+		"subunit_name_plural": "լիսենտե"
+	},
+	"LYD": {
+		"name": "Լիբիայի դինար",
+		"name_plural": "Լիբիայի դինարներ",
+		"subunit_name": "դիրհամ",
+		"subunit_name_plural": "դիրհամներ"
+	},
+	"MAD": {
+		"name": "Մարոկկոյի դիրհամ",
+		"name_plural": "Մարոկկոյի դիրհամներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"MDL": {
+		"name": "Մոլդովական լեյ",
+		"name_plural": "Մոլդովական լեյներ",
+		"subunit_name": "բան",
+		"subunit_name_plural": "բանի"
+	},
+	"MGA": {
+		"name": "Մադագասկարի արիարի",
+		"name_plural": "Մադագասկարի արիարիներ",
+		"subunit_name": "իրայմբիլանջա",
+		"subunit_name_plural": "իրայմբիլանջաներ"
+	},
+	"MKD": {
+		"name": "Մակեդոնական դենար",
+		"name_plural": "Մակեդոնական դենարներ",
+		"subunit_name": "դենի",
+		"subunit_name_plural": "դենիներ"
+	},
+	"MMK": {
+		"name": "Մյանմայի կյատ",
+		"name_plural": "Մյանմայի կյատներ",
+		"subunit_name": "փյա",
+		"subunit_name_plural": "փյաներ"
+	},
+	"MNT": {
+		"name": "Մոնղոլական թուգրիկ",
+		"name_plural": "Մոնղոլական թուգրիկներ",
+		"subunit_name": "մյոնգյո",
+		"subunit_name_plural": "մյոնգյոներ"
+	},
+	"MOP": {
+		"name": "Մակաոյի պատակա",
+		"name_plural": "Մակաոյի պատականեր",
+		"subunit_name": "ավո",
+		"subunit_name_plural": "ավոներ"
+	},
+	"MRU": {
+		"name": "Մավրիտանիայի ուգիյա",
+		"name_plural": "Մավրիտանիայի ուգիյաներ",
+		"subunit_name": "խումս",
+		"subunit_name_plural": "խումսներ"
+	},
+	"MUR": {
+		"name": "Մավրիկիոսի ռուփի",
+		"name_plural": "Մավրիկիոսի ռուփիներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"MVR": {
+		"name": "Մալդիվների ռուֆիյա",
+		"name_plural": "Մալդիվների ռուֆիյաներ",
+		"subunit_name": "լաարի",
+		"subunit_name_plural": "լաարիներ"
+	},
+	"MWK": {
+		"name": "Մալավիի կվաչա",
+		"name_plural": "Մալավիի կվաչաներ",
+		"subunit_name": "տամբալա",
+		"subunit_name_plural": "տամբալաներ"
+	},
+	"MXN": {
+		"name": "Մեքսիկական պեսո",
+		"name_plural": "Մեքսիկական պեսոներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"MYR": {
+		"name": "Մալայզիական ռինգիտ",
+		"name_plural": "Մալայզիական ռինգիտներ",
+		"subunit_name": "սեն",
+		"subunit_name_plural": "սեններ"
+	},
+	"MZN": {
+		"name": "Մոզամբիկի մետիկալ",
+		"name_plural": "Մոզամբիկի մետիկալներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"NAD": {
+		"name": "Նամիբիայի դոլար",
+		"name_plural": "Նամիբիայի դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"NGN": {
+		"name": "Նիգերիայի նայրա",
+		"name_plural": "Նիգերիայի նայրաներ",
+		"subunit_name": "կոբո",
+		"subunit_name_plural": "կոբոներ"
+	},
+	"NIO": {
+		"name": "Նիկարագուայի կորդոբա",
+		"name_plural": "Նիկարագուայի կորդոբաներ",
+		"subunit_name": "սենտավո",
+		"subunit_name_plural": "սենտավոներ"
+	},
+	"NOK": {
+		"name": "Նորվեգական կրոնա",
+		"name_plural": "Նորվեգական կրոնաներ",
+		"subunit_name": "էրե",
+		"subunit_name_plural": "էրեներ"
+	},
+	"NPR": {
+		"name": "Նեպալի ռուփի",
+		"name_plural": "Նեպալի ռուփիներ",
+		"subunit_name": "փայսա",
+		"subunit_name_plural": "փայսաներ"
+	},
+	"NZD": {
+		"name": "Նոր Զելանդիայի դոլար",
+		"name_plural": "Նոր Զելանդիայի դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"OMR": {
+		"name": "Օմանի ռիալ",
+		"name_plural": "Օմանի ռիալներ",
+		"subunit_name": "բայսա",
+		"subunit_name_plural": "բայսաներ"
+	},
+	"PAB": {
+		"name": "Պանամայի բալբոա",
+		"name_plural": "Պանամայի բալբոաներ",
+		"subunit_name": "սենտեսիմո",
+		"subunit_name_plural": "սենտեսիմոներ"
+	},
+	"PEN": {
+		"name": "Պերուի սոլ",
+		"name_plural": "Պերուի սոլներ",
+		"subunit_name": "սենտիմո",
+		"subunit_name_plural": "սենտիմոներ"
+	},
+	"PGK": {
+		"name": "Պապուա Նոր Գվինեայի կինա",
+		"name_plural": "Պապուա Նոր Գվինեայի կինաներ",
+		"subunit_name": "տոյա",
+		"subunit_name_plural": "տոյաներ"
+	},
+	"PHP": {
+		"name": "Ֆիլիպինների պեսո",
+		"name_plural": "Ֆիլիպինների պեսոներ",
+		"subunit_name": "սենտիմո",
+		"subunit_name_plural": "սենտիմոներ"
+	},
+	"PKR": {
+		"name": "Պակիստանի ռուփի",
+		"name_plural": "Պակիստանի ռուփիներ",
+		"subunit_name": "փայսա",
+		"subunit_name_plural": "փայսաներ"
+	},
+	"PLN": {
+		"name": "Լեհական զլոտի",
+		"name_plural": "Լեհական զլոտիներ",
+		"subunit_name": "գրոշ",
+		"subunit_name_plural": "գրոշներ"
+	},
+	"PYG": {
+		"name": "Պարագվայի գուարանի",
+		"name_plural": "Պարագվայի գուարանիներ",
+		"subunit_name": "սենտիմո",
+		"subunit_name_plural": "սենտիմոներ"
+	},
+	"QAR": {
+		"name": "Քաթարի ռիալ",
+		"name_plural": "Քաթարի ռիալներ",
+		"subunit_name": "դիրհամ",
+		"subunit_name_plural": "դիրհամներ"
+	},
+	"RON": {
+		"name": "Ռումինական լեյ",
+		"name_plural": "Ռումինական լեյներ",
+		"subunit_name": "բան",
+		"subunit_name_plural": "բանի"
+	},
+	"RSD": {
+		"name": "Սերբական դինար",
+		"name_plural": "Սերբական դինարներ",
+		"subunit_name": "պարա",
+		"subunit_name_plural": "պարաներ"
+	},
+	"RUB": {
+		"name": "Ռուսական ռուբլի",
+		"name_plural": "Ռուսական ռուբլիներ",
+		"subunit_name": "կոպեկ",
+		"subunit_name_plural": "կոպեկներ"
+	},
+	"RWF": {
+		"name": "Ռուանդայի ֆրանկ",
+		"name_plural": "Ռուանդայի ֆրանկներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"SAR": {
+		"name": "Սաուդյան ռիյալ",
+		"name_plural": "Սաուդյան ռիյալներ",
+		"subunit_name": "հալալա",
+		"subunit_name_plural": "հալալաներ"
+	},
+	"SBD": {
+		"name": "Սողոմոնյան կղզիների դոլար",
+		"name_plural": "Սողոմոնյան կղզիների դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"SCR": {
+		"name": "Սեյշելների ռուփի",
+		"name_plural": "Սեյշելների ռուփիներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"SDG": {
+		"name": "Սուդանի ֆունտ",
+		"name_plural": "Սուդանի ֆունտներ",
+		"subunit_name": "պիաստր",
+		"subunit_name_plural": "պիաստրներ"
+	},
+	"SEK": {
+		"name": "Շվեդական կրոնա",
+		"name_plural": "Շվեդական կրոնաներ",
+		"subunit_name": "էրե",
+		"subunit_name_plural": "էրեներ"
+	},
+	"SGD": {
+		"name": "Սինգապուրի դոլար",
+		"name_plural": "Սինգապուրի դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"SHP": {
+		"name": "Սուրբ Հեղինե կղզու ֆունտ",
+		"name_plural": "Սուրբ Հեղինե կղզու ֆունտներ",
+		"subunit_name": "փեննի",
+		"subunit_name_plural": "փենս"
+	},
+	"SLL": {
+		"name": "Սիերա Լեոնեի լեոնե",
+		"name_plural": "Սիերա Լեոնեի լեոնեներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"SOS": {
+		"name": "Սոմալիի շիլինգ",
+		"name_plural": "Սոմալիի շիլինգներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"SRD": {
+		"name": "Սուրինամի դոլար",
+		"name_plural": "Սուրինամի դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"SSP": {
+		"name": "Հարավային Սուդանի ֆունտ",
+		"name_plural": "Հարավային Սուդանի ֆունտներ",
+		"subunit_name": "պիաստր",
+		"subunit_name_plural": "պիաստրներ"
+	},
+	"STN": {
+		"name": "Սան Տոմե և Պրինսիպի դոբրա",
+		"name_plural": "Սան Տոմե և Պրինսիպի դոբրաներ",
+		"subunit_name": "սենտիմո",
+		"subunit_name_plural": "սենտիմոներ"
+	},
+	"SYP": {
+		"name": "Սիրիայի ֆունտ",
+		"name_plural": "Սիրիայի ֆունտներ",
+		"subunit_name": "պիաստր",
+		"subunit_name_plural": "պիաստրներ"
+	},
+	"SZL": {
+		"name": "Սվազիլենդի լիլանգենի",
+		"name_plural": "Սվազիլենդի լիլանգենիներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"THB": {
+		"name": "Թաիլանդական բահտ",
+		"name_plural": "Թաիլանդական բահտներ",
+		"subunit_name": "սաթանգ",
+		"subunit_name_plural": "սաթանգներ"
+	},
+	"TJS": {
+		"name": "Տաջիկստանի սոմոնի",
+		"name_plural": "Տաջիկստանի սոմոնիներ",
+		"subunit_name": "դիրամ",
+		"subunit_name_plural": "դիրամներ"
+	},
+	"TMT": {
+		"name": "Թուրքմենստանի մանաթ",
+		"name_plural": "Թուրքմենստանի մանաթներ",
+		"subunit_name": "տենգե",
+		"subunit_name_plural": "տենգեներ"
+	},
+	"TND": {
+		"name": "Թունիսի դինար",
+		"name_plural": "Թունիսի դինարներ",
+		"subunit_name": "միլիմ",
+		"subunit_name_plural": "միլիմներ"
+	},
+	"TOP": {
+		"name": "Տոնգայի պաանգա",
+		"name_plural": "Տոնգայի պաանգաներ",
+		"subunit_name": "սենիտի",
+		"subunit_name_plural": "սենիտիներ"
+	},
+	"TRY": {
+		"name": "Թուրքական լիրա",
+		"name_plural": "Թուրքական լիրաներ",
+		"subunit_name": "կուրուշ",
+		"subunit_name_plural": "կուրուշներ"
+	},
+	"TTD": {
+		"name": "Տրինիդադ և Տոբագոյի դոլար",
+		"name_plural": "Տրինիդադ և Տոբագոյի դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"TWD": {
+		"name": "Թայվանի նոր դոլար",
+		"name_plural": "Թայվանի նոր դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"TZS": {
+		"name": "Տանզանիայի շիլինգ",
+		"name_plural": "Տանզանիայի շիլինգներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"UAH": {
+		"name": "Ուկրաինական հրիվնյա",
+		"name_plural": "Ուկրաինական հրիվնյաներ",
+		"subunit_name": "կոպեկ",
+		"subunit_name_plural": "կոպեկներ"
+	},
+	"UGX": {
+		"name": "Ուգանդայի շիլինգ",
+		"name_plural": "Ուգանդայի շիլինգներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"USD": {
+		"name": "ԱՄՆ դոլար",
+		"name_plural": "ԱՄՆ դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"UYU": {
+		"name": "Ուրուգվայի պեսո",
+		"name_plural": "Ուրուգվայի պեսոներ",
+		"subunit_name": "սենտեսիմո",
+		"subunit_name_plural": "սենտեսիմոներ"
+	},
+	"UZS": {
+		"name": "Ուզբեկստանի սոմ",
+		"name_plural": "Ուզբեկստանի սոմեր",
+		"subunit_name": "տիյին",
+		"subunit_name_plural": "տիյիններ"
+	},
+	"VES": {
+		"name": "Վենեսուելայի բոլիվար",
+		"name_plural": "Վենեսուելայի բոլիվարներ",
+		"subunit_name": "սենտիմո",
+		"subunit_name_plural": "սենտիմոներ"
+	},
+	"VND": {
+		"name": "Վիետնամի դոնգ",
+		"name_plural": "Վիետնամի դոնգներ",
+		"subunit_name": "հաո",
+		"subunit_name_plural": "հաոներ"
+	},
+	"VUV": {
+		"name": "Վանուատուի վատու",
+		"name_plural": "Վանուատուի վատուներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"WST": {
+		"name": "Սամոայի տալա",
+		"name_plural": "Սամոայի տալաներ",
+		"subunit_name": "սենե",
+		"subunit_name_plural": "սենեներ"
+	},
+	"XAF": {
+		"name": "Կենտրոնաաֆրիկյան CFA ֆրանկ",
+		"name_plural": "Կենտրոնաաֆրիկյան CFA ֆրանկներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"XCD": {
+		"name": "Արևելակարիբյան դոլար",
+		"name_plural": "Արևելակարիբյան դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"XOF": {
+		"name": "Արևմտյան Աֆրիկյան CFA ֆրանկ",
+		"name_plural": "Արևմտյան Աֆրիկյան CFA ֆրանկներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"XPF": {
+		"name": "CFP ֆրանկ",
+		"name_plural": "CFP ֆրանկներ",
+		"subunit_name": "սանտիմ",
+		"subunit_name_plural": "սանտիմներ"
+	},
+	"YER": {
+		"name": "Եմենի ռիալ",
+		"name_plural": "Եմենի ռիալներ",
+		"subunit_name": "ֆիլս",
+		"subunit_name_plural": "ֆիլսեր"
+	},
+	"ZAR": {
+		"name": "Հարավաֆրիկյան ռանդ",
+		"name_plural": "Հարավաֆրիկյան ռանդներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	},
+	"ZMW": {
+		"name": "Զամբիայի կվաչա",
+		"name_plural": "Զամբիայի կվաչաներ",
+		"subunit_name": "նգվեե",
+		"subunit_name_plural": "նգվեեներ"
+	},
+	"ZWL": {
+		"name": "Զիմբաբվեի դոլար",
+		"name_plural": "Զիմբաբվեի դոլարներ",
+		"subunit_name": "սենտ",
+		"subunit_name_plural": "սենտներ"
+	}
+}

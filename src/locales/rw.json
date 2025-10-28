@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "Dirham y'Emirati",
+		"name_plural": "Dirham z'Emirati",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"AFN": {
+		"name": "Afghani y'Afuganisitani",
+		"name_plural": "Afghani z'Afuganisitani",
+		"subunit_name": "pul",
+		"subunit_name_plural": "puls"
+	},
+	"ALL": {
+		"name": "Lek y'Alubaniya",
+		"name_plural": "Lek z'Alubaniya",
+		"subunit_name": "qindarkë",
+		"subunit_name_plural": "qindarkë"
+	},
+	"AMD": {
+		"name": "Dram y'Arumeniya",
+		"name_plural": "Dram z'Arumeniya",
+		"subunit_name": "luma",
+		"subunit_name_plural": "lumas"
+	},
+	"ANG": {
+		"name": "Guilder y'Antile za Holandi",
+		"name_plural": "Guilder z'Antile za Holandi",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"AOA": {
+		"name": "Kwanza y'Angola",
+		"name_plural": "Kwanza z'Angola",
+		"subunit_name": "cêntimo",
+		"subunit_name_plural": "cêntimos"
+	},
+	"ARS": {
+		"name": "Peso y'Arijantine",
+		"name_plural": "Peso z'Arijantine",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"AUD": {
+		"name": "Dolari y'Ositaraliya",
+		"name_plural": "Dolari z'Ositaraliya",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"AWG": {
+		"name": "Florin y'Aruba",
+		"name_plural": "Florin z'Aruba",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"AZN": {
+		"name": "Manat y'Azerubayijani",
+		"name_plural": "Manat z'Azerubayijani",
+		"subunit_name": "qəpik",
+		"subunit_name_plural": "qəpiks"
+	},
+	"BAM": {
+		"name": "Marki y'ibipimo bya Bosiniya na Herusigovine",
+		"name_plural": "Marki z'ibipimo bya Bosiniya na Herusigovine",
+		"subunit_name": "fening",
+		"subunit_name_plural": "fenings"
+	},
+	"BBD": {
+		"name": "Dolari y'Barubade",
+		"name_plural": "Dolari z'Barubade",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"BDT": {
+		"name": "Taka y'Bangladeshi",
+		"name_plural": "Taka z'Bangladeshi",
+		"subunit_name": "poisha",
+		"subunit_name_plural": "poishas"
+	},
+	"BGN": {
+		"name": "Lev y'Buligariya",
+		"name_plural": "Lev z'Buligariya",
+		"subunit_name": "stotinka",
+		"subunit_name_plural": "stotinki"
+	},
+	"BHD": {
+		"name": "Dinari y'Bahareni",
+		"name_plural": "Dinari z'Bahareni",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"BIF": {
+		"name": "Faranga y'Burundi",
+		"name_plural": "Faranga z'Burundi",
+		"subunit_name": "santime",
+		"subunit_name_plural": "santime"
+	},
+	"BMD": {
+		"name": "Dolari y'Bermuda",
+		"name_plural": "Dolari z'Bermuda",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"BND": {
+		"name": "Dolari y'Brunei",
+		"name_plural": "Dolari z'Brunei",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"BOB": {
+		"name": "Boliviano y'Boliviya",
+		"name_plural": "Boliviano z'Boliviya",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"BRL": {
+		"name": "Real y'Burezili",
+		"name_plural": "Real z'Burezili",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"BSD": {
+		"name": "Dolari y'Bahamas",
+		"name_plural": "Dolari z'Bahamas",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"BTN": {
+		"name": "Ngultrum y'Bhutani",
+		"name_plural": "Ngultrum z'Bhutani",
+		"subunit_name": "chetrum",
+		"subunit_name_plural": "chetrums"
+	},
+	"BWP": {
+		"name": "Pula y'Botswana",
+		"name_plural": "Pula z'Botswana",
+		"subunit_name": "thebe",
+		"subunit_name_plural": "thebe"
+	},
+	"BYN": {
+		"name": "Rubili y'Ubelarusi",
+		"name_plural": "Rubili z'Ubelarusi",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopecks"
+	},
+	"BZD": {
+		"name": "Dolari y'Belize",
+		"name_plural": "Dolari z'Belize",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"CAD": {
+		"name": "Dolari y'Ukanada",
+		"name_plural": "Dolari z'Ukanada",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"CDF": {
+		"name": "Faranga y'Ukongo",
+		"name_plural": "Faranga z'Ukongo",
+		"subunit_name": "santime",
+		"subunit_name_plural": "santime"
+	},
+	"CHF": {
+		"name": "Faranga y'Suwisi",
+		"name_plural": "Faranga z'Suwisi",
+		"subunit_name": "rappen",
+		"subunit_name_plural": "rappen"
+	},
+	"CLP": {
+		"name": "Peso y'Chile",
+		"name_plural": "Peso z'Chile",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CNY": {
+		"name": "Yuan y'Ushinwa",
+		"name_plural": "Yuan z'Ushinwa",
+		"subunit_name": "fen",
+		"subunit_name_plural": "fen"
+	},
+	"COP": {
+		"name": "Peso y'Kolombiya",
+		"name_plural": "Peso z'Kolombiya",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CRC": {
+		"name": "Colón y'Kosta Rika",
+		"name_plural": "Colón z'Kosta Rika",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimos"
+	},
+	"CUC": {
+		"name": "Peso y'ibipimo bya Kuba",
+		"name_plural": "Peso z'ibipimo bya Kuba",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CUP": {
+		"name": "Peso y'Kuba",
+		"name_plural": "Peso z'Kuba",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CVE": {
+		"name": "Escudo y'Cape Verde",
+		"name_plural": "Escudo z'Cape Verde",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CZK": {
+		"name": "Koruna y'Utshekiya",
+		"name_plural": "Koruna z'Utshekiya",
+		"subunit_name": "haléř",
+		"subunit_name_plural": "haléře"
+	},
+	"DJF": {
+		"name": "Faranga y'Jibuti",
+		"name_plural": "Faranga z'Jibuti",
+		"subunit_name": "santime",
+		"subunit_name_plural": "santime"
+	},
+	"DKK": {
+		"name": "Krone y'Udanemarki",
+		"name_plural": "Krone z'Udanemarki",
+		"subunit_name": "øre",
+		"subunit_name_plural": "øre"
+	},
+	"DOP": {
+		"name": "Peso y'Udominika",
+		"name_plural": "Peso z'Udominika",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"DZD": {
+		"name": "Dinari y'Aljeriya",
+		"name_plural": "Dinari z'Aljeriya",
+		"subunit_name": "santime",
+		"subunit_name_plural": "santime"
+	},
+	"EGP": {
+		"name": "Pound y'Ijipute",
+		"name_plural": "Pound z'Ijipute",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"ERN": {
+		"name": "Nakfa y'Eriterea",
+		"name_plural": "Nakfa z'Eriterea",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"ETB": {
+		"name": "Birr y'Etiyopiya",
+		"name_plural": "Birr z'Etiyopiya",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santims"
+	},
+	"EUR": {
+		"name": "Euro",
+		"name_plural": "Euro",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"FJD": {
+		"name": "Dolari y'Fiji",
+		"name_plural": "Dolari z'Fiji",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"FKP": {
+		"name": "Pound y'Ibirwa bya Falkland",
+		"name_plural": "Pound z'Ibirwa bya Falkland",
+		"subunit_name": "penny",
+		"subunit_name_plural": "pence"
+	},
+	"GBP": {
+		"name": "Pound y'Ubwongereza",
+		"name_plural": "Pound z'Ubwongereza",
+		"subunit_name": "penny",
+		"subunit_name_plural": "pence"
+	},
+	"GEL": {
+		"name": "Lari y'Jorijiya",
+		"name_plural": "Lari z'Jorijiya",
+		"subunit_name": "tetri",
+		"subunit_name_plural": "tetri"
+	},
+	"GHS": {
+		"name": "Cedi y'Ghana",
+		"name_plural": "Cedi z'Ghana",
+		"subunit_name": "pesewa",
+		"subunit_name_plural": "pesewas"
+	},
+	"GIP": {
+		"name": "Pound y'Gibraltar",
+		"name_plural": "Pound z'Gibraltar",
+		"subunit_name": "penny",
+		"subunit_name_plural": "pence"
+	},
+	"GMD": {
+		"name": "Dalasi y'Gambia",
+		"name_plural": "Dalasi z'Gambia",
+		"subunit_name": "butut",
+		"subunit_name_plural": "bututs"
+	},
+	"GNF": {
+		"name": "Faranga y'Gine",
+		"name_plural": "Faranga z'Gine",
+		"subunit_name": "santime",
+		"subunit_name_plural": "santime"
+	},
+	"GTQ": {
+		"name": "Quetzal y'Guatemala",
+		"name_plural": "Quetzal z'Guatemala",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"GYD": {
+		"name": "Dolari y'Guyana",
+		"name_plural": "Dolari z'Guyana",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"HKD": {
+		"name": "Dolari y'Hong Kong",
+		"name_plural": "Dolari z'Hong Kong",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"HNL": {
+		"name": "Lempira y'Ondurasi",
+		"name_plural": "Lempira z'Ondurasi",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"HRK": {
+		"name": "Kuna y'Ukroashiya",
+		"name_plural": "Kuna z'Ukroashiya",
+		"subunit_name": "lipa",
+		"subunit_name_plural": "lipa"
+	},
+	"HTG": {
+		"name": "Gourde y'Ayiti",
+		"name_plural": "Gourde z'Ayiti",
+		"subunit_name": "santime",
+		"subunit_name_plural": "santime"
+	},
+	"HUF": {
+		"name": "Forint y'Ungariya",
+		"name_plural": "Forint z'Ungariya",
+		"subunit_name": "fillér",
+		"subunit_name_plural": "fillér"
+	},
+	"IDR": {
+		"name": "Rupiah y'Indoneziya",
+		"name_plural": "Rupiah z'Indoneziya",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"ILS": {
+		"name": "Shekel y'Isirayeli",
+		"name_plural": "Shekel z'Isirayeli",
+		"subunit_name": "agora",
+		"subunit_name_plural": "agorot"
+	},
+	"INR": {
+		"name": "Rupee y'Inde",
+		"name_plural": "Rupee z'Inde",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paise"
+	},
+	"IQD": {
+		"name": "Dinari y'Iraki",
+		"name_plural": "Dinari z'Iraki",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"IRR": {
+		"name": "Rial y'Irani",
+		"name_plural": "Rial z'Irani",
+		"subunit_name": "dinar",
+		"subunit_name_plural": "dinars"
+	},
+	"ISK": {
+		"name": "Króna y'Isilande",
+		"name_plural": "Króna z'Isilande",
+		"subunit_name": "eyrir",
+		"subunit_name_plural": "aurar"
+	},
+	"JMD": {
+		"name": "Dolari y'Jamayika",
+		"name_plural": "Dolari z'Jamayika",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"JOD": {
+		"name": "Dinari y'Yorodaniya",
+		"name_plural": "Dinari z'Yorodaniya",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"JPY": {
+		"name": "Yen y'Ujapani",
+		"name_plural": "Yen z'Ujapani",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KES": {
+		"name": "Shilingi y'Ukenya",
+		"name_plural": "Shilingi z'Ukenya",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"KGS": {
+		"name": "Som y'Kirigizisitani",
+		"name_plural": "Som z'Kirigizisitani",
+		"subunit_name": "tyiyn",
+		"subunit_name_plural": "tyiyn"
+	},
+	"KHR": {
+		"name": "Riel y'Ukambodza",
+		"name_plural": "Riel z'Ukambodza",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KMF": {
+		"name": "Faranga y'Ukomore",
+		"name_plural": "Faranga z'Ukomore",
+		"subunit_name": "santime",
+		"subunit_name_plural": "santime"
+	},
+	"KPW": {
+		"name": "Won y'Ukoreya y'amajyaruguru",
+		"name_plural": "Won z'Ukoreya y'amajyaruguru",
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeon"
+	},
+	"KRW": {
+		"name": "Won y'Ukoreya y'amanota",
+		"name_plural": "Won z'Ukoreya y'amanota",
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeon"
+	},
+	"KWD": {
+		"name": "Dinari y'Ukoweiti",
+		"name_plural": "Dinari z'Ukoweiti",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"KYD": {
+		"name": "Dolari y'Ibirwa bya Kayman",
+		"name_plural": "Dolari z'Ibirwa bya Kayman",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"KZT": {
+		"name": "Tenge y'Ukasakisitani",
+		"name_plural": "Tenge z'Ukasakisitani",
+		"subunit_name": "tiyn",
+		"subunit_name_plural": "tiyn"
+	},
+	"LAK": {
+		"name": "Kip y'Ulaosi",
+		"name_plural": "Kip z'Ulaosi",
+		"subunit_name": "att",
+		"subunit_name_plural": "att"
+	},
+	"LBP": {
+		"name": "Pound y'Ulibani",
+		"name_plural": "Pound z'Ulibani",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"LKR": {
+		"name": "Rupee y'Siri Lanka",
+		"name_plural": "Rupee z'Siri Lanka",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"LRD": {
+		"name": "Dolari y'Uliberiya",
+		"name_plural": "Dolari z'Uliberiya",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"LSL": {
+		"name": "Loti y'Ulesoto",
+		"name_plural": "Loti z'Ulesoto",
+		"subunit_name": "sente",
+		"subunit_name_plural": "lisente"
+	},
+	"LYD": {
+		"name": "Dinari y'Ulibiya",
+		"name_plural": "Dinari z'Ulibiya",
+		"subunit_name": "dirham",
+		"subunit_name_plural": "dirhams"
+	},
+	"MAD": {
+		"name": "Dirham y'Umaroke",
+		"name_plural": "Dirham z'Umaroke",
+		"subunit_name": "santime",
+		"subunit_name_plural": "santime"
+	},
+	"MDL": {
+		"name": "Leu y'Umolodavi",
+		"name_plural": "Leu z'Umolodavi",
+		"subunit_name": "ban",
+		"subunit_name_plural": "bani"
+	},
+	"MGA": {
+		"name": "Ariary y'Umadagasikari",
+		"name_plural": "Ariary z'Umadagasikari",
+		"subunit_name": "iraimbilanja",
+		"subunit_name_plural": "iraimbilanja"
+	},
+	"MKD": {
+		"name": "Denar y'Umake-done",
+		"name_plural": "Denar z'Umake-done",
+		"subunit_name": "deni",
+		"subunit_name_plural": "deni"
+	},
+	"MMK": {
+		"name": "Kyat y'Umyanima",
+		"name_plural": "Kyat z'Umyanima",
+		"subunit_name": "pya",
+		"subunit_name_plural": "pya"
+	},
+	"MNT": {
+		"name": "Tugrik y'Umongoliya",
+		"name_plural": "Tugrik z'Umongoliya",
+		"subunit_name": "möngö",
+		"subunit_name_plural": "möngö"
+	},
+	"MOP": {
+		"name": "Pataca y'Umakaw",
+		"name_plural": "Pataca z'Umakaw",
+		"subunit_name": "avo",
+		"subunit_name_plural": "avos"
+	},
+	"MRU": {
+		"name": "Ouguiya y'Umoritaniya",
+		"name_plural": "Ouguiya z'Umoritaniya",
+		"subunit_name": "khoums",
+		"subunit_name_plural": "khoums"
+	},
+	"MUR": {
+		"name": "Rupee y'Umorise",
+		"name_plural": "Rupee z'Umorise",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"MVR": {
+		"name": "Rufiyaa y'Umalidive",
+		"name_plural": "Rufiyaa z'Umalidive",
+		"subunit_name": "laari",
+		"subunit_name_plural": "laari"
+	},
+	"MWK": {
+		"name": "Kwacha y'Umalawi",
+		"name_plural": "Kwacha z'Umalawi",
+		"subunit_name": "tambala",
+		"subunit_name_plural": "tambala"
+	},
+	"MXN": {
+		"name": "Peso y'Umeksike",
+		"name_plural": "Peso z'Umeksike",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"MYR": {
+		"name": "Ringgit y'Umalayisiya",
+		"name_plural": "Ringgit z'Umalayisiya",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"MZN": {
+		"name": "Metical y'Umusambiji",
+		"name_plural": "Metical z'Umusambiji",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"NAD": {
+		"name": "Dolari y'Unamibiya",
+		"name_plural": "Dolari z'Unamibiya",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"NGN": {
+		"name": "Naira y'Unijeriya",
+		"name_plural": "Naira z'Unijeriya",
+		"subunit_name": "kobo",
+		"subunit_name_plural": "kobo"
+	},
+	"NIO": {
+		"name": "Córdoba y'Unikaragwa",
+		"name_plural": "Córdoba z'Unikaragwa",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"NOK": {
+		"name": "Krone y'Unorwege",
+		"name_plural": "Krone z'Unorwege",
+		"subunit_name": "øre",
+		"subunit_name_plural": "øre"
+	},
+	"NPR": {
+		"name": "Rupee y'Unebari",
+		"name_plural": "Rupee z'Unebari",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisa"
+	},
+	"NZD": {
+		"name": "Dolari y'Uzelandi Mpuzamahanga",
+		"name_plural": "Dolari z'Uzelandi Mpuzamahanga",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"OMR": {
+		"name": "Rial y'Umani",
+		"name_plural": "Rial z'Umani",
+		"subunit_name": "baisa",
+		"subunit_name_plural": "baisa"
+	},
+	"PAB": {
+		"name": "Balboa y'Upanama",
+		"name_plural": "Balboa z'Upanama",
+		"subunit_name": "centésimo",
+		"subunit_name_plural": "centésimos"
+	},
+	"PEN": {
+		"name": "Sol y'Uperu",
+		"name_plural": "Sol z'Uperu",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimos"
+	},
+	"PGK": {
+		"name": "Kina y'Papua New Guinea",
+		"name_plural": "Kina z'Papua New Guinea",
+		"subunit_name": "toea",
+		"subunit_name_plural": "toea"
+	},
+	"PHP": {
+		"name": "Peso y'Ufilipine",
+		"name_plural": "Peso z'Ufilipine",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimos"
+	},
+	"PKR": {
+		"name": "Rupee y'Upakistani",
+		"name_plural": "Rupee z'Upakistani",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisa"
+	},
+	"PLN": {
+		"name": "Zloty y'Ubolande",
+		"name_plural": "Zloty z'Ubolande",
+		"subunit_name": "grosz",
+		"subunit_name_plural": "groszy"
+	},
+	"PYG": {
+		"name": "Guarani y'Uparagwe",
+		"name_plural": "Guarani z'Uparagwe",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimos"
+	},
+	"QAR": {
+		"name": "Rial y'Ukatari",
+		"name_plural": "Rial z'Ukatari",
+		"subunit_name": "dirham",
+		"subunit_name_plural": "dirhams"
+	},
+	"RON": {
+		"name": "Leu y'Uromaniya",
+		"name_plural": "Leu z'Uromaniya",
+		"subunit_name": "ban",
+		"subunit_name_plural": "bani"
+	},
+	"RSD": {
+		"name": "Dinari y'Userubiya",
+		"name_plural": "Dinari z'Userubiya",
+		"subunit_name": "para",
+		"subunit_name_plural": "para"
+	},
+	"RUB": {
+		"name": "Rubili y'Urusiya",
+		"name_plural": "Rubili z'Urusiya",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopecks"
+	},
+	"RWF": {
+		"name": "Faranga y'Urwanda",
+		"name_plural": "Faranga z'Urwanda",
+		"subunit_name": "santime",
+		"subunit_name_plural": "santime"
+	},
+	"SAR": {
+		"name": "Riyal y'Uarabu Sawdite",
+		"name_plural": "Riyal z'Uarabu Sawdite",
+		"subunit_name": "halala",
+		"subunit_name_plural": "halalas"
+	},
+	"SBD": {
+		"name": "Dolari y'Ibirwa bya Solomon",
+		"name_plural": "Dolari z'Ibirwa bya Solomon",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"SCR": {
+		"name": "Rupee y'Iseychelle",
+		"name_plural": "Rupee z'Iseychelle",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"SDG": {
+		"name": "Pound y'Usudani",
+		"name_plural": "Pound z'Usudani",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"SEK": {
+		"name": "Krona y'Uswede",
+		"name_plural": "Krona z'Uswede",
+		"subunit_name": "öre",
+		"subunit_name_plural": "öre"
+	},
+	"SGD": {
+		"name": "Dolari y'Usingapure",
+		"name_plural": "Dolari z'Usingapure",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"SHP": {
+		"name": "Pound y'St. Helena",
+		"name_plural": "Pound z'St. Helena",
+		"subunit_name": "penny",
+		"subunit_name_plural": "pence"
+	},
+	"SLL": {
+		"name": "Leone y'Usiera Leone",
+		"name_plural": "Leone z'Usiera Leone",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"SOS": {
+		"name": "Shilingi y'Usomali",
+		"name_plural": "Shilingi z'Usomali",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"SRD": {
+		"name": "Dolari y'Usuriname",
+		"name_plural": "Dolari z'Usuriname",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"SSP": {
+		"name": "Pound y'Usudani rwa Kusini",
+		"name_plural": "Pound z'Usudani rwa Kusini",
+		"subunit_name": "piaster",
+		"subunit_name_plural": "piasters"
+	},
+	"STN": {
+		"name": "Dobra y'São Tomé na Príncipe",
+		"name_plural": "Dobra z'São Tomé na Príncipe",
+		"subunit_name": "cêntimo",
+		"subunit_name_plural": "cêntimos"
+	},
+	"SYP": {
+		"name": "Pound y'Usiriya",
+		"name_plural": "Pound z'Usiriya",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"SZL": {
+		"name": "Lilangeni y'Uswazilandi",
+		"name_plural": "Emalangeni z'Uswazilandi",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"THB": {
+		"name": "Baht y'Utayilandi",
+		"name_plural": "Baht z'Utayilandi",
+		"subunit_name": "satang",
+		"subunit_name_plural": "satang"
+	},
+	"TJS": {
+		"name": "Somoni y'Tajikisitani",
+		"name_plural": "Somoni z'Tajikisitani",
+		"subunit_name": "diram",
+		"subunit_name_plural": "dirams"
+	},
+	"TMT": {
+		"name": "Manat y'Turekimenisitani",
+		"name_plural": "Manat z'Turekimenisitani",
+		"subunit_name": "tenge",
+		"subunit_name_plural": "tenge"
+	},
+	"TND": {
+		"name": "Dinari y'Utunisiya",
+		"name_plural": "Dinari z'Utunisiya",
+		"subunit_name": "millime",
+		"subunit_name_plural": "millimes"
+	},
+	"TOP": {
+		"name": "Paʻanga y'Tonga",
+		"name_plural": "Paʻanga z'Tonga",
+		"subunit_name": "seniti",
+		"subunit_name_plural": "seniti"
+	},
+	"TRY": {
+		"name": "Lira y'Tureki",
+		"name_plural": "Lira z'Tureki",
+		"subunit_name": "kuruş",
+		"subunit_name_plural": "kuruş"
+	},
+	"TTD": {
+		"name": "Dolari y'Tirinidadi na Tobago",
+		"name_plural": "Dolari z'Tirinidadi na Tobago",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"TWD": {
+		"name": "Dolari y'Utayiwani",
+		"name_plural": "Dolari z'Utayiwani",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"TZS": {
+		"name": "Shilingi y'Utanzaniya",
+		"name_plural": "Shilingi z'Utanzaniya",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"UAH": {
+		"name": "Hryvnia y'Ukerene",
+		"name_plural": "Hryvnia z'Ukerene",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopecks"
+	},
+	"UGX": {
+		"name": "Shilingi y'Uganda",
+		"name_plural": "Shilingi z'Uganda",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"USD": {
+		"name": "Dolari y'Etazini",
+		"name_plural": "Dolari z'Etazini",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"UYU": {
+		"name": "Peso y'Urugwayeri",
+		"name_plural": "Peso z'Urugwayeri",
+		"subunit_name": "centésimo",
+		"subunit_name_plural": "centésimos"
+	},
+	"UZS": {
+		"name": "Som y'Uzibekisitani",
+		"name_plural": "Som z'Uzibekisitani",
+		"subunit_name": "tiyin",
+		"subunit_name_plural": "tiyin"
+	},
+	"VES": {
+		"name": "Bolívar y'Uvenezuela",
+		"name_plural": "Bolívares z'Uvenezuela",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimos"
+	},
+	"VND": {
+		"name": "Dong y'Uvietinamu",
+		"name_plural": "Dong z'Uvietinamu",
+		"subunit_name": "hào",
+		"subunit_name_plural": "hào"
+	},
+	"VUV": {
+		"name": "Vatu y'Vanuatu",
+		"name_plural": "Vatu z'Vanuatu",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"WST": {
+		"name": "Tala y'Usamoa",
+		"name_plural": "Tala z'Usamoa",
+		"subunit_name": "sene",
+		"subunit_name_plural": "sene"
+	},
+	"XAF": {
+		"name": "Faranga y'Afrika y'Uburenganzira",
+		"name_plural": "Faranga z'Afrika y'Uburenganzira",
+		"subunit_name": "santime",
+		"subunit_name_plural": "santime"
+	},
+	"XCD": {
+		"name": "Dolari y'Uburengerazuba bwa Karabu",
+		"name_plural": "Dolari z'Uburengerazuba bwa Karabu",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"XOF": {
+		"name": "Faranga y'Afrika y'Uburengerazuba",
+		"name_plural": "Faranga z'Afrika y'Uburengerazuba",
+		"subunit_name": "santime",
+		"subunit_name_plural": "santime"
+	},
+	"XPF": {
+		"name": "Faranga y'CFP",
+		"name_plural": "Faranga z'CFP",
+		"subunit_name": "santime",
+		"subunit_name_plural": "santime"
+	},
+	"YER": {
+		"name": "Rial y'Yemeni",
+		"name_plural": "Rial z'Yemeni",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"ZAR": {
+		"name": "Rand y'Afrika y'Epfo",
+		"name_plural": "Rand z'Afrika y'Epfo",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	},
+	"ZMW": {
+		"name": "Kwacha y'Uzambiya",
+		"name_plural": "Kwacha z'Uzambiya",
+		"subunit_name": "ngwee",
+		"subunit_name_plural": "ngwee"
+	},
+	"ZWL": {
+		"name": "Dolari y'Uzimbabwe",
+		"name_plural": "Dolari z'Uzimbabwe",
+		"subunit_name": "santi",
+		"subunit_name_plural": "santi"
+	}
+}

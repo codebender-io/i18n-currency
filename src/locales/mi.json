@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "Dirham o UAE",
+		"name_plural": "Nga Dirham o UAE",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"AFN": {
+		"name": "Afghani o Awhekanitāna",
+		"name_plural": "Nga Afghani o Awhekanitāna",
+		"subunit_name": "pul",
+		"subunit_name_plural": "pul"
+	},
+	"ALL": {
+		"name": "Lek o Arapeinia",
+		"name_plural": "Nga Lek o Arapeinia",
+		"subunit_name": "qindarkë",
+		"subunit_name_plural": "qindarkë"
+	},
+	"AMD": {
+		"name": "Dram o Āmenia",
+		"name_plural": "Nga Dram o Āmenia",
+		"subunit_name": "luma",
+		"subunit_name_plural": "luma"
+	},
+	"ANG": {
+		"name": "Guilder o ngā Whenua o Hereniana o Te Moana o Karipiana",
+		"name_plural": "Nga Guilder o ngā Whenua o Hereniana o Te Moana o Karipiana",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"AOA": {
+		"name": "Kwanza o Anakora",
+		"name_plural": "Nga Kwanza o Anakora",
+		"subunit_name": "cêntimo",
+		"subunit_name_plural": "cêntimo"
+	},
+	"ARS": {
+		"name": "Peso o Āketina",
+		"name_plural": "Nga Peso o Āketina",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"AUD": {
+		"name": "Tāra o Ahitereiria",
+		"name_plural": "Nga Tāra o Ahitereiria",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"AWG": {
+		"name": "Florin o Arūpa",
+		"name_plural": "Nga Florin o Arūpa",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"AZN": {
+		"name": "Manat o Atepaihānia",
+		"name_plural": "Nga Manat o Atepaihānia",
+		"subunit_name": "qəpik",
+		"subunit_name_plural": "qəpik"
+	},
+	"BAM": {
+		"name": "Māka e taea te whakaputa o Pōngia-Herekōmina",
+		"name_plural": "Nga Māka e taea te whakaputa o Pōngia-Herekōmina",
+		"subunit_name": "fening",
+		"subunit_name_plural": "fening"
+	},
+	"BBD": {
+		"name": "Tāra o Parapato",
+		"name_plural": "Nga Tāra o Parapato",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"BDT": {
+		"name": "Taka o Pākaratēhi",
+		"name_plural": "Nga Taka o Pākaratēhi",
+		"subunit_name": "poisha",
+		"subunit_name_plural": "poisha"
+	},
+	"BGN": {
+		"name": "Lev o Purukaria",
+		"name_plural": "Nga Lev o Purukaria",
+		"subunit_name": "stotinka",
+		"subunit_name_plural": "stotinka"
+	},
+	"BHD": {
+		"name": "Dinar o Pāreina",
+		"name_plural": "Nga Dinar o Pāreina",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"BIF": {
+		"name": "Franc o Puruniti",
+		"name_plural": "Nga Franc o Puruniti",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"BMD": {
+		"name": "Tāra o Puramūta",
+		"name_plural": "Nga Tāra o Puramūta",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"BND": {
+		"name": "Tāra o Poronai",
+		"name_plural": "Nga Tāra o Poronai",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"BOB": {
+		"name": "Boliviano o Poriwia",
+		"name_plural": "Nga Boliviano o Poriwia",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"BRL": {
+		"name": "Real o Parahi",
+		"name_plural": "Nga Real o Parahi",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"BSD": {
+		"name": "Tāra o Pahama",
+		"name_plural": "Nga Tāra o Pahama",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"BTN": {
+		"name": "Ngultrum o Pūtana",
+		"name_plural": "Nga Ngultrum o Pūtana",
+		"subunit_name": "chetrum",
+		"subunit_name_plural": "chetrum"
+	},
+	"BWP": {
+		"name": "Pula o Poriwana",
+		"name_plural": "Nga Pula o Poriwana",
+		"subunit_name": "thebe",
+		"subunit_name_plural": "thebe"
+	},
+	"BYN": {
+		"name": "Ruble o Pērara",
+		"name_plural": "Nga Ruble o Pērara",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopeck"
+	},
+	"BZD": {
+		"name": "Tāra o Pērihi",
+		"name_plural": "Nga Tāra o Pērihi",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"CAD": {
+		"name": "Tāra o Kānata",
+		"name_plural": "Nga Tāra o Kānata",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"CDF": {
+		"name": "Franc o Kōngo",
+		"name_plural": "Nga Franc o Kōngo",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"CHF": {
+		"name": "Franc o Huiterangi",
+		"name_plural": "Nga Franc o Huiterangi",
+		"subunit_name": "rappen",
+		"subunit_name_plural": "rappen"
+	},
+	"CLP": {
+		"name": "Peso o Hiri",
+		"name_plural": "Nga Peso o Hiri",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CNY": {
+		"name": "Yuan o Haina",
+		"name_plural": "Nga Yuan o Haina",
+		"subunit_name": "fen",
+		"subunit_name_plural": "fen"
+	},
+	"COP": {
+		"name": "Peso o Koromōpia",
+		"name_plural": "Nga Peso o Koromōpia",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CRC": {
+		"name": "Colón o Kōta Rika",
+		"name_plural": "Nga Colón o Kōta Rika",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimo"
+	},
+	"CUC": {
+		"name": "Peso e taea te whakaputa o Kupa",
+		"name_plural": "Nga Peso e taea te whakaputa o Kupa",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CUP": {
+		"name": "Peso o Kupa",
+		"name_plural": "Nga Peso o Kupa",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CVE": {
+		"name": "Escudo o Te Kūrae Matomato",
+		"name_plural": "Nga Escudo o Te Kūrae Matomato",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CZK": {
+		"name": "Koruna o Tiekia",
+		"name_plural": "Nga Koruna o Tiekia",
+		"subunit_name": "haléř",
+		"subunit_name_plural": "haléř"
+	},
+	"DJF": {
+		"name": "Franc o Tipūti",
+		"name_plural": "Nga Franc o Tipūti",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"DKK": {
+		"name": "Krone o Tenemāka",
+		"name_plural": "Nga Krone o Tenemāka",
+		"subunit_name": "øre",
+		"subunit_name_plural": "øre"
+	},
+	"DOP": {
+		"name": "Peso o Te Whenua Tominika",
+		"name_plural": "Nga Peso o Te Whenua Tominika",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"DZD": {
+		"name": "Dinar o Aratiria",
+		"name_plural": "Nga Dinar o Aratiria",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"EGP": {
+		"name": "Pauna o Īhipa",
+		"name_plural": "Nga Pauna o Īhipa",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"ERN": {
+		"name": "Nakfa o Eritēria",
+		"name_plural": "Nga Nakfa o Eritēria",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"ETB": {
+		"name": "Birr o Etiopia",
+		"name_plural": "Nga Birr o Etiopia",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"EUR": {
+		"name": "Euro",
+		"name_plural": "Nga Euro",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"FJD": {
+		"name": "Tāra o Whītī",
+		"name_plural": "Nga Tāra o Whītī",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"FKP": {
+		"name": "Pauna o ngā Moutere Whākari",
+		"name_plural": "Nga Pauna o ngā Moutere Whākari",
+		"subunit_name": "penny",
+		"subunit_name_plural": "penny"
+	},
+	"GBP": {
+		"name": "Pauna o Peretana",
+		"name_plural": "Nga Pauna o Peretana",
+		"subunit_name": "penny",
+		"subunit_name_plural": "penny"
+	},
+	"GEL": {
+		"name": "Lari o Hōria",
+		"name_plural": "Nga Lari o Hōria",
+		"subunit_name": "tetri",
+		"subunit_name_plural": "tetri"
+	},
+	"GHS": {
+		"name": "Cedi o Kāna",
+		"name_plural": "Nga Cedi o Kāna",
+		"subunit_name": "pesewa",
+		"subunit_name_plural": "pesewa"
+	},
+	"GIP": {
+		"name": "Pauna o Kamaka",
+		"name_plural": "Nga Pauna o Kamaka",
+		"subunit_name": "penny",
+		"subunit_name_plural": "penny"
+	},
+	"GMD": {
+		"name": "Dalasi o Kamopia",
+		"name_plural": "Nga Dalasi o Kamopia",
+		"subunit_name": "butut",
+		"subunit_name_plural": "butut"
+	},
+	"GNF": {
+		"name": "Franc o Kini",
+		"name_plural": "Nga Franc o Kini",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"GTQ": {
+		"name": "Quetzal o Kuatemara",
+		"name_plural": "Nga Quetzal o Kuatemara",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"GYD": {
+		"name": "Tāra o Kaiana",
+		"name_plural": "Nga Tāra o Kaiana",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"HKD": {
+		"name": "Tāra o Hongipua",
+		"name_plural": "Nga Tāra o Hongipua",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"HNL": {
+		"name": "Lempira o Honotura",
+		"name_plural": "Nga Lempira o Honotura",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"HRK": {
+		"name": "Kuna o Kroātia",
+		"name_plural": "Nga Kuna o Kroātia",
+		"subunit_name": "lipa",
+		"subunit_name_plural": "lipa"
+	},
+	"HTG": {
+		"name": "Gourde o Hāiti",
+		"name_plural": "Nga Gourde o Hāiti",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"HUF": {
+		"name": "Forint o Hanekari",
+		"name_plural": "Nga Forint o Hanekari",
+		"subunit_name": "fillér",
+		"subunit_name_plural": "fillér"
+	},
+	"IDR": {
+		"name": "Rupiah o Initonīhia",
+		"name_plural": "Nga Rupiah o Initonīhia",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"ILS": {
+		"name": "Shekel Hou o Iharaira",
+		"name_plural": "Nga Shekel Hou o Iharaira",
+		"subunit_name": "agora",
+		"subunit_name_plural": "agora"
+	},
+	"INR": {
+		"name": "Rūpī o Inia",
+		"name_plural": "Nga Rūpī o Inia",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisa"
+	},
+	"IQD": {
+		"name": "Dinar o Irāki",
+		"name_plural": "Nga Dinar o Irāki",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"IRR": {
+		"name": "Rial o Irāna",
+		"name_plural": "Nga Rial o Irāna",
+		"subunit_name": "dinar",
+		"subunit_name_plural": "dinar"
+	},
+	"ISK": {
+		"name": "Króna o Tiorangi",
+		"name_plural": "Nga Króna o Tiorangi",
+		"subunit_name": "eyrir",
+		"subunit_name_plural": "eyrir"
+	},
+	"JMD": {
+		"name": "Tāra o Hemeika",
+		"name_plural": "Nga Tāra o Hemeika",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"JOD": {
+		"name": "Dinar o Hōrano",
+		"name_plural": "Nga Dinar o Hōrano",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"JPY": {
+		"name": "Yen o Hapani",
+		"name_plural": "Nga Yen o Hapani",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KES": {
+		"name": "Shilling o Kenya",
+		"name_plural": "Nga Shilling o Kenya",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"KGS": {
+		"name": "Som o Kikitānga",
+		"name_plural": "Nga Som o Kikitānga",
+		"subunit_name": "tyiyn",
+		"subunit_name_plural": "tyiyn"
+	},
+	"KHR": {
+		"name": "Riel o Kamapōtia",
+		"name_plural": "Nga Riel o Kamapōtia",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KMF": {
+		"name": "Franc o Komoro",
+		"name_plural": "Nga Franc o Komoro",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"KPW": {
+		"name": "Won o Kōrea ki te Raki",
+		"name_plural": "Nga Won o Kōrea ki te Raki",
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeon"
+	},
+	"KRW": {
+		"name": "Won o Kōrea ki te Tonga",
+		"name_plural": "Nga Won o Kōrea ki te Tonga",
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeon"
+	},
+	"KWD": {
+		"name": "Dinar o Kūweiti",
+		"name_plural": "Nga Dinar o Kūweiti",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"KYD": {
+		"name": "Tāra o ngā Moutere Keimana",
+		"name_plural": "Nga Tāra o ngā Moutere Keimana",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"KZT": {
+		"name": "Tenge o Katatānga",
+		"name_plural": "Nga Tenge o Katatānga",
+		"subunit_name": "tiyn",
+		"subunit_name_plural": "tiyn"
+	},
+	"LAK": {
+		"name": "Kip o Rāoho",
+		"name_plural": "Nga Kip o Rāoho",
+		"subunit_name": "att",
+		"subunit_name_plural": "att"
+	},
+	"LBP": {
+		"name": "Pauna o Repanona",
+		"name_plural": "Nga Pauna o Repanona",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"LKR": {
+		"name": "Rūpī o Hiri Rānaka",
+		"name_plural": "Nga Rūpī o Hiri Rānaka",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"LRD": {
+		"name": "Tāra o Raipiria",
+		"name_plural": "Nga Tāra o Raipiria",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"LSL": {
+		"name": "Loti o Teroto",
+		"name_plural": "Nga Loti o Teroto",
+		"subunit_name": "sente",
+		"subunit_name_plural": "sente"
+	},
+	"LYD": {
+		"name": "Dinar o Rupia",
+		"name_plural": "Nga Dinar o Rupia",
+		"subunit_name": "dirham",
+		"subunit_name_plural": "dirham"
+	},
+	"MAD": {
+		"name": "Dirham o Moroko",
+		"name_plural": "Nga Dirham o Moroko",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"MDL": {
+		"name": "Leu o Morotawa",
+		"name_plural": "Nga Leu o Morotawa",
+		"subunit_name": "ban",
+		"subunit_name_plural": "ban"
+	},
+	"MGA": {
+		"name": "Ariary o Matakāhika",
+		"name_plural": "Nga Ariary o Matakāhika",
+		"subunit_name": "iraimbilanja",
+		"subunit_name_plural": "iraimbilanja"
+	},
+	"MKD": {
+		"name": "Denar o Makerōnia",
+		"name_plural": "Nga Denar o Makerōnia",
+		"subunit_name": "deni",
+		"subunit_name_plural": "deni"
+	},
+	"MMK": {
+		"name": "Kyat o Pēma",
+		"name_plural": "Nga Kyat o Pēma",
+		"subunit_name": "pya",
+		"subunit_name_plural": "pya"
+	},
+	"MNT": {
+		"name": "Tugrik o Mongōria",
+		"name_plural": "Nga Tugrik o Mongōria",
+		"subunit_name": "möngö",
+		"subunit_name_plural": "möngö"
+	},
+	"MOP": {
+		"name": "Pataca o Makau",
+		"name_plural": "Nga Pataca o Makau",
+		"subunit_name": "avo",
+		"subunit_name_plural": "avo"
+	},
+	"MRU": {
+		"name": "Ouguiya o Maurītānia",
+		"name_plural": "Nga Ouguiya o Maurītānia",
+		"subunit_name": "khoums",
+		"subunit_name_plural": "khoums"
+	},
+	"MUR": {
+		"name": "Rūpī o Morihi",
+		"name_plural": "Nga Rūpī o Morihi",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"MVR": {
+		"name": "Rufiyaa o Maratīwi",
+		"name_plural": "Nga Rufiyaa o Maratīwi",
+		"subunit_name": "laari",
+		"subunit_name_plural": "laari"
+	},
+	"MWK": {
+		"name": "Kwacha o Marāwi",
+		"name_plural": "Nga Kwacha o Marāwi",
+		"subunit_name": "tambala",
+		"subunit_name_plural": "tambala"
+	},
+	"MXN": {
+		"name": "Peso o Mehiko",
+		"name_plural": "Nga Peso o Mehiko",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"MYR": {
+		"name": "Ringgit o Marēhia",
+		"name_plural": "Nga Ringgit o Marēhia",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"MZN": {
+		"name": "Metical o Mohapiki",
+		"name_plural": "Nga Metical o Mohapiki",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"NAD": {
+		"name": "Tāra o Namipia",
+		"name_plural": "Nga Tāra o Namipia",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"NGN": {
+		"name": "Naira o Nīkeria",
+		"name_plural": "Nga Naira o Nīkeria",
+		"subunit_name": "kobo",
+		"subunit_name_plural": "kobo"
+	},
+	"NIO": {
+		"name": "Córdoba o Nikarāhua",
+		"name_plural": "Nga Córdoba o Nikarāhua",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"NOK": {
+		"name": "Krone o Nōwei",
+		"name_plural": "Nga Krone o Nōwei",
+		"subunit_name": "øre",
+		"subunit_name_plural": "øre"
+	},
+	"NPR": {
+		"name": "Rūpī o Nepōra",
+		"name_plural": "Nga Rūpī o Nepōra",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisa"
+	},
+	"NZD": {
+		"name": "Tāra o Aotearoa",
+		"name_plural": "Nga Tāra o Aotearoa",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"OMR": {
+		"name": "Rial o Ōmana",
+		"name_plural": "Nga Rial o Ōmana",
+		"subunit_name": "baisa",
+		"subunit_name_plural": "baisa"
+	},
+	"PAB": {
+		"name": "Balboa o Panamā",
+		"name_plural": "Nga Balboa o Panamā",
+		"subunit_name": "centésimo",
+		"subunit_name_plural": "centésimo"
+	},
+	"PEN": {
+		"name": "Sol o Perū",
+		"name_plural": "Nga Sol o Perū",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimo"
+	},
+	"PGK": {
+		"name": "Kina o Papua Nūkini",
+		"name_plural": "Nga Kina o Papua Nūkini",
+		"subunit_name": "toea",
+		"subunit_name_plural": "toea"
+	},
+	"PHP": {
+		"name": "Peso o Piripīni",
+		"name_plural": "Nga Peso o Piripīni",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimo"
+	},
+	"PKR": {
+		"name": "Rūpī o Pakitāne",
+		"name_plural": "Nga Rūpī o Pakitāne",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisa"
+	},
+	"PLN": {
+		"name": "Zloty o Pōrana",
+		"name_plural": "Nga Zloty o Pōrana",
+		"subunit_name": "grosz",
+		"subunit_name_plural": "grosz"
+	},
+	"PYG": {
+		"name": "Guarani o Parakai",
+		"name_plural": "Nga Guarani o Parakai",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimo"
+	},
+	"QAR": {
+		"name": "Rial o Katā",
+		"name_plural": "Nga Rial o Katā",
+		"subunit_name": "dirham",
+		"subunit_name_plural": "dirham"
+	},
+	"RON": {
+		"name": "Leu o Romeinia",
+		"name_plural": "Nga Leu o Romeinia",
+		"subunit_name": "ban",
+		"subunit_name_plural": "ban"
+	},
+	"RSD": {
+		"name": "Dinar o Hēpia",
+		"name_plural": "Nga Dinar o Hēpia",
+		"subunit_name": "para",
+		"subunit_name_plural": "para"
+	},
+	"RUB": {
+		"name": "Ruble o Rūhia",
+		"name_plural": "Nga Ruble o Rūhia",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopeck"
+	},
+	"RWF": {
+		"name": "Franc o Rāwana",
+		"name_plural": "Nga Franc o Rāwana",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"SAR": {
+		"name": "Riyal o Hauri Arāpia",
+		"name_plural": "Nga Riyal o Hauri Arāpia",
+		"subunit_name": "halala",
+		"subunit_name_plural": "halala"
+	},
+	"SBD": {
+		"name": "Tāra o ngā Moutere Horomona",
+		"name_plural": "Nga Tāra o ngā Moutere Horomona",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"SCR": {
+		"name": "Rūpī o Heihere",
+		"name_plural": "Nga Rūpī o Heihere",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"SDG": {
+		"name": "Pauna o Hūtāna",
+		"name_plural": "Nga Pauna o Hūtāna",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"SEK": {
+		"name": "Krona o Huītene",
+		"name_plural": "Nga Krona o Huītene",
+		"subunit_name": "öre",
+		"subunit_name_plural": "öre"
+	},
+	"SGD": {
+		"name": "Tāra o Hingapoa",
+		"name_plural": "Nga Tāra o Hingapoa",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"SHP": {
+		"name": "Pauna o Hato Herena",
+		"name_plural": "Nga Pauna o Hato Herena",
+		"subunit_name": "penny",
+		"subunit_name_plural": "penny"
+	},
+	"SLL": {
+		"name": "Leone o Tiera Rīone",
+		"name_plural": "Nga Leone o Tiera Rīone",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"SOS": {
+		"name": "Shilling o Hamāria",
+		"name_plural": "Nga Shilling o Hamāria",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"SRD": {
+		"name": "Tāra o Huriname",
+		"name_plural": "Nga Tāra o Huriname",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"SSP": {
+		"name": "Pauna o Hūtāna ki te Tonga",
+		"name_plural": "Nga Pauna o Hūtāna ki te Tonga",
+		"subunit_name": "piaster",
+		"subunit_name_plural": "piaster"
+	},
+	"STN": {
+		"name": "Dobra o Hato Tomi me Pirinipei",
+		"name_plural": "Nga Dobra o Hato Tomi me Pirinipei",
+		"subunit_name": "cêntimo",
+		"subunit_name_plural": "cêntimo"
+	},
+	"SYP": {
+		"name": "Pauna o Hīria",
+		"name_plural": "Nga Pauna o Hīria",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"SZL": {
+		"name": "Lilangeni o Watini",
+		"name_plural": "Nga Lilangeni o Watini",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"THB": {
+		"name": "Baht o Tairanga",
+		"name_plural": "Nga Baht o Tairanga",
+		"subunit_name": "satang",
+		"subunit_name_plural": "satang"
+	},
+	"TJS": {
+		"name": "Somoni o Takiritānga",
+		"name_plural": "Nga Somoni o Takiritānga",
+		"subunit_name": "diram",
+		"subunit_name_plural": "diram"
+	},
+	"TMT": {
+		"name": "Manat o Tūkumanitānga",
+		"name_plural": "Nga Manat o Tūkumanitānga",
+		"subunit_name": "tenge",
+		"subunit_name_plural": "tenge"
+	},
+	"TND": {
+		"name": "Dinar o Tūnihia",
+		"name_plural": "Nga Dinar o Tūnihia",
+		"subunit_name": "millime",
+		"subunit_name_plural": "millime"
+	},
+	"TOP": {
+		"name": "Paʻanga o Tonga",
+		"name_plural": "Nga Paʻanga o Tonga",
+		"subunit_name": "seniti",
+		"subunit_name_plural": "seniti"
+	},
+	"TRY": {
+		"name": "Lira o Tākei",
+		"name_plural": "Nga Lira o Tākei",
+		"subunit_name": "kuruş",
+		"subunit_name_plural": "kuruş"
+	},
+	"TTD": {
+		"name": "Tāra o Tinitāte me Topako",
+		"name_plural": "Nga Tāra o Tinitāte me Topako",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"TWD": {
+		"name": "Tāra Hou o Taiwana",
+		"name_plural": "Nga Tāra Hou o Taiwana",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"TZS": {
+		"name": "Shilling o Tānahia",
+		"name_plural": "Nga Shilling o Tānahia",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"UAH": {
+		"name": "Hryvnia o Ukareinga",
+		"name_plural": "Nga Hryvnia o Ukareinga",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopeck"
+	},
+	"UGX": {
+		"name": "Shilling o Ukāna",
+		"name_plural": "Nga Shilling o Ukāna",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"USD": {
+		"name": "Tāra o Amerika",
+		"name_plural": "Nga Tāra o Amerika",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"UYU": {
+		"name": "Peso o Urukoi",
+		"name_plural": "Nga Peso o Urukoi",
+		"subunit_name": "centésimo",
+		"subunit_name_plural": "centésimo"
+	},
+	"UZS": {
+		"name": "Som o Uhipeketāne",
+		"name_plural": "Nga Som o Uhipeketāne",
+		"subunit_name": "tiyin",
+		"subunit_name_plural": "tiyin"
+	},
+	"VES": {
+		"name": "Bolívar o Wenetūera",
+		"name_plural": "Nga Bolívar o Wenetūera",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimo"
+	},
+	"VND": {
+		"name": "Dong o Wietnama",
+		"name_plural": "Nga Dong o Wietnama",
+		"subunit_name": "hào",
+		"subunit_name_plural": "hào"
+	},
+	"VUV": {
+		"name": "Vatu o Whenuatū",
+		"name_plural": "Nga Vatu o Whenuatū",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"WST": {
+		"name": "Tala o Hāmoa",
+		"name_plural": "Nga Tala o Hāmoa",
+		"subunit_name": "sene",
+		"subunit_name_plural": "sene"
+	},
+	"XAF": {
+		"name": "Franc CFA o Āwherika Waenganui",
+		"name_plural": "Nga Franc CFA o Āwherika Waenganui",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"XCD": {
+		"name": "Tāra o Karipiana Rāwhiti",
+		"name_plural": "Nga Tāra o Karipiana Rāwhiti",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"XOF": {
+		"name": "Franc CFA o Āwherika ki te Uru",
+		"name_plural": "Nga Franc CFA o Āwherika ki te Uru",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"XPF": {
+		"name": "Franc CFP",
+		"name_plural": "Nga Franc CFP",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"YER": {
+		"name": "Rial o Āmana",
+		"name_plural": "Nga Rial o Āmana",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"ZAR": {
+		"name": "Rand o Āwherika ki te Tonga",
+		"name_plural": "Nga Rand o Āwherika ki te Tonga",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	},
+	"ZMW": {
+		"name": "Kwacha o Tāmipia",
+		"name_plural": "Nga Kwacha o Tāmipia",
+		"subunit_name": "ngwee",
+		"subunit_name_plural": "ngwee"
+	},
+	"ZWL": {
+		"name": "Tāra o Timuwawe",
+		"name_plural": "Nga Tāra o Timuwawe",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cent"
+	}
+}

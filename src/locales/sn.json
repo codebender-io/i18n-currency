@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "Dhirafi yeUAE",
+		"name_plural": "Madhirafi eUAE",
+		"subunit_name": "filsi",
+		"subunit_name_plural": "mafilsi"
+	},
+	"AFN": {
+		"name": "Afghani yeAfghanistan",
+		"name_plural": "Afghani dzeAfghanistan",
+		"subunit_name": "puli",
+		"subunit_name_plural": "mapuli"
+	},
+	"ALL": {
+		"name": "Lek yeAlbania",
+		"name_plural": "Lek dzeAlbania",
+		"subunit_name": "qindarkë",
+		"subunit_name_plural": "qindarkë"
+	},
+	"AMD": {
+		"name": "Dram yeArmenia",
+		"name_plural": "Dram dzeArmenia",
+		"subunit_name": "luma",
+		"subunit_name_plural": "luma"
+	},
+	"ANG": {
+		"name": "Guilder yeAntilles",
+		"name_plural": "Guilder dzeAntilles",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"AOA": {
+		"name": "Kwanza yeAngola",
+		"name_plural": "Kwanza dzeAngola",
+		"subunit_name": "cêntimo",
+		"subunit_name_plural": "cêntimo"
+	},
+	"ARS": {
+		"name": "Peso yeArgentina",
+		"name_plural": "Peso dzeArgentina",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"AUD": {
+		"name": "Dora reAustralia",
+		"name_plural": "Madora eAustralia",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"AWG": {
+		"name": "Florin yeAruba",
+		"name_plural": "Florin dzeAruba",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"AZN": {
+		"name": "Manat yeAzerbaijan",
+		"name_plural": "Manat dzeAzerbaijan",
+		"subunit_name": "qəpik",
+		"subunit_name_plural": "qəpik"
+	},
+	"BAM": {
+		"name": "Mark yeBosnia neHerzegovina",
+		"name_plural": "Mark dzeBosnia neHerzegovina",
+		"subunit_name": "fening",
+		"subunit_name_plural": "fening"
+	},
+	"BBD": {
+		"name": "Dora reBarbados",
+		"name_plural": "Madora eBarbados",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"BDT": {
+		"name": "Taka yeBangladesh",
+		"name_plural": "Taka dzeBangladesh",
+		"subunit_name": "poisha",
+		"subunit_name_plural": "poisha"
+	},
+	"BGN": {
+		"name": "Lev yeBulgaria",
+		"name_plural": "Lev dzeBulgaria",
+		"subunit_name": "stotinka",
+		"subunit_name_plural": "stotinki"
+	},
+	"BHD": {
+		"name": "Dinari reBahrain",
+		"name_plural": "Madinari eBahrain",
+		"subunit_name": "filsi",
+		"subunit_name_plural": "mafilsi"
+	},
+	"BIF": {
+		"name": "Faransi yeBurundi",
+		"name_plural": "Faransi dzeBurundi",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"BMD": {
+		"name": "Dora reBermuda",
+		"name_plural": "Madora eBermuda",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"BND": {
+		"name": "Dora reBrunei",
+		"name_plural": "Madora eBrunei",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"BOB": {
+		"name": "Boliviano yeBolivia",
+		"name_plural": "Boliviano dzeBolivia",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"BRL": {
+		"name": "Real yeBrazil",
+		"name_plural": "Real dzeBrazil",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"BSD": {
+		"name": "Dora reBahamas",
+		"name_plural": "Madora eBahamas",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"BTN": {
+		"name": "Ngultrum yeBhutan",
+		"name_plural": "Ngultrum dzeBhutan",
+		"subunit_name": "chetrum",
+		"subunit_name_plural": "chetrum"
+	},
+	"BWP": {
+		"name": "Pula yeBotswana",
+		"name_plural": "Pula dzeBotswana",
+		"subunit_name": "thebe",
+		"subunit_name_plural": "thebe"
+	},
+	"BYN": {
+		"name": "Ruble yeBelarus",
+		"name_plural": "Ruble dzeBelarus",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopeck"
+	},
+	"BZD": {
+		"name": "Dora reBelize",
+		"name_plural": "Madora eBelize",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"CAD": {
+		"name": "Dora reCanada",
+		"name_plural": "Madora eCanada",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"CDF": {
+		"name": "Faransi yeCongo",
+		"name_plural": "Faransi dzeCongo",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"CHF": {
+		"name": "Faransi yeSwitzerland",
+		"name_plural": "Faransi dzeSwitzerland",
+		"subunit_name": "rappen",
+		"subunit_name_plural": "rappen"
+	},
+	"CLP": {
+		"name": "Peso yeChile",
+		"name_plural": "Peso dzeChile",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CNY": {
+		"name": "Yuan yeChina",
+		"name_plural": "Yuan dzeChina",
+		"subunit_name": "fen",
+		"subunit_name_plural": "fen"
+	},
+	"COP": {
+		"name": "Peso yeColombia",
+		"name_plural": "Peso dzeColombia",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CRC": {
+		"name": "Colón yeCosta Rica",
+		"name_plural": "Colón dzeCosta Rica",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimo"
+	},
+	"CUC": {
+		"name": "Peso yeCuba (Inoshanduka)",
+		"name_plural": "Peso dzeCuba (Inoshanduka)",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CUP": {
+		"name": "Peso yeCuba",
+		"name_plural": "Peso dzeCuba",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CVE": {
+		"name": "Escudo yeCape Verde",
+		"name_plural": "Escudo dzeCape Verde",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"CZK": {
+		"name": "Koruna yeCzech Republic",
+		"name_plural": "Koruna dzeCzech Republic",
+		"subunit_name": "haléř",
+		"subunit_name_plural": "haléř"
+	},
+	"DJF": {
+		"name": "Faransi yeDjibouti",
+		"name_plural": "Faransi dzeDjibouti",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"DKK": {
+		"name": "Krone yeDenmark",
+		"name_plural": "Krone dzeDenmark",
+		"subunit_name": "øre",
+		"subunit_name_plural": "øre"
+	},
+	"DOP": {
+		"name": "Peso yeDominican Republic",
+		"name_plural": "Peso dzeDominican Republic",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"DZD": {
+		"name": "Dinari reAlgeria",
+		"name_plural": "Madinari eAlgeria",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"EGP": {
+		"name": "Paundi reEgypt",
+		"name_plural": "Mapaundi eEgypt",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"ERN": {
+		"name": "Nakfa yeEritrea",
+		"name_plural": "Nakfa dzeEritrea",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"ETB": {
+		"name": "Birr yeEthiopia",
+		"name_plural": "Birr dzeEthiopia",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"EUR": {
+		"name": "Euro",
+		"name_plural": "Euro",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"FJD": {
+		"name": "Dora reFiji",
+		"name_plural": "Madora eFiji",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"FKP": {
+		"name": "Paundi reFalkland Islands",
+		"name_plural": "Mapaundi eFalkland Islands",
+		"subunit_name": "peni",
+		"subunit_name_plural": "mapeni"
+	},
+	"GBP": {
+		"name": "Paundi reBritain",
+		"name_plural": "Mapaundi eBritain",
+		"subunit_name": "peni",
+		"subunit_name_plural": "mapeni"
+	},
+	"GEL": {
+		"name": "Lari yeGeorgia",
+		"name_plural": "Lari dzeGeorgia",
+		"subunit_name": "tetri",
+		"subunit_name_plural": "tetri"
+	},
+	"GHS": {
+		"name": "Cedi yeGhana",
+		"name_plural": "Cedi dzeGhana",
+		"subunit_name": "pesewa",
+		"subunit_name_plural": "pesewa"
+	},
+	"GIP": {
+		"name": "Paundi reGibraltar",
+		"name_plural": "Mapaundi eGibraltar",
+		"subunit_name": "peni",
+		"subunit_name_plural": "mapeni"
+	},
+	"GMD": {
+		"name": "Dalasi yeGambia",
+		"name_plural": "Dalasi dzeGambia",
+		"subunit_name": "butut",
+		"subunit_name_plural": "butut"
+	},
+	"GNF": {
+		"name": "Faransi yeGuinea",
+		"name_plural": "Faransi dzeGuinea",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"GTQ": {
+		"name": "Quetzal yeGuatemala",
+		"name_plural": "Quetzal dzeGuatemala",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"GYD": {
+		"name": "Dora reGuyana",
+		"name_plural": "Madora eGuyana",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"HKD": {
+		"name": "Dora reHong Kong",
+		"name_plural": "Madora eHong Kong",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"HNL": {
+		"name": "Lempira yeHonduras",
+		"name_plural": "Lempira dzeHonduras",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"HRK": {
+		"name": "Kuna yeCroatia",
+		"name_plural": "Kuna dzeCroatia",
+		"subunit_name": "lipa",
+		"subunit_name_plural": "lipa"
+	},
+	"HTG": {
+		"name": "Gourde yeHaiti",
+		"name_plural": "Gourde dzeHaiti",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"HUF": {
+		"name": "Forint yeHungary",
+		"name_plural": "Forint dzeHungary",
+		"subunit_name": "fillér",
+		"subunit_name_plural": "fillér"
+	},
+	"IDR": {
+		"name": "Rupiah yeIndonesia",
+		"name_plural": "Rupiah dzeIndonesia",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"ILS": {
+		"name": "Shekel yeIsrael",
+		"name_plural": "Shekel dzeIsrael",
+		"subunit_name": "agora",
+		"subunit_name_plural": "agorot"
+	},
+	"INR": {
+		"name": "Rupee reIndia",
+		"name_plural": "Madhora eIndia",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisa"
+	},
+	"IQD": {
+		"name": "Dinari reIraq",
+		"name_plural": "Madinari eIraq",
+		"subunit_name": "filsi",
+		"subunit_name_plural": "mafilsi"
+	},
+	"IRR": {
+		"name": "Rial yeIran",
+		"name_plural": "Rial dzeIran",
+		"subunit_name": "dinari",
+		"subunit_name_plural": "dinari"
+	},
+	"ISK": {
+		"name": "Króna yeIceland",
+		"name_plural": "Króna dzeIceland",
+		"subunit_name": "eyrir",
+		"subunit_name_plural": "aurar"
+	},
+	"JMD": {
+		"name": "Dora reJamaica",
+		"name_plural": "Madora eJamaica",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"JOD": {
+		"name": "Dinari reJordan",
+		"name_plural": "Madinari eJordan",
+		"subunit_name": "filsi",
+		"subunit_name_plural": "mafilsi"
+	},
+	"JPY": {
+		"name": "Yen yeJapan",
+		"name_plural": "Yen dzeJapan",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KES": {
+		"name": "Shiringi yeKenya",
+		"name_plural": "Shiringi dzeKenya",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"KGS": {
+		"name": "Som yeKyrgyzstan",
+		"name_plural": "Som dzeKyrgyzstan",
+		"subunit_name": "tyiyn",
+		"subunit_name_plural": "tyiyn"
+	},
+	"KHR": {
+		"name": "Riel yeCambodia",
+		"name_plural": "Riel dzeCambodia",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KMF": {
+		"name": "Faransi yeComoros",
+		"name_plural": "Faransi dzeComoros",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"KPW": {
+		"name": "Won yeNorth Korea",
+		"name_plural": "Won dzeNorth Korea",
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeon"
+	},
+	"KRW": {
+		"name": "Won yeSouth Korea",
+		"name_plural": "Won dzeSouth Korea",
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeon"
+	},
+	"KWD": {
+		"name": "Dinari reKuwait",
+		"name_plural": "Madinari eKuwait",
+		"subunit_name": "filsi",
+		"subunit_name_plural": "mafilsi"
+	},
+	"KYD": {
+		"name": "Dora reCayman Islands",
+		"name_plural": "Madora eCayman Islands",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"KZT": {
+		"name": "Tenge yeKazakhstan",
+		"name_plural": "Tenge dzeKazakhstan",
+		"subunit_name": "tiyn",
+		"subunit_name_plural": "tiyn"
+	},
+	"LAK": {
+		"name": "Kip yeLaos",
+		"name_plural": "Kip dzeLaos",
+		"subunit_name": "att",
+		"subunit_name_plural": "att"
+	},
+	"LBP": {
+		"name": "Paundi reLebanon",
+		"name_plural": "Mapaundi eLebanon",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"LKR": {
+		"name": "Rupee reSri Lanka",
+		"name_plural": "Madhora eSri Lanka",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"LRD": {
+		"name": "Dora reLiberia",
+		"name_plural": "Madora eLiberia",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"LSL": {
+		"name": "Loti yeLesotho",
+		"name_plural": "Maloti eLesotho",
+		"subunit_name": "sente",
+		"subunit_name_plural": "lisente"
+	},
+	"LYD": {
+		"name": "Dinari reLibya",
+		"name_plural": "Madinari eLibya",
+		"subunit_name": "dirham",
+		"subunit_name_plural": "dirham"
+	},
+	"MAD": {
+		"name": "Dirham yeMorocco",
+		"name_plural": "Dirham dzeMorocco",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"MDL": {
+		"name": "Leu yeMoldova",
+		"name_plural": "Leu dzeMoldova",
+		"subunit_name": "ban",
+		"subunit_name_plural": "bani"
+	},
+	"MGA": {
+		"name": "Ariary yeMadagascar",
+		"name_plural": "Ariary dzeMadagascar",
+		"subunit_name": "iraimbilanja",
+		"subunit_name_plural": "iraimbilanja"
+	},
+	"MKD": {
+		"name": "Denar yeNorth Macedonia",
+		"name_plural": "Denar dzeNorth Macedonia",
+		"subunit_name": "deni",
+		"subunit_name_plural": "deni"
+	},
+	"MMK": {
+		"name": "Kyat yeMyanmar",
+		"name_plural": "Kyat dzeMyanmar",
+		"subunit_name": "pya",
+		"subunit_name_plural": "pya"
+	},
+	"MNT": {
+		"name": "Tugrik yeMongolia",
+		"name_plural": "Tugrik dzeMongolia",
+		"subunit_name": "möngö",
+		"subunit_name_plural": "möngö"
+	},
+	"MOP": {
+		"name": "Pataca yeMacau",
+		"name_plural": "Pataca dzeMacau",
+		"subunit_name": "avo",
+		"subunit_name_plural": "avo"
+	},
+	"MRU": {
+		"name": "Ouguiya yeMauritania",
+		"name_plural": "Ouguiya dzeMauritania",
+		"subunit_name": "khoums",
+		"subunit_name_plural": "khoums"
+	},
+	"MUR": {
+		"name": "Rupee reMauritius",
+		"name_plural": "Madhora eMauritius",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"MVR": {
+		"name": "Rufiyaa yeMaldives",
+		"name_plural": "Rufiyaa dzeMaldives",
+		"subunit_name": "laari",
+		"subunit_name_plural": "laari"
+	},
+	"MWK": {
+		"name": "Kwacha yeMalawi",
+		"name_plural": "Kwacha dzeMalawi",
+		"subunit_name": "tambala",
+		"subunit_name_plural": "tambala"
+	},
+	"MXN": {
+		"name": "Peso yeMexico",
+		"name_plural": "Peso dzeMexico",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"MYR": {
+		"name": "Ringgit yeMalaysia",
+		"name_plural": "Ringgit dzeMalaysia",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"MZN": {
+		"name": "Metical yeMozambique",
+		"name_plural": "Metical dzeMozambique",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"NAD": {
+		"name": "Dora reNamibia",
+		"name_plural": "Madora eNamibia",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"NGN": {
+		"name": "Naira yeNigeria",
+		"name_plural": "Naira dzeNigeria",
+		"subunit_name": "kobo",
+		"subunit_name_plural": "kobo"
+	},
+	"NIO": {
+		"name": "Córdoba yeNicaragua",
+		"name_plural": "Córdoba dzeNicaragua",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavo"
+	},
+	"NOK": {
+		"name": "Krone yeNorway",
+		"name_plural": "Krone dzeNorway",
+		"subunit_name": "øre",
+		"subunit_name_plural": "øre"
+	},
+	"NPR": {
+		"name": "Rupee reNepal",
+		"name_plural": "Madhora eNepal",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisa"
+	},
+	"NZD": {
+		"name": "Dora reNew Zealand",
+		"name_plural": "Madora eNew Zealand",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"OMR": {
+		"name": "Rial yeOman",
+		"name_plural": "Rial dzeOman",
+		"subunit_name": "baisa",
+		"subunit_name_plural": "baisa"
+	},
+	"PAB": {
+		"name": "Balboa yePanama",
+		"name_plural": "Balboa dzePanama",
+		"subunit_name": "centésimo",
+		"subunit_name_plural": "centésimo"
+	},
+	"PEN": {
+		"name": "Sol yePeru",
+		"name_plural": "Sol dzePeru",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimo"
+	},
+	"PGK": {
+		"name": "Kina yePapua New Guinea",
+		"name_plural": "Kina dzePapua New Guinea",
+		"subunit_name": "toea",
+		"subunit_name_plural": "toea"
+	},
+	"PHP": {
+		"name": "Peso yePhilippines",
+		"name_plural": "Peso dzePhilippines",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimo"
+	},
+	"PKR": {
+		"name": "Rupee rePakistan",
+		"name_plural": "Madhora ePakistan",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisa"
+	},
+	"PLN": {
+		"name": "Zloty yePoland",
+		"name_plural": "Zloty dzePoland",
+		"subunit_name": "grosz",
+		"subunit_name_plural": "groszy"
+	},
+	"PYG": {
+		"name": "Guarani yeParaguay",
+		"name_plural": "Guarani dzeParaguay",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimo"
+	},
+	"QAR": {
+		"name": "Rial yeQatar",
+		"name_plural": "Rial dzeQatar",
+		"subunit_name": "dirham",
+		"subunit_name_plural": "dirham"
+	},
+	"RON": {
+		"name": "Leu yeRomania",
+		"name_plural": "Leu dzeRomania",
+		"subunit_name": "ban",
+		"subunit_name_plural": "bani"
+	},
+	"RSD": {
+		"name": "Dinari reSerbia",
+		"name_plural": "Madinari eSerbia",
+		"subunit_name": "para",
+		"subunit_name_plural": "para"
+	},
+	"RUB": {
+		"name": "Ruble yeRussia",
+		"name_plural": "Ruble dzeRussia",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopeck"
+	},
+	"RWF": {
+		"name": "Faransi yeRwanda",
+		"name_plural": "Faransi dzeRwanda",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"SAR": {
+		"name": "Riyal yeSaudi Arabia",
+		"name_plural": "Riyal dzeSaudi Arabia",
+		"subunit_name": "halala",
+		"subunit_name_plural": "halala"
+	},
+	"SBD": {
+		"name": "Dora reSolomon Islands",
+		"name_plural": "Madora eSolomon Islands",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"SCR": {
+		"name": "Rupee reSeychelles",
+		"name_plural": "Madhora eSeychelles",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"SDG": {
+		"name": "Paundi reSudan",
+		"name_plural": "Mapaundi eSudan",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"SEK": {
+		"name": "Krona yeSweden",
+		"name_plural": "Krona dzeSweden",
+		"subunit_name": "öre",
+		"subunit_name_plural": "öre"
+	},
+	"SGD": {
+		"name": "Dora reSingapore",
+		"name_plural": "Madora eSingapore",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"SHP": {
+		"name": "Paundi reSt. Helena",
+		"name_plural": "Mapaundi eSt. Helena",
+		"subunit_name": "peni",
+		"subunit_name_plural": "mapeni"
+	},
+	"SLL": {
+		"name": "Leone yeSierra Leone",
+		"name_plural": "Leone dzeSierra Leone",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"SOS": {
+		"name": "Shiringi yeSomalia",
+		"name_plural": "Shiringi dzeSomalia",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"SRD": {
+		"name": "Dora reSuriname",
+		"name_plural": "Madora eSuriname",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"SSP": {
+		"name": "Paundi reSouth Sudan",
+		"name_plural": "Mapaundi eSouth Sudan",
+		"subunit_name": "piaster",
+		"subunit_name_plural": "piaster"
+	},
+	"STN": {
+		"name": "Dobra yeSão Tomé nePríncipe",
+		"name_plural": "Dobra dzeSão Tomé nePríncipe",
+		"subunit_name": "cêntimo",
+		"subunit_name_plural": "cêntimo"
+	},
+	"SYP": {
+		"name": "Paundi reSyria",
+		"name_plural": "Mapaundi eSyria",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"SZL": {
+		"name": "Lilangeni yeEswatini",
+		"name_plural": "Emalangeni eEswatini",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"THB": {
+		"name": "Baht yeThailand",
+		"name_plural": "Baht dzeThailand",
+		"subunit_name": "satang",
+		"subunit_name_plural": "satang"
+	},
+	"TJS": {
+		"name": "Somoni yeTajikistan",
+		"name_plural": "Somoni dzeTajikistan",
+		"subunit_name": "diram",
+		"subunit_name_plural": "diram"
+	},
+	"TMT": {
+		"name": "Manat yeTurkmenistan",
+		"name_plural": "Manat dzeTurkmenistan",
+		"subunit_name": "tenge",
+		"subunit_name_plural": "tenge"
+	},
+	"TND": {
+		"name": "Dinari reTunisia",
+		"name_plural": "Madinari eTunisia",
+		"subunit_name": "millime",
+		"subunit_name_plural": "millime"
+	},
+	"TOP": {
+		"name": "Paʻanga yeTonga",
+		"name_plural": "Paʻanga dzeTonga",
+		"subunit_name": "seniti",
+		"subunit_name_plural": "seniti"
+	},
+	"TRY": {
+		"name": "Lira yeTurkey",
+		"name_plural": "Lira dzeTurkey",
+		"subunit_name": "kuruş",
+		"subunit_name_plural": "kuruş"
+	},
+	"TTD": {
+		"name": "Dora reTrinidad neTobago",
+		"name_plural": "Madora eTrinidad neTobago",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"TWD": {
+		"name": "Dora reTaiwan",
+		"name_plural": "Madora eTaiwan",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"TZS": {
+		"name": "Shiringi yeTanzania",
+		"name_plural": "Shiringi dzeTanzania",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"UAH": {
+		"name": "Hryvnia yeUkraine",
+		"name_plural": "Hryvnia dzeUkraine",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopeck"
+	},
+	"UGX": {
+		"name": "Shiringi yeUganda",
+		"name_plural": "Shiringi dzeUganda",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"USD": {
+		"name": "Dora reUS",
+		"name_plural": "Madora eUS",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"UYU": {
+		"name": "Peso yeUruguay",
+		"name_plural": "Peso dzeUruguay",
+		"subunit_name": "centésimo",
+		"subunit_name_plural": "centésimo"
+	},
+	"UZS": {
+		"name": "Som yeUzbekistan",
+		"name_plural": "Som dzeUzbekistan",
+		"subunit_name": "tiyin",
+		"subunit_name_plural": "tiyin"
+	},
+	"VES": {
+		"name": "Bolívar yeVenezuela",
+		"name_plural": "Bolívar dzeVenezuela",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimo"
+	},
+	"VND": {
+		"name": "Dong yeVietnam",
+		"name_plural": "Dong dzeVietnam",
+		"subunit_name": "hào",
+		"subunit_name_plural": "hào"
+	},
+	"VUV": {
+		"name": "Vatu yeVanuatu",
+		"name_plural": "Vatu dzeVanuatu",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"WST": {
+		"name": "Tala yeSamoa",
+		"name_plural": "Tala dzeSamoa",
+		"subunit_name": "sene",
+		"subunit_name_plural": "sene"
+	},
+	"XAF": {
+		"name": "Faransi yeCFA (Africa yemabvazuva)",
+		"name_plural": "Faransi dzeCFA (Africa yemabvazuva)",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"XCD": {
+		"name": "Dora reCaribbean yemabvazuva",
+		"name_plural": "Madora eCaribbean yemabvazuva",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"XOF": {
+		"name": "Faransi yeCFA (Africa yemadokero)",
+		"name_plural": "Faransi dzeCFA (Africa yemadokero)",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"XPF": {
+		"name": "Faransi yeCFP",
+		"name_plural": "Faransi dzeCFP",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centime"
+	},
+	"YER": {
+		"name": "Rial yeYemen",
+		"name_plural": "Rial dzeYemen",
+		"subunit_name": "filsi",
+		"subunit_name_plural": "mafilsi"
+	},
+	"ZAR": {
+		"name": "Rand yeSouth Africa",
+		"name_plural": "Rand dzeSouth Africa",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	},
+	"ZMW": {
+		"name": "Kwacha yeZambia",
+		"name_plural": "Kwacha dzeZambia",
+		"subunit_name": "ngwee",
+		"subunit_name_plural": "ngwee"
+	},
+	"ZWL": {
+		"name": "Dora reZimbabwe",
+		"name_plural": "Madora eZimbabwe",
+		"subunit_name": "senti",
+		"subunit_name_plural": "masenti"
+	}
+}

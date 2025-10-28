@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "યુએઈ દિરહામ",
+		"name_plural": "યુએઈ દિરહામ",
+		"subunit_name": "ફિલ્સ",
+		"subunit_name_plural": "ફિલ્સ"
+	},
+	"AFN": {
+		"name": "અફઘાન અફઘાની",
+		"name_plural": "અફઘાન અફઘાની",
+		"subunit_name": "પુલ",
+		"subunit_name_plural": "પુલ"
+	},
+	"ALL": {
+		"name": "અલ્બેનિયન લેક",
+		"name_plural": "અલ્બેનિયન લેક",
+		"subunit_name": "ક્વિન્ડાર્કા",
+		"subunit_name_plural": "ક્વિન્ડાર્કા"
+	},
+	"AMD": {
+		"name": "આર્મેનિયન ડ્રામ",
+		"name_plural": "આર્મેનિયન ડ્રામ",
+		"subunit_name": "લુમા",
+		"subunit_name_plural": "લુમા"
+	},
+	"ANG": {
+		"name": "નેધરલેન્ડ્સ એન્ટિલિયન ગિલ્ડર",
+		"name_plural": "નેધરલેન્ડ્સ એન્ટિલિયન ગિલ્ડર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"AOA": {
+		"name": "એંગોલન ક્વાન્ઝા",
+		"name_plural": "એંગોલન ક્વાન્ઝા",
+		"subunit_name": "સેન્ટિમો",
+		"subunit_name_plural": "સેन્ટિમો"
+	},
+	"ARS": {
+		"name": "અર્જેન્ટીના પેસો",
+		"name_plural": "અર્જેન્ટીના પેસો",
+		"subunit_name": "સેન્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"AUD": {
+		"name": "ઑસ્ટ્રેલિયન ડૉલર",
+		"name_plural": "ઑસ્ટ્રેલિયન ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"AWG": {
+		"name": "અરુબન ફ્લોરિન",
+		"name_plural": "અરુબન ફ્લોરિન",
+		"subunit_name": "સેन્ટ",
+		"subunit_name_plural": "સેन્ટ"
+	},
+	"AZN": {
+		"name": "અઝરબૈજાની મનાત",
+		"name_plural": "અઝરબૈજાની મનાત",
+		"subunit_name": "કેપિક",
+		"subunit_name_plural": "કેપિક"
+	},
+	"BAM": {
+		"name": "બોસ્નિયા-હર્ઝેગોવિના કન્વર્ટિબલ માર્ક",
+		"name_plural": "બોસ્નિયા-હર્ઝેગોવિના કન્વર્ટિબલ માર્ક",
+		"subunit_name": "ફેનિંગ",
+		"subunit_name_plural": "ફેનિંગ"
+	},
+	"BBD": {
+		"name": "બાર્બેડિયન ડૉલર",
+		"name_plural": "બાર્બેડિયન ડૉલર",
+		"subunit_name": "સેन્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"BDT": {
+		"name": "બાંગ્લાદેશી ટાકા",
+		"name_plural": "બાંગ્લાદેશી ટાકા",
+		"subunit_name": "પોઇશા",
+		"subunit_name_plural": "પોઇશા"
+	},
+	"BGN": {
+		"name": "બલ્ગેરિયન લેવ",
+		"name_plural": "બલ્ગેરિયન લેવ",
+		"subunit_name": "સ્ટોટિન્કા",
+		"subunit_name_plural": "સ્ટોટિન્કી"
+	},
+	"BHD": {
+		"name": "બહેરીની દિનાર",
+		"name_plural": "બહેરીની દિનાર",
+		"subunit_name": "ફિલ્સ",
+		"subunit_name_plural": "ફિલ્સ"
+	},
+	"BIF": {
+		"name": "બુરુન્ડિયન ફ્રેંક",
+		"name_plural": "બુરુન્ડિયન ફ્રેંક",
+		"subunit_name": "સેન્ટિમ",
+		"subunit_name_plural": "સેન્ટિમ"
+	},
+	"BMD": {
+		"name": "બરમુડન ડૉલર",
+		"name_plural": "બરમુડન ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"BND": {
+		"name": "બ્રુનેઇ ડૉલર",
+		"name_plural": "બ્રુનેઇ ડૉલર",
+		"subunit_name": "સેન",
+		"subunit_name_plural": "સેન"
+	},
+	"BOB": {
+		"name": "બોલિવિયન બોલિવિયાનો",
+		"name_plural": "બોલિવિયન બોલિવિયાનો",
+		"subunit_name": "સેન્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"BRL": {
+		"name": "બ્રાઝિલિયન રિયાલ",
+		"name_plural": "બ્રાઝિલિયન રિયાલ",
+		"subunit_name": "સેન્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"BSD": {
+		"name": "બહામિયન ડૉલર",
+		"name_plural": "બહામિયન ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"BTN": {
+		"name": "ભૂતાનીઝ ન્ગુલ્ટ્રમ",
+		"name_plural": "ભૂતાનીઝ ન્ગુલ્ટ્રમ",
+		"subunit_name": "ચેત્રમ",
+		"subunit_name_plural": "ચેત્રમ"
+	},
+	"BWP": {
+		"name": "બોત્સવાનન પુલા",
+		"name_plural": "બોત્સવાનન પુલા",
+		"subunit_name": "થેબે",
+		"subunit_name_plural": "થેબે"
+	},
+	"BYN": {
+		"name": "બેલારુશિયન રુબલ",
+		"name_plural": "બેલારુશિયન રુબલ",
+		"subunit_name": "કોપેક",
+		"subunit_name_plural": "કોપેક"
+	},
+	"BZD": {
+		"name": "બેલિઝ ડૉલર",
+		"name_plural": "બેલિઝ ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"CAD": {
+		"name": "કેનેડિયન ડૉલર",
+		"name_plural": "કેનેડિયન ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"CDF": {
+		"name": "કોંગોલિઝ ફ્રેંક",
+		"name_plural": "કોંગોલિઝ ફ્રેંક",
+		"subunit_name": "સેન્ટિમ",
+		"subunit_name_plural": "સેન્ટિમ"
+	},
+	"CHF": {
+		"name": "સ્વિસ ફ્રેંક",
+		"name_plural": "સ્વિસ ફ્રેંક",
+		"subunit_name": "રેપેન",
+		"subunit_name_plural": "રેપેન"
+	},
+	"CLP": {
+		"name": "ચિલીયન પેસો",
+		"name_plural": "ચિલીયન પેસો",
+		"subunit_name": "સેન્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"CNY": {
+		"name": "ચાઇનીઝ યુઆન",
+		"name_plural": "ચાઇનીઝ યુઆન",
+		"subunit_name": "ફેન",
+		"subunit_name_plural": "ફેન"
+	},
+	"COP": {
+		"name": "કોલંબિયન પેસો",
+		"name_plural": "કોલંબિયન પેસો",
+		"subunit_name": "સેન્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"CRC": {
+		"name": "કોસ્ટા રિકન કોલોન",
+		"name_plural": "કોસ્ટા રિકન કોલોન",
+		"subunit_name": "સેન્ટિમો",
+		"subunit_name_plural": "સેન્ટિમો"
+	},
+	"CUC": {
+		"name": "ક્યુબન કન્વર્ટિબલ પેસો",
+		"name_plural": "ક્યુબન કન્વર્ટિબલ પેસો",
+		"subunit_name": "સેન્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"CUP": {
+		"name": "ક્યુબન પેસો",
+		"name_plural": "ક્યુબન પેસો",
+		"subunit_name": "સેન્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"CVE": {
+		"name": "કેપ વર્ડિયન એસ્કુડો",
+		"name_plural": "કેપ વર્ડિયન એસ્કુડો",
+		"subunit_name": "સેન્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"CZK": {
+		"name": "ચેક કોરુના",
+		"name_plural": "ચેક કોરુના",
+		"subunit_name": "હલેર",
+		"subunit_name_plural": "હલેર"
+	},
+	"DJF": {
+		"name": "જિબુતિયન ફ્રેંક",
+		"name_plural": "જિબુતિયન ફ્રેંક",
+		"subunit_name": "સેન્ટિમ",
+		"subunit_name_plural": "સેન્ટિમ"
+	},
+	"DKK": {
+		"name": "ડેનિશ ક્રોન",
+		"name_plural": "ડેનિશ ક્રોન",
+		"subunit_name": "ઓરે",
+		"subunit_name_plural": "ઓરે"
+	},
+	"DOP": {
+		"name": "ડોમિનિકન પેસો",
+		"name_plural": "ડોમિનિકન પેસો",
+		"subunit_name": "સેન્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"DZD": {
+		"name": "અલ્જીરિયન દિનાર",
+		"name_plural": "અલ્જીરિયન દિનાર",
+		"subunit_name": "સેન્ટિમ",
+		"subunit_name_plural": "સેન્ટિમ"
+	},
+	"EGP": {
+		"name": "ઇજિપ્તિયન પાઉન્ડ",
+		"name_plural": "ઇજિપ્તિયન પાઉન્ડ",
+		"subunit_name": "પિયાસ્ત્રે",
+		"subunit_name_plural": "પિયાસ્ત્રે"
+	},
+	"ERN": {
+		"name": "એરિટ્રિયન નકફા",
+		"name_plural": "એરિટ્રિયન નકફા",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"ETB": {
+		"name": "ઇથિઓપિયન બિર",
+		"name_plural": "ઇથિઓપિયન બિર",
+		"subunit_name": "સંતિમ",
+		"subunit_name_plural": "સંતિમ"
+	},
+	"EUR": {
+		"name": "યુરો",
+		"name_plural": "યુરો",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"FJD": {
+		"name": "ફિજિયન ડૉલર",
+		"name_plural": "ફિજિયન ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"FKP": {
+		"name": "ફોકલેન્ડ આઇલેન્ડ્સ પાઉન્ડ",
+		"name_plural": "ફોકલેન્ડ આઇલેન્ડ્સ પાઉન્ડ",
+		"subunit_name": "પેની",
+		"subunit_name_plural": "પેની"
+	},
+	"GBP": {
+		"name": "બ્રિટિશ પાઉન્ડ",
+		"name_plural": "બ્રિટિશ પાઉન્ડ",
+		"subunit_name": "પેની",
+		"subunit_name_plural": "પેની"
+	},
+	"GEL": {
+		"name": "જ્યોર્જિયન લારી",
+		"name_plural": "જ્યોર્જિયન લારી",
+		"subunit_name": "તેત્રી",
+		"subunit_name_plural": "તેત્રી"
+	},
+	"GHS": {
+		"name": "ઘાનાઇયન સેડી",
+		"name_plural": "ઘાનાઇયન સેડી",
+		"subunit_name": "પેસેવા",
+		"subunit_name_plural": "પેસેવા"
+	},
+	"GIP": {
+		"name": "જિબ્રાલ્ટર પાઉન્ડ",
+		"name_plural": "જિબ્રાલ્ટર પાઉન્ડ",
+		"subunit_name": "પેની",
+		"subunit_name_plural": "પેની"
+	},
+	"GMD": {
+		"name": "ગેમ્બિયન દલાસી",
+		"name_plural": "ગેમ્બિયન દલાસી",
+		"subunit_name": "બુતુત",
+		"subunit_name_plural": "બુતુત"
+	},
+	"GNF": {
+		"name": "ગિનીયન ફ્રેંક",
+		"name_plural": "ગિનીયન ફ્રેંક",
+		"subunit_name": "સેન્ટિમ",
+		"subunit_name_plural": "સેન્ટિમ"
+	},
+	"GTQ": {
+		"name": "ગ્વાટેમાલન ક્વેટ્ઝલ",
+		"name_plural": "ગ્વાટેમાલન ક્વેટ્ઝલ",
+		"subunit_name": "સેन્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"GYD": {
+		"name": "ગયાનીઝ ડૉલર",
+		"name_plural": "ગયાનીઝ ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"HKD": {
+		"name": "હોંગ કોંગ ડૉલર",
+		"name_plural": "હોંગ કોંગ ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"HNL": {
+		"name": "હોન્ડુરન લેમ્પિરા",
+		"name_plural": "હોન્ડુરન લેમ્પિરા",
+		"subunit_name": "સેન્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"HRK": {
+		"name": "ક્રોએશિયન કુના",
+		"name_plural": "ક્રોએશિયન કુના",
+		"subunit_name": "લિપા",
+		"subunit_name_plural": "લિપા"
+	},
+	"HTG": {
+		"name": "હેઇટિયન ગૌર્ડ",
+		"name_plural": "હેઇટિયન ગૌર્ડ",
+		"subunit_name": "સેન્ટિમ",
+		"subunit_name_plural": "સેન્ટિમ"
+	},
+	"HUF": {
+		"name": "હંગેરિયન ફોરિન્ટ",
+		"name_plural": "હંગેરિયન ફોરિન્ટ",
+		"subunit_name": "ફિલ્લેર",
+		"subunit_name_plural": "ફિલ્લેર"
+	},
+	"IDR": {
+		"name": "ઇન્ડોનેશિયન રૂપિયા",
+		"name_plural": "ઇન્ડોનેશિયન રૂપિયા",
+		"subunit_name": "સેન",
+		"subunit_name_plural": "સેન"
+	},
+	"ILS": {
+		"name": "ઇઝરાઇલી ન્યૂ શેકેલ",
+		"name_plural": "ઇઝરાઇલી ન્યૂ શેકેલ",
+		"subunit_name": "અગોરા",
+		"subunit_name_plural": "અગોરોત"
+	},
+	"INR": {
+		"name": "ભારતીય રૂપિયો",
+		"name_plural": "ભારતીય રૂપિયા",
+		"subunit_name": "પૈસો",
+		"subunit_name_plural": "પૈસા"
+	},
+	"IQD": {
+		"name": "ઇરાકી દિનાર",
+		"name_plural": "ઇરાકી દિનાર",
+		"subunit_name": "ફિલ્સ",
+		"subunit_name_plural": "ફિલ્સ"
+	},
+	"IRR": {
+		"name": "ઇરાનિયન રિયાલ",
+		"name_plural": "ઇરાનિયન રિયાલ",
+		"subunit_name": "દિનાર",
+		"subunit_name_plural": "દિનાર"
+	},
+	"ISK": {
+		"name": "આઇસલેન્ડિક ક્રોના",
+		"name_plural": "આઇસલેન્ડિક ક્રોના",
+		"subunit_name": "એયરિર",
+		"subunit_name_plural": "ઓરર"
+	},
+	"JMD": {
+		"name": "જમૈકન ડૉલર",
+		"name_plural": "જમૈકન ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"JOD": {
+		"name": "જોર્ડનિયન દિનાર",
+		"name_plural": "જોર્ડનિયન દિનાર",
+		"subunit_name": "ફિલ્સ",
+		"subunit_name_plural": "ફિલ્સ"
+	},
+	"JPY": {
+		"name": "જાપાનીઝ યેન",
+		"name_plural": "જાપાનીઝ યેન",
+		"subunit_name": "સેન",
+		"subunit_name_plural": "સેન"
+	},
+	"KES": {
+		"name": "કેનિયન શિલિંગ",
+		"name_plural": "કેનિયન શિલિંગ",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"KGS": {
+		"name": "કિર્ગિઝસ્તાની સોમ",
+		"name_plural": "કિર્ગિઝસ્તાની સોમ",
+		"subunit_name": "ત્યીયન",
+		"subunit_name_plural": "ત્યીયન"
+	},
+	"KHR": {
+		"name": "કેમ્બોડિયન રિયલ",
+		"name_plural": "કેમ્બોડિયન રિયલ",
+		"subunit_name": "સેન",
+		"subunit_name_plural": "સેન"
+	},
+	"KMF": {
+		"name": "કોમોરિયન ફ્રેંક",
+		"name_plural": "કોમોરિયન ફ્રેંક",
+		"subunit_name": "સેન્ટિમ",
+		"subunit_name_plural": "સેન્ટિમ"
+	},
+	"KPW": {
+		"name": "ઉત્તર કોરિયન વોન",
+		"name_plural": "ઉત્તર કોરિયન વોન",
+		"subunit_name": "જિયોન",
+		"subunit_name_plural": "જિયોન"
+	},
+	"KRW": {
+		"name": "દક્ષિણ કોરિયન વોન",
+		"name_plural": "દક્ષિણ કોરિયન વોન",
+		"subunit_name": "જિયોન",
+		"subunit_name_plural": "જિયોન"
+	},
+	"KWD": {
+		"name": "કુવૈતી દિનાર",
+		"name_plural": "કુવૈતી દિનાર",
+		"subunit_name": "ફિલ્સ",
+		"subunit_name_plural": "ફિલ્સ"
+	},
+	"KYD": {
+		"name": "કેમેન આઇલેન્ડ્સ ડૉલર",
+		"name_plural": "કેમેન આઇલેન્ડ્સ ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"KZT": {
+		"name": "કઝાકસ્તાની તેંગે",
+		"name_plural": "કઝાકસ્તાની તેંગે",
+		"subunit_name": "તિયન",
+		"subunit_name_plural": "તિયન"
+	},
+	"LAK": {
+		"name": "લાઓશિયન કિપ",
+		"name_plural": "લાઓશિયન કિપ",
+		"subunit_name": "એટ",
+		"subunit_name_plural": "એટ"
+	},
+	"LBP": {
+		"name": "લેબનીઝ પાઉન્ડ",
+		"name_plural": "લેબનીઝ પાઉન્ડ",
+		"subunit_name": "પિયાસ્ત્રે",
+		"subunit_name_plural": "પિયાસ્ત્રે"
+	},
+	"LKR": {
+		"name": "શ્રીલંકન રૂપિયો",
+		"name_plural": "શ્રીલંકન રૂપિયા",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"LRD": {
+		"name": "લાઇબેરિયન ડૉલર",
+		"name_plural": "લાઇબેરિયન ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"LSL": {
+		"name": "લેસોથો લોટી",
+		"name_plural": "લેસોથો લોટી",
+		"subunit_name": "સેન્ટે",
+		"subunit_name_plural": "લિસેન્ટે"
+	},
+	"LYD": {
+		"name": "લિબિયન દિનાર",
+		"name_plural": "લિબિયન દિનાર",
+		"subunit_name": "દિરહામ",
+		"subunit_name_plural": "દિરહામ"
+	},
+	"MAD": {
+		"name": "મોરોક્કન દિરહામ",
+		"name_plural": "મોરોક્કન દિરહામ",
+		"subunit_name": "સેન્ટિમ",
+		"subunit_name_plural": "સેન્ટિમ"
+	},
+	"MDL": {
+		"name": "મોલ્ડોવન લેઉ",
+		"name_plural": "મોલ્ડોવન લેઉ",
+		"subunit_name": "બાન",
+		"subunit_name_plural": "બાન"
+	},
+	"MGA": {
+		"name": "માલાગાસી એરિયરી",
+		"name_plural": "માલાગાસી એરિયરી",
+		"subunit_name": "ઇરૈમ્બિલાંજા",
+		"subunit_name_plural": "ઇરૈમ્બિલાંજા"
+	},
+	"MKD": {
+		"name": "મેસિડોનિયન દેનાર",
+		"name_plural": "મેસિડોનિયન દેનાર",
+		"subunit_name": "દેની",
+		"subunit_name_plural": "દેની"
+	},
+	"MMK": {
+		"name": "મ્યાનમાર ક્યાત",
+		"name_plural": "મ્યાનમાર ક્યાત",
+		"subunit_name": "પ્યા",
+		"subunit_name_plural": "પ્યા"
+	},
+	"MNT": {
+		"name": "મોંગોલિયન તુગ્રિક",
+		"name_plural": "મોંગોલિયન તુગ્રિક",
+		"subunit_name": "મોંગો",
+		"subunit_name_plural": "મોંગો"
+	},
+	"MOP": {
+		"name": "મેકાનીઝ પાતાકા",
+		"name_plural": "મેકાનીઝ પાતાકા",
+		"subunit_name": "એવો",
+		"subunit_name_plural": "એવો"
+	},
+	"MRU": {
+		"name": "મૉરિટાનિયન ઓગુઇયા",
+		"name_plural": "મૉરિટાનિયન ઓગુઇયા",
+		"subunit_name": "ખૌમ્સ",
+		"subunit_name_plural": "ખૌમ્સ"
+	},
+	"MUR": {
+		"name": "મૉરિશિયસ રૂપિયો",
+		"name_plural": "મૉરિશિયસ રૂપિયા",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"MVR": {
+		"name": "માલદીવિયન રૂફિયા",
+		"name_plural": "માલદીવિયન રૂફિયા",
+		"subunit_name": "લારી",
+		"subunit_name_plural": "લારી"
+	},
+	"MWK": {
+		"name": "મલાવિયન ક્વાચા",
+		"name_plural": "મલાવિયન ક્વાચા",
+		"subunit_name": "તામ્બાલા",
+		"subunit_name_plural": "તામ્બાલા"
+	},
+	"MXN": {
+		"name": "મેક્સિકન પેસો",
+		"name_plural": "મેક્સિકન પેસો",
+		"subunit_name": "સેન્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"MYR": {
+		"name": "મલેશિયન રિંગ્ગિત",
+		"name_plural": "મલેશિયન રિંગ્ગિત",
+		"subunit_name": "સેન",
+		"subunit_name_plural": "સેન"
+	},
+	"MZN": {
+		"name": "મોઝામ્બિકન મેટિકલ",
+		"name_plural": "મોઝામ્બિકન મેટિકલ",
+		"subunit_name": "સેન્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"NAD": {
+		"name": "નામિબિયન ડૉલર",
+		"name_plural": "નામિબિયન ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"NGN": {
+		"name": "નાઇજીરિયન નાઇરા",
+		"name_plural": "નાઇજીરિયન નાઇરા",
+		"subunit_name": "કોબો",
+		"subunit_name_plural": "કોબો"
+	},
+	"NIO": {
+		"name": "નિકારાગુયન કોર્ડોબા",
+		"name_plural": "નિકારાગુયન કોર્ડોબા",
+		"subunit_name": "સેन્ટાવો",
+		"subunit_name_plural": "સેન્ટાવો"
+	},
+	"NOK": {
+		"name": "નોર્વેજિયન ક્રોન",
+		"name_plural": "નોર્વેજિયન ક્રોન",
+		"subunit_name": "ઓરે",
+		"subunit_name_plural": "ઓરે"
+	},
+	"NPR": {
+		"name": "નેપાળી રૂપિયો",
+		"name_plural": "નેપાળી રૂપિયા",
+		"subunit_name": "પૈસો",
+		"subunit_name_plural": "પૈસા"
+	},
+	"NZD": {
+		"name": "ન્યૂ ઝીલેન્ડ ડૉલર",
+		"name_plural": "ન્યૂ ઝીલેન્ડ ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"OMR": {
+		"name": "ઓમાની રિયાલ",
+		"name_plural": "ઓમાની રિયાલ",
+		"subunit_name": "બૈસા",
+		"subunit_name_plural": "બૈસા"
+	},
+	"PAB": {
+		"name": "પનામનિયન બાલ્બોઆ",
+		"name_plural": "પનામનિયન બાલ્બોઆ",
+		"subunit_name": "સેન્ટેસિમો",
+		"subunit_name_plural": "સેન્ટેસિમો"
+	},
+	"PEN": {
+		"name": "પેરુવિયન સોલ",
+		"name_plural": "પેરુવિયન સોલ",
+		"subunit_name": "સેન્ટિમો",
+		"subunit_name_plural": "સેન્ટિમો"
+	},
+	"PGK": {
+		"name": "પાપુઆ ન્યૂ ગિનીયન કિના",
+		"name_plural": "પાપુઆ ન્યૂ ગિનીયન કિના",
+		"subunit_name": "તોએ",
+		"subunit_name_plural": "તોએ"
+	},
+	"PHP": {
+		"name": "ફિલિપાઇન પેસો",
+		"name_plural": "ફિલિપાઇન પેસો",
+		"subunit_name": "સેન્ટિમો",
+		"subunit_name_plural": "સેન્ટિમો"
+	},
+	"PKR": {
+		"name": "પાકિસ્તાની રૂપિયો",
+		"name_plural": "પાકિસ્તાની રૂપિયા",
+		"subunit_name": "પૈસો",
+		"subunit_name_plural": "પૈસા"
+	},
+	"PLN": {
+		"name": "પોલિશ ઝ્લોતી",
+		"name_plural": "પોલિશ ઝ્લોતી",
+		"subunit_name": "ગ્રોશ",
+		"subunit_name_plural": "ગ્રોશ"
+	},
+	"PYG": {
+		"name": "પરાગ્વેયન ગુઆરાની",
+		"name_plural": "પરાગ્વેયન ગુઆરાની",
+		"subunit_name": "સેन્ટિમો",
+		"subunit_name_plural": "સેન્ટિમો"
+	},
+	"QAR": {
+		"name": "કતારી રિયાલ",
+		"name_plural": "કતારી રિયાલ",
+		"subunit_name": "દિરહામ",
+		"subunit_name_plural": "દિરહામ"
+	},
+	"RON": {
+		"name": "રોમાનિયન લેઉ",
+		"name_plural": "રોમાનિયન લેઉ",
+		"subunit_name": "બાન",
+		"subunit_name_plural": "બાન"
+	},
+	"RSD": {
+		"name": "સર્બિયન દિનાર",
+		"name_plural": "સર્બિયન દિનાર",
+		"subunit_name": "પારા",
+		"subunit_name_plural": "પારા"
+	},
+	"RUB": {
+		"name": "રશિયન રુબલ",
+		"name_plural": "રશિયન રુબલ",
+		"subunit_name": "કોપેક",
+		"subunit_name_plural": "કોપેક"
+	},
+	"RWF": {
+		"name": "રવાન્ડન ફ્રેંક",
+		"name_plural": "રવાન્ડન ફ્રેંક",
+		"subunit_name": "સેન્ટિમ",
+		"subunit_name_plural": "સેન્ટિમ"
+	},
+	"SAR": {
+		"name": "સાઉદી રિયાલ",
+		"name_plural": "સાઉદી રિયાલ",
+		"subunit_name": "હલાલા",
+		"subunit_name_plural": "હલાલા"
+	},
+	"SBD": {
+		"name": "સોલોમન આઇલેન્ડ્સ ડૉલર",
+		"name_plural": "સોલોમન આઇલેન્ડ્સ ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"SCR": {
+		"name": "સેશેલોઇસ રૂપિયો",
+		"name_plural": "સેશેલોઇસ રૂપિયા",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"SDG": {
+		"name": "સુદાનીઝ પાઉન્ડ",
+		"name_plural": "સુદાનીઝ પાઉન્ડ",
+		"subunit_name": "પિયાસ્ત્રે",
+		"subunit_name_plural": "પિયાસ્ત્રે"
+	},
+	"SEK": {
+		"name": "સ્વીડિશ ક્રોના",
+		"name_plural": "સ્વીડિશ ક્રોના",
+		"subunit_name": "ઓરે",
+		"subunit_name_plural": "ઓરે"
+	},
+	"SGD": {
+		"name": "સિંગાપુર ડૉલર",
+		"name_plural": "સિંગાપુર ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"SHP": {
+		"name": "સેન્ટ હેલેના પાઉન્ડ",
+		"name_plural": "સેન્ટ હેલેના પાઉન્ડ",
+		"subunit_name": "પેની",
+		"subunit_name_plural": "પેની"
+	},
+	"SLL": {
+		"name": "સિએરા લિયોનિયન લિયોન",
+		"name_plural": "સિએરા લિયોનિયન લિયોન",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"SOS": {
+		"name": "સોમાલિયન શિલિંગ",
+		"name_plural": "સોમાલિયન શિલિંગ",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"SRD": {
+		"name": "સુરિનામીઝ ડૉલર",
+		"name_plural": "સુરિનામીઝ ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"SSP": {
+		"name": "સાઉથ સુદાનીઝ પાઉન્ડ",
+		"name_plural": "સાઉથ સુદાનીઝ પાઉન્ડ",
+		"subunit_name": "પિયાસ્ત્રે",
+		"subunit_name_plural": "પિયાસ્ત્રે"
+	},
+	"STN": {
+		"name": "સાઓ તોમે અને પ્રિન્સિપે ડોબરા",
+		"name_plural": "સાઓ તોમે અને પ્રિન્સિપે ડોબરા",
+		"subunit_name": "સેન્ટિમો",
+		"subunit_name_plural": "સેન્ટિમો"
+	},
+	"SYP": {
+		"name": "સીરિયન પाउન્ડ",
+		"name_plural": "સીરિયન પાઉન્ડ",
+		"subunit_name": "પિયાસ્ત્રે",
+		"subunit_name_plural": "પિયાસ્ત્રે"
+	},
+	"SZL": {
+		"name": "સ્વાઝી લિલાંગેની",
+		"name_plural": "સ્વાઝી લિલાંગેની",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"THB": {
+		"name": "થાઇ બાહ્ત",
+		"name_plural": "થાઇ બાહ્ત",
+		"subunit_name": "સતાંગ",
+		"subunit_name_plural": "સતાંગ"
+	},
+	"TJS": {
+		"name": "તાજિકિસ્તાની સોમોની",
+		"name_plural": "તાજિકિસ્તાની સોમોની",
+		"subunit_name": "દિરમ",
+		"subunit_name_plural": "દિરમ"
+	},
+	"TMT": {
+		"name": "તુર્કમેનિસ્તાની મનાત",
+		"name_plural": "તુર્કમેનિસ્તાની મનાત",
+		"subunit_name": "તેંગે",
+		"subunit_name_plural": "તેંગે"
+	},
+	"TND": {
+		"name": "ટ્યુનિશિયન દિનાર",
+		"name_plural": "ટ્યુનિશિયન દિનાર",
+		"subunit_name": "મિલિમ",
+		"subunit_name_plural": "મિલિમ"
+	},
+	"TOP": {
+		"name": "ટોંગન પાંગા",
+		"name_plural": "ટોંગન પાંગા",
+		"subunit_name": "સેનિતી",
+		"subunit_name_plural": "સેનિતી"
+	},
+	"TRY": {
+		"name": "તુર્કીશ લિરા",
+		"name_plural": "તુર્કીશ લિરા",
+		"subunit_name": "કુરુશ",
+		"subunit_name_plural": "કુરુશ"
+	},
+	"TTD": {
+		"name": "ત્રિનિદાદ અને ટોબેગો ડૉલર",
+		"name_plural": "ત્રિનિદાદ અને ટોબેગો ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"TWD": {
+		"name": "ન્યૂ તાઇવાન ડૉલર",
+		"name_plural": "ન્યૂ તાઇવાન ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"TZS": {
+		"name": "તાન્ઝાનિયન શિલિંગ",
+		"name_plural": "તાન્ઝાનિયન શિલિંગ",
+		"subunit_name": "સેन્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"UAH": {
+		"name": "યુક્રેનિયન હ્રિવ્નિયા",
+		"name_plural": "યુક્રેનિયન હ્રિવ્નિયા",
+		"subunit_name": "કોપેક",
+		"subunit_name_plural": "કોપેક"
+	},
+	"UGX": {
+		"name": "ઉગાન્ડન શિલિંગ",
+		"name_plural": "ઉગાન્ડન શિલિંગ",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"USD": {
+		"name": "યુએસ ડૉલર",
+		"name_plural": "યુએસ ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"UYU": {
+		"name": "ઉરુગ્વેયન પેસો",
+		"name_plural": "ઉરુગ્વેયન પેસો",
+		"subunit_name": "સેન્ટેસિમો",
+		"subunit_name_plural": "સેન્ટેસિમો"
+	},
+	"UZS": {
+		"name": "ઉઝ્બેકિસ્તાની સોમ",
+		"name_plural": "ઉઝ્બેકિસ્તાની સોમ",
+		"subunit_name": "તિયિન",
+		"subunit_name_plural": "તિયિન"
+	},
+	"VES": {
+		"name": "વેનેઝુએલન બોલિવર",
+		"name_plural": "વેનેઝુએલન બોલિવર",
+		"subunit_name": "સેન્ટિમો",
+		"subunit_name_plural": "સેન્ટિમો"
+	},
+	"VND": {
+		"name": "વિયેતનામીઝ ડોંગ",
+		"name_plural": "વિયેતનામીઝ ડોંગ",
+		"subunit_name": "હાઓ",
+		"subunit_name_plural": "હાઓ"
+	},
+	"VUV": {
+		"name": "વાનુઆતુ વાતુ",
+		"name_plural": "વાનુઆતુ વાતુ",
+		"subunit_name": "સેન્ટિમ",
+		"subunit_name_plural": "સેન્ટિમ"
+	},
+	"WST": {
+		"name": "સમોયન તાલા",
+		"name_plural": "સમોયન તાલા",
+		"subunit_name": "સેની",
+		"subunit_name_plural": "સેની"
+	},
+	"XAF": {
+		"name": "સેન્ટ્રલ આફ્રિકન સીએફએ ફ્રેંક",
+		"name_plural": "સેન્ટ્રલ આફ્રિકન સીએફએ ફ્રેંક",
+		"subunit_name": "સેન્ટિમ",
+		"subunit_name_plural": "સેન્ટિમ"
+	},
+	"XCD": {
+		"name": "ઇસ્ટ કેરેબિયન ડૉલર",
+		"name_plural": "ઇસ્ટ કેરેબિયન ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"XOF": {
+		"name": "વેસ્ટ આફ્રિકન સીએફએ ફ્રેંક",
+		"name_plural": "વેસ્ટ આફ્રિકન સીએફએ ફ્રેંક",
+		"subunit_name": "સેન્ટિમ",
+		"subunit_name_plural": "સેન્ટિમ"
+	},
+	"XPF": {
+		"name": "સીએફપી ફ્રેંક",
+		"name_plural": "સીએફપી ફ્રેંક",
+		"subunit_name": "સેન્ટિમ",
+		"subunit_name_plural": "સેન્ટિમ"
+	},
+	"YER": {
+		"name": "યેમેની રિયાલ",
+		"name_plural": "યેમેની રિયાલ",
+		"subunit_name": "ફિલ્સ",
+		"subunit_name_plural": "ફિલ્સ"
+	},
+	"ZAR": {
+		"name": "સાઉથ આફ્રિકન રાન્ડ",
+		"name_plural": "સાઉથ આફ્રિકન રાન્ડ",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	},
+	"ZMW": {
+		"name": "ઝામ્બિયન ક્વાચા",
+		"name_plural": "ઝામ્બિયન ક્વાચા",
+		"subunit_name": "નગ્વી",
+		"subunit_name_plural": "નગ્વી"
+	},
+	"ZWL": {
+		"name": "ઝિમ્બાબ્વેન ડૉલર",
+		"name_plural": "ઝિમ્બાબ્વેન ડૉલર",
+		"subunit_name": "સેન્ટ",
+		"subunit_name_plural": "સેન્ટ"
+	}
+}

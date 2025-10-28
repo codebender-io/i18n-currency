@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "درهم امارات",
+		"name_plural": "درهم‌های امارات",
+		"subunit_name": "فلس",
+		"subunit_name_plural": "فلس"
+	},
+	"AFN": {
+		"name": "افغانی افغانستان",
+		"name_plural": "افغانی‌های افغانستان",
+		"subunit_name": "پول",
+		"subunit_name_plural": "پول"
+	},
+	"ALL": {
+		"name": "لک آلبانی",
+		"name_plural": "لک‌های آلبانی",
+		"subunit_name": "قیندارکه",
+		"subunit_name_plural": "قیندارکه"
+	},
+	"AMD": {
+		"name": "درام ارمنستان",
+		"name_plural": "درام‌های ارمنستان",
+		"subunit_name": "لوما",
+		"subunit_name_plural": "لوما"
+	},
+	"ANG": {
+		"name": "گیلدر آنتیل هلند",
+		"name_plural": "گیلدرهای آنتیل هلند",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"AOA": {
+		"name": "کوانزای آنگولا",
+		"name_plural": "کوانزاهای آنگولا",
+		"subunit_name": "سنتیمو",
+		"subunit_name_plural": "سنتیمو"
+	},
+	"ARS": {
+		"name": "پزوی آرژانتین",
+		"name_plural": "پزوهای آرژانتین",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"AUD": {
+		"name": "دلار استرالیا",
+		"name_plural": "دلارهای استرالیا",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"AWG": {
+		"name": "فلورین آروبا",
+		"name_plural": "فلورین‌های آروبا",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"AZN": {
+		"name": "مانات آذربایجان",
+		"name_plural": "مانات‌های آذربایجان",
+		"subunit_name": "قپیک",
+		"subunit_name_plural": "قپیک"
+	},
+	"BAM": {
+		"name": "مارک قابل تبدیل بوسنی و هرزگوین",
+		"name_plural": "مارک‌های قابل تبدیل بوسنی و هرزگوین",
+		"subunit_name": "فنینگ",
+		"subunit_name_plural": "فنینگ"
+	},
+	"BBD": {
+		"name": "دلار باربادوس",
+		"name_plural": "دلارهای باربادوس",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"BDT": {
+		"name": "تاکای بنگلادش",
+		"name_plural": "تاکاهای بنگلادش",
+		"subunit_name": "پویشا",
+		"subunit_name_plural": "پویشا"
+	},
+	"BGN": {
+		"name": "لوی بلغارستان",
+		"name_plural": "لوهای بلغارستان",
+		"subunit_name": "ستوتینکا",
+		"subunit_name_plural": "ستوتینکی"
+	},
+	"BHD": {
+		"name": "دینار بحرین",
+		"name_plural": "دینارهای بحرین",
+		"subunit_name": "فلس",
+		"subunit_name_plural": "فلس"
+	},
+	"BIF": {
+		"name": "فرانک بوروندی",
+		"name_plural": "فرانک‌های بوروندی",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"BMD": {
+		"name": "دلار برمودا",
+		"name_plural": "دلارهای برمودا",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"BND": {
+		"name": "دلار برونئی",
+		"name_plural": "دلارهای برونئی",
+		"subunit_name": "سن",
+		"subunit_name_plural": "سن"
+	},
+	"BOB": {
+		"name": "بولیویانوی بولیوی",
+		"name_plural": "بولیویانوهای بولیوی",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"BRL": {
+		"name": "رئال برزیل",
+		"name_plural": "رئال‌های برزیل",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"BSD": {
+		"name": "دلار باهاما",
+		"name_plural": "دلارهای باهاما",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"BTN": {
+		"name": "نگولتروم بوتان",
+		"name_plural": "نگولتروم‌های بوتان",
+		"subunit_name": "چرتروم",
+		"subunit_name_plural": "چرتروم"
+	},
+	"BWP": {
+		"name": "پولای بوتسوانا",
+		"name_plural": "پولاهای بوتسوانا",
+		"subunit_name": "تبه",
+		"subunit_name_plural": "تبه"
+	},
+	"BYN": {
+		"name": "روبل بلاروس",
+		"name_plural": "روبل‌های بلاروس",
+		"subunit_name": "کوپک",
+		"subunit_name_plural": "کوپک"
+	},
+	"BZD": {
+		"name": "دلار بلیز",
+		"name_plural": "دلارهای بلیز",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"CAD": {
+		"name": "دلار کانادا",
+		"name_plural": "دلارهای کانادا",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"CDF": {
+		"name": "فرانک کنگو",
+		"name_plural": "فرانک‌های کنگو",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"CHF": {
+		"name": "فرانک سوئیس",
+		"name_plural": "فرانک‌های سوئیس",
+		"subunit_name": "راپن",
+		"subunit_name_plural": "راپن"
+	},
+	"CLP": {
+		"name": "پزوی شیلی",
+		"name_plural": "پزوهای شیلی",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"CNY": {
+		"name": "یوان چین",
+		"name_plural": "یوان‌های چین",
+		"subunit_name": "فن",
+		"subunit_name_plural": "فن"
+	},
+	"COP": {
+		"name": "پزوی کلمبیا",
+		"name_plural": "پزوهای کلمبیا",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"CRC": {
+		"name": "کولون کاستاریکا",
+		"name_plural": "کولون‌های کاستاریکا",
+		"subunit_name": "سنتیمو",
+		"subunit_name_plural": "سنتیمو"
+	},
+	"CUC": {
+		"name": "پزوی قابل تبدیل کوبا",
+		"name_plural": "پزوهای قابل تبدیل کوبا",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"CUP": {
+		"name": "پزوی کوبا",
+		"name_plural": "پزوهای کوبا",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"CVE": {
+		"name": "اسکودوی کیپ‌ورد",
+		"name_plural": "اسکودوهای کیپ‌ورد",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"CZK": {
+		"name": "کرونای چک",
+		"name_plural": "کروناهای چک",
+		"subunit_name": "هلر",
+		"subunit_name_plural": "هلر"
+	},
+	"DJF": {
+		"name": "فرانک جیبوتی",
+		"name_plural": "فرانک‌های جیبوتی",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"DKK": {
+		"name": "کرون دانمارک",
+		"name_plural": "کرون‌های دانمارک",
+		"subunit_name": "اره",
+		"subunit_name_plural": "اره"
+	},
+	"DOP": {
+		"name": "پزوی جمهوری دومینیکن",
+		"name_plural": "پزوهای جمهوری دومینیکن",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"DZD": {
+		"name": "دینار الجزایر",
+		"name_plural": "دینارهای الجزایر",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"EGP": {
+		"name": "پوند مصر",
+		"name_plural": "پوندهای مصر",
+		"subunit_name": "پیاستر",
+		"subunit_name_plural": "پیاستر"
+	},
+	"ERN": {
+		"name": "ناکفای اریتره",
+		"name_plural": "ناکفاهای اریتره",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"ETB": {
+		"name": "بیر اتیوپی",
+		"name_plural": "بیرهای اتیوپی",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"EUR": {
+		"name": "یورو",
+		"name_plural": "یوروها",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"FJD": {
+		"name": "دلار فیجی",
+		"name_plural": "دلارهای فیجی",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"FKP": {
+		"name": "پوند جزایر فالکلند",
+		"name_plural": "پوندهای جزایر فالکلند",
+		"subunit_name": "پنی",
+		"subunit_name_plural": "پنی"
+	},
+	"GBP": {
+		"name": "پوند بریتانیا",
+		"name_plural": "پوندهای بریتانیا",
+		"subunit_name": "پنی",
+		"subunit_name_plural": "پنی"
+	},
+	"GEL": {
+		"name": "لاری گرجستان",
+		"name_plural": "لاری‌های گرجستان",
+		"subunit_name": "تتری",
+		"subunit_name_plural": "تتری"
+	},
+	"GHS": {
+		"name": "سدی غنا",
+		"name_plural": "سدی‌های غنا",
+		"subunit_name": "پسوا",
+		"subunit_name_plural": "پسوا"
+	},
+	"GIP": {
+		"name": "پوند جبل‌الطارق",
+		"name_plural": "پوندهای جبل‌الطارق",
+		"subunit_name": "پنی",
+		"subunit_name_plural": "پنی"
+	},
+	"GMD": {
+		"name": "دالاسی گامبیا",
+		"name_plural": "دالاسی‌های گامبیا",
+		"subunit_name": "بوتوت",
+		"subunit_name_plural": "بوتوت"
+	},
+	"GNF": {
+		"name": "فرانک گینه",
+		"name_plural": "فرانک‌های گینه",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"GTQ": {
+		"name": "کتزال گواتمالا",
+		"name_plural": "کتزال‌های گواتمالا",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"GYD": {
+		"name": "دلار گویان",
+		"name_plural": "دلارهای گویان",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"HKD": {
+		"name": "دلار هنگ‌کنگ",
+		"name_plural": "دلارهای هنگ‌کنگ",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"HNL": {
+		"name": "لمپیرای هندوراس",
+		"name_plural": "لمپیراهای هندوراس",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"HRK": {
+		"name": "کونای کرواسی",
+		"name_plural": "کوناهای کرواسی",
+		"subunit_name": "لیپا",
+		"subunit_name_plural": "لیپا"
+	},
+	"HTG": {
+		"name": "گورد هائیتی",
+		"name_plural": "گوردهای هائیتی",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"HUF": {
+		"name": "فورینت مجارستان",
+		"name_plural": "فورینت‌های مجارستان",
+		"subunit_name": "فیلر",
+		"subunit_name_plural": "فیلر"
+	},
+	"IDR": {
+		"name": "روپیه اندونزی",
+		"name_plural": "روپیه‌های اندونزی",
+		"subunit_name": "سن",
+		"subunit_name_plural": "سن"
+	},
+	"ILS": {
+		"name": "شکل جدید اسرائیل",
+		"name_plural": "شکل‌های جدید اسرائیل",
+		"subunit_name": "آگورا",
+		"subunit_name_plural": "آگوروت"
+	},
+	"INR": {
+		"name": "روپیه هند",
+		"name_plural": "روپیه‌های هند",
+		"subunit_name": "پیسه",
+		"subunit_name_plural": "پیسه"
+	},
+	"IQD": {
+		"name": "دینار عراق",
+		"name_plural": "دینارهای عراق",
+		"subunit_name": "فلس",
+		"subunit_name_plural": "فلس"
+	},
+	"IRR": {
+		"name": "ریال ایران",
+		"name_plural": "ریال‌های ایران",
+		"subunit_name": "دینار",
+		"subunit_name_plural": "دینار"
+	},
+	"ISK": {
+		"name": "کرونای ایسلند",
+		"name_plural": "کروناهای ایسلند",
+		"subunit_name": "ایریر",
+		"subunit_name_plural": "اورار"
+	},
+	"JMD": {
+		"name": "دلار جامائیکا",
+		"name_plural": "دلارهای جامائیکا",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"JOD": {
+		"name": "دینار اردن",
+		"name_plural": "دینارهای اردن",
+		"subunit_name": "فلس",
+		"subunit_name_plural": "فلس"
+	},
+	"JPY": {
+		"name": "ین ژاپن",
+		"name_plural": "ین‌های ژاپن",
+		"subunit_name": "سن",
+		"subunit_name_plural": "سن"
+	},
+	"KES": {
+		"name": "شیلینگ کنیا",
+		"name_plural": "شیلینگ‌های کنیا",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"KGS": {
+		"name": "سوم قرقیزستان",
+		"name_plural": "سوم‌های قرقیزستان",
+		"subunit_name": "تیین",
+		"subunit_name_plural": "تیین"
+	},
+	"KHR": {
+		"name": "ریل کامبوج",
+		"name_plural": "ریل‌های کامبوج",
+		"subunit_name": "سن",
+		"subunit_name_plural": "سن"
+	},
+	"KMF": {
+		"name": "فرانک کومور",
+		"name_plural": "فرانک‌های کومور",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"KPW": {
+		"name": "وون کره شمالی",
+		"name_plural": "وون‌های کره شمالی",
+		"subunit_name": "چون",
+		"subunit_name_plural": "چون"
+	},
+	"KRW": {
+		"name": "وون کره جنوبی",
+		"name_plural": "وون‌های کره جنوبی",
+		"subunit_name": "چون",
+		"subunit_name_plural": "چون"
+	},
+	"KWD": {
+		"name": "دینار کویت",
+		"name_plural": "دینارهای کویت",
+		"subunit_name": "فلس",
+		"subunit_name_plural": "فلس"
+	},
+	"KYD": {
+		"name": "دلار جزایر کیمن",
+		"name_plural": "دلارهای جزایر کیمن",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"KZT": {
+		"name": "تنگه قزاقستان",
+		"name_plural": "تنگه‌های قزاقستان",
+		"subunit_name": "تیین",
+		"subunit_name_plural": "تیین"
+	},
+	"LAK": {
+		"name": "کیپ لائوس",
+		"name_plural": "کیپ‌های لائوس",
+		"subunit_name": "آت",
+		"subunit_name_plural": "آت"
+	},
+	"LBP": {
+		"name": "پوند لبنان",
+		"name_plural": "پوندهای لبنان",
+		"subunit_name": "پیاستر",
+		"subunit_name_plural": "پیاستر"
+	},
+	"LKR": {
+		"name": "روپیه سری‌لانکا",
+		"name_plural": "روپیه‌های سری‌لانکا",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"LRD": {
+		"name": "دلار لیبریا",
+		"name_plural": "دلارهای لیبریا",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"LSL": {
+		"name": "لوتی لسوتو",
+		"name_plural": "لوتی‌های لسوتو",
+		"subunit_name": "سنته",
+		"subunit_name_plural": "لیسنته"
+	},
+	"LYD": {
+		"name": "دینار لیبی",
+		"name_plural": "دینارهای لیبی",
+		"subunit_name": "درهم",
+		"subunit_name_plural": "درهم"
+	},
+	"MAD": {
+		"name": "درهم مراکش",
+		"name_plural": "درهم‌های مراکش",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"MDL": {
+		"name": "لوی مولداوی",
+		"name_plural": "لوی‌های مولداوی",
+		"subunit_name": "بان",
+		"subunit_name_plural": "بانی"
+	},
+	"MGA": {
+		"name": "آریاری ماداگاسکار",
+		"name_plural": "آریاری‌های ماداگاسکار",
+		"subunit_name": "ایرایمبیلانجا",
+		"subunit_name_plural": "ایرایمبیلانجا"
+	},
+	"MKD": {
+		"name": "دینار مقدونیه",
+		"name_plural": "دینارهای مقدونیه",
+		"subunit_name": "دنی",
+		"subunit_name_plural": "دنی"
+	},
+	"MMK": {
+		"name": "کیات میانمار",
+		"name_plural": "کیات‌های میانمار",
+		"subunit_name": "پیا",
+		"subunit_name_plural": "پیا"
+	},
+	"MNT": {
+		"name": "توگریک مغولستان",
+		"name_plural": "توگریک‌های مغولستان",
+		"subunit_name": "مونگو",
+		"subunit_name_plural": "مونگو"
+	},
+	"MOP": {
+		"name": "پاتاکای ماکائو",
+		"name_plural": "پاتاکاهای ماکائو",
+		"subunit_name": "آوو",
+		"subunit_name_plural": "آوو"
+	},
+	"MRU": {
+		"name": "اوگوئیای موریتانی",
+		"name_plural": "اوگوئیاهای موریتانی",
+		"subunit_name": "خومس",
+		"subunit_name_plural": "خومس"
+	},
+	"MUR": {
+		"name": "روپیه موریس",
+		"name_plural": "روپیه‌های موریس",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"MVR": {
+		"name": "روفیای مالدیو",
+		"name_plural": "روفیاهای مالدیو",
+		"subunit_name": "لاری",
+		"subunit_name_plural": "لاری"
+	},
+	"MWK": {
+		"name": "کواچای مالاوی",
+		"name_plural": "کواچاهای مالاوی",
+		"subunit_name": "تامبالا",
+		"subunit_name_plural": "تامبالا"
+	},
+	"MXN": {
+		"name": "پزوی مکزیک",
+		"name_plural": "پزوهای مکزیک",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"MYR": {
+		"name": "رینگیت مالزی",
+		"name_plural": "رینگیت‌های مالزی",
+		"subunit_name": "سن",
+		"subunit_name_plural": "سن"
+	},
+	"MZN": {
+		"name": "متیکال موزامبیک",
+		"name_plural": "متیکال‌های موزامبیک",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"NAD": {
+		"name": "دلار نامیبیا",
+		"name_plural": "دلارهای نامیبیا",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"NGN": {
+		"name": "نایرای نیجریه",
+		"name_plural": "نایراهای نیجریه",
+		"subunit_name": "کوبو",
+		"subunit_name_plural": "کوبو"
+	},
+	"NIO": {
+		"name": "کوردوبای نیکاراگوئه",
+		"name_plural": "کوردوباهای نیکاراگوئه",
+		"subunit_name": "سنتاوو",
+		"subunit_name_plural": "سنتاوو"
+	},
+	"NOK": {
+		"name": "کرون نروژ",
+		"name_plural": "کرون‌های نروژ",
+		"subunit_name": "اره",
+		"subunit_name_plural": "اره"
+	},
+	"NPR": {
+		"name": "روپیه نپال",
+		"name_plural": "روپیه‌های نپال",
+		"subunit_name": "پیسه",
+		"subunit_name_plural": "پیسه"
+	},
+	"NZD": {
+		"name": "دلار نیوزیلند",
+		"name_plural": "دلارهای نیوزیلند",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"OMR": {
+		"name": "ریال عمان",
+		"name_plural": "ریال‌های عمان",
+		"subunit_name": "بیسه",
+		"subunit_name_plural": "بیسه"
+	},
+	"PAB": {
+		"name": "بالبوای پاناما",
+		"name_plural": "بالبواهای پاناما",
+		"subunit_name": "سنتسیمو",
+		"subunit_name_plural": "سنتسیمو"
+	},
+	"PEN": {
+		"name": "سول پرو",
+		"name_plural": "سول‌های پرو",
+		"subunit_name": "سنتیمو",
+		"subunit_name_plural": "سنتیمو"
+	},
+	"PGK": {
+		"name": "کینای پاپوآ گینه نو",
+		"name_plural": "کیناهای پاپوآ گینه نو",
+		"subunit_name": "توئا",
+		"subunit_name_plural": "توئا"
+	},
+	"PHP": {
+		"name": "پزوی فیلیپین",
+		"name_plural": "پزوهای فیلیپین",
+		"subunit_name": "سنتیمو",
+		"subunit_name_plural": "سنتیمو"
+	},
+	"PKR": {
+		"name": "روپیه پاکستان",
+		"name_plural": "روپیه‌های پاکستان",
+		"subunit_name": "پیسه",
+		"subunit_name_plural": "پیسه"
+	},
+	"PLN": {
+		"name": "زلوتی لهستان",
+		"name_plural": "زلوتی‌های لهستان",
+		"subunit_name": "گروش",
+		"subunit_name_plural": "گروش"
+	},
+	"PYG": {
+		"name": "گوارانی پاراگوئه",
+		"name_plural": "گوارانی‌های پاراگوئه",
+		"subunit_name": "سنتیمو",
+		"subunit_name_plural": "سنتیمو"
+	},
+	"QAR": {
+		"name": "ریال قطر",
+		"name_plural": "ریال‌های قطر",
+		"subunit_name": "درهم",
+		"subunit_name_plural": "درهم"
+	},
+	"RON": {
+		"name": "لوی رومانی",
+		"name_plural": "لوی‌های رومانی",
+		"subunit_name": "بان",
+		"subunit_name_plural": "بانی"
+	},
+	"RSD": {
+		"name": "دینار صربستان",
+		"name_plural": "دینارهای صربستان",
+		"subunit_name": "پارا",
+		"subunit_name_plural": "پارا"
+	},
+	"RUB": {
+		"name": "روبل روسیه",
+		"name_plural": "روبل‌های روسیه",
+		"subunit_name": "کوپک",
+		"subunit_name_plural": "کوپک"
+	},
+	"RWF": {
+		"name": "فرانک رواندا",
+		"name_plural": "فرانک‌های رواندا",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"SAR": {
+		"name": "ریال عربستان سعودی",
+		"name_plural": "ریال‌های عربستان سعودی",
+		"subunit_name": "هلله",
+		"subunit_name_plural": "هلله"
+	},
+	"SBD": {
+		"name": "دلار جزایر سلیمان",
+		"name_plural": "دلارهای جزایر سلیمان",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"SCR": {
+		"name": "روپیه سیشل",
+		"name_plural": "روپیه‌های سیشل",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"SDG": {
+		"name": "پوند سودان",
+		"name_plural": "پوندهای سودان",
+		"subunit_name": "پیاستر",
+		"subunit_name_plural": "پیاستر"
+	},
+	"SEK": {
+		"name": "کرون سوئد",
+		"name_plural": "کرون‌های سوئد",
+		"subunit_name": "اره",
+		"subunit_name_plural": "اره"
+	},
+	"SGD": {
+		"name": "دلار سنگاپور",
+		"name_plural": "دلارهای سنگاپور",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"SHP": {
+		"name": "پوند سنت هلنا",
+		"name_plural": "پوندهای سنت هلنا",
+		"subunit_name": "پنی",
+		"subunit_name_plural": "پنی"
+	},
+	"SLL": {
+		"name": "لئون سیرالئون",
+		"name_plural": "لئون‌های سیرالئون",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"SOS": {
+		"name": "شیلینگ سومالی",
+		"name_plural": "شیلینگ‌های سومالی",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"SRD": {
+		"name": "دلار سورینام",
+		"name_plural": "دلارهای سورینام",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"SSP": {
+		"name": "پوند سودان جنوبی",
+		"name_plural": "پوندهای سودان جنوبی",
+		"subunit_name": "پیاستر",
+		"subunit_name_plural": "پیاستر"
+	},
+	"STN": {
+		"name": "دوبرای سائوتومه و پرنسیپ",
+		"name_plural": "دوبراهای سائوتومه و پرنسیپ",
+		"subunit_name": "سنتیمو",
+		"subunit_name_plural": "سنتیمو"
+	},
+	"SYP": {
+		"name": "پوند سوریه",
+		"name_plural": "پوندهای سوریه",
+		"subunit_name": "پیاستر",
+		"subunit_name_plural": "پیاستر"
+	},
+	"SZL": {
+		"name": "لیلانگنی اسواتینی",
+		"name_plural": "لیلانگنی‌های اسواتینی",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"THB": {
+		"name": "بات تایلند",
+		"name_plural": "بات‌های تایلند",
+		"subunit_name": "ساتانگ",
+		"subunit_name_plural": "ساتانگ"
+	},
+	"TJS": {
+		"name": "سامانی تاجیکستان",
+		"name_plural": "سامانی‌های تاجیکستان",
+		"subunit_name": "دیram",
+		"subunit_name_plural": "دیram"
+	},
+	"TMT": {
+		"name": "مانات ترکمنستان",
+		"name_plural": "مانات‌های ترکمنستان",
+		"subunit_name": "تنگه",
+		"subunit_name_plural": "تنگه"
+	},
+	"TND": {
+		"name": "دینار تونس",
+		"name_plural": "دینارهای تونس",
+		"subunit_name": "میلیم",
+		"subunit_name_plural": "میلیم"
+	},
+	"TOP": {
+		"name": "پاآنگای تونگا",
+		"name_plural": "پاآنگاهای تونگا",
+		"subunit_name": "سنییتی",
+		"subunit_name_plural": "سنییتی"
+	},
+	"TRY": {
+		"name": "لیر ترکیه",
+		"name_plural": "لیرهای ترکیه",
+		"subunit_name": "کوروش",
+		"subunit_name_plural": "کوروش"
+	},
+	"TTD": {
+		"name": "دلار ترینیداد و توباگو",
+		"name_plural": "دلارهای ترینیداد و توباگو",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"TWD": {
+		"name": "دلار جدید تایوان",
+		"name_plural": "دلارهای جدید تایوان",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"TZS": {
+		"name": "شیلینگ تانزانیا",
+		"name_plural": "شیلینگ‌های تانزانیا",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"UAH": {
+		"name": "هریونیای اوکراین",
+		"name_plural": "هریونیاهای اوکراین",
+		"subunit_name": "کوپک",
+		"subunit_name_plural": "کوپک"
+	},
+	"UGX": {
+		"name": "شیلینگ اوگاندا",
+		"name_plural": "شیلینگ‌های اوگاندا",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"USD": {
+		"name": "دلار آمریکا",
+		"name_plural": "دلارهای آمریکا",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"UYU": {
+		"name": "پزوی اروگوئه",
+		"name_plural": "پزوهای اروگوئه",
+		"subunit_name": "سنتسیمو",
+		"subunit_name_plural": "سنتسیمو"
+	},
+	"UZS": {
+		"name": "سوم ازبکستان",
+		"name_plural": "سوم‌های ازبکستان",
+		"subunit_name": "تیین",
+		"subunit_name_plural": "تیین"
+	},
+	"VES": {
+		"name": "بولیوار ونزوئلا",
+		"name_plural": "بولیوارهای ونزوئلا",
+		"subunit_name": "سنتیمو",
+		"subunit_name_plural": "سنتیمو"
+	},
+	"VND": {
+		"name": "دانگ ویتنام",
+		"name_plural": "دانگ‌های ویتنام",
+		"subunit_name": "هاو",
+		"subunit_name_plural": "هاو"
+	},
+	"VUV": {
+		"name": "واتوی وانواتو",
+		"name_plural": "واتوهای وانواتو",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"WST": {
+		"name": "تالای ساموآ",
+		"name_plural": "تالاهای ساموآ",
+		"subunit_name": "سنه",
+		"subunit_name_plural": "سنه"
+	},
+	"XAF": {
+		"name": "فرانک CFA آفریقای مرکزی",
+		"name_plural": "فرانک‌های CFA آفریقای مرکزی",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"XCD": {
+		"name": "دلار شرق کارائیب",
+		"name_plural": "دلارهای شرق کارائیب",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"XOF": {
+		"name": "فرانک CFA آفریقای غربی",
+		"name_plural": "فرانک‌های CFA آفریقای غربی",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"XPF": {
+		"name": "فرانک CFP",
+		"name_plural": "فرانک‌های CFP",
+		"subunit_name": "سانتیم",
+		"subunit_name_plural": "سانتیم"
+	},
+	"YER": {
+		"name": "ریال یمن",
+		"name_plural": "ریال‌های یمن",
+		"subunit_name": "فلس",
+		"subunit_name_plural": "فلس"
+	},
+	"ZAR": {
+		"name": "رند آفریقای جنوبی",
+		"name_plural": "رندهای آفریقای جنوبی",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	},
+	"ZMW": {
+		"name": "کواچای زامبیا",
+		"name_plural": "کواچاهای زامبیا",
+		"subunit_name": "نگوهی",
+		"subunit_name_plural": "نگوهی"
+	},
+	"ZWL": {
+		"name": "دلار زیمبابوه",
+		"name_plural": "دلارهای زیمبابوه",
+		"subunit_name": "سنت",
+		"subunit_name_plural": "سنت"
+	}
+}

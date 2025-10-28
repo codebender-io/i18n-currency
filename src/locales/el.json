@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "Ντιράμ Ηνωμένων Αραβικών Εμιράτων",
+		"name_plural": "Ντιράμ Ηνωμένων Αραβικών Εμιράτων",
+		"subunit_name": "φιλς",
+		"subunit_name_plural": "φιλς"
+	},
+	"AFN": {
+		"name": "Αφγανικό Αφγκάνι",
+		"name_plural": "Αφγανικά Αφγκάνι",
+		"subunit_name": "πουλ",
+		"subunit_name_plural": "πουλ"
+	},
+	"ALL": {
+		"name": "Αλβανικό Λεκ",
+		"name_plural": "Αλβανικά Λεκ",
+		"subunit_name": "κιντάρκα",
+		"subunit_name_plural": "κιντάρκες"
+	},
+	"AMD": {
+		"name": "Αρμενικό Ντραμ",
+		"name_plural": "Αρμενικά Ντραμ",
+		"subunit_name": "λούμα",
+		"subunit_name_plural": "λούμα"
+	},
+	"ANG": {
+		"name": "Γκίλντερ Ολλανδικών Αντιλλών",
+		"name_plural": "Γκίλντερ Ολλανδικών Αντιλλών",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"AOA": {
+		"name": "Αγκολέζικη Κουάνζα",
+		"name_plural": "Αγκολέζικες Κουάνζες",
+		"subunit_name": "σεντίμο",
+		"subunit_name_plural": "σεντίμο"
+	},
+	"ARS": {
+		"name": "Αργεντινό Πέσο",
+		"name_plural": "Αργεντινά Πέσο",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"AUD": {
+		"name": "Αυστραλιανό Δολάριο",
+		"name_plural": "Αυστραλιανά Δολάρια",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"AWG": {
+		"name": "Φλορίνι Αρούμπας",
+		"name_plural": "Φλορίνια Αρούμπας",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"AZN": {
+		"name": "Αζερμπαϊτζανικό Μανάτ",
+		"name_plural": "Αζερμπαϊτζανικά Μανάτ",
+		"subunit_name": "κεπίκ",
+		"subunit_name_plural": "κεπίκ"
+	},
+	"BAM": {
+		"name": "Μετατρέψιμο Μάρκο Βοσνίας-Ερζεγοβίνης",
+		"name_plural": "Μετατρέψιμα Μάρκα Βοσνίας-Ερζεγοβίνης",
+		"subunit_name": "φένινγκ",
+		"subunit_name_plural": "φένινγκ"
+	},
+	"BBD": {
+		"name": "Δολάριο Μπαρμπάντος",
+		"name_plural": "Δολάρια Μπαρμπάντος",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"BDT": {
+		"name": "Τάκα Μπαγκλαντές",
+		"name_plural": "Τάκες Μπαγκλαντές",
+		"subunit_name": "πόισα",
+		"subunit_name_plural": "πόισα"
+	},
+	"BGN": {
+		"name": "Βουλγαρικό Λεβ",
+		"name_plural": "Βουλγαρικά Λεβ",
+		"subunit_name": "στοτίνκα",
+		"subunit_name_plural": "στοτίνκι"
+	},
+	"BHD": {
+		"name": "Δηνάριο Μπαχρέιν",
+		"name_plural": "Δηνάρια Μπαχρέιν",
+		"subunit_name": "φιλς",
+		"subunit_name_plural": "φιλς"
+	},
+	"BIF": {
+		"name": "Φράγκο Μπουρούντι",
+		"name_plural": "Φράγκα Μπουρούντι",
+		"subunit_name": "σαντίμ",
+		"subunit_name_plural": "σαντίμ"
+	},
+	"BMD": {
+		"name": "Δολάριο Βερμούδων",
+		"name_plural": "Δολάρια Βερμούδων",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"BND": {
+		"name": "Δολάριο Μπρουνέι",
+		"name_plural": "Δολάρια Μπρουνέι",
+		"subunit_name": "σεν",
+		"subunit_name_plural": "σεν"
+	},
+	"BOB": {
+		"name": "Μπολιβιάνο Βολιβίας",
+		"name_plural": "Μπολιβιάνο Βολιβίας",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"BRL": {
+		"name": "Ρεάλ Βραζιλίας",
+		"name_plural": "Ρεάλ Βραζιλίας",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"BSD": {
+		"name": "Δολάριο Μπαχάμων",
+		"name_plural": "Δολάρια Μπαχάμων",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"BTN": {
+		"name": "Νγκούλτρουμ Μπουτάν",
+		"name_plural": "Νγκούλτρουμ Μπουτάν",
+		"subunit_name": "τσέτρουμ",
+		"subunit_name_plural": "τσέτρουμ"
+	},
+	"BWP": {
+		"name": "Πούλα Μποτσουάνας",
+		"name_plural": "Πούλα Μποτσουάνας",
+		"subunit_name": "θέμπε",
+		"subunit_name_plural": "θέμπε"
+	},
+	"BYN": {
+		"name": "Ρούβλι Λευκορωσίας",
+		"name_plural": "Ρούβλια Λευκορωσίας",
+		"subunit_name": "καπίκια",
+		"subunit_name_plural": "καπίκια"
+	},
+	"BZD": {
+		"name": "Δολάριο Μπελίζ",
+		"name_plural": "Δολάρια Μπελίζ",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"CAD": {
+		"name": "Καναδικό Δολάριο",
+		"name_plural": "Καναδικά Δολάρια",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"CDF": {
+		"name": "Φράγκο Κονγκό",
+		"name_plural": "Φράγκα Κονγκό",
+		"subunit_name": "σαντίμ",
+		"subunit_name_plural": "σαντίμ"
+	},
+	"CHF": {
+		"name": "Ελβετικό Φράγκο",
+		"name_plural": "Ελβετικά Φράγκα",
+		"subunit_name": "ραπέν",
+		"subunit_name_plural": "ραπέν"
+	},
+	"CLP": {
+		"name": "Πέσο Χιλής",
+		"name_plural": "Πέσο Χιλής",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"CNY": {
+		"name": "Γιουάν Κίνας",
+		"name_plural": "Γιουάν Κίνας",
+		"subunit_name": "φεν",
+		"subunit_name_plural": "φεν"
+	},
+	"COP": {
+		"name": "Πέσο Κολομβίας",
+		"name_plural": "Πέσο Κολομβίας",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"CRC": {
+		"name": "Κολόν Κόστα Ρίκα",
+		"name_plural": "Κολόν Κόστα Ρίκα",
+		"subunit_name": "σεντίμο",
+		"subunit_name_plural": "σεντίμο"
+	},
+	"CUC": {
+		"name": "Μετατρέψιμο Πέσο Κούβας",
+		"name_plural": "Μετατρέψιμα Πέσο Κούβας",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"CUP": {
+		"name": "Πέσο Κούβας",
+		"name_plural": "Πέσο Κούβας",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"CVE": {
+		"name": "Εσκούδο Πράσινου Ακρωτηρίου",
+		"name_plural": "Εσκούδο Πράσινου Ακρωτηρίου",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"CZK": {
+		"name": "Κορόνα Τσεχίας",
+		"name_plural": "Κορόνες Τσεχίας",
+		"subunit_name": "αλερ",
+		"subunit_name_plural": "αλερ"
+	},
+	"DJF": {
+		"name": "Φράγκο Τζιμπουτί",
+		"name_plural": "Φράγκα Τζιμπουτί",
+		"subunit_name": "σαντίμ",
+		"subunit_name_plural": "σαντίμ"
+	},
+	"DKK": {
+		"name": "Κορόνα Δανίας",
+		"name_plural": "Κορόνες Δανίας",
+		"subunit_name": "έρε",
+		"subunit_name_plural": "έρε"
+	},
+	"DOP": {
+		"name": "Πέσο Δομινικανής Δημοκρατίας",
+		"name_plural": "Πέσο Δομινικανής Δημοκρατίας",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"DZD": {
+		"name": "Δηνάριο Αλγερίας",
+		"name_plural": "Δηνάρια Αλγερίας",
+		"subunit_name": "σαντίμ",
+		"subunit_name_plural": "σαντίμ"
+	},
+	"EGP": {
+		"name": "Λίρα Αιγύπτου",
+		"name_plural": "Λίρες Αιγύπτου",
+		"subunit_name": "πιαστρ",
+		"subunit_name_plural": "πιαστρ"
+	},
+	"ERN": {
+		"name": "Νάκφα Ερυθραίας",
+		"name_plural": "Νάκφα Ερυθραίας",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"ETB": {
+		"name": "Μπιρ Αιθιοπίας",
+		"name_plural": "Μπιρ Αιθιοπίας",
+		"subunit_name": "σαντίμ",
+		"subunit_name_plural": "σαντίμ"
+	},
+	"EUR": {
+		"name": "Ευρώ",
+		"name_plural": "Ευρώ",
+		"subunit_name": "λεπτό",
+		"subunit_name_plural": "λεπτά"
+	},
+	"FJD": {
+		"name": "Δολάριο Φίτζι",
+		"name_plural": "Δολάρια Φίτζι",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"FKP": {
+		"name": "Λίρα Νήσων Φώκλαντ",
+		"name_plural": "Λίρες Νήσων Φώκλαντ",
+		"subunit_name": "πέννυ",
+		"subunit_name_plural": "πέννυ"
+	},
+	"GBP": {
+		"name": "Βρετανική Λίρα",
+		"name_plural": "Βρετανικές Λίρες",
+		"subunit_name": "πέννυ",
+		"subunit_name_plural": "πέννυ"
+	},
+	"GEL": {
+		"name": "Λάρι Γεωργίας",
+		"name_plural": "Λάρι Γεωργίας",
+		"subunit_name": "τετρί",
+		"subunit_name_plural": "τετρί"
+	},
+	"GHS": {
+		"name": "Σέντι Γκάνας",
+		"name_plural": "Σέντι Γκάνας",
+		"subunit_name": "πεσέουα",
+		"subunit_name_plural": "πεσέουα"
+	},
+	"GIP": {
+		"name": "Λίρα Γιβραλτάρ",
+		"name_plural": "Λίρες Γιβραλτάρ",
+		"subunit_name": "πέννυ",
+		"subunit_name_plural": "πέννυ"
+	},
+	"GMD": {
+		"name": "Νταλάσι Γκάμπιας",
+		"name_plural": "Νταλάσι Γκάμπιας",
+		"subunit_name": "μπουτούτ",
+		"subunit_name_plural": "μπουτούτ"
+	},
+	"GNF": {
+		"name": "Φράγκο Γουινέας",
+		"name_plural": "Φράγκα Γουινέας",
+		"subunit_name": "σαντίμ",
+		"subunit_name_plural": "σαντίμ"
+	},
+	"GTQ": {
+		"name": "Κετσάλ Γουατεμάλας",
+		"name_plural": "Κετσάλ Γουατεμάλας",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"GYD": {
+		"name": "Δολάριο Γουιάνας",
+		"name_plural": "Δολάρια Γουιάνας",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"HKD": {
+		"name": "Δολάριο Χονγκ Κονγκ",
+		"name_plural": "Δολάρια Χονγκ Κονγκ",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"HNL": {
+		"name": "Λεμπίρα Ονδούρας",
+		"name_plural": "Λεμπίρα Ονδούρας",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"HRK": {
+		"name": "Κούνα Κροατίας",
+		"name_plural": "Κούνα Κροατίας",
+		"subunit_name": "λίπα",
+		"subunit_name_plural": "λίπα"
+	},
+	"HTG": {
+		"name": "Γκουρντ Αϊτής",
+		"name_plural": "Γκουρντ Αϊτής",
+		"subunit_name": "σαντίμ",
+		"subunit_name_plural": "σαντίμ"
+	},
+	"HUF": {
+		"name": "Φιορίνι Ουγγαρίας",
+		"name_plural": "Φιορίνια Ουγγαρίας",
+		"subunit_name": "φιλλέρ",
+		"subunit_name_plural": "φιλλέρ"
+	},
+	"IDR": {
+		"name": "Ρουπία Ινδονησίας",
+		"name_plural": "Ρουπίες Ινδονησίας",
+		"subunit_name": "σεν",
+		"subunit_name_plural": "σεν"
+	},
+	"ILS": {
+		"name": "Νέο Σέκελ Ισραήλ",
+		"name_plural": "Νέα Σέκελ Ισραήλ",
+		"subunit_name": "αγκόρα",
+		"subunit_name_plural": "αγκόρες"
+	},
+	"INR": {
+		"name": "Ρουπία Ινδίας",
+		"name_plural": "Ρουπίες Ινδίας",
+		"subunit_name": "παΐσα",
+		"subunit_name_plural": "παΐσα"
+	},
+	"IQD": {
+		"name": "Δηνάριο Ιράκ",
+		"name_plural": "Δηνάρια Ιράκ",
+		"subunit_name": "φιλς",
+		"subunit_name_plural": "φιλς"
+	},
+	"IRR": {
+		"name": "Ριάλ Ιράν",
+		"name_plural": "Ριάλ Ιράν",
+		"subunit_name": "ντινάρ",
+		"subunit_name_plural": "ντινάρ"
+	},
+	"ISK": {
+		"name": "Κρόνα Ισλανδίας",
+		"name_plural": "Κρόνες Ισλανδίας",
+		"subunit_name": "αϊράρ",
+		"subunit_name_plural": "αϊράρ"
+	},
+	"JMD": {
+		"name": "Δολάριο Τζαμάικας",
+		"name_plural": "Δολάρια Τζαμάικας",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"JOD": {
+		"name": "Δηνάριο Ιορδανίας",
+		"name_plural": "Δηνάρια Ιορδανίας",
+		"subunit_name": "φιλς",
+		"subunit_name_plural": "φιλς"
+	},
+	"JPY": {
+		"name": "Γιεν Ιαπωνίας",
+		"name_plural": "Γιεν Ιαπωνίας",
+		"subunit_name": "σεν",
+		"subunit_name_plural": "σεν"
+	},
+	"KES": {
+		"name": "Σελίνι Κένυας",
+		"name_plural": "Σελίνια Κένυας",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"KGS": {
+		"name": "Σομ Κιργιζίας",
+		"name_plural": "Σομ Κιργιζίας",
+		"subunit_name": "τιγίν",
+		"subunit_name_plural": "τιγίν"
+	},
+	"KHR": {
+		"name": "Ρίελ Καμπότζης",
+		"name_plural": "Ρίελ Καμπότζης",
+		"subunit_name": "σεν",
+		"subunit_name_plural": "σεν"
+	},
+	"KMF": {
+		"name": "Φράγκο Κομορών",
+		"name_plural": "Φράγκα Κομορών",
+		"subunit_name": "σαντίμ",
+		"subunit_name_plural": "σαντίμ"
+	},
+	"KPW": {
+		"name": "Γουόν Βόρειας Κορέας",
+		"name_plural": "Γουόν Βόρειας Κορέας",
+		"subunit_name": "τσον",
+		"subunit_name_plural": "τσον"
+	},
+	"KRW": {
+		"name": "Γουόν Νότιας Κορέας",
+		"name_plural": "Γουόν Νότιας Κορέας",
+		"subunit_name": "τσον",
+		"subunit_name_plural": "τσον"
+	},
+	"KWD": {
+		"name": "Δηνάριο Κουβέιτ",
+		"name_plural": "Δηνάρια Κουβέιτ",
+		"subunit_name": "φιλς",
+		"subunit_name_plural": "φιλς"
+	},
+	"KYD": {
+		"name": "Δολάριο Νήσων Κέιμαν",
+		"name_plural": "Δολάρια Νήσων Κέιμαν",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"KZT": {
+		"name": "Τένγκε Καζακστάν",
+		"name_plural": "Τένγκε Καζακστάν",
+		"subunit_name": "τιγίν",
+		"subunit_name_plural": "τιγίν"
+	},
+	"LAK": {
+		"name": "Κιπ Λάος",
+		"name_plural": "Κιπ Λάος",
+		"subunit_name": "ατ",
+		"subunit_name_plural": "ατ"
+	},
+	"LBP": {
+		"name": "Λίρα Λιβάνου",
+		"name_plural": "Λίρες Λιβάνου",
+		"subunit_name": "πιαστρ",
+		"subunit_name_plural": "πιαστρ"
+	},
+	"LKR": {
+		"name": "Ρουπία Σρι Λάνκα",
+		"name_plural": "Ρουπίες Σρι Λάνκα",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"LRD": {
+		"name": "Δολάριο Λιβερίας",
+		"name_plural": "Δολάρια Λιβερίας",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"LSL": {
+		"name": "Λότι Λεσότο",
+		"name_plural": "Λότι Λεσότο",
+		"subunit_name": "σέντε",
+		"subunit_name_plural": "λισέντε"
+	},
+	"LYD": {
+		"name": "Δηνάριο Λιβύης",
+		"name_plural": "Δηνάρια Λιβύης",
+		"subunit_name": "ντιράμ",
+		"subunit_name_plural": "ντιράμ"
+	},
+	"MAD": {
+		"name": "Ντιράμ Μαρόκου",
+		"name_plural": "Ντιράμ Μαρόκου",
+		"subunit_name": "σαντίμ",
+		"subunit_name_plural": "σαντίμ"
+	},
+	"MDL": {
+		"name": "Λέου Μολδαβίας",
+		"name_plural": "Λέου Μολδαβίας",
+		"subunit_name": "μπαν",
+		"subunit_name_plural": "μπαν"
+	},
+	"MGA": {
+		"name": "Αριάρι Μαδαγασκάρης",
+		"name_plural": "Αριάρι Μαδαγασκάρης",
+		"subunit_name": "ιραϊμπιλαντζά",
+		"subunit_name_plural": "ιραϊμπιλαντζά"
+	},
+	"MKD": {
+		"name": "Δηνάριο Βόρειας Μακεδονίας",
+		"name_plural": "Δηνάρια Βόρειας Μακεδονίας",
+		"subunit_name": "ντένι",
+		"subunit_name_plural": "ντένι"
+	},
+	"MMK": {
+		"name": "Κιάτ Μιανμάρ",
+		"name_plural": "Κιάτ Μιανμάρ",
+		"subunit_name": "πιά",
+		"subunit_name_plural": "πιά"
+	},
+	"MNT": {
+		"name": "Τουγκρίκ Μογγολίας",
+		"name_plural": "Τουγκρίκ Μογγολίας",
+		"subunit_name": "μογκό",
+		"subunit_name_plural": "μογκό"
+	},
+	"MOP": {
+		"name": "Πατάκα Μακάο",
+		"name_plural": "Πατάκα Μακάο",
+		"subunit_name": "αβο",
+		"subunit_name_plural": "αβο"
+	},
+	"MRU": {
+		"name": "Ουγκίγια Μαυριτανίας",
+		"name_plural": "Ουγκίγια Μαυριτανίας",
+		"subunit_name": "χουμς",
+		"subunit_name_plural": "χουμς"
+	},
+	"MUR": {
+		"name": "Ρουπία Μαυρικίου",
+		"name_plural": "Ρουπίες Μαυρικίου",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"MVR": {
+		"name": "Ρουφιγιά Μαλδίβων",
+		"name_plural": "Ρουφιγιά Μαλδίβων",
+		"subunit_name": "λαάρι",
+		"subunit_name_plural": "λαάρι"
+	},
+	"MWK": {
+		"name": "Κουάτσα Μαλάουι",
+		"name_plural": "Κουάτσα Μαλάουι",
+		"subunit_name": "ταμπάλα",
+		"subunit_name_plural": "ταμπάλα"
+	},
+	"MXN": {
+		"name": "Πέσο Μεξικού",
+		"name_plural": "Πέσο Μεξικού",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"MYR": {
+		"name": "Ρινγκίτ Μαλαισίας",
+		"name_plural": "Ρινγκίτ Μαλαισίας",
+		"subunit_name": "σεν",
+		"subunit_name_plural": "σεν"
+	},
+	"MZN": {
+		"name": "Μετικάλ Μοζαμβίκης",
+		"name_plural": "Μετικάλ Μοζαμβίκης",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"NAD": {
+		"name": "Δολάριο Ναμίμπιας",
+		"name_plural": "Δολάρια Ναμίμπιας",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"NGN": {
+		"name": "Νάιρα Νιγηρίας",
+		"name_plural": "Νάιρα Νιγηρίας",
+		"subunit_name": "κόμπο",
+		"subunit_name_plural": "κόμπο"
+	},
+	"NIO": {
+		"name": "Κόρδοβα Νικαράγουας",
+		"name_plural": "Κόρδοβα Νικαράγουας",
+		"subunit_name": "σεντάβο",
+		"subunit_name_plural": "σεντάβο"
+	},
+	"NOK": {
+		"name": "Κορόνα Νορβηγίας",
+		"name_plural": "Κορόνες Νορβηγίας",
+		"subunit_name": "έρε",
+		"subunit_name_plural": "έρε"
+	},
+	"NPR": {
+		"name": "Ρουπία Νεπάλ",
+		"name_plural": "Ρουπίες Νεπάλ",
+		"subunit_name": "παΐσα",
+		"subunit_name_plural": "παΐσα"
+	},
+	"NZD": {
+		"name": "Δολάριο Νέας Ζηλανδίας",
+		"name_plural": "Δολάρια Νέας Ζηλανδίας",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"OMR": {
+		"name": "Ριάλ Ομάν",
+		"name_plural": "Ριάλ Ομάν",
+		"subunit_name": "μπάιζα",
+		"subunit_name_plural": "μπάιζα"
+	},
+	"PAB": {
+		"name": "Μπαλμπόα Παναμά",
+		"name_plural": "Μπαλμπόα Παναμά",
+		"subunit_name": "σεντεσίμο",
+		"subunit_name_plural": "σεντεσίμο"
+	},
+	"PEN": {
+		"name": "Σολ Περού",
+		"name_plural": "Σολ Περού",
+		"subunit_name": "σεντίμο",
+		"subunit_name_plural": "σεντίμο"
+	},
+	"PGK": {
+		"name": "Κίνα Παπούας Νέας Γουινέας",
+		"name_plural": "Κίνα Παπούας Νέας Γουινέας",
+		"subunit_name": "τόεα",
+		"subunit_name_plural": "τόεα"
+	},
+	"PHP": {
+		"name": "Πέσο Φιλιππίνων",
+		"name_plural": "Πέσο Φιλιππίνων",
+		"subunit_name": "σεντίμο",
+		"subunit_name_plural": "σεντίμο"
+	},
+	"PKR": {
+		"name": "Ρουπία Πακιστάν",
+		"name_plural": "Ρουπίες Πακιστάν",
+		"subunit_name": "παΐσα",
+		"subunit_name_plural": "παΐσα"
+	},
+	"PLN": {
+		"name": "Ζλότι Πολωνίας",
+		"name_plural": "Ζλότι Πολωνίας",
+		"subunit_name": "γκρόσι",
+		"subunit_name_plural": "γκρόσι"
+	},
+	"PYG": {
+		"name": "Γκουαρανί Παραγουάης",
+		"name_plural": "Γκουαρανί Παραγουάης",
+		"subunit_name": "σεντίμο",
+		"subunit_name_plural": "σεντίμο"
+	},
+	"QAR": {
+		"name": "Ριάλ Κατάρ",
+		"name_plural": "Ριάλ Κατάρ",
+		"subunit_name": "ντιράμ",
+		"subunit_name_plural": "ντιράμ"
+	},
+	"RON": {
+		"name": "Λέου Ρουμανίας",
+		"name_plural": "Λέου Ρουμανίας",
+		"subunit_name": "μπαν",
+		"subunit_name_plural": "μπαν"
+	},
+	"RSD": {
+		"name": "Δηνάριο Σερβίας",
+		"name_plural": "Δηνάρια Σερβίας",
+		"subunit_name": "πάρες",
+		"subunit_name_plural": "πάρες"
+	},
+	"RUB": {
+		"name": "Ρούβλι Ρωσίας",
+		"name_plural": "Ρούβλια Ρωσίας",
+		"subunit_name": "καπίκια",
+		"subunit_name_plural": "καπίκια"
+	},
+	"RWF": {
+		"name": "Φράγκο Ρουάντας",
+		"name_plural": "Φράγκα Ρουάντας",
+		"subunit_name": "σαντίμ",
+		"subunit_name_plural": "σαντίμ"
+	},
+	"SAR": {
+		"name": "Ριάλ Σαουδικής Αραβίας",
+		"name_plural": "Ριάλ Σαουδικής Αραβίας",
+		"subunit_name": "χαλάλα",
+		"subunit_name_plural": "χαλάλα"
+	},
+	"SBD": {
+		"name": "Δολάριο Νήσων Σολομώντα",
+		"name_plural": "Δολάρια Νήσων Σολομώντα",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"SCR": {
+		"name": "Ρουπία Σεϋχελλών",
+		"name_plural": "Ρουπίες Σεϋχελλών",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"SDG": {
+		"name": "Λίρα Σουδάν",
+		"name_plural": "Λίρες Σουδάν",
+		"subunit_name": "πιαστρ",
+		"subunit_name_plural": "πιαστρ"
+	},
+	"SEK": {
+		"name": "Κορόνα Σουηδίας",
+		"name_plural": "Κορόνες Σουηδίας",
+		"subunit_name": "έρε",
+		"subunit_name_plural": "έρε"
+	},
+	"SGD": {
+		"name": "Δολάριο Σιγκαπούρης",
+		"name_plural": "Δολάρια Σιγκαπούρης",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"SHP": {
+		"name": "Λίρα Αγίας Ελένης",
+		"name_plural": "Λίρες Αγίας Ελένης",
+		"subunit_name": "πέννυ",
+		"subunit_name_plural": "πέννυ"
+	},
+	"SLL": {
+		"name": "Λεόνε Σιέρα Λεόνε",
+		"name_plural": "Λεόνε Σιέρα Λεόνε",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"SOS": {
+		"name": "Σελίνι Σομαλίας",
+		"name_plural": "Σελίνια Σομαλίας",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"SRD": {
+		"name": "Δολάριο Σουρινάμ",
+		"name_plural": "Δολάρια Σουρινάμ",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"SSP": {
+		"name": "Λίρα Νότιου Σουδάν",
+		"name_plural": "Λίρες Νότιου Σουδάν",
+		"subunit_name": "πιαστρ",
+		"subunit_name_plural": "πιαστρ"
+	},
+	"STN": {
+		"name": "Ντόμπρα Σάο Τομέ και Πρίνσιπε",
+		"name_plural": "Ντόμπρα Σάο Τομέ και Πρίνσιπε",
+		"subunit_name": "σεντίμο",
+		"subunit_name_plural": "σεντίμο"
+	},
+	"SYP": {
+		"name": "Λίρα Συρίας",
+		"name_plural": "Λίρες Συρίας",
+		"subunit_name": "πιαστρ",
+		"subunit_name_plural": "πιαστρ"
+	},
+	"SZL": {
+		"name": "Λιλανγκένι Εσουατίνης",
+		"name_plural": "Εμαλανγκένι Εσουατίνης",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"THB": {
+		"name": "Μπατ Ταϊλάνδης",
+		"name_plural": "Μπατ Ταϊλάνδης",
+		"subunit_name": "σατάνγκ",
+		"subunit_name_plural": "σατάνγκ"
+	},
+	"TJS": {
+		"name": "Σομόνι Τατζικιστάν",
+		"name_plural": "Σομόνι Τατζικιστάν",
+		"subunit_name": "ντιράμ",
+		"subunit_name_plural": "ντιράμ"
+	},
+	"TMT": {
+		"name": "Μανάτ Τουρκμενιστάν",
+		"name_plural": "Μανάτ Τουρκμενιστάν",
+		"subunit_name": "τένγκε",
+		"subunit_name_plural": "τένγκε"
+	},
+	"TND": {
+		"name": "Δηνάριο Τυνησίας",
+		"name_plural": "Δηνάρια Τυνησίας",
+		"subunit_name": "μιλίμ",
+		"subunit_name_plural": "μιλίμ"
+	},
+	"TOP": {
+		"name": "Παάγκα Τόνγκα",
+		"name_plural": "Παάγκα Τόνγκα",
+		"subunit_name": "σενίτι",
+		"subunit_name_plural": "σενίτι"
+	},
+	"TRY": {
+		"name": "Τουρκική Λίρα",
+		"name_plural": "Τουρκικές Λίρες",
+		"subunit_name": "κουρούς",
+		"subunit_name_plural": "κουρούς"
+	},
+	"TTD": {
+		"name": "Δολάριο Τρινιντάντ και Τομπάγκο",
+		"name_plural": "Δολάρια Τρινιντάντ και Τομπάγκο",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"TWD": {
+		"name": "Νέο Δολάριο Ταϊβάν",
+		"name_plural": "Νέα Δολάρια Ταϊβάν",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"TZS": {
+		"name": "Σελίνι Τανζανίας",
+		"name_plural": "Σελίνια Τανζανίας",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"UAH": {
+		"name": "Γκρίβνα Ουκρανίας",
+		"name_plural": "Γκρίβνες Ουκρανίας",
+		"subunit_name": "καπίκια",
+		"subunit_name_plural": "καπίκια"
+	},
+	"UGX": {
+		"name": "Σελίνι Ουγκάντας",
+		"name_plural": "Σελίνια Ουγκάντας",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"USD": {
+		"name": "Δολάριο ΗΠΑ",
+		"name_plural": "Δολάρια ΗΠΑ",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"UYU": {
+		"name": "Πέσο Ουρουγουάης",
+		"name_plural": "Πέσο Ουρουγουάης",
+		"subunit_name": "σεντεσίμο",
+		"subunit_name_plural": "σεντεσίμο"
+	},
+	"UZS": {
+		"name": "Σομ Ουζμπεκιστάν",
+		"name_plural": "Σομ Ουζμπεκιστάν",
+		"subunit_name": "τιγίν",
+		"subunit_name_plural": "τιγίν"
+	},
+	"VES": {
+		"name": "Μπολιβάρ Βενεζουέλας",
+		"name_plural": "Μπολιβάρ Βενεζουέλας",
+		"subunit_name": "σεντίμο",
+		"subunit_name_plural": "σεντίμο"
+	},
+	"VND": {
+		"name": "Ντονγκ Βιετνάμ",
+		"name_plural": "Ντονγκ Βιετνάμ",
+		"subunit_name": "χάο",
+		"subunit_name_plural": "χάο"
+	},
+	"VUV": {
+		"name": "Βατού Βανουάτου",
+		"name_plural": "Βατού Βανουάτου",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"WST": {
+		"name": "Τάλα Σαμόα",
+		"name_plural": "Τάλα Σαμόα",
+		"subunit_name": "σένε",
+		"subunit_name_plural": "σένε"
+	},
+	"XAF": {
+		"name": "Φράγκο CFA Κεντρικής Αφρικής",
+		"name_plural": "Φράγκα CFA Κεντρικής Αφρικής",
+		"subunit_name": "σαντίμ",
+		"subunit_name_plural": "σαντίμ"
+	},
+	"XCD": {
+		"name": "Δολάριο Ανατολικής Καραϊβικής",
+		"name_plural": "Δολάρια Ανατολικής Καραϊβικής",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"XOF": {
+		"name": "Φράγκο CFA Δυτικής Αφρικής",
+		"name_plural": "Φράγκα CFA Δυτικής Αφρικής",
+		"subunit_name": "σαντίμ",
+		"subunit_name_plural": "σαντίμ"
+	},
+	"XPF": {
+		"name": "Φράγκο CFP",
+		"name_plural": "Φράγκα CFP",
+		"subunit_name": "σαντίμ",
+		"subunit_name_plural": "σαντίμ"
+	},
+	"YER": {
+		"name": "Ριάλ Υεμένης",
+		"name_plural": "Ριάλ Υεμένης",
+		"subunit_name": "φιλς",
+		"subunit_name_plural": "φιλς"
+	},
+	"ZAR": {
+		"name": "Ραντ Νότιας Αφρικής",
+		"name_plural": "Ραντ Νότιας Αφρικής",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	},
+	"ZMW": {
+		"name": "Κουάτσα Ζάμπιας",
+		"name_plural": "Κουάτσα Ζάμπιας",
+		"subunit_name": "νγκγουί",
+		"subunit_name_plural": "νγκγουί"
+	},
+	"ZWL": {
+		"name": "Δολάριο Ζιμπάμπουε",
+		"name_plural": "Δολάρια Ζιμπάμπουε",
+		"subunit_name": "σεντ",
+		"subunit_name_plural": "σεντ"
+	}
+}

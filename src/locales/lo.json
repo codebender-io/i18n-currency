@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "ເດີແຮມ UAE",
+		"name_plural": "ເດີແຮມ UAE",
+		"subunit_name": "ຟິລ",
+		"subunit_name_plural": "ຟິລ"
+	},
+	"AFN": {
+		"name": "ອັຟການີອັຟການິ",
+		"name_plural": "ອັຟການີອັຟການິ",
+		"subunit_name": "ປຸລ",
+		"subunit_name_plural": "ປຸລ"
+	},
+	"ALL": {
+		"name": "ເລກອານບາເນຍ",
+		"name_plural": "ເລກອານບາເນຍ",
+		"subunit_name": "ຄິນດາກເກ",
+		"subunit_name_plural": "ຄິນດາກເກ"
+	},
+	"AMD": {
+		"name": "ແດຣມອາກເມນີ",
+		"name_plural": "ແດຣມອາກເມນີ",
+		"subunit_name": "ລຸມາ",
+		"subunit_name_plural": "ລຸມາ"
+	},
+	"ANG": {
+		"name": "ກິລເດີນເນເທີລັງອັນຕິລ",
+		"name_plural": "ກິລເດີນເນເທີລັງອັນຕິລ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"AOA": {
+		"name": "ຄວານຊາອັງໂກລາ",
+		"name_plural": "ຄວານຊາອັງໂກລາ",
+		"subunit_name": "ເຊນຕິໂມ",
+		"subunit_name_plural": "ເຊນຕິໂມ"
+	},
+	"ARS": {
+		"name": "ເປໂຊອາເຈນຕິນາ",
+		"name_plural": "ເປໂຊອາເຈນຕິນາ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"AUD": {
+		"name": "ໂດລາອົດສະຕາລີ",
+		"name_plural": "ໂດລາອົດສະຕາລີ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"AWG": {
+		"name": "ຟລໍຣິນອາຣູບາ",
+		"name_plural": "ຟລໍຣິນອາຣູບາ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"AZN": {
+		"name": "ມານາດອາເຊີໄບຈານ",
+		"name_plural": "ມານາດອາເຊີໄບຈານ",
+		"subunit_name": "ແຄປິກ",
+		"subunit_name_plural": "ແຄປິກ"
+	},
+	"BAM": {
+		"name": "ມາກປ່ຽນໄດ້ບອສເນຍ-ເຮີດເຊໂກວີນາ",
+		"name_plural": "ມາກປ່ຽນໄດ້ບອສເນຍ-ເຮີດເຊໂກວີນາ",
+		"subunit_name": "ເຟນນິງ",
+		"subunit_name_plural": "ເຟນນິງ"
+	},
+	"BBD": {
+		"name": "ໂດລາບາບາດຽນ",
+		"name_plural": "ໂດລາບາບາດຽນ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"BDT": {
+		"name": "ຕາກາບັງກະລາເທດ",
+		"name_plural": "ຕາກາບັງກະລາເທດ",
+		"subunit_name": "ໂປຍຊາ",
+		"subunit_name_plural": "ໂປຍຊາ"
+	},
+	"BGN": {
+		"name": "ເລບບູນກາລີ",
+		"name_plural": "ເລບບູນກາລີ",
+		"subunit_name": "ສໂຕຕິນກີ",
+		"subunit_name_plural": "ສໂຕຕິນກີ"
+	},
+	"BHD": {
+		"name": "ດີນາແບຣນ",
+		"name_plural": "ດີນາແບຣນ",
+		"subunit_name": "ຟິລ",
+		"subunit_name_plural": "ຟິລ"
+	},
+	"BIF": {
+		"name": "ຟຣັງບູຣຸນດີ",
+		"name_plural": "ຟຣັງບູຣຸນດີ",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"BMD": {
+		"name": "ໂດລາເບີມູດາ",
+		"name_plural": "ໂດລາເບີມູດາ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"BND": {
+		"name": "ໂດລາບຣູໄນ",
+		"name_plural": "ໂດລາບຣູໄນ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"BOB": {
+		"name": "ໂບລີວຽນໂບລີວຽໂນ",
+		"name_plural": "ໂບລີວຽນໂບລີວຽໂນ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"BRL": {
+		"name": "ຣຽລບຣາຊິລ",
+		"name_plural": "ຣຽລບຣາຊິລ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"BSD": {
+		"name": "ໂດລາບາຮາມາສ",
+		"name_plural": "ໂດລາບາຮາມາສ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"BTN": {
+		"name": "ງຸນຕຣຳພູຖານ",
+		"name_plural": "ງຸນຕຣຳພູຖານ",
+		"subunit_name": "ເຊດຣຳ",
+		"subunit_name_plural": "ເຊດຣຳ"
+	},
+	"BWP": {
+		"name": "ພູລາບອດສະວານາ",
+		"name_plural": "ພູລາບອດສະວານາ",
+		"subunit_name": "ເທເບ",
+		"subunit_name_plural": "ເທເບ"
+	},
+	"BYN": {
+		"name": "ຣູເບລເບລາຣຸສ",
+		"name_plural": "ຣູເບລເບລາຣຸສ",
+		"subunit_name": "ໂກເປກ",
+		"subunit_name_plural": "ໂກເປກ"
+	},
+	"BZD": {
+		"name": "ໂດລາເບລີຊ",
+		"name_plural": "ໂດລາເບລີຊ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"CAD": {
+		"name": "ໂດລາການາດາ",
+		"name_plural": "ໂດລາການາດາ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"CDF": {
+		"name": "ຟຣັງຄອງໂກ",
+		"name_plural": "ຟຣັງຄອງໂກ",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"CHF": {
+		"name": "ຟຣັງສະວິດ",
+		"name_plural": "ຟຣັງສະວິດ",
+		"subunit_name": "ຣາເພນ",
+		"subunit_name_plural": "ຣາເພນ"
+	},
+	"CLP": {
+		"name": "ເປໂຊຊິລີ",
+		"name_plural": "ເປໂຊຊິລີ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"CNY": {
+		"name": "ຢວນຈີນ",
+		"name_plural": "ຢວນຈີນ",
+		"subunit_name": "ເຟນ",
+		"subunit_name_plural": "ເຟນ"
+	},
+	"COP": {
+		"name": "ເປໂຊໂຄລົມເບຍ",
+		"name_plural": "ເປໂຊໂຄລົມເບຍ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"CRC": {
+		"name": "ໂກລອນຄອດຕາລິກາ",
+		"name_plural": "ໂກລອນຄອດຕາລິກາ",
+		"subunit_name": "ເຊນຕິໂມ",
+		"subunit_name_plural": "ເຊນຕິໂມ"
+	},
+	"CUC": {
+		"name": "ເປໂຊປ່ຽນໄດ້ຄິວບາ",
+		"name_plural": "ເປໂຊປ່ຽນໄດ້ຄິວບາ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"CUP": {
+		"name": "ເປໂຊຄິວບາ",
+		"name_plural": "ເປໂຊຄິວບາ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"CVE": {
+		"name": "ເອສກູໂດເກບເວີດ",
+		"name_plural": "ເອສກູໂດເກບເວີດ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"CZK": {
+		"name": "ໂກຣູນາເຊກ",
+		"name_plural": "ໂກຣູນາເຊກ",
+		"subunit_name": "ຮາເລກ",
+		"subunit_name_plural": "ຮາເລກ"
+	},
+	"DJF": {
+		"name": "ຟຣັງດີບູຕິ",
+		"name_plural": "ຟຣັງດີບູຕິ",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"DKK": {
+		"name": "ໂກຣນເດນມາກ",
+		"name_plural": "ໂກຣນເດນມາກ",
+		"subunit_name": "ໂອຣ",
+		"subunit_name_plural": "ໂອຣ"
+	},
+	"DOP": {
+		"name": "ເປໂຊໂດມິນິກັນ",
+		"name_plural": "ເປໂຊໂດມິນິກັນ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"DZD": {
+		"name": "ດີນາແອລຈີເລຍ",
+		"name_plural": "ດີນາແອລຈີເລຍ",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"EGP": {
+		"name": "ປອນອີຢິບ",
+		"name_plural": "ປອນອີຢິບ",
+		"subunit_name": "ເປຍສເຕີ",
+		"subunit_name_plural": "ເປຍສເຕີ"
+	},
+	"ERN": {
+		"name": "ນັກຟາເອຣີຕຣີ",
+		"name_plural": "ນັກຟາເອຣີຕຣີ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"ETB": {
+		"name": "ເບີຣເອທິໂອປີ",
+		"name_plural": "ເບີຣເອທິໂອປີ",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"EUR": {
+		"name": "ຢູໂຣ",
+		"name_plural": "ຢູໂຣ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"FJD": {
+		"name": "ໂດລາຟິຈິ",
+		"name_plural": "ໂດລາຟິຈິ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"FKP": {
+		"name": "ປອນໝູ່ເກາະຟອກແລນ",
+		"name_plural": "ປອນໝູ່ເກາະຟອກແລນ",
+		"subunit_name": "ເປນນີ",
+		"subunit_name_plural": "ເປນນີ"
+	},
+	"GBP": {
+		"name": "ປອນອັງກິດ",
+		"name_plural": "ປອນອັງກິດ",
+		"subunit_name": "ເປນນີ",
+		"subunit_name_plural": "ເປນນີ"
+	},
+	"GEL": {
+		"name": "ລາຣີຈໍເຈຍ",
+		"name_plural": "ລາຣີຈໍເຈຍ",
+		"subunit_name": "ເຕຕຣີ",
+		"subunit_name_plural": "ເຕຕຣີ"
+	},
+	"GHS": {
+		"name": "ເຊດີການາ",
+		"name_plural": "ເຊດີການາ",
+		"subunit_name": "ເປເຊວາ",
+		"subunit_name_plural": "ເປເຊວາ"
+	},
+	"GIP": {
+		"name": "ປອນຈິບຣານຕາ",
+		"name_plural": "ປອນຈິບຣານຕາ",
+		"subunit_name": "ເປນນີ",
+		"subunit_name_plural": "ເປນນີ"
+	},
+	"GMD": {
+		"name": "ດາລາຊີກາມບີ",
+		"name_plural": "ດາລາຊີກາມບີ",
+		"subunit_name": "ບຸຕຸດ",
+		"subunit_name_plural": "ບຸຕຸດ"
+	},
+	"GNF": {
+		"name": "ຟຣັງກິນີ",
+		"name_plural": "ຟຣັງກິນີ",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"GTQ": {
+		"name": "ເກຕຊານກົວເຕມາລາ",
+		"name_plural": "ເກຕຊານກົວເຕມາລາ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"GYD": {
+		"name": "ໂດລາກູຢານາ",
+		"name_plural": "ໂດລາກູຢານາ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"HKD": {
+		"name": "ໂດລາຮົງກົງ",
+		"name_plural": "ໂດລາຮົງກົງ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"HNL": {
+		"name": "ເລມພີຣາຮອນດູຣັດ",
+		"name_plural": "ເລມພີຣາຮອນດູຣັດ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"HRK": {
+		"name": "ຄູນາໂຄຣເອເຊຍ",
+		"name_plural": "ຄູນາໂຄຣເອເຊຍ",
+		"subunit_name": "ລີປາ",
+		"subunit_name_plural": "ລີປາ"
+	},
+	"HTG": {
+		"name": "ກູດເຮຕີ",
+		"name_plural": "ກູດເຮຕີ",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"HUF": {
+		"name": "ຟໍຣິນຮົງກາຣີ",
+		"name_plural": "ຟໍຣິນຮົງກາຣີ",
+		"subunit_name": "ຟິລເລກ",
+		"subunit_name_plural": "ຟິລເລກ"
+	},
+	"IDR": {
+		"name": "ຣູປີອິນໂດເນເຊຍ",
+		"name_plural": "ຣູປີອິນໂດເນເຊຍ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"ILS": {
+		"name": "ເຊເກວອິສຣາເອວ",
+		"name_plural": "ເຊເກວອິສຣາເອວ",
+		"subunit_name": "ອາໂກຣ",
+		"subunit_name_plural": "ອາໂກຣ"
+	},
+	"INR": {
+		"name": "ຣູປີອິນເດຍ",
+		"name_plural": "ຣູປີອິນເດຍ",
+		"subunit_name": "ເປຍຊາ",
+		"subunit_name_plural": "ເປຍຊາ"
+	},
+	"IQD": {
+		"name": "ດີນານອີຣັກ",
+		"name_plural": "ດີນານອີຣັກ",
+		"subunit_name": "ຟິລ",
+		"subunit_name_plural": "ຟິລ"
+	},
+	"IRR": {
+		"name": "ຣີອານອີຣານ",
+		"name_plural": "ຣີອານອີຣານ",
+		"subunit_name": "ດີນາ",
+		"subunit_name_plural": "ດີນາ"
+	},
+	"ISK": {
+		"name": "ໂກຣນາໄອສແລນ",
+		"name_plural": "ໂກຣນາໄອສແລນ",
+		"subunit_name": "ເອເຣີ",
+		"subunit_name_plural": "ເອເຣີ"
+	},
+	"JMD": {
+		"name": "ໂດລາຈາໄມກາ",
+		"name_plural": "ໂດລາຈາໄມກາ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"JOD": {
+		"name": "ດີນານຈໍແດນ",
+		"name_plural": "ດີນານຈໍແດນ",
+		"subunit_name": "ຟິລ",
+		"subunit_name_plural": "ຟິລ"
+	},
+	"JPY": {
+		"name": "ເຢນຍີ່ປຸ່ນ",
+		"name_plural": "ເຢນຍີ່ປຸ່ນ",
+		"subunit_name": "ເຊນ",
+		"subunit_name_plural": "ເຊນ"
+	},
+	"KES": {
+		"name": "ຊິລລິງເຄນຢາ",
+		"name_plural": "ຊິລລິງເຄນຢາ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"KGS": {
+		"name": "ໂຊມຄີຣກິສຖານ",
+		"name_plural": "ໂຊມຄີຣກິສຖານ",
+		"subunit_name": "ໄຕຢິນ",
+		"subunit_name_plural": "ໄຕຢິນ"
+	},
+	"KHR": {
+		"name": "ຣຽລກຳປູເຈຍ",
+		"name_plural": "ຣຽລກຳປູເຈຍ",
+		"subunit_name": "ເຊນ",
+		"subunit_name_plural": "ເຊນ"
+	},
+	"KMF": {
+		"name": "ຟຣັງໂຄໂມຣອດ",
+		"name_plural": "ຟຣັງໂຄໂມຣອດ",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"KPW": {
+		"name": "ວອນເກົາຫຼີເໜືອ",
+		"name_plural": "ວອນເກົາຫຼີເໜືອ",
+		"subunit_name": "ຊອນ",
+		"subunit_name_plural": "ຊອນ"
+	},
+	"KRW": {
+		"name": "ວອນເກົາຫຼີໃຕ້",
+		"name_plural": "ວອນເກົາຫຼີໃຕ້",
+		"subunit_name": "ຊອນ",
+		"subunit_name_plural": "ຊອນ"
+	},
+	"KWD": {
+		"name": "ດີນານຄູເວດ",
+		"name_plural": "ດີນານຄູເວດ",
+		"subunit_name": "ຟິລ",
+		"subunit_name_plural": "ຟິລ"
+	},
+	"KYD": {
+		"name": "ໂດລາໝູ່ເກາະເຄແມນ",
+		"name_plural": "ໂດລາໝູ່ເກາະເຄແມນ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"KZT": {
+		"name": "ເຕັງເກຄາຊັກສະຖານ",
+		"name_plural": "ເຕັງເກຄາຊັກສະຖານ",
+		"subunit_name": "ຕີຢິນ",
+		"subunit_name_plural": "ຕີຢິນ"
+	},
+	"LAK": {
+		"name": "ກີບລາວ",
+		"name_plural": "ກີບລາວ",
+		"subunit_name": "ອັດ",
+		"subunit_name_plural": "ອັດ"
+	},
+	"LBP": {
+		"name": "ປອນເລບານອນ",
+		"name_plural": "ປອນເລບານອນ",
+		"subunit_name": "ເປຍສເຕີ",
+		"subunit_name_plural": "ເປຍສເຕີ"
+	},
+	"LKR": {
+		"name": "ຣູປີສີລັງກາ",
+		"name_plural": "ຣູປີສີລັງກາ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"LRD": {
+		"name": "ໂດລາລີເບີຣີ",
+		"name_plural": "ໂດລາລີເບີຣີ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"LSL": {
+		"name": "ໂລຕິເລໂຊໂທ",
+		"name_plural": "ໂລຕິເລໂຊໂທ",
+		"subunit_name": "ເຊນເຕ",
+		"subunit_name_plural": "ເຊນເຕ"
+	},
+	"LYD": {
+		"name": "ດີນານລີເບຍ",
+		"name_plural": "ດີນານລີເບຍ",
+		"subunit_name": "ດີຮາມ",
+		"subunit_name_plural": "ດີຮາມ"
+	},
+	"MAD": {
+		"name": "ດີຮາມໂມຣັອກໂກ",
+		"name_plural": "ດີຮາມໂມຣັອກໂກ",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"MDL": {
+		"name": "ເລອູໂມດໍວາ",
+		"name_plural": "ເລອູໂມດໍວາ",
+		"subunit_name": "ບານ",
+		"subunit_name_plural": "ບານ"
+	},
+	"MGA": {
+		"name": "ອາເຣຍຣີມາດາກາດກາ",
+		"name_plural": "ອາເຣຍຣີມາດາກາດກາ",
+		"subunit_name": "ໄອເຣມບີລາຍ",
+		"subunit_name_plural": "ໄອເຣມບີລາຍ"
+	},
+	"MKD": {
+		"name": "ເດນານາມາເຊໂດນີ",
+		"name_plural": "ເດນານາມາເຊໂດນີ",
+		"subunit_name": "ເດນີ",
+		"subunit_name_plural": "ເດນີ"
+	},
+	"MMK": {
+		"name": "ຈາດມຽນມາ",
+		"name_plural": "ຈາດມຽນມາ",
+		"subunit_name": "ປຍາ",
+		"subunit_name_plural": "ປຍາ"
+	},
+	"MNT": {
+		"name": "ຕູກຣິກມົງໂກລີ",
+		"name_plural": "ຕູກຣິກມົງໂກລີ",
+		"subunit_name": "ມົງໂກ",
+		"subunit_name_plural": "ມົງໂກ"
+	},
+	"MOP": {
+		"name": "ປາຕາກາມາເກົ້າ",
+		"name_plural": "ປາຕາກາມາເກົ້າ",
+		"subunit_name": "ໂອ",
+		"subunit_name_plural": "ໂອ"
+	},
+	"MRU": {
+		"name": "ອູກິຢາມູຣິຕາເນຍ",
+		"name_plural": "ອູກິຢາມູຣິຕາເນຍ",
+		"subunit_name": "ຄູມ",
+		"subunit_name_plural": "ຄູມ"
+	},
+	"MUR": {
+		"name": "ຣູປີເມົາຣິຕຽດ",
+		"name_plural": "ຣູປີເມົາຣິຕຽດ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"MVR": {
+		"name": "ຣູຟິຢາມານດິບ",
+		"name_plural": "ຣູຟິຢາມານດິບ",
+		"subunit_name": "ລາຣີ",
+		"subunit_name_plural": "ລາຣີ"
+	},
+	"MWK": {
+		"name": "ຄວາຊາມາລາວີ",
+		"name_plural": "ຄວາຊາມາລາວີ",
+		"subunit_name": "ຕັມບາລາ",
+		"subunit_name_plural": "ຕັມບາລາ"
+	},
+	"MXN": {
+		"name": "ເປໂຊເມັກຊິໂກ",
+		"name_plural": "ເປໂຊເມັກຊິໂກ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"MYR": {
+		"name": "ຣິງກິດມາເລເຊຍ",
+		"name_plural": "ຣິງກິດມາເລເຊຍ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"MZN": {
+		"name": "ເມຕິຄານໂມຊຳບິກ",
+		"name_plural": "ເມຕິຄານໂມຊຳບິກ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"NAD": {
+		"name": "ໂດລານາມີເບຍ",
+		"name_plural": "ໂດລານາມີເບຍ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"NGN": {
+		"name": "ໄນຣານິເຈີຣີ",
+		"name_plural": "ໄນຣານິເຈີຣີ",
+		"subunit_name": "ໂກໂບ",
+		"subunit_name_plural": "ໂກໂບ"
+	},
+	"NIO": {
+		"name": "ໂກໂດບານິກາຣາກົວ",
+		"name_plural": "ໂກໂດບານິກາຣາກົວ",
+		"subunit_name": "ເຊນຕາໂວ",
+		"subunit_name_plural": "ເຊນຕາໂວ"
+	},
+	"NOK": {
+		"name": "ໂກຣນນໍເວ",
+		"name_plural": "ໂກຣນນໍເວ",
+		"subunit_name": "ໂອຣ",
+		"subunit_name_plural": "ໂອຣ"
+	},
+	"NPR": {
+		"name": "ຣູປີເນປານ",
+		"name_plural": "ຣູປີເນປານ",
+		"subunit_name": "ເປຍຊາ",
+		"subunit_name_plural": "ເປຍຊາ"
+	},
+	"NZD": {
+		"name": "ໂດລານິວຊີແລນ",
+		"name_plural": "ໂດລານິວຊີແລນ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"OMR": {
+		"name": "ຣີອານໂອມານ",
+		"name_plural": "ຣີອານໂອມານ",
+		"subunit_name": "ໄບຊາ",
+		"subunit_name_plural": "ໄບຊາ"
+	},
+	"PAB": {
+		"name": "ບານອາປານາມາ",
+		"name_plural": "ບານອາປານາມາ",
+		"subunit_name": "ເຊນຕິໂມ",
+		"subunit_name_plural": "ເຊນຕິໂມ"
+	},
+	"PEN": {
+		"name": "ໂຊນເປຣູ",
+		"name_plural": "ໂຊນເປຣູ",
+		"subunit_name": "ເຊນຕິໂມ",
+		"subunit_name_plural": "ເຊນຕິໂມ"
+	},
+	"PGK": {
+		"name": "ກີນາປາປົວນິວກີນີ",
+		"name_plural": "ກີນາປາປົວນິວກີນີ",
+		"subunit_name": "ໂຕອາ",
+		"subunit_name_plural": "ໂຕອາ"
+	},
+	"PHP": {
+		"name": "ເປໂຊຟິລິບປິນ",
+		"name_plural": "ເປໂຊຟິລິບປິນ",
+		"subunit_name": "ເຊນຕິໂມ",
+		"subunit_name_plural": "ເຊນຕິໂມ"
+	},
+	"PKR": {
+		"name": "ຣູປີປາກິສຖານ",
+		"name_plural": "ຣູປີປາກິສຖານ",
+		"subunit_name": "ເປຍຊາ",
+		"subunit_name_plural": "ເປຍຊາ"
+	},
+	"PLN": {
+		"name": "ຊະລອຕີໂປແລນ",
+		"name_plural": "ຊະລອຕີໂປແລນ",
+		"subunit_name": "ໂກຣຊ",
+		"subunit_name_plural": "ໂກຣຊ"
+	},
+	"PYG": {
+		"name": "ກົວຣານີປາຣາກົວ",
+		"name_plural": "ກົວຣານີປາຣາກົວ",
+		"subunit_name": "ເຊນຕິໂມ",
+		"subunit_name_plural": "ເຊນຕິໂມ"
+	},
+	"QAR": {
+		"name": "ຣີອານກາຕາ",
+		"name_plural": "ຣີອານກາຕາ",
+		"subunit_name": "ດີຮາມ",
+		"subunit_name_plural": "ດີຮາມ"
+	},
+	"RON": {
+		"name": "ເລອູລູມານີ",
+		"name_plural": "ເລອູລູມານີ",
+		"subunit_name": "ບານ",
+		"subunit_name_plural": "ບານ"
+	},
+	"RSD": {
+		"name": "ດີນານເຊີເບຍ",
+		"name_plural": "ດີນານເຊີເບຍ",
+		"subunit_name": "ປາຣາ",
+		"subunit_name_plural": "ປາຣາ"
+	},
+	"RUB": {
+		"name": "ຣູເບລລັດ",
+		"name_plural": "ຣູເບລລັດ",
+		"subunit_name": "ໂກເປກ",
+		"subunit_name_plural": "ໂກເປກ"
+	},
+	"RWF": {
+		"name": "ຟຣັງຣວັນດາ",
+		"name_plural": "ຟຣັງຣວັນດາ",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"SAR": {
+		"name": "ຣີອານຊາອຸດິ",
+		"name_plural": "ຣີອານຊາອຸດິ",
+		"subunit_name": "ຮາລາລາ",
+		"subunit_name_plural": "ຮາລາລາ"
+	},
+	"SBD": {
+		"name": "ໂດລາໝູ່ເກາະໂຊໂລມອນ",
+		"name_plural": "ໂດລາໝູ່ເກາະໂຊໂລມອນ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"SCR": {
+		"name": "ຣູປີເຊເຊວແລ",
+		"name_plural": "ຣູປີເຊເຊວແລ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"SDG": {
+		"name": "ປອນຊູດານ",
+		"name_plural": "ປອນຊູດານ",
+		"subunit_name": "ເປຍສເຕີ",
+		"subunit_name_plural": "ເປຍສເຕີ"
+	},
+	"SEK": {
+		"name": "ໂກຣນາສະວີເດນ",
+		"name_plural": "ໂກຣນາສະວີເດນ",
+		"subunit_name": "ໂອຣ",
+		"subunit_name_plural": "ໂອຣ"
+	},
+	"SGD": {
+		"name": "ໂດລາສິງກະໂປ",
+		"name_plural": "ໂດລາສິງກະໂປ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"SHP": {
+		"name": "ປອນເຊນເຮເລນາ",
+		"name_plural": "ປອນເຊນເຮເລນາ",
+		"subunit_name": "ເປນນີ",
+		"subunit_name_plural": "ເປນນີ"
+	},
+	"SLL": {
+		"name": "ເລໂອນເຊຍຣາລີໂອນ",
+		"name_plural": "ເລໂອນເຊຍຣາລີໂອນ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"SOS": {
+		"name": "ຊິລລິງໂຊມາລີ",
+		"name_plural": "ຊິລລິງໂຊມາລີ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"SRD": {
+		"name": "ໂດລາຊູຣິນາມ",
+		"name_plural": "ໂດລາຊູຣິນາມ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"SSP": {
+		"name": "ປອນຊູດານໃຕ້",
+		"name_plural": "ປອນຊູດານໃຕ້",
+		"subunit_name": "ເປຍສເຕີ",
+		"subunit_name_plural": "ເປຍສເຕີ"
+	},
+	"STN": {
+		"name": "ໂດບຣາເຊົາຕູເມແລະປຣິນຊີປີ",
+		"name_plural": "ໂດບຣາເຊົາຕູເມແລະປຣິນຊີປີ",
+		"subunit_name": "ເຊນຕິໂມ",
+		"subunit_name_plural": "ເຊນຕິໂມ"
+	},
+	"SYP": {
+		"name": "ປອນຊີເຣຍ",
+		"name_plural": "ປອນຊີເຣຍ",
+		"subunit_name": "ເປຍສເຕີ",
+		"subunit_name_plural": "ເປຍສເຕີ"
+	},
+	"SZL": {
+		"name": "ລີລັງເກນີສະວາຊີແລນ",
+		"name_plural": "ລີລັງເກນີສະວາຊີແລນ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"THB": {
+		"name": "ບາດໄທ",
+		"name_plural": "ບາດໄທ",
+		"subunit_name": "ສະຕັງ",
+		"subunit_name_plural": "ສະຕັງ"
+	},
+	"TJS": {
+		"name": "ໂຊໂມນີຕາຈິກິສຖານ",
+		"name_plural": "ໂຊໂມນີຕາຈິກິສຖານ",
+		"subunit_name": "ດີຮາມ",
+		"subunit_name_plural": "ດີຮາມ"
+	},
+	"TMT": {
+		"name": "ມານາດຕວກເມນິສະຖານ",
+		"name_plural": "ມານາດຕວກເມນິສະຖານ",
+		"subunit_name": "ເຕເນຊີ",
+		"subunit_name_plural": "ເຕເນຊີ"
+	},
+	"TND": {
+		"name": "ດີນານຕູນິເຊຍ",
+		"name_plural": "ດີນານຕູນິເຊຍ",
+		"subunit_name": "ມິລລີມ",
+		"subunit_name_plural": "ມິລລີມ"
+	},
+	"TOP": {
+		"name": "ປາອານກາຕອງກາ",
+		"name_plural": "ປາອານກາຕອງກາ",
+		"subunit_name": "ເຊນີຕີ",
+		"subunit_name_plural": "ເຊນີຕີ"
+	},
+	"TRY": {
+		"name": "ລີຣາຕຸຣກີ",
+		"name_plural": "ລີຣາຕຸຣກີ",
+		"subunit_name": "ກູຣຸດ",
+		"subunit_name_plural": "ກູຣຸດ"
+	},
+	"TTD": {
+		"name": "ໂດລາຕຣີນິດາດແລະໂທບາໂກ",
+		"name_plural": "ໂດລາຕຣີນິດາດແລະໂທບາໂກ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"TWD": {
+		"name": "ໂດລາໄຕ້ຫວັນ",
+		"name_plural": "ໂດລາໄຕ້ຫວັນ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"TZS": {
+		"name": "ຊິລລິງຕັນຊາເນຍ",
+		"name_plural": "ຊິລລິງຕັນຊາເນຍ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"UAH": {
+		"name": "ຮຣິວນຽຢູເຄຣນ",
+		"name_plural": "ຮຣິວນຽຢູເຄຣນ",
+		"subunit_name": "ໂກເປກ",
+		"subunit_name_plural": "ໂກເປກ"
+	},
+	"UGX": {
+		"name": "ຊິລລິງອູກັນດາ",
+		"name_plural": "ຊິລລິງອູກັນດາ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"USD": {
+		"name": "ໂດລາສະຫະລັດ",
+		"name_plural": "ໂດລາສະຫະລັດ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"UYU": {
+		"name": "ເປໂຊອູຣຸກວາຍ",
+		"name_plural": "ເປໂຊອູຣຸກວາຍ",
+		"subunit_name": "ເຊນຕິໂມ",
+		"subunit_name_plural": "ເຊນຕິໂມ"
+	},
+	"UZS": {
+		"name": "ໂຊມອຸສເບກິສຖານ",
+		"name_plural": "ໂຊມອຸສເບກິສຖານ",
+		"subunit_name": "ຕີຢິນ",
+		"subunit_name_plural": "ຕີຢິນ"
+	},
+	"VES": {
+		"name": "ໂບລີວາເວເນຊູເອລາ",
+		"name_plural": "ໂບລີວາເວເນຊູເອລາ",
+		"subunit_name": "ເຊນຕິໂມ",
+		"subunit_name_plural": "ເຊນຕິໂມ"
+	},
+	"VND": {
+		"name": "ດົງຫວຽດນາມ",
+		"name_plural": "ດົງຫວຽດນາມ",
+		"subunit_name": "ຮາວ",
+		"subunit_name_plural": "ຮາວ"
+	},
+	"VUV": {
+		"name": "ວາຕູວານົວຕູ",
+		"name_plural": "ວາຕູວານົວຕູ",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"WST": {
+		"name": "ຕາລາຊາມົວ",
+		"name_plural": "ຕາລາຊາມົວ",
+		"subunit_name": "ເຊນີຕີ",
+		"subunit_name_plural": "ເຊນີຕີ"
+	},
+	"XAF": {
+		"name": "ຟຣັງ CFA ອາຟຣິກາກາງ",
+		"name_plural": "ຟຣັງ CFA ອາຟຣິກາກາງ",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"XCD": {
+		"name": "ໂດລາຄາຣີບບຽນຕາເວັນອອກ",
+		"name_plural": "ໂດລາຄາຣີບບຽນຕາເວັນອອກ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"XOF": {
+		"name": "ຟຣັງ CFA ອາຟຣິກາຕາເວັນຕົກ",
+		"name_plural": "ຟຣັງ CFA ອາຟຣິກາຕາເວັນຕົກ",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"XPF": {
+		"name": "ຟຣັງ CFP",
+		"name_plural": "ຟຣັງ CFP",
+		"subunit_name": "ເຊນຕິມ",
+		"subunit_name_plural": "ເຊນຕິມ"
+	},
+	"YER": {
+		"name": "ຣີອານເຢເມນ",
+		"name_plural": "ຣີອານເຢເມນ",
+		"subunit_name": "ຟິລ",
+		"subunit_name_plural": "ຟິລ"
+	},
+	"ZAR": {
+		"name": "ແຣນອາຟຣິກາໃຕ້",
+		"name_plural": "ແຣນອາຟຣິກາໃຕ້",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	},
+	"ZMW": {
+		"name": "ຄວາຊາຊາມບີ",
+		"name_plural": "ຄວາຊາຊາມບີ",
+		"subunit_name": "ງວີ",
+		"subunit_name_plural": "ງວີ"
+	},
+	"ZWL": {
+		"name": "ໂດລາຊິມບັບເວ",
+		"name_plural": "ໂດລາຊິມບັບເວ",
+		"subunit_name": "ເຊັນ",
+		"subunit_name_plural": "ເຊັນ"
+	}
+}

@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "Apvienoto Arābu Emirātu dirhams",
+		"name_plural": "Apvienoto Arābu Emirātu dirhami",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fili"
+	},
+	"AFN": {
+		"name": "Afgāņu afgāns",
+		"name_plural": "Afgāņu afgāni",
+		"subunit_name": "puls",
+		"subunit_name_plural": "puli"
+	},
+	"ALL": {
+		"name": "Albānijas leks",
+		"name_plural": "Albānijas leki",
+		"subunit_name": "qindarka",
+		"subunit_name_plural": "qindarkas"
+	},
+	"AMD": {
+		"name": "Armēnijas drams",
+		"name_plural": "Armēnijas drami",
+		"subunit_name": "luma",
+		"subunit_name_plural": "lumas"
+	},
+	"ANG": {
+		"name": "Nīderlandes Antiļu guldenis",
+		"name_plural": "Nīderlandes Antiļu guldeņi",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"AOA": {
+		"name": "Angolas kvanza",
+		"name_plural": "Angolas kvanzas",
+		"subunit_name": "centimo",
+		"subunit_name_plural": "centimos"
+	},
+	"ARS": {
+		"name": "Argentīnas peso",
+		"name_plural": "Argentīnas pesos",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"AUD": {
+		"name": "Austrālijas dolārs",
+		"name_plural": "Austrālijas dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"AWG": {
+		"name": "Arubas florīns",
+		"name_plural": "Arubas florīni",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"AZN": {
+		"name": "Azerbaidžānas manats",
+		"name_plural": "Azerbaidžānas manati",
+		"subunit_name": "qəpik",
+		"subunit_name_plural": "qəpiki"
+	},
+	"BAM": {
+		"name": "Bosnijas un Hercegovinas konvertējamā marka",
+		"name_plural": "Bosnijas un Hercegovinas konvertējamās markas",
+		"subunit_name": "fenings",
+		"subunit_name_plural": "feninzi"
+	},
+	"BBD": {
+		"name": "Barbadosas dolārs",
+		"name_plural": "Barbadosas dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"BDT": {
+		"name": "Bangladešas taka",
+		"name_plural": "Bangladešas takas",
+		"subunit_name": "poisha",
+		"subunit_name_plural": "poishas"
+	},
+	"BGN": {
+		"name": "Bulgārijas levs",
+		"name_plural": "Bulgārijas levi",
+		"subunit_name": "stotinka",
+		"subunit_name_plural": "stotinkas"
+	},
+	"BHD": {
+		"name": "Bahreinas dinārs",
+		"name_plural": "Bahreinas dināri",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fili"
+	},
+	"BIF": {
+		"name": "Burundijas franks",
+		"name_plural": "Burundijas franki",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"BMD": {
+		"name": "Bermudu dolārs",
+		"name_plural": "Bermudu dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"BND": {
+		"name": "Brunejas dolārs",
+		"name_plural": "Brunejas dolāri",
+		"subunit_name": "sen",
+		"subunit_name_plural": "seni"
+	},
+	"BOB": {
+		"name": "Bolīvijas bolivjano",
+		"name_plural": "Bolīvijas bolivjano",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"BRL": {
+		"name": "Brazīlijas reāls",
+		"name_plural": "Brazīlijas reāli",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"BSD": {
+		"name": "Bahamu dolārs",
+		"name_plural": "Bahamu dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"BTN": {
+		"name": "Butānas ņultrums",
+		"name_plural": "Butānas ņultrumi",
+		"subunit_name": "chetrum",
+		"subunit_name_plural": "chetrums"
+	},
+	"BWP": {
+		"name": "Botsvānas pula",
+		"name_plural": "Botsvānas pulas",
+		"subunit_name": "thebe",
+		"subunit_name_plural": "thebes"
+	},
+	"BYN": {
+		"name": "Baltkrievijas rublis",
+		"name_plural": "Baltkrievijas rubļi",
+		"subunit_name": "kapeika",
+		"subunit_name_plural": "kapeikas"
+	},
+	"BZD": {
+		"name": "Belizas dolārs",
+		"name_plural": "Belizas dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"CAD": {
+		"name": "Kanādas dolārs",
+		"name_plural": "Kanādas dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"CDF": {
+		"name": "Kongo franks",
+		"name_plural": "Kongo franki",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"CHF": {
+		"name": "Šveices franks",
+		"name_plural": "Šveices franki",
+		"subunit_name": "rapens",
+		"subunit_name_plural": "rapeni"
+	},
+	"CLP": {
+		"name": "Čīles peso",
+		"name_plural": "Čīles pesos",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CNY": {
+		"name": "Ķīnas juans",
+		"name_plural": "Ķīnas juani",
+		"subunit_name": "fens",
+		"subunit_name_plural": "feni"
+	},
+	"COP": {
+		"name": "Kolumbijas peso",
+		"name_plural": "Kolumbijas pesos",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CRC": {
+		"name": "Kostarikas kolons",
+		"name_plural": "Kostarikas koloni",
+		"subunit_name": "centimo",
+		"subunit_name_plural": "centimos"
+	},
+	"CUC": {
+		"name": "Kubas konvertējamais peso",
+		"name_plural": "Kubas konvertējamie pesos",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CUP": {
+		"name": "Kubas peso",
+		"name_plural": "Kubas pesos",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CVE": {
+		"name": "Kaboverdes eskudo",
+		"name_plural": "Kaboverdes eskudo",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CZK": {
+		"name": "Čehijas krona",
+		"name_plural": "Čehijas kronas",
+		"subunit_name": "haleris",
+		"subunit_name_plural": "haleri"
+	},
+	"DJF": {
+		"name": "Džibutijas franks",
+		"name_plural": "Džibutijas franki",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"DKK": {
+		"name": "Dānijas krona",
+		"name_plural": "Dānijas kronas",
+		"subunit_name": "ēre",
+		"subunit_name_plural": "ēres"
+	},
+	"DOP": {
+		"name": "Dominikānas peso",
+		"name_plural": "Dominikānas pesos",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"DZD": {
+		"name": "Alžīrijas dinārs",
+		"name_plural": "Alžīrijas dināri",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"EGP": {
+		"name": "Ēģiptes mārciņa",
+		"name_plural": "Ēģiptes mārciņas",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastres"
+	},
+	"ERN": {
+		"name": "Eritrejas nakfa",
+		"name_plural": "Eritrejas nakfas",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"ETB": {
+		"name": "Etiopijas birrs",
+		"name_plural": "Etiopijas birri",
+		"subunit_name": "santims",
+		"subunit_name_plural": "santimi"
+	},
+	"EUR": {
+		"name": "eiro",
+		"name_plural": "eiro",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"FJD": {
+		"name": "Fidži dolārs",
+		"name_plural": "Fidži dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"FKP": {
+		"name": "Folklenda salu mārciņa",
+		"name_plural": "Folklenda salu mārciņas",
+		"subunit_name": "pens",
+		"subunit_name_plural": "pensi"
+	},
+	"GBP": {
+		"name": "Britu mārciņa",
+		"name_plural": "Britu mārciņas",
+		"subunit_name": "pens",
+		"subunit_name_plural": "pensi"
+	},
+	"GEL": {
+		"name": "Gruzijas lari",
+		"name_plural": "Gruzijas lari",
+		"subunit_name": "tetri",
+		"subunit_name_plural": "tetri"
+	},
+	"GHS": {
+		"name": "Ganas sedi",
+		"name_plural": "Ganas sedi",
+		"subunit_name": "pesewa",
+		"subunit_name_plural": "pesewas"
+	},
+	"GIP": {
+		"name": "Gibraltāras mārciņa",
+		"name_plural": "Gibraltāras mārciņas",
+		"subunit_name": "pens",
+		"subunit_name_plural": "pensi"
+	},
+	"GMD": {
+		"name": "Gambijas dalasi",
+		"name_plural": "Gambijas dalasi",
+		"subunit_name": "bututs",
+		"subunit_name_plural": "bututi"
+	},
+	"GNF": {
+		"name": "Gvinejas franks",
+		"name_plural": "Gvinejas franki",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"GTQ": {
+		"name": "Gvatemalas kvecals",
+		"name_plural": "Gvatemalas kvecali",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"GYD": {
+		"name": "Gajānas dolārs",
+		"name_plural": "Gajānas dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"HKD": {
+		"name": "Honkongas dolārs",
+		"name_plural": "Honkongas dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"HNL": {
+		"name": "Hondurasa lempīra",
+		"name_plural": "Hondurasa lempīras",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"HRK": {
+		"name": "Horvātijas kuna",
+		"name_plural": "Horvātijas kunas",
+		"subunit_name": "lipa",
+		"subunit_name_plural": "lipas"
+	},
+	"HTG": {
+		"name": "Haiti gurda",
+		"name_plural": "Haiti gurdas",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"HUF": {
+		"name": "Ungārijas forints",
+		"name_plural": "Ungārijas forinti",
+		"subunit_name": "fillērs",
+		"subunit_name_plural": "fillēri"
+	},
+	"IDR": {
+		"name": "Indonēzijas rūpija",
+		"name_plural": "Indonēzijas rūpijas",
+		"subunit_name": "sens",
+		"subunit_name_plural": "seni"
+	},
+	"ILS": {
+		"name": "Izraēlas šekelis",
+		"name_plural": "Izraēlas šekeli",
+		"subunit_name": "agora",
+		"subunit_name_plural": "agorot"
+	},
+	"INR": {
+		"name": "Indijas rūpija",
+		"name_plural": "Indijas rūpijas",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisas"
+	},
+	"IQD": {
+		"name": "Irākas dinārs",
+		"name_plural": "Irākas dināri",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fili"
+	},
+	"IRR": {
+		"name": "Irānas riāls",
+		"name_plural": "Irānas riāli",
+		"subunit_name": "dinārs",
+		"subunit_name_plural": "dināri"
+	},
+	"ISK": {
+		"name": "Islandes krona",
+		"name_plural": "Islandes kronas",
+		"subunit_name": "eyrir",
+		"subunit_name_plural": "aurar"
+	},
+	"JMD": {
+		"name": "Jamaikas dolārs",
+		"name_plural": "Jamaikas dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"JOD": {
+		"name": "Jordānijas dinārs",
+		"name_plural": "Jordānijas dināri",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fili"
+	},
+	"JPY": {
+		"name": "Japānas jena",
+		"name_plural": "Japānas jenas",
+		"subunit_name": "sens",
+		"subunit_name_plural": "seni"
+	},
+	"KES": {
+		"name": "Kenijas šiliņš",
+		"name_plural": "Kenijas šiliņi",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"KGS": {
+		"name": "Kirgizstānas soms",
+		"name_plural": "Kirgizstānas somi",
+		"subunit_name": "tiyn",
+		"subunit_name_plural": "tiyn"
+	},
+	"KHR": {
+		"name": "Kambodžas riels",
+		"name_plural": "Kambodžas rieli",
+		"subunit_name": "sens",
+		"subunit_name_plural": "seni"
+	},
+	"KMF": {
+		"name": "Komoru franks",
+		"name_plural": "Komoru franki",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"KPW": {
+		"name": "Ziemeļkorejas vona",
+		"name_plural": "Ziemeļkorejas vonas",
+		"subunit_name": "čons",
+		"subunit_name_plural": "čoni"
+	},
+	"KRW": {
+		"name": "Dienvidkorejas vona",
+		"name_plural": "Dienvidkorejas vonas",
+		"subunit_name": "čons",
+		"subunit_name_plural": "čoni"
+	},
+	"KWD": {
+		"name": "Kuveitas dinārs",
+		"name_plural": "Kuveitas dināri",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fili"
+	},
+	"KYD": {
+		"name": "Kaimanu salu dolārs",
+		"name_plural": "Kaimanu salu dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"KZT": {
+		"name": "Kazahstānas tenge",
+		"name_plural": "Kazahstānas tenges",
+		"subunit_name": "tiyn",
+		"subunit_name_plural": "tiyn"
+	},
+	"LAK": {
+		"name": "Laosas kips",
+		"name_plural": "Laosas kipi",
+		"subunit_name": "ats",
+		"subunit_name_plural": "ati"
+	},
+	"LBP": {
+		"name": "Libānas mārciņa",
+		"name_plural": "Libānas mārciņas",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastres"
+	},
+	"LKR": {
+		"name": "Šrilankas rūpija",
+		"name_plural": "Šrilankas rūpijas",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"LRD": {
+		"name": "Libērijas dolārs",
+		"name_plural": "Libērijas dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"LSL": {
+		"name": "Lesoto loti",
+		"name_plural": "Lesoto loti",
+		"subunit_name": "sente",
+		"subunit_name_plural": "lisente"
+	},
+	"LYD": {
+		"name": "Lībijas dinārs",
+		"name_plural": "Lībijas dināri",
+		"subunit_name": "dirhams",
+		"subunit_name_plural": "dirhami"
+	},
+	"MAD": {
+		"name": "Marokas dirhams",
+		"name_plural": "Marokas dirhami",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"MDL": {
+		"name": "Moldovas leja",
+		"name_plural": "Moldovas lei",
+		"subunit_name": "bans",
+		"subunit_name_plural": "bani"
+	},
+	"MGA": {
+		"name": "Madagaskaras arijarijs",
+		"name_plural": "Madagaskaras arijariji",
+		"subunit_name": "iraimbilanja",
+		"subunit_name_plural": "iraimbilanja"
+	},
+	"MKD": {
+		"name": "Ziemeļmaķedonijas denārs",
+		"name_plural": "Ziemeļmaķedonijas denāri",
+		"subunit_name": "deni",
+		"subunit_name_plural": "deni"
+	},
+	"MMK": {
+		"name": "Mjanmas kjats",
+		"name_plural": "Mjanmas kjati",
+		"subunit_name": "pja",
+		"subunit_name_plural": "pjas"
+	},
+	"MNT": {
+		"name": "Mongolijas tugriks",
+		"name_plural": "Mongolijas tugriki",
+		"subunit_name": "mengē",
+		"subunit_name_plural": "mengē"
+	},
+	"MOP": {
+		"name": "Makao pataka",
+		"name_plural": "Makao patakas",
+		"subunit_name": "avo",
+		"subunit_name_plural": "avos"
+	},
+	"MRU": {
+		"name": "Mauritānijas ugvija",
+		"name_plural": "Mauritānijas ugvijas",
+		"subunit_name": "houms",
+		"subunit_name_plural": "houms"
+	},
+	"MUR": {
+		"name": "Maurīcijas rūpija",
+		"name_plural": "Maurīcijas rūpijas",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"MVR": {
+		"name": "Maldīvijas rufija",
+		"name_plural": "Maldīvijas rufijas",
+		"subunit_name": "lāri",
+		"subunit_name_plural": "lāri"
+	},
+	"MWK": {
+		"name": "Malāvijas kvača",
+		"name_plural": "Malāvijas kvačas",
+		"subunit_name": "tambala",
+		"subunit_name_plural": "tambalas"
+	},
+	"MXN": {
+		"name": "Meksikas peso",
+		"name_plural": "Meksikas pesos",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"MYR": {
+		"name": "Malaizijas ringits",
+		"name_plural": "Malaizijas ringiti",
+		"subunit_name": "sens",
+		"subunit_name_plural": "seni"
+	},
+	"MZN": {
+		"name": "Mozambikas metikals",
+		"name_plural": "Mozambikas metikali",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"NAD": {
+		"name": "Namībijas dolārs",
+		"name_plural": "Namībijas dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"NGN": {
+		"name": "Nigērijas naira",
+		"name_plural": "Nigērijas nairas",
+		"subunit_name": "kobo",
+		"subunit_name_plural": "kobo"
+	},
+	"NIO": {
+		"name": "Nikaragvas kordoba",
+		"name_plural": "Nikaragvas kordobas",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"NOK": {
+		"name": "Norvēģijas krona",
+		"name_plural": "Norvēģijas kronas",
+		"subunit_name": "ēre",
+		"subunit_name_plural": "ēres"
+	},
+	"NPR": {
+		"name": "Nepālas rūpija",
+		"name_plural": "Nepālas rūpijas",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisas"
+	},
+	"NZD": {
+		"name": "Jaunzēlandes dolārs",
+		"name_plural": "Jaunzēlandes dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"OMR": {
+		"name": "Omānas riāls",
+		"name_plural": "Omānas riāli",
+		"subunit_name": "baisa",
+		"subunit_name_plural": "baisas"
+	},
+	"PAB": {
+		"name": "Panamas balboja",
+		"name_plural": "Panamas balbojas",
+		"subunit_name": "centesimo",
+		"subunit_name_plural": "centesimos"
+	},
+	"PEN": {
+		"name": "Peru sols",
+		"name_plural": "Peru soļi",
+		"subunit_name": "centimo",
+		"subunit_name_plural": "centimos"
+	},
+	"PGK": {
+		"name": "Papua-Jaungvinejas kina",
+		"name_plural": "Papua-Jaungvinejas kinas",
+		"subunit_name": "toea",
+		"subunit_name_plural": "toeas"
+	},
+	"PHP": {
+		"name": "Filipīnu peso",
+		"name_plural": "Filipīnu pesos",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimos"
+	},
+	"PKR": {
+		"name": "Pakistānas rūpija",
+		"name_plural": "Pakistānas rūpijas",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisas"
+	},
+	"PLN": {
+		"name": "Polijas zlots",
+		"name_plural": "Polijas zloti",
+		"subunit_name": "grušs",
+		"subunit_name_plural": "gruši"
+	},
+	"PYG": {
+		"name": "Paragvajas gvarani",
+		"name_plural": "Paragvajas gvarani",
+		"subunit_name": "centimo",
+		"subunit_name_plural": "centimos"
+	},
+	"QAR": {
+		"name": "Kataras riāls",
+		"name_plural": "Kataras riāli",
+		"subunit_name": "dirhams",
+		"subunit_name_plural": "dirhami"
+	},
+	"RON": {
+		"name": "Rumānijas leja",
+		"name_plural": "Rumānijas lei",
+		"subunit_name": "bans",
+		"subunit_name_plural": "bani"
+	},
+	"RSD": {
+		"name": "Serbijas dinārs",
+		"name_plural": "Serbijas dināri",
+		"subunit_name": "para",
+		"subunit_name_plural": "paras"
+	},
+	"RUB": {
+		"name": "Krievijas rublis",
+		"name_plural": "Krievijas rubļi",
+		"subunit_name": "kapeika",
+		"subunit_name_plural": "kapeikas"
+	},
+	"RWF": {
+		"name": "Ruandas franks",
+		"name_plural": "Ruandas franki",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"SAR": {
+		"name": "Saūda riāls",
+		"name_plural": "Saūda riāli",
+		"subunit_name": "halala",
+		"subunit_name_plural": "halalas"
+	},
+	"SBD": {
+		"name": "Zālamana salu dolārs",
+		"name_plural": "Zālamana salu dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"SCR": {
+		"name": "Seišeļu rūpija",
+		"name_plural": "Seišeļu rūpijas",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"SDG": {
+		"name": "Sudānas mārciņa",
+		"name_plural": "Sudānas mārciņas",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastres"
+	},
+	"SEK": {
+		"name": "Zviedrijas krona",
+		"name_plural": "Zviedrijas kronas",
+		"subunit_name": "ēre",
+		"subunit_name_plural": "ēres"
+	},
+	"SGD": {
+		"name": "Singapūras dolārs",
+		"name_plural": "Singapūras dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"SHP": {
+		"name": "Senthelēnas mārciņa",
+		"name_plural": "Senthelēnas mārciņas",
+		"subunit_name": "pens",
+		"subunit_name_plural": "pensi"
+	},
+	"SLL": {
+		"name": "Sjerraleones leons",
+		"name_plural": "Sjerraleones leoni",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"SOS": {
+		"name": "Somālijas šiliņš",
+		"name_plural": "Somālijas šiliņi",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"SRD": {
+		"name": "Surinamas dolārs",
+		"name_plural": "Surinamas dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"SSP": {
+		"name": "Dienvidsudānas mārciņa",
+		"name_plural": "Dienvidsudānas mārciņas",
+		"subunit_name": "piasters",
+		"subunit_name_plural": "piasteri"
+	},
+	"STN": {
+		"name": "Santome un Prinsipi dobra",
+		"name_plural": "Santome un Prinsipi dobras",
+		"subunit_name": "centimo",
+		"subunit_name_plural": "centimos"
+	},
+	"SYP": {
+		"name": "Sīrijas mārciņa",
+		"name_plural": "Sīrijas mārciņas",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastres"
+	},
+	"SZL": {
+		"name": "Svazilendas lilangeni",
+		"name_plural": "Svazilendas emalangeni",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"THB": {
+		"name": "Taizemes bats",
+		"name_plural": "Taizemes bati",
+		"subunit_name": "satangs",
+		"subunit_name_plural": "satangi"
+	},
+	"TJS": {
+		"name": "Tadžikistānas somoni",
+		"name_plural": "Tadžikistānas somoni",
+		"subunit_name": "dirams",
+		"subunit_name_plural": "dirami"
+	},
+	"TMT": {
+		"name": "Turkmenistānas manats",
+		"name_plural": "Turkmenistānas manati",
+		"subunit_name": "teņģe",
+		"subunit_name_plural": "teņģes"
+	},
+	"TND": {
+		"name": "Tunisijas dinārs",
+		"name_plural": "Tunisijas dināri",
+		"subunit_name": "milīms",
+		"subunit_name_plural": "milīmi"
+	},
+	"TOP": {
+		"name": "Tongas paanga",
+		"name_plural": "Tongas paangas",
+		"subunit_name": "seniti",
+		"subunit_name_plural": "seniti"
+	},
+	"TRY": {
+		"name": "Turcijas lira",
+		"name_plural": "Turcijas liras",
+		"subunit_name": "kurušs",
+		"subunit_name_plural": "kuruši"
+	},
+	"TTD": {
+		"name": "Trinidādas un Tobāgo dolārs",
+		"name_plural": "Trinidādas un Tobāgo dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"TWD": {
+		"name": "Taivānas jaunais dolārs",
+		"name_plural": "Taivānas jaunie dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"TZS": {
+		"name": "Tanzānijas šiliņš",
+		"name_plural": "Tanzānijas šiliņi",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"UAH": {
+		"name": "Ukrainas grivna",
+		"name_plural": "Ukrainas grivnas",
+		"subunit_name": "kapeika",
+		"subunit_name_plural": "kapeikas"
+	},
+	"UGX": {
+		"name": "Ugandas šiliņš",
+		"name_plural": "Ugandas šiliņi",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"USD": {
+		"name": "ASV dolārs",
+		"name_plural": "ASV dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"UYU": {
+		"name": "Urugvajas peso",
+		"name_plural": "Urugvajas pesos",
+		"subunit_name": "centesimo",
+		"subunit_name_plural": "centesimos"
+	},
+	"UZS": {
+		"name": "Uzbekistānas soms",
+		"name_plural": "Uzbekistānas somi",
+		"subunit_name": "tiyin",
+		"subunit_name_plural": "tiyin"
+	},
+	"VES": {
+		"name": "Venecuēlas bolivārs",
+		"name_plural": "Venecuēlas bolivāri",
+		"subunit_name": "centimo",
+		"subunit_name_plural": "centimos"
+	},
+	"VND": {
+		"name": "Vjetnamas dongs",
+		"name_plural": "Vjetnamas dongi",
+		"subunit_name": "hao",
+		"subunit_name_plural": "hao"
+	},
+	"VUV": {
+		"name": "Vanuatu vatu",
+		"name_plural": "Vanuatu vatu",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"WST": {
+		"name": "Samoa talas",
+		"name_plural": "Samoa talas",
+		"subunit_name": "sene",
+		"subunit_name_plural": "sene"
+	},
+	"XAF": {
+		"name": "Centrālāfrikas CFA franks",
+		"name_plural": "Centrālāfrikas CFA franki",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"XCD": {
+		"name": "Austrumkarību dolārs",
+		"name_plural": "Austrumkarību dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"XOF": {
+		"name": "Rietumāfrikas CFA franks",
+		"name_plural": "Rietumāfrikas CFA franki",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"XPF": {
+		"name": "CFP franks",
+		"name_plural": "CFP franki",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"YER": {
+		"name": "Jemenas riāls",
+		"name_plural": "Jemenas riāli",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fili"
+	},
+	"ZAR": {
+		"name": "Dienvidāfrikas rands",
+		"name_plural": "Dienvidāfrikas randi",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	},
+	"ZMW": {
+		"name": "Zambijas kvača",
+		"name_plural": "Zambijas kvačas",
+		"subunit_name": "ngvee",
+		"subunit_name_plural": "ngvee"
+	},
+	"ZWL": {
+		"name": "Zimbabves dolārs",
+		"name_plural": "Zimbabves dolāri",
+		"subunit_name": "cents",
+		"subunit_name_plural": "centi"
+	}
+}

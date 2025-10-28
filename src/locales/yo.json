@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "Dírámù ti Ilẹ̀ Arabu",
+		"name_plural": "Awọn dírámù ti Ilẹ̀ Arabu",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"AFN": {
+		"name": "Afghani ti Afghanistan",
+		"name_plural": "Awọn afghani ti Afghanistan",
+		"subunit_name": "pul",
+		"subunit_name_plural": "puls"
+	},
+	"ALL": {
+		"name": "Lek ti Albania",
+		"name_plural": "Awọn lek ti Albania",
+		"subunit_name": "qindarkë",
+		"subunit_name_plural": "qindarkë"
+	},
+	"AMD": {
+		"name": "Dram ti Armenia",
+		"name_plural": "Awọn dram ti Armenia",
+		"subunit_name": "luma",
+		"subunit_name_plural": "lumas"
+	},
+	"ANG": {
+		"name": "Guilder ti Netherlands Antilles",
+		"name_plural": "Awọn guilder ti Netherlands Antilles",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"AOA": {
+		"name": "Kwanza ti Angola",
+		"name_plural": "Awọn kwanza ti Angola",
+		"subunit_name": "cêntimo",
+		"subunit_name_plural": "cêntimos"
+	},
+	"ARS": {
+		"name": "Peso ti Argentina",
+		"name_plural": "Awọn peso ti Argentina",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"AUD": {
+		"name": "Dọla ti Australia",
+		"name_plural": "Awọn dọla ti Australia",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"AWG": {
+		"name": "Florin ti Aruba",
+		"name_plural": "Awọn florin ti Aruba",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"AZN": {
+		"name": "Manat ti Azerbaijan",
+		"name_plural": "Awọn manat ti Azerbaijan",
+		"subunit_name": "qəpik",
+		"subunit_name_plural": "qəpiks"
+	},
+	"BAM": {
+		"name": "Mark ti Bosnia-Herzegovina",
+		"name_plural": "Awọn mark ti Bosnia-Herzegovina",
+		"subunit_name": "fening",
+		"subunit_name_plural": "fenings"
+	},
+	"BBD": {
+		"name": "Dọla ti Barbados",
+		"name_plural": "Awọn dọla ti Barbados",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"BDT": {
+		"name": "Taka ti Bangladesh",
+		"name_plural": "Awọn taka ti Bangladesh",
+		"subunit_name": "poisha",
+		"subunit_name_plural": "poishas"
+	},
+	"BGN": {
+		"name": "Lev ti Bulgaria",
+		"name_plural": "Awọn lev ti Bulgaria",
+		"subunit_name": "stotinka",
+		"subunit_name_plural": "stotinki"
+	},
+	"BHD": {
+		"name": "Dínà ti Bahrain",
+		"name_plural": "Awọn dínà ti Bahrain",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"BIF": {
+		"name": "Faransì ti Burundi",
+		"name_plural": "Awọn faransì ti Burundi",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"BMD": {
+		"name": "Dọla ti Bermuda",
+		"name_plural": "Awọn dọla ti Bermuda",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"BND": {
+		"name": "Dọla ti Brunei",
+		"name_plural": "Awọn dọla ti Brunei",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"BOB": {
+		"name": "Boliviano ti Bolivia",
+		"name_plural": "Awọn boliviano ti Bolivia",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"BRL": {
+		"name": "Real ti Brazil",
+		"name_plural": "Awọn real ti Brazil",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"BSD": {
+		"name": "Dọla ti Bahamas",
+		"name_plural": "Awọn dọla ti Bahamas",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"BTN": {
+		"name": "Ngultrum ti Bhutan",
+		"name_plural": "Awọn ngultrum ti Bhutan",
+		"subunit_name": "chetrum",
+		"subunit_name_plural": "chetrums"
+	},
+	"BWP": {
+		"name": "Pula ti Botswana",
+		"name_plural": "Awọn pula ti Botswana",
+		"subunit_name": "thebe",
+		"subunit_name_plural": "thebe"
+	},
+	"BYN": {
+		"name": "Ruble ti Belarus",
+		"name_plural": "Awọn ruble ti Belarus",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopecks"
+	},
+	"BZD": {
+		"name": "Dọla ti Belize",
+		"name_plural": "Awọn dọla ti Belize",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"CAD": {
+		"name": "Dọla ti Canada",
+		"name_plural": "Awọn dọla ti Canada",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"CDF": {
+		"name": "Faransì ti Congo",
+		"name_plural": "Awọn faransì ti Congo",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"CHF": {
+		"name": "Faransì ti Switzerland",
+		"name_plural": "Awọn faransì ti Switzerland",
+		"subunit_name": "rappen",
+		"subunit_name_plural": "rappen"
+	},
+	"CLP": {
+		"name": "Peso ti Chile",
+		"name_plural": "Awọn peso ti Chile",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CNY": {
+		"name": "Yuan ti China",
+		"name_plural": "Awọn yuan ti China",
+		"subunit_name": "fen",
+		"subunit_name_plural": "fen"
+	},
+	"COP": {
+		"name": "Peso ti Colombia",
+		"name_plural": "Awọn peso ti Colombia",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CRC": {
+		"name": "Colón ti Costa Rica",
+		"name_plural": "Awọn colón ti Costa Rica",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimos"
+	},
+	"CUC": {
+		"name": "Peso ti Cuba (Convertible)",
+		"name_plural": "Awọn peso ti Cuba (Convertible)",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CUP": {
+		"name": "Peso ti Cuba",
+		"name_plural": "Awọn peso ti Cuba",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CVE": {
+		"name": "Escudo ti Cape Verde",
+		"name_plural": "Awọn escudo ti Cape Verde",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"CZK": {
+		"name": "Koruna ti Czech Republic",
+		"name_plural": "Awọn koruna ti Czech Republic",
+		"subunit_name": "haléř",
+		"subunit_name_plural": "haléře"
+	},
+	"DJF": {
+		"name": "Faransì ti Djibouti",
+		"name_plural": "Awọn faransì ti Djibouti",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"DKK": {
+		"name": "Krone ti Denmark",
+		"name_plural": "Awọn kroner ti Denmark",
+		"subunit_name": "øre",
+		"subunit_name_plural": "øre"
+	},
+	"DOP": {
+		"name": "Peso ti Dominican Republic",
+		"name_plural": "Awọn peso ti Dominican Republic",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"DZD": {
+		"name": "Dínà ti Algeria",
+		"name_plural": "Awọn dínà ti Algeria",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"EGP": {
+		"name": "Pound ti Egypt",
+		"name_plural": "Awọn pound ti Egypt",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastres"
+	},
+	"ERN": {
+		"name": "Nakfa ti Eritrea",
+		"name_plural": "Awọn nakfa ti Eritrea",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"ETB": {
+		"name": "Birr ti Ethiopia",
+		"name_plural": "Awọn birr ti Ethiopia",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santims"
+	},
+	"EUR": {
+		"name": "Euro",
+		"name_plural": "Awọn euro",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"FJD": {
+		"name": "Dọla ti Fiji",
+		"name_plural": "Awọn dọla ti Fiji",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"FKP": {
+		"name": "Pound ti Falkland Islands",
+		"name_plural": "Awọn pound ti Falkland Islands",
+		"subunit_name": "penny",
+		"subunit_name_plural": "pence"
+	},
+	"GBP": {
+		"name": "Pound ti Britain",
+		"name_plural": "Awọn pound ti Britain",
+		"subunit_name": "penny",
+		"subunit_name_plural": "pence"
+	},
+	"GEL": {
+		"name": "Lari ti Georgia",
+		"name_plural": "Awọn lari ti Georgia",
+		"subunit_name": "tetri",
+		"subunit_name_plural": "tetri"
+	},
+	"GHS": {
+		"name": "Cedi ti Ghana",
+		"name_plural": "Awọn cedi ti Ghana",
+		"subunit_name": "pesewa",
+		"subunit_name_plural": "pesewas"
+	},
+	"GIP": {
+		"name": "Pound ti Gibraltar",
+		"name_plural": "Awọn pound ti Gibraltar",
+		"subunit_name": "penny",
+		"subunit_name_plural": "pence"
+	},
+	"GMD": {
+		"name": "Dalasi ti Gambia",
+		"name_plural": "Awọn dalasi ti Gambia",
+		"subunit_name": "butut",
+		"subunit_name_plural": "bututs"
+	},
+	"GNF": {
+		"name": "Faransì ti Guinea",
+		"name_plural": "Awọn faransì ti Guinea",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"GTQ": {
+		"name": "Quetzal ti Guatemala",
+		"name_plural": "Awọn quetzal ti Guatemala",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"GYD": {
+		"name": "Dọla ti Guyana",
+		"name_plural": "Awọn dọla ti Guyana",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"HKD": {
+		"name": "Dọla ti Hong Kong",
+		"name_plural": "Awọn dọla ti Hong Kong",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"HNL": {
+		"name": "Lempira ti Honduras",
+		"name_plural": "Awọn lempira ti Honduras",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"HRK": {
+		"name": "Kuna ti Croatia",
+		"name_plural": "Awọn kuna ti Croatia",
+		"subunit_name": "lipa",
+		"subunit_name_plural": "lipa"
+	},
+	"HTG": {
+		"name": "Gourde ti Haiti",
+		"name_plural": "Awọn gourde ti Haiti",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"HUF": {
+		"name": "Forint ti Hungary",
+		"name_plural": "Awọn forint ti Hungary",
+		"subunit_name": "fillér",
+		"subunit_name_plural": "fillér"
+	},
+	"IDR": {
+		"name": "Rupiah ti Indonesia",
+		"name_plural": "Awọn rupiah ti Indonesia",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"ILS": {
+		"name": "Shekel ti Israel",
+		"name_plural": "Awọn shekel ti Israel",
+		"subunit_name": "agora",
+		"subunit_name_plural": "agorot"
+	},
+	"INR": {
+		"name": "Rúpìì ti India",
+		"name_plural": "Awọn rúpìì ti India",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paise"
+	},
+	"IQD": {
+		"name": "Dínà ti Iraq",
+		"name_plural": "Awọn dínà ti Iraq",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"IRR": {
+		"name": "Rial ti Iran",
+		"name_plural": "Awọn rial ti Iran",
+		"subunit_name": "dinar",
+		"subunit_name_plural": "dinars"
+	},
+	"ISK": {
+		"name": "Króna ti Iceland",
+		"name_plural": "Awọn krónur ti Iceland",
+		"subunit_name": "eyrir",
+		"subunit_name_plural": "aurar"
+	},
+	"JMD": {
+		"name": "Dọla ti Jamaica",
+		"name_plural": "Awọn dọla ti Jamaica",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"JOD": {
+		"name": "Dínà ti Jordan",
+		"name_plural": "Awọn dínà ti Jordan",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"JPY": {
+		"name": "Yen ti Japan",
+		"name_plural": "Awọn yen ti Japan",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KES": {
+		"name": "Shilling ti Kenya",
+		"name_plural": "Awọn shilling ti Kenya",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"KGS": {
+		"name": "Som ti Kyrgyzstan",
+		"name_plural": "Awọn som ti Kyrgyzstan",
+		"subunit_name": "tyiyn",
+		"subunit_name_plural": "tyiyn"
+	},
+	"KHR": {
+		"name": "Riel ti Cambodia",
+		"name_plural": "Awọn riel ti Cambodia",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KMF": {
+		"name": "Faransì ti Comoros",
+		"name_plural": "Awọn faransì ti Comoros",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"KPW": {
+		"name": "Won ti North Korea",
+		"name_plural": "Awọn won ti North Korea",
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeon"
+	},
+	"KRW": {
+		"name": "Won ti South Korea",
+		"name_plural": "Awọn won ti South Korea",
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeon"
+	},
+	"KWD": {
+		"name": "Dínà ti Kuwait",
+		"name_plural": "Awọn dínà ti Kuwait",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"KYD": {
+		"name": "Dọla ti Cayman Islands",
+		"name_plural": "Awọn dọla ti Cayman Islands",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"KZT": {
+		"name": "Tenge ti Kazakhstan",
+		"name_plural": "Awọn tenge ti Kazakhstan",
+		"subunit_name": "tiyn",
+		"subunit_name_plural": "tiyn"
+	},
+	"LAK": {
+		"name": "Kip ti Laos",
+		"name_plural": "Awọn kip ti Laos",
+		"subunit_name": "att",
+		"subunit_name_plural": "att"
+	},
+	"LBP": {
+		"name": "Pound ti Lebanon",
+		"name_plural": "Awọn pound ti Lebanon",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastres"
+	},
+	"LKR": {
+		"name": "Rúpìì ti Sri Lanka",
+		"name_plural": "Awọn rúpìì ti Sri Lanka",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"LRD": {
+		"name": "Dọla ti Liberia",
+		"name_plural": "Awọn dọla ti Liberia",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"LSL": {
+		"name": "Loti ti Lesotho",
+		"name_plural": "Awọn loti ti Lesotho",
+		"subunit_name": "sente",
+		"subunit_name_plural": "lisente"
+	},
+	"LYD": {
+		"name": "Dínà ti Libya",
+		"name_plural": "Awọn dínà ti Libya",
+		"subunit_name": "dirham",
+		"subunit_name_plural": "dirhams"
+	},
+	"MAD": {
+		"name": "Dírámù ti Morocco",
+		"name_plural": "Awọn dírámù ti Morocco",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"MDL": {
+		"name": "Leu ti Moldova",
+		"name_plural": "Awọn leu ti Moldova",
+		"subunit_name": "ban",
+		"subunit_name_plural": "bani"
+	},
+	"MGA": {
+		"name": "Ariary ti Madagascar",
+		"name_plural": "Awọn ariary ti Madagascar",
+		"subunit_name": "iraimbilanja",
+		"subunit_name_plural": "iraimbilanja"
+	},
+	"MKD": {
+		"name": "Denar ti Macedonia",
+		"name_plural": "Awọn denar ti Macedonia",
+		"subunit_name": "deni",
+		"subunit_name_plural": "deni"
+	},
+	"MMK": {
+		"name": "Kyat ti Myanmar",
+		"name_plural": "Awọn kyat ti Myanmar",
+		"subunit_name": "pya",
+		"subunit_name_plural": "pya"
+	},
+	"MNT": {
+		"name": "Tugrik ti Mongolia",
+		"name_plural": "Awọn tugrik ti Mongolia",
+		"subunit_name": "möngö",
+		"subunit_name_plural": "möngö"
+	},
+	"MOP": {
+		"name": "Pataca ti Macau",
+		"name_plural": "Awọn pataca ti Macau",
+		"subunit_name": "avo",
+		"subunit_name_plural": "avos"
+	},
+	"MRU": {
+		"name": "Ouguiya ti Mauritania",
+		"name_plural": "Awọn ouguiya ti Mauritania",
+		"subunit_name": "khoums",
+		"subunit_name_plural": "khoums"
+	},
+	"MUR": {
+		"name": "Rúpìì ti Mauritius",
+		"name_plural": "Awọn rúpìì ti Mauritius",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"MVR": {
+		"name": "Rufiyaa ti Maldives",
+		"name_plural": "Awọn rufiyaa ti Maldives",
+		"subunit_name": "laari",
+		"subunit_name_plural": "laari"
+	},
+	"MWK": {
+		"name": "Kwacha ti Malawi",
+		"name_plural": "Awọn kwacha ti Malawi",
+		"subunit_name": "tambala",
+		"subunit_name_plural": "tambala"
+	},
+	"MXN": {
+		"name": "Peso ti Mexico",
+		"name_plural": "Awọn peso ti Mexico",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"MYR": {
+		"name": "Ringgit ti Malaysia",
+		"name_plural": "Awọn ringgit ti Malaysia",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"MZN": {
+		"name": "Metical ti Mozambique",
+		"name_plural": "Awọn metical ti Mozambique",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"NAD": {
+		"name": "Dọla ti Namibia",
+		"name_plural": "Awọn dọla ti Namibia",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"NGN": {
+		"name": "Naira ti Nigeria",
+		"name_plural": "Awọn naira ti Nigeria",
+		"subunit_name": "kobo",
+		"subunit_name_plural": "kobo"
+	},
+	"NIO": {
+		"name": "Córdoba ti Nicaragua",
+		"name_plural": "Awọn córdoba ti Nicaragua",
+		"subunit_name": "centavo",
+		"subunit_name_plural": "centavos"
+	},
+	"NOK": {
+		"name": "Krone ti Norway",
+		"name_plural": "Awọn kroner ti Norway",
+		"subunit_name": "øre",
+		"subunit_name_plural": "øre"
+	},
+	"NPR": {
+		"name": "Rúpìì ti Nepal",
+		"name_plural": "Awọn rúpìì ti Nepal",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisa"
+	},
+	"NZD": {
+		"name": "Dọla ti New Zealand",
+		"name_plural": "Awọn dọla ti New Zealand",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"OMR": {
+		"name": "Rial ti Oman",
+		"name_plural": "Awọn rial ti Oman",
+		"subunit_name": "baisa",
+		"subunit_name_plural": "baisa"
+	},
+	"PAB": {
+		"name": "Balboa ti Panama",
+		"name_plural": "Awọn balboa ti Panama",
+		"subunit_name": "centésimo",
+		"subunit_name_plural": "centésimos"
+	},
+	"PEN": {
+		"name": "Sol ti Peru",
+		"name_plural": "Awọn sol ti Peru",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimos"
+	},
+	"PGK": {
+		"name": "Kina ti Papua New Guinea",
+		"name_plural": "Awọn kina ti Papua New Guinea",
+		"subunit_name": "toea",
+		"subunit_name_plural": "toea"
+	},
+	"PHP": {
+		"name": "Peso ti Philippines",
+		"name_plural": "Awọn peso ti Philippines",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimos"
+	},
+	"PKR": {
+		"name": "Rúpìì ti Pakistan",
+		"name_plural": "Awọn rúpìì ti Pakistan",
+		"subunit_name": "paisa",
+		"subunit_name_plural": "paisa"
+	},
+	"PLN": {
+		"name": "Zloty ti Poland",
+		"name_plural": "Awọn zloty ti Poland",
+		"subunit_name": "grosz",
+		"subunit_name_plural": "groszy"
+	},
+	"PYG": {
+		"name": "Guarani ti Paraguay",
+		"name_plural": "Awọn guarani ti Paraguay",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimos"
+	},
+	"QAR": {
+		"name": "Rial ti Qatar",
+		"name_plural": "Awọn rial ti Qatar",
+		"subunit_name": "dirham",
+		"subunit_name_plural": "dirhams"
+	},
+	"RON": {
+		"name": "Leu ti Romania",
+		"name_plural": "Awọn leu ti Romania",
+		"subunit_name": "ban",
+		"subunit_name_plural": "bani"
+	},
+	"RSD": {
+		"name": "Dínà ti Serbia",
+		"name_plural": "Awọn dínà ti Serbia",
+		"subunit_name": "para",
+		"subunit_name_plural": "para"
+	},
+	"RUB": {
+		"name": "Ruble ti Russia",
+		"name_plural": "Awọn ruble ti Russia",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopecks"
+	},
+	"RWF": {
+		"name": "Faransì ti Rwanda",
+		"name_plural": "Awọn faransì ti Rwanda",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"SAR": {
+		"name": "Riyal ti Saudi Arabia",
+		"name_plural": "Awọn riyal ti Saudi Arabia",
+		"subunit_name": "halala",
+		"subunit_name_plural": "halalas"
+	},
+	"SBD": {
+		"name": "Dọla ti Solomon Islands",
+		"name_plural": "Awọn dọla ti Solomon Islands",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"SCR": {
+		"name": "Rúpìì ti Seychelles",
+		"name_plural": "Awọn rúpìì ti Seychelles",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"SDG": {
+		"name": "Pound ti Sudan",
+		"name_plural": "Awọn pound ti Sudan",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastres"
+	},
+	"SEK": {
+		"name": "Krona ti Sweden",
+		"name_plural": "Awọn kronor ti Sweden",
+		"subunit_name": "öre",
+		"subunit_name_plural": "öre"
+	},
+	"SGD": {
+		"name": "Dọla ti Singapore",
+		"name_plural": "Awọn dọla ti Singapore",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"SHP": {
+		"name": "Pound ti St. Helena",
+		"name_plural": "Awọn pound ti St. Helena",
+		"subunit_name": "penny",
+		"subunit_name_plural": "pence"
+	},
+	"SLL": {
+		"name": "Leone ti Sierra Leone",
+		"name_plural": "Awọn leone ti Sierra Leone",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"SOS": {
+		"name": "Shilling ti Somalia",
+		"name_plural": "Awọn shilling ti Somalia",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"SRD": {
+		"name": "Dọla ti Suriname",
+		"name_plural": "Awọn dọla ti Suriname",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"SSP": {
+		"name": "Pound ti South Sudan",
+		"name_plural": "Awọn pound ti South Sudan",
+		"subunit_name": "piaster",
+		"subunit_name_plural": "piasters"
+	},
+	"STN": {
+		"name": "Dobra ti São Tomé & Príncipe",
+		"name_plural": "Awọn dobra ti São Tomé & Príncipe",
+		"subunit_name": "cêntimo",
+		"subunit_name_plural": "cêntimos"
+	},
+	"SYP": {
+		"name": "Pound ti Syria",
+		"name_plural": "Awọn pound ti Syria",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastres"
+	},
+	"SZL": {
+		"name": "Lilangeni ti Eswatini",
+		"name_plural": "Awọn emalangeni ti Eswatini",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"THB": {
+		"name": "Baht ti Thailand",
+		"name_plural": "Awọn baht ti Thailand",
+		"subunit_name": "satang",
+		"subunit_name_plural": "satang"
+	},
+	"TJS": {
+		"name": "Somoni ti Tajikistan",
+		"name_plural": "Awọn somoni ti Tajikistan",
+		"subunit_name": "diram",
+		"subunit_name_plural": "dirams"
+	},
+	"TMT": {
+		"name": "Manat ti Turkmenistan",
+		"name_plural": "Awọn manat ti Turkmenistan",
+		"subunit_name": "tenge",
+		"subunit_name_plural": "tenge"
+	},
+	"TND": {
+		"name": "Dínà ti Tunisia",
+		"name_plural": "Awọn dínà ti Tunisia",
+		"subunit_name": "millime",
+		"subunit_name_plural": "millimes"
+	},
+	"TOP": {
+		"name": "Paʻanga ti Tonga",
+		"name_plural": "Awọn paʻanga ti Tonga",
+		"subunit_name": "seniti",
+		"subunit_name_plural": "seniti"
+	},
+	"TRY": {
+		"name": "Lira ti Turkey",
+		"name_plural": "Awọn lira ti Turkey",
+		"subunit_name": "kuruş",
+		"subunit_name_plural": "kuruş"
+	},
+	"TTD": {
+		"name": "Dọla ti Trinidad & Tobago",
+		"name_plural": "Awọn dọla ti Trinidad & Tobago",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"TWD": {
+		"name": "Dọla ti Taiwan",
+		"name_plural": "Awọn dọla ti Taiwan",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"TZS": {
+		"name": "Shilling ti Tanzania",
+		"name_plural": "Awọn shilling ti Tanzania",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"UAH": {
+		"name": "Hryvnia ti Ukraine",
+		"name_plural": "Awọn hryvnia ti Ukraine",
+		"subunit_name": "kopeck",
+		"subunit_name_plural": "kopecks"
+	},
+	"UGX": {
+		"name": "Shilling ti Uganda",
+		"name_plural": "Awọn shilling ti Uganda",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"USD": {
+		"name": "Dọla ti Amẹrika",
+		"name_plural": "Awọn dọla ti Amẹrika",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"UYU": {
+		"name": "Peso ti Uruguay",
+		"name_plural": "Awọn peso ti Uruguay",
+		"subunit_name": "centésimo",
+		"subunit_name_plural": "centésimos"
+	},
+	"UZS": {
+		"name": "Som ti Uzbekistan",
+		"name_plural": "Awọn som ti Uzbekistan",
+		"subunit_name": "tiyin",
+		"subunit_name_plural": "tiyin"
+	},
+	"VES": {
+		"name": "Bolívar ti Venezuela",
+		"name_plural": "Awọn bolívar ti Venezuela",
+		"subunit_name": "céntimo",
+		"subunit_name_plural": "céntimos"
+	},
+	"VND": {
+		"name": "Dong ti Vietnam",
+		"name_plural": "Awọn dong ti Vietnam",
+		"subunit_name": "hào",
+		"subunit_name_plural": "hào"
+	},
+	"VUV": {
+		"name": "Vatu ti Vanuatu",
+		"name_plural": "Awọn vatu ti Vanuatu",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"WST": {
+		"name": "Tala ti Samoa",
+		"name_plural": "Awọn tala ti Samoa",
+		"subunit_name": "sene",
+		"subunit_name_plural": "sene"
+	},
+	"XAF": {
+		"name": "Faransì CFA ti Central Africa",
+		"name_plural": "Awọn faransì CFA ti Central Africa",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"XCD": {
+		"name": "Dọla ti East Caribbean",
+		"name_plural": "Awọn dọla ti East Caribbean",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"XOF": {
+		"name": "Faransì CFA ti West Africa",
+		"name_plural": "Awọn faransì CFA ti West Africa",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"XPF": {
+		"name": "Faransì CFP",
+		"name_plural": "Awọn faransì CFP",
+		"subunit_name": "centime",
+		"subunit_name_plural": "centimes"
+	},
+	"YER": {
+		"name": "Rial ti Yemen",
+		"name_plural": "Awọn rial ti Yemen",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"ZAR": {
+		"name": "Rand ti South Africa",
+		"name_plural": "Awọn rand ti South Africa",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	},
+	"ZMW": {
+		"name": "Kwacha ti Zambia",
+		"name_plural": "Awọn kwacha ti Zambia",
+		"subunit_name": "ngwee",
+		"subunit_name_plural": "ngwee"
+	},
+	"ZWL": {
+		"name": "Dọla ti Zimbabwe",
+		"name_plural": "Awọn dọla ti Zimbabwe",
+		"subunit_name": "cent",
+		"subunit_name_plural": "cents"
+	}
+}

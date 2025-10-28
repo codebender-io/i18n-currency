@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "i-Dirham yase-UAE",
+		"name_plural": "ama-Dirham ase-UAE",
+		"subunit_name": "i-fils",
+		"subunit_name_plural": "ama-fils"
+	},
+	"AFN": {
+		"name": "i-Afghani yase-Afghanistan",
+		"name_plural": "ama-Afghani ase-Afghanistan",
+		"subunit_name": "i-pul",
+		"subunit_name_plural": "ama-pul"
+	},
+	"ALL": {
+		"name": "i-Lek yase-Albania",
+		"name_plural": "ama-Lek ase-Albania",
+		"subunit_name": "i-qindarkë",
+		"subunit_name_plural": "ama-qindarkë"
+	},
+	"AMD": {
+		"name": "i-Dram yase-Armenia",
+		"name_plural": "ama-Dram ase-Armenia",
+		"subunit_name": "i-luma",
+		"subunit_name_plural": "ama-luma"
+	},
+	"ANG": {
+		"name": "i-Guilder yase-Netherlands Antilles",
+		"name_plural": "ama-Guilder ase-Netherlands Antilles",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"AOA": {
+		"name": "i-Kwanza yase-Angola",
+		"name_plural": "ama-Kwanza ase-Angola",
+		"subunit_name": "i-cêntimo",
+		"subunit_name_plural": "ama-cêntimo"
+	},
+	"ARS": {
+		"name": "i-Peso yase-Argentina",
+		"name_plural": "ama-Peso ase-Argentina",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"AUD": {
+		"name": "i-Dola yase-Australia",
+		"name_plural": "ama-Dola ase-Australia",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"AWG": {
+		"name": "i-Florin yase-Aruba",
+		"name_plural": "ama-Florin ase-Aruba",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"AZN": {
+		"name": "i-Manat yase-Azerbaijan",
+		"name_plural": "ama-Manat ase-Azerbaijan",
+		"subunit_name": "i-qəpik",
+		"subunit_name_plural": "ama-qəpik"
+	},
+	"BAM": {
+		"name": "i-Mark ephindwayo yase-Bosnia ne-Herzegovina",
+		"name_plural": "ama-Mark ephindwayo ase-Bosnia ne-Herzegovina",
+		"subunit_name": "i-fening",
+		"subunit_name_plural": "ama-fening"
+	},
+	"BBD": {
+		"name": "i-Dola yase-Barbados",
+		"name_plural": "ama-Dola ase-Barbados",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"BDT": {
+		"name": "i-Taka yase-Bangladesh",
+		"name_plural": "ama-Taka ase-Bangladesh",
+		"subunit_name": "i-poisha",
+		"subunit_name_plural": "ama-poisha"
+	},
+	"BGN": {
+		"name": "i-Lev yase-Bulgaria",
+		"name_plural": "ama-Lev ase-Bulgaria",
+		"subunit_name": "i-stotinka",
+		"subunit_name_plural": "ama-stotinki"
+	},
+	"BHD": {
+		"name": "i-Dinar yase-Bahrain",
+		"name_plural": "ama-Dinar ase-Bahrain",
+		"subunit_name": "i-fils",
+		"subunit_name_plural": "ama-fils"
+	},
+	"BIF": {
+		"name": "i-Franc yase-Burundi",
+		"name_plural": "ama-Franc ase-Burundi",
+		"subunit_name": "i-centime",
+		"subunit_name_plural": "ama-centime"
+	},
+	"BMD": {
+		"name": "i-Dola yase-Bermuda",
+		"name_plural": "ama-Dola ase-Bermuda",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"BND": {
+		"name": "i-Dola yase-Brunei",
+		"name_plural": "ama-Dola ase-Brunei",
+		"subunit_name": "i-sen",
+		"subunit_name_plural": "ama-sen"
+	},
+	"BOB": {
+		"name": "i-Boliviano yase-Bolivia",
+		"name_plural": "ama-Boliviano ase-Bolivia",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"BRL": {
+		"name": "i-Real yase-Brazil",
+		"name_plural": "ama-Real ase-Brazil",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"BSD": {
+		"name": "i-Dola yase-Bahamas",
+		"name_plural": "ama-Dola ase-Bahamas",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"BTN": {
+		"name": "i-Ngultrum yase-Bhutan",
+		"name_plural": "ama-Ngultrum ase-Bhutan",
+		"subunit_name": "i-chetrum",
+		"subunit_name_plural": "ama-chetrum"
+	},
+	"BWP": {
+		"name": "i-Pula yase-Botswana",
+		"name_plural": "ama-Pula ase-Botswana",
+		"subunit_name": "i-thebe",
+		"subunit_name_plural": "ama-thebe"
+	},
+	"BYN": {
+		"name": "i-Ruble yase-Belarus",
+		"name_plural": "ama-Ruble ase-Belarus",
+		"subunit_name": "i-kopeck",
+		"subunit_name_plural": "ama-kopeck"
+	},
+	"BZD": {
+		"name": "i-Dola yase-Belize",
+		"name_plural": "ama-Dola ase-Belize",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"CAD": {
+		"name": "i-Dola yase-Canada",
+		"name_plural": "ama-Dola ase-Canada",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"CDF": {
+		"name": "i-Franc yase-Congo",
+		"name_plural": "ama-Franc ase-Congo",
+		"subunit_name": "i-centime",
+		"subunit_name_plural": "ama-centime"
+	},
+	"CHF": {
+		"name": "i-Franc yase-Switzerland",
+		"name_plural": "ama-Franc ase-Switzerland",
+		"subunit_name": "i-rappen",
+		"subunit_name_plural": "ama-rappen"
+	},
+	"CLP": {
+		"name": "i-Peso yase-Chile",
+		"name_plural": "ama-Peso ase-Chile",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"CNY": {
+		"name": "i-Yuan yase-China",
+		"name_plural": "ama-Yuan ase-China",
+		"subunit_name": "i-fen",
+		"subunit_name_plural": "ama-fen"
+	},
+	"COP": {
+		"name": "i-Peso yase-Colombia",
+		"name_plural": "ama-Peso ase-Colombia",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"CRC": {
+		"name": "i-Colón yase-Costa Rica",
+		"name_plural": "ama-Colón ase-Costa Rica",
+		"subunit_name": "i-céntimo",
+		"subunit_name_plural": "ama-céntimo"
+	},
+	"CUC": {
+		"name": "i-Peso ephindwayo yase-Cuba",
+		"name_plural": "ama-Peso ephindwayo ase-Cuba",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"CUP": {
+		"name": "i-Peso yase-Cuba",
+		"name_plural": "ama-Peso ase-Cuba",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"CVE": {
+		"name": "i-Escudo yase-Cape Verde",
+		"name_plural": "ama-Escudo ase-Cape Verde",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"CZK": {
+		"name": "i-Koruna yase-Czech Republic",
+		"name_plural": "ama-Koruna ase-Czech Republic",
+		"subunit_name": "i-haléř",
+		"subunit_name_plural": "ama-haléře"
+	},
+	"DJF": {
+		"name": "i-Franc yase-Djibouti",
+		"name_plural": "ama-Franc ase-Djibouti",
+		"subunit_name": "i-centime",
+		"subunit_name_plural": "ama-centime"
+	},
+	"DKK": {
+		"name": "i-Krone yase-Denmark",
+		"name_plural": "ama-Krone ase-Denmark",
+		"subunit_name": "i-øre",
+		"subunit_name_plural": "ama-øre"
+	},
+	"DOP": {
+		"name": "i-Peso yase-Dominican Republic",
+		"name_plural": "ama-Peso ase-Dominican Republic",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"DZD": {
+		"name": "i-Dinar yase-Algeria",
+		"name_plural": "ama-Dinar ase-Algeria",
+		"subunit_name": "i-centime",
+		"subunit_name_plural": "ama-centime"
+	},
+	"EGP": {
+		"name": "i-Pondo yase-Egypt",
+		"name_plural": "ama-Pondo ase-Egypt",
+		"subunit_name": "i-piastre",
+		"subunit_name_plural": "ama-piastre"
+	},
+	"ERN": {
+		"name": "i-Nakfa yase-Eritrea",
+		"name_plural": "ama-Nakfa ase-Eritrea",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"ETB": {
+		"name": "i-Birr yase-Ethiopia",
+		"name_plural": "ama-Birr ase-Ethiopia",
+		"subunit_name": "i-santim",
+		"subunit_name_plural": "ama-santim"
+	},
+	"EUR": {
+		"name": "i-Euro",
+		"name_plural": "ama-Euro",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"FJD": {
+		"name": "i-Dola yase-Fiji",
+		"name_plural": "ama-Dola ase-Fiji",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"FKP": {
+		"name": "i-Pondo yase-Falkland Islands",
+		"name_plural": "ama-Pondo ase-Falkland Islands",
+		"subunit_name": "i-penny",
+		"subunit_name_plural": "ama-pence"
+	},
+	"GBP": {
+		"name": "i-Pondo yase-UK",
+		"name_plural": "ama-Pondo ase-UK",
+		"subunit_name": "i-penny",
+		"subunit_name_plural": "ama-pence"
+	},
+	"GEL": {
+		"name": "i-Lari yase-Georgia",
+		"name_plural": "ama-Lari ase-Georgia",
+		"subunit_name": "i-tetri",
+		"subunit_name_plural": "ama-tetri"
+	},
+	"GHS": {
+		"name": "i-Cedi yase-Ghana",
+		"name_plural": "ama-Cedi ase-Ghana",
+		"subunit_name": "i-pesewa",
+		"subunit_name_plural": "ama-pesewa"
+	},
+	"GIP": {
+		"name": "i-Pondo yase-Gibraltar",
+		"name_plural": "ama-Pondo ase-Gibraltar",
+		"subunit_name": "i-penny",
+		"subunit_name_plural": "ama-pence"
+	},
+	"GMD": {
+		"name": "i-Dalasi yase-Gambia",
+		"name_plural": "ama-Dalasi ase-Gambia",
+		"subunit_name": "i-butut",
+		"subunit_name_plural": "ama-butut"
+	},
+	"GNF": {
+		"name": "i-Franc yase-Guinea",
+		"name_plural": "ama-Franc ase-Guinea",
+		"subunit_name": "i-centime",
+		"subunit_name_plural": "ama-centime"
+	},
+	"GTQ": {
+		"name": "i-Quetzal yase-Guatemala",
+		"name_plural": "ama-Quetzal ase-Guatemala",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"GYD": {
+		"name": "i-Dola yase-Guyana",
+		"name_plural": "ama-Dola ase-Guyana",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"HKD": {
+		"name": "i-Dola yase-Hong Kong",
+		"name_plural": "ama-Dola ase-Hong Kong",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"HNL": {
+		"name": "i-Lempira yase-Honduras",
+		"name_plural": "ama-Lempira ase-Honduras",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"HRK": {
+		"name": "i-Kuna yase-Croatia",
+		"name_plural": "ama-Kuna ase-Croatia",
+		"subunit_name": "i-lipa",
+		"subunit_name_plural": "ama-lipa"
+	},
+	"HTG": {
+		"name": "i-Gourde yase-Haiti",
+		"name_plural": "ama-Gourde ase-Haiti",
+		"subunit_name": "i-centime",
+		"subunit_name_plural": "ama-centime"
+	},
+	"HUF": {
+		"name": "i-Forint yase-Hungary",
+		"name_plural": "ama-Forint ase-Hungary",
+		"subunit_name": "i-fillér",
+		"subunit_name_plural": "ama-fillér"
+	},
+	"IDR": {
+		"name": "i-Rupiah yase-Indonesia",
+		"name_plural": "ama-Rupiah ase-Indonesia",
+		"subunit_name": "i-sen",
+		"subunit_name_plural": "ama-sen"
+	},
+	"ILS": {
+		"name": "i-New Shekel yase-Israel",
+		"name_plural": "ama-New Shekel ase-Israel",
+		"subunit_name": "i-agora",
+		"subunit_name_plural": "ama-agorot"
+	},
+	"INR": {
+		"name": "i-Rupee yase-India",
+		"name_plural": "ama-Rupee ase-India",
+		"subunit_name": "i-paisa",
+		"subunit_name_plural": "ama-paise"
+	},
+	"IQD": {
+		"name": "i-Dinar yase-Iraq",
+		"name_plural": "ama-Dinar ase-Iraq",
+		"subunit_name": "i-fils",
+		"subunit_name_plural": "ama-fils"
+	},
+	"IRR": {
+		"name": "i-Rial yase-Iran",
+		"name_plural": "ama-Rial ase-Iran",
+		"subunit_name": "i-dinar",
+		"subunit_name_plural": "ama-dinar"
+	},
+	"ISK": {
+		"name": "i-Króna yase-Iceland",
+		"name_plural": "ama-Króna ase-Iceland",
+		"subunit_name": "i-eyrir",
+		"subunit_name_plural": "ama-aurar"
+	},
+	"JMD": {
+		"name": "i-Dola yase-Jamaica",
+		"name_plural": "ama-Dola ase-Jamaica",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"JOD": {
+		"name": "i-Dinar yase-Jordan",
+		"name_plural": "ama-Dinar ase-Jordan",
+		"subunit_name": "i-fils",
+		"subunit_name_plural": "ama-fils"
+	},
+	"JPY": {
+		"name": "i-Yen yase-Japan",
+		"name_plural": "ama-Yen ase-Japan",
+		"subunit_name": "i-sen",
+		"subunit_name_plural": "ama-sen"
+	},
+	"KES": {
+		"name": "i-Shilling yase-Kenya",
+		"name_plural": "ama-Shilling ase-Kenya",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"KGS": {
+		"name": "i-Som yase-Kyrgyzstan",
+		"name_plural": "ama-Som ase-Kyrgyzstan",
+		"subunit_name": "i-tyiyn",
+		"subunit_name_plural": "ama-tyiyn"
+	},
+	"KHR": {
+		"name": "i-Riel yase-Cambodia",
+		"name_plural": "ama-Riel ase-Cambodia",
+		"subunit_name": "i-sen",
+		"subunit_name_plural": "ama-sen"
+	},
+	"KMF": {
+		"name": "i-Franc yase-Comoros",
+		"name_plural": "ama-Franc ase-Comoros",
+		"subunit_name": "i-centime",
+		"subunit_name_plural": "ama-centime"
+	},
+	"KPW": {
+		"name": "i-Won yase-North Korea",
+		"name_plural": "ama-Won ase-North Korea",
+		"subunit_name": "i-jeon",
+		"subunit_name_plural": "ama-jeon"
+	},
+	"KRW": {
+		"name": "i-Won yase-South Korea",
+		"name_plural": "ama-Won ase-South Korea",
+		"subunit_name": "i-jeon",
+		"subunit_name_plural": "ama-jeon"
+	},
+	"KWD": {
+		"name": "i-Dinar yase-Kuwait",
+		"name_plural": "ama-Dinar ase-Kuwait",
+		"subunit_name": "i-fils",
+		"subunit_name_plural": "ama-fils"
+	},
+	"KYD": {
+		"name": "i-Dola yase-Cayman Islands",
+		"name_plural": "ama-Dola ase-Cayman Islands",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"KZT": {
+		"name": "i-Tenge yase-Kazakhstan",
+		"name_plural": "ama-Tenge ase-Kazakhstan",
+		"subunit_name": "i-tiyn",
+		"subunit_name_plural": "ama-tiyn"
+	},
+	"LAK": {
+		"name": "i-Kip yase-Laos",
+		"name_plural": "ama-Kip ase-Laos",
+		"subunit_name": "i-att",
+		"subunit_name_plural": "ama-att"
+	},
+	"LBP": {
+		"name": "i-Pondo yase-Lebanon",
+		"name_plural": "ama-Pondo ase-Lebanon",
+		"subunit_name": "i-piastre",
+		"subunit_name_plural": "ama-piastre"
+	},
+	"LKR": {
+		"name": "i-Rupee yase-Sri Lanka",
+		"name_plural": "ama-Rupee ase-Sri Lanka",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"LRD": {
+		"name": "i-Dola yase-Liberia",
+		"name_plural": "ama-Dola ase-Liberia",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"LSL": {
+		"name": "i-Loti yase-Lesotho",
+		"name_plural": "ama-Loti ase-Lesotho",
+		"subunit_name": "i-sente",
+		"subunit_name_plural": "ama-lisente"
+	},
+	"LYD": {
+		"name": "i-Dinar yase-Libya",
+		"name_plural": "ama-Dinar ase-Libya",
+		"subunit_name": "i-dirham",
+		"subunit_name_plural": "ama-dirham"
+	},
+	"MAD": {
+		"name": "i-Dirham yase-Morocco",
+		"name_plural": "ama-Dirham ase-Morocco",
+		"subunit_name": "i-centime",
+		"subunit_name_plural": "ama-centime"
+	},
+	"MDL": {
+		"name": "i-Leu yase-Moldova",
+		"name_plural": "ama-Leu ase-Moldova",
+		"subunit_name": "i-ban",
+		"subunit_name_plural": "ama-bani"
+	},
+	"MGA": {
+		"name": "i-Ariary yase-Madagascar",
+		"name_plural": "ama-Ariary ase-Madagascar",
+		"subunit_name": "i-iraimbilanja",
+		"subunit_name_plural": "ama-iraimbilanja"
+	},
+	"MKD": {
+		"name": "i-Denar yase-Macedonia",
+		"name_plural": "ama-Denar ase-Macedonia",
+		"subunit_name": "i-deni",
+		"subunit_name_plural": "ama-deni"
+	},
+	"MMK": {
+		"name": "i-Kyat yase-Myanmar",
+		"name_plural": "ama-Kyat ase-Myanmar",
+		"subunit_name": "i-pya",
+		"subunit_name_plural": "ama-pya"
+	},
+	"MNT": {
+		"name": "i-Tugrik yase-Mongolia",
+		"name_plural": "ama-Tugrik ase-Mongolia",
+		"subunit_name": "i-möngö",
+		"subunit_name_plural": "ama-möngö"
+	},
+	"MOP": {
+		"name": "i-Pataca yase-Macau",
+		"name_plural": "ama-Pataca ase-Macau",
+		"subunit_name": "i-avo",
+		"subunit_name_plural": "ama-avos"
+	},
+	"MRU": {
+		"name": "i-Ouguiya yase-Mauritania",
+		"name_plural": "ama-Ouguiya ase-Mauritania",
+		"subunit_name": "i-khoums",
+		"subunit_name_plural": "ama-khoums"
+	},
+	"MUR": {
+		"name": "i-Rupee yase-Mauritius",
+		"name_plural": "ama-Rupee ase-Mauritius",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"MVR": {
+		"name": "i-Rufiyaa yase-Maldives",
+		"name_plural": "ama-Rufiyaa ase-Maldives",
+		"subunit_name": "i-laari",
+		"subunit_name_plural": "ama-laari"
+	},
+	"MWK": {
+		"name": "i-Kwacha yase-Malawi",
+		"name_plural": "ama-Kwacha ase-Malawi",
+		"subunit_name": "i-tambala",
+		"subunit_name_plural": "ama-tambala"
+	},
+	"MXN": {
+		"name": "i-Peso yase-Mexico",
+		"name_plural": "ama-Peso ase-Mexico",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"MYR": {
+		"name": "i-Ringgit yase-Malaysia",
+		"name_plural": "ama-Ringgit ase-Malaysia",
+		"subunit_name": "i-sen",
+		"subunit_name_plural": "ama-sen"
+	},
+	"MZN": {
+		"name": "i-Metical yase-Mozambique",
+		"name_plural": "ama-Metical ase-Mozambique",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"NAD": {
+		"name": "i-Dola yase-Namibia",
+		"name_plural": "ama-Dola ase-Namibia",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"NGN": {
+		"name": "i-Naira yase-Nigeria",
+		"name_plural": "ama-Naira ase-Nigeria",
+		"subunit_name": "i-kobo",
+		"subunit_name_plural": "ama-kobo"
+	},
+	"NIO": {
+		"name": "i-Córdoba yase-Nicaragua",
+		"name_plural": "ama-Córdoba ase-Nicaragua",
+		"subunit_name": "i-centavo",
+		"subunit_name_plural": "ama-centavo"
+	},
+	"NOK": {
+		"name": "i-Krone yase-Norway",
+		"name_plural": "ama-Krone ase-Norway",
+		"subunit_name": "i-øre",
+		"subunit_name_plural": "ama-øre"
+	},
+	"NPR": {
+		"name": "i-Rupee yase-Nepal",
+		"name_plural": "ama-Rupee ase-Nepal",
+		"subunit_name": "i-paisa",
+		"subunit_name_plural": "ama-paisa"
+	},
+	"NZD": {
+		"name": "i-Dola yase-New Zealand",
+		"name_plural": "ama-Dola ase-New Zealand",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"OMR": {
+		"name": "i-Rial yase-Oman",
+		"name_plural": "ama-Rial ase-Oman",
+		"subunit_name": "i-baisa",
+		"subunit_name_plural": "ama-baisa"
+	},
+	"PAB": {
+		"name": "i-Balboa yase-Panama",
+		"name_plural": "ama-Balboa ase-Panama",
+		"subunit_name": "i-centésimo",
+		"subunit_name_plural": "ama-centésimo"
+	},
+	"PEN": {
+		"name": "i-Sol yase-Peru",
+		"name_plural": "ama-Sol ase-Peru",
+		"subunit_name": "i-céntimo",
+		"subunit_name_plural": "ama-céntimo"
+	},
+	"PGK": {
+		"name": "i-Kina yase-Papua New Guinea",
+		"name_plural": "ama-Kina ase-Papua New Guinea",
+		"subunit_name": "i-toea",
+		"subunit_name_plural": "ama-toea"
+	},
+	"PHP": {
+		"name": "i-Peso yase-Philippines",
+		"name_plural": "ama-Peso ase-Philippines",
+		"subunit_name": "i-sentimo",
+		"subunit_name_plural": "ama-sentimos"
+	},
+	"PKR": {
+		"name": "i-Rupee yase-Pakistan",
+		"name_plural": "ama-Rupee ase-Pakistan",
+		"subunit_name": "i-paisa",
+		"subunit_name_plural": "ama-paisa"
+	},
+	"PLN": {
+		"name": "i-Zloty yase-Poland",
+		"name_plural": "ama-Zloty ase-Poland",
+		"subunit_name": "i-grosz",
+		"subunit_name_plural": "ama-groszy"
+	},
+	"PYG": {
+		"name": "i-Guarani yase-Paraguay",
+		"name_plural": "ama-Guarani ase-Paraguay",
+		"subunit_name": "i-céntimo",
+		"subunit_name_plural": "ama-céntimo"
+	},
+	"QAR": {
+		"name": "i-Rial yase-Qatar",
+		"name_plural": "ama-Rial ase-Qatar",
+		"subunit_name": "i-dirham",
+		"subunit_name_plural": "ama-dirham"
+	},
+	"RON": {
+		"name": "i-Leu yase-Romania",
+		"name_plural": "ama-Leu ase-Romania",
+		"subunit_name": "i-ban",
+		"subunit_name_plural": "ama-bani"
+	},
+	"RSD": {
+		"name": "i-Dinar yase-Serbia",
+		"name_plural": "ama-Dinar ase-Serbia",
+		"subunit_name": "i-para",
+		"subunit_name_plural": "ama-para"
+	},
+	"RUB": {
+		"name": "i-Ruble yase-Russia",
+		"name_plural": "ama-Ruble ase-Russia",
+		"subunit_name": "i-kopeck",
+		"subunit_name_plural": "ama-kopeck"
+	},
+	"RWF": {
+		"name": "i-Franc yase-Rwanda",
+		"name_plural": "ama-Franc ase-Rwanda",
+		"subunit_name": "i-centime",
+		"subunit_name_plural": "ama-centime"
+	},
+	"SAR": {
+		"name": "i-Riyal yase-Saudi Arabia",
+		"name_plural": "ama-Riyal ase-Saudi Arabia",
+		"subunit_name": "i-halala",
+		"subunit_name_plural": "ama-halalas"
+	},
+	"SBD": {
+		"name": "i-Dola yase-Solomon Islands",
+		"name_plural": "ama-Dola ase-Solomon Islands",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"SCR": {
+		"name": "i-Rupee yase-Seychelles",
+		"name_plural": "ama-Rupee ase-Seychelles",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"SDG": {
+		"name": "i-Pondo yase-Sudan",
+		"name_plural": "ama-Pondo ase-Sudan",
+		"subunit_name": "i-piastre",
+		"subunit_name_plural": "ama-piastre"
+	},
+	"SEK": {
+		"name": "i-Krona yase-Sweden",
+		"name_plural": "ama-Krona ase-Sweden",
+		"subunit_name": "i-öre",
+		"subunit_name_plural": "ama-öre"
+	},
+	"SGD": {
+		"name": "i-Dola yase-Singapore",
+		"name_plural": "ama-Dola ase-Singapore",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"SHP": {
+		"name": "i-Pondo yase-St. Helena",
+		"name_plural": "ama-Pondo ase-St. Helena",
+		"subunit_name": "i-penny",
+		"subunit_name_plural": "ama-pence"
+	},
+	"SLL": {
+		"name": "i-Leone yase-Sierra Leone",
+		"name_plural": "ama-Leone ase-Sierra Leone",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"SOS": {
+		"name": "i-Shilling yase-Somalia",
+		"name_plural": "ama-Shilling ase-Somalia",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"SRD": {
+		"name": "i-Dola yase-Suriname",
+		"name_plural": "ama-Dola ase-Suriname",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"SSP": {
+		"name": "i-Pondo yase-South Sudan",
+		"name_plural": "ama-Pondo ase-South Sudan",
+		"subunit_name": "i-piaster",
+		"subunit_name_plural": "ama-piasters"
+	},
+	"STN": {
+		"name": "i-Dobra yase-São Tomé & Príncipe",
+		"name_plural": "ama-Dobra ase-São Tomé & Príncipe",
+		"subunit_name": "i-cêntimo",
+		"subunit_name_plural": "ama-cêntimo"
+	},
+	"SYP": {
+		"name": "i-Pondo yase-Syria",
+		"name_plural": "ama-Pondo ase-Syria",
+		"subunit_name": "i-piastre",
+		"subunit_name_plural": "ama-piastre"
+	},
+	"SZL": {
+		"name": "i-Lilangeni yase-eSwatini",
+		"name_plural": "ama-Lilangeni ase-eSwatini",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"THB": {
+		"name": "i-Baht yase-Thailand",
+		"name_plural": "ama-Baht ase-Thailand",
+		"subunit_name": "i-satang",
+		"subunit_name_plural": "ama-satang"
+	},
+	"TJS": {
+		"name": "i-Somoni yase-Tajikistan",
+		"name_plural": "ama-Somoni ase-Tajikistan",
+		"subunit_name": "i-diram",
+		"subunit_name_plural": "ama-diram"
+	},
+	"TMT": {
+		"name": "i-Manat yase-Turkmenistan",
+		"name_plural": "ama-Manat ase-Turkmenistan",
+		"subunit_name": "i-tenge",
+		"subunit_name_plural": "ama-tenge"
+	},
+	"TND": {
+		"name": "i-Dinar yase-Tunisia",
+		"name_plural": "ama-Dinar ase-Tunisia",
+		"subunit_name": "i-millime",
+		"subunit_name_plural": "ama-millimes"
+	},
+	"TOP": {
+		"name": "i-Paʻanga yase-Tonga",
+		"name_plural": "ama-Paʻanga ase-Tonga",
+		"subunit_name": "i-seniti",
+		"subunit_name_plural": "ama-seniti"
+	},
+	"TRY": {
+		"name": "i-Lira yase-Turkey",
+		"name_plural": "ama-Lira ase-Turkey",
+		"subunit_name": "i-kuruş",
+		"subunit_name_plural": "ama-kuruş"
+	},
+	"TTD": {
+		"name": "i-Dola yase-Trinidad ne-Tobago",
+		"name_plural": "ama-Dola ase-Trinidad ne-Tobago",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"TWD": {
+		"name": "i-Dola yase-Taiwan",
+		"name_plural": "ama-Dola ase-Taiwan",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"TZS": {
+		"name": "i-Shilling yase-Tanzania",
+		"name_plural": "ama-Shilling ase-Tanzania",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"UAH": {
+		"name": "i-Hryvnia yase-Ukraine",
+		"name_plural": "ama-Hryvnia ase-Ukraine",
+		"subunit_name": "i-kopeck",
+		"subunit_name_plural": "ama-kopeck"
+	},
+	"UGX": {
+		"name": "i-Shilling yase-Uganda",
+		"name_plural": "ama-Shilling ase-Uganda",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"USD": {
+		"name": "i-Dola yase-US",
+		"name_plural": "ama-Dola ase-US",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"UYU": {
+		"name": "i-Peso yase-Uruguay",
+		"name_plural": "ama-Peso ase-Uruguay",
+		"subunit_name": "i-centésimo",
+		"subunit_name_plural": "ama-centésimo"
+	},
+	"UZS": {
+		"name": "i-Som yase-Uzbekistan",
+		"name_plural": "ama-Som ase-Uzbekistan",
+		"subunit_name": "i-tiyin",
+		"subunit_name_plural": "ama-tiyin"
+	},
+	"VES": {
+		"name": "i-Bolívar yase-Venezuela",
+		"name_plural": "ama-Bolívar ase-Venezuela",
+		"subunit_name": "i-céntimo",
+		"subunit_name_plural": "ama-céntimo"
+	},
+	"VND": {
+		"name": "i-Dong yase-Vietnam",
+		"name_plural": "ama-Dong ase-Vietnam",
+		"subunit_name": "i-hào",
+		"subunit_name_plural": "ama-hào"
+	},
+	"VUV": {
+		"name": "i-Vatu yase-Vanuatu",
+		"name_plural": "ama-Vatu ase-Vanuatu",
+		"subunit_name": "i-centime",
+		"subunit_name_plural": "ama-centime"
+	},
+	"WST": {
+		"name": "i-Tala yase-Samoa",
+		"name_plural": "ama-Tala ase-Samoa",
+		"subunit_name": "i-sene",
+		"subunit_name_plural": "ama-sene"
+	},
+	"XAF": {
+		"name": "i-CFA Franc yase-Central Africa",
+		"name_plural": "ama-CFA Franc ase-Central Africa",
+		"subunit_name": "i-centime",
+		"subunit_name_plural": "ama-centime"
+	},
+	"XCD": {
+		"name": "i-Dola yase-East Caribbean",
+		"name_plural": "ama-Dola ase-East Caribbean",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"XOF": {
+		"name": "i-CFA Franc yase-West Africa",
+		"name_plural": "ama-CFA Franc ase-West Africa",
+		"subunit_name": "i-centime",
+		"subunit_name_plural": "ama-centime"
+	},
+	"XPF": {
+		"name": "i-CFP Franc",
+		"name_plural": "ama-CFP Franc",
+		"subunit_name": "i-centime",
+		"subunit_name_plural": "ama-centime"
+	},
+	"YER": {
+		"name": "i-Rial yase-Yemen",
+		"name_plural": "ama-Rial ase-Yemen",
+		"subunit_name": "i-fils",
+		"subunit_name_plural": "ama-fils"
+	},
+	"ZAR": {
+		"name": "i-Rand yase-South Africa",
+		"name_plural": "ama-Rand ase-South Africa",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	},
+	"ZMW": {
+		"name": "i-Kwacha yase-Zambia",
+		"name_plural": "ama-Kwacha ase-Zambia",
+		"subunit_name": "i-ngwee",
+		"subunit_name_plural": "ama-ngwee"
+	},
+	"ZWL": {
+		"name": "i-Dola yase-Zimbabwe",
+		"name_plural": "ama-Dola ase-Zimbabwe",
+		"subunit_name": "i-cent",
+		"subunit_name_plural": "ama-cent"
+	}
+}

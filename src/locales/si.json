@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "එක්සත් අරාබි එමීර් දිර්හම්",
+		"name_plural": "එක්සත් අරාබි එමීර් දිර්හම්",
+		"subunit_name": "ෆිල්ස්",
+		"subunit_name_plural": "ෆිල්ස්"
+	},
+	"AFN": {
+		"name": "අෆ්ගාන් අෆ්ගානි",
+		"name_plural": "අෆ්ගාන් අෆ්ගානි",
+		"subunit_name": "පුල්",
+		"subunit_name_plural": "පුල්"
+	},
+	"ALL": {
+		"name": "ඇල්බේනියානු ලෙක්",
+		"name_plural": "ඇල්බේනියානු ලෙක්",
+		"subunit_name": "ක්වින්ඩාර්කා",
+		"subunit_name_plural": "ක්වින්ඩාර්කා"
+	},
+	"AMD": {
+		"name": "ආර්මේනියානු ඩ්‍රෑම්",
+		"name_plural": "ආර්මේනියානු ඩ්‍රෑම්",
+		"subunit_name": "ලූමා",
+		"subunit_name_plural": "ලූමා"
+	},
+	"ANG": {
+		"name": "නෙදර්ලන්ත ඇන්ටිලීස් ගිල්ඩර්",
+		"name_plural": "නෙදර්ලන්ත ඇන්ටිලීස් ගිල්ඩර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"AOA": {
+		"name": "ඇන්ගෝලානු ක්වාන්සා",
+		"name_plural": "ඇන්ගෝලානු ක්වාන්සා",
+		"subunit_name": "සෙන්ටිමෝ",
+		"subunit_name_plural": "සෙන්ටිමෝ"
+	},
+	"ARS": {
+		"name": "ඇර්ජන්ටිනා පෙසෝ",
+		"name_plural": "ඇර්ජන්ටිනා පෙසෝ",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"AUD": {
+		"name": "ඔස්ට්‍රේලියානු ඩොලර්",
+		"name_plural": "ඔස්ට්‍රේලියානු ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"AWG": {
+		"name": "ඇරූබානු ෆ්ලොරින්",
+		"name_plural": "ඇරූබානු ෆ්ලොරින්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"AZN": {
+		"name": "අසර්බයිජාන් මනත්",
+		"name_plural": "අසර්බයිජාන් මනත්",
+		"subunit_name": "කැපික්",
+		"subunit_name_plural": "කැපික්"
+	},
+	"BAM": {
+		"name": "බොස්නියා-හර්සෙගෝවිනා පරිවර්තනීය මාර්ක්",
+		"name_plural": "බොස්නියා-හර්සෙගෝවිනා පරිවර්තනීය මාර්ක්",
+		"subunit_name": "ෆෙනින්ග්",
+		"subunit_name_plural": "ෆෙනින්ග්"
+	},
+	"BBD": {
+		"name": "බාර්බැඩියානු ඩොලර්",
+		"name_plural": "බාර්බැඩියානු ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"BDT": {
+		"name": "බංග්ලාදේශ් ටාකා",
+		"name_plural": "බංග්ලාදේශ් ටාකා",
+		"subunit_name": "පොයිෂා",
+		"subunit_name_plural": "පොයිෂා"
+	},
+	"BGN": {
+		"name": "බල්ගේරියානු ලෙව්",
+		"name_plural": "බල්ගේරියානු ලෙව්",
+		"subunit_name": "ස්ටොටින්කා",
+		"subunit_name_plural": "ස්ටොටින්කා"
+	},
+	"BHD": {
+		"name": "බහ්‍රායින් දිනාර්",
+		"name_plural": "බහ්‍රායින් දිනාර්",
+		"subunit_name": "ෆිල්ස්",
+		"subunit_name_plural": "ෆිල්ස්"
+	},
+	"BIF": {
+		"name": "බුරුන්ඩි ෆ්‍රෑන්ක්",
+		"name_plural": "බුරුන්ඩි ෆ්‍රෑන්ක්",
+		"subunit_name": "සෙන්ටිම්",
+		"subunit_name_plural": "සෙන්ටිම්"
+	},
+	"BMD": {
+		"name": "බර්මියුඩානු ඩොලර්",
+		"name_plural": "බර්මියුඩානු ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"BND": {
+		"name": "බ්‍රූනායි ඩොලර්",
+		"name_plural": "බ්‍රූනායි ඩොලර්",
+		"subunit_name": "සෙන්",
+		"subunit_name_plural": "සෙන්"
+	},
+	"BOB": {
+		"name": "බොලිවියානු බොලිවියානෝ",
+		"name_plural": "බොලිවියානු බොලිවියානෝ",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"BRL": {
+		"name": "බ්‍රසීලියානු රියල්",
+		"name_plural": "බ්‍රසීලියානු රියල්",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"BSD": {
+		"name": "බහාමාස් ඩොලර්",
+		"name_plural": "බහාමාස් ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"BTN": {
+		"name": "භූතාන් න්ගුල්ට්‍රම්",
+		"name_plural": "භූතාන් න්ගුල්ට්‍රම්",
+		"subunit_name": "චෙත්‍රම්",
+		"subunit_name_plural": "චෙත්‍රම්"
+	},
+	"BWP": {
+		"name": "බොට්ස්වානා පූලා",
+		"name_plural": "බොට්ස්වානා පූලා",
+		"subunit_name": "තෙබේ",
+		"subunit_name_plural": "තෙබේ"
+	},
+	"BYN": {
+		"name": "බෙලාරුසියානු රුබල්",
+		"name_plural": "බෙලාරුසියානු රුබල්",
+		"subunit_name": "කොපෙක්",
+		"subunit_name_plural": "කොපෙක්"
+	},
+	"BZD": {
+		"name": "බෙලීස් ඩොලර්",
+		"name_plural": "බෙලීස් ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"CAD": {
+		"name": "කැනඩා ඩොලර්",
+		"name_plural": "කැනඩා ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"CDF": {
+		"name": "කොංගෝ ෆ්‍රෑන්ක්",
+		"name_plural": "කොංගෝ ෆ්‍රෑන්ක්",
+		"subunit_name": "සෙන්ටිම්",
+		"subunit_name_plural": "සෙන්ටිම්"
+	},
+	"CHF": {
+		"name": "ස්විස් ෆ්‍රෑන්ක්",
+		"name_plural": "ස්විස් ෆ්‍රෑන්ක්",
+		"subunit_name": "රැපන්",
+		"subunit_name_plural": "රැපන්"
+	},
+	"CLP": {
+		"name": "චිලියානු පෙසෝ",
+		"name_plural": "චිලියානු පෙසෝ",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"CNY": {
+		"name": "චීන යුවාන්",
+		"name_plural": "චීන යුවාන්",
+		"subunit_name": "ෆෙන්",
+		"subunit_name_plural": "ෆෙන්"
+	},
+	"COP": {
+		"name": "කොලොම්බියානු පෙසෝ",
+		"name_plural": "කොලොම්බියානු පෙසෝ",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"CRC": {
+		"name": "කොස්ටා රිකානු කොලෝන්",
+		"name_plural": "කොස්ටා රිකානු කොලෝන්",
+		"subunit_name": "සෙන්ටිමෝ",
+		"subunit_name_plural": "සෙන්ටිමෝ"
+	},
+	"CUC": {
+		"name": "කියුබානු පරිවර්තනීය පෙසෝ",
+		"name_plural": "කියුබානු පරිවර්තනීය පෙසෝ",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"CUP": {
+		"name": "කියුබානු පෙසෝ",
+		"name_plural": "කියුබානු පෙසෝ",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"CVE": {
+		"name": "කේප් වර්ඩියානු එස්කුඩෝ",
+		"name_plural": "කේප් වර්ඩියානු එස්කුඩෝ",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"CZK": {
+		"name": "චෙක් කොරුනා",
+		"name_plural": "චෙක් කොරුනා",
+		"subunit_name": "හලෙර්",
+		"subunit_name_plural": "හලෙර්"
+	},
+	"DJF": {
+		"name": "ජිබූටි ෆ්‍රෑන්ක්",
+		"name_plural": "ජිබූටි ෆ්‍රෑන්ක්",
+		"subunit_name": "සෙන්ටිම්",
+		"subunit_name_plural": "සෙන්ටිම්"
+	},
+	"DKK": {
+		"name": "ඩැනිෂ් ක්‍රෝන්",
+		"name_plural": "ඩැනිෂ් ක්‍රෝනර්",
+		"subunit_name": "ඕරේ",
+		"subunit_name_plural": "ඕරේ"
+	},
+	"DOP": {
+		"name": "ඩොමිනිකන් පෙසෝ",
+		"name_plural": "ඩොමිනිකන් පෙසෝ",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"DZD": {
+		"name": "ඇල්ජීරියානු දිනාර්",
+		"name_plural": "ඇල්ජීරියානු දිනාර්",
+		"subunit_name": "සෙන්ටිම්",
+		"subunit_name_plural": "සෙන්ටිම්"
+	},
+	"EGP": {
+		"name": "ඊජිප්තු පවුම්",
+		"name_plural": "ඊජිප්තු පවුම්",
+		"subunit_name": "පියස්ටර්",
+		"subunit_name_plural": "පියස්ටර්"
+	},
+	"ERN": {
+		"name": "ඊරිත්‍රියානු නක්ෆා",
+		"name_plural": "ඊරිත්‍රියානු නක්ෆා",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"ETB": {
+		"name": "ඊතියෝපියානු බිර්",
+		"name_plural": "ඊතියෝපියානු බිර්",
+		"subunit_name": "සන්තිම්",
+		"subunit_name_plural": "සන්තිම්"
+	},
+	"EUR": {
+		"name": "යුරෝ",
+		"name_plural": "යුරෝ",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"FJD": {
+		"name": "ෆිජි ඩොලර්",
+		"name_plural": "ෆිජි ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"FKP": {
+		"name": "ෆොක්ලන්ඩ් දූපත් පවුම්",
+		"name_plural": "ෆොක්ලන්ඩ් දූපත් පවුම්",
+		"subunit_name": "පෙනි",
+		"subunit_name_plural": "පෙන්ස්"
+	},
+	"GBP": {
+		"name": "බ්‍රිතාන්‍ය පවුම්",
+		"name_plural": "බ්‍රිතාන්‍ය පවුම්",
+		"subunit_name": "පෙනි",
+		"subunit_name_plural": "පෙන්ස්"
+	},
+	"GEL": {
+		"name": "ජෝර්ජියානු ලාරි",
+		"name_plural": "ජෝර්ජියානු ලාරි",
+		"subunit_name": "ටෙට්‍රි",
+		"subunit_name_plural": "ටෙට්‍රි"
+	},
+	"GHS": {
+		"name": "ඝානා සෙඩි",
+		"name_plural": "ඝානා සෙඩි",
+		"subunit_name": "පෙසෙවා",
+		"subunit_name_plural": "පෙසෙවා"
+	},
+	"GIP": {
+		"name": "ජිබ්‍රෝල්ටාර් පවුම්",
+		"name_plural": "ජිබ්‍රෝල්ටාර් පවුම්",
+		"subunit_name": "පෙනි",
+		"subunit_name_plural": "පෙන්ස්"
+	},
+	"GMD": {
+		"name": "ගැම්බියානු ඩලාසි",
+		"name_plural": "ගැම්බියානු ඩලාසි",
+		"subunit_name": "බූටුට්",
+		"subunit_name_plural": "බූටුට්"
+	},
+	"GNF": {
+		"name": "ගිනියානු ෆ්‍රෑන්ක්",
+		"name_plural": "ගිනියානු ෆ්‍රෑන්ක්",
+		"subunit_name": "සෙන්ටිම්",
+		"subunit_name_plural": "සෙන්ටිම්"
+	},
+	"GTQ": {
+		"name": "ගුවාතෙමාලානු ක්වෙට්සාල්",
+		"name_plural": "ගුවාතෙමාලානු ක්වෙට්සාල්",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"GYD": {
+		"name": "ගයියානා ඩොලර්",
+		"name_plural": "ගයියානා ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"HKD": {
+		"name": "හොංකොං ඩොලර්",
+		"name_plural": "හොංකොං ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"HNL": {
+		"name": "හොන්ඩුරාස් ලෙම්පිරා",
+		"name_plural": "හොන්ඩුරාස් ලෙම්පිරා",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"HRK": {
+		"name": "ක්‍රෝෂියානු කුනා",
+		"name_plural": "ක්‍රෝෂියානු කුනා",
+		"subunit_name": "ලිපා",
+		"subunit_name_plural": "ලිපා"
+	},
+	"HTG": {
+		"name": "හයිටියානු ගෝඩ්",
+		"name_plural": "හයිටියානු ගෝඩ්",
+		"subunit_name": "සෙන්ටිම්",
+		"subunit_name_plural": "සෙන්ටිම්"
+	},
+	"HUF": {
+		"name": "හංගේරියානු ෆොරින්ට්",
+		"name_plural": "හංගේරියානු ෆොරින්ට්",
+		"subunit_name": "ෆිල්ලර්",
+		"subunit_name_plural": "ෆිල්ලර්"
+	},
+	"IDR": {
+		"name": "ඉන්දුනීසියානු රුපියල්",
+		"name_plural": "ඉන්දුනීසියානු රුපියල්",
+		"subunit_name": "සෙන්",
+		"subunit_name_plural": "සෙන්"
+	},
+	"ILS": {
+		"name": "ඉස්‍රායල් නව ෂෙකල්",
+		"name_plural": "ඉස්‍රායල් නව ෂෙකල්",
+		"subunit_name": "අගෝරා",
+		"subunit_name_plural": "අගෝරොට්"
+	},
+	"INR": {
+		"name": "ඉන්දියානු රුපියල්",
+		"name_plural": "ඉන්දියානු රුපියල්",
+		"subunit_name": "පයිසා",
+		"subunit_name_plural": "පයිසේ"
+	},
+	"IQD": {
+		"name": "ඉරාක් දිනාර්",
+		"name_plural": "ඉරාක් දිනාර්",
+		"subunit_name": "ෆිල්ස්",
+		"subunit_name_plural": "ෆිල්ස්"
+	},
+	"IRR": {
+		"name": "ඉරාන රියල්",
+		"name_plural": "ඉරාන රියල්",
+		"subunit_name": "දිනාර්",
+		"subunit_name_plural": "දිනාර්"
+	},
+	"ISK": {
+		"name": "අයිස්ලන්ත ක්‍රෝනා",
+		"name_plural": "අයිස්ලන්ත ක්‍රෝනුර්",
+		"subunit_name": "එයිරිර්",
+		"subunit_name_plural": "ඕරාර්"
+	},
+	"JMD": {
+		"name": "ජමායිකානු ඩොලර්",
+		"name_plural": "ජමායිකානු ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"JOD": {
+		"name": "ජෝර්ඩානියානු දිනාර්",
+		"name_plural": "ජෝර්ඩානියානු දිනාර්",
+		"subunit_name": "ෆිල්ස්",
+		"subunit_name_plural": "ෆිල්ස්"
+	},
+	"JPY": {
+		"name": "ජපන් යෙන්",
+		"name_plural": "ජපන් යෙන්",
+		"subunit_name": "සෙන්",
+		"subunit_name_plural": "සෙන්"
+	},
+	"KES": {
+		"name": "කෙනියානු ෂිලින්",
+		"name_plural": "කෙනියානු ෂිලින්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"KGS": {
+		"name": "කිර්ගිස්තාන් සෝම්",
+		"name_plural": "කිර්ගිස්තාන් සෝම්",
+		"subunit_name": "තියින්",
+		"subunit_name_plural": "තියින්"
+	},
+	"KHR": {
+		"name": "කාම්බෝජ රියල්",
+		"name_plural": "කාම්බෝජ රියල්",
+		"subunit_name": "සෙන්",
+		"subunit_name_plural": "සෙන්"
+	},
+	"KMF": {
+		"name": "කොමෝරෝස් ෆ්‍රෑන්ක්",
+		"name_plural": "කොමෝරෝස් ෆ්‍රෑන්ක්",
+		"subunit_name": "සෙන්ටිම්",
+		"subunit_name_plural": "සෙන්ටිම්"
+	},
+	"KPW": {
+		"name": "උතුරු කොරියානු වොන්",
+		"name_plural": "උතුරු කොරියානු වොන්",
+		"subunit_name": "ජොන්",
+		"subunit_name_plural": "ජොන්"
+	},
+	"KRW": {
+		"name": "දකුණු කොරියානු වොන්",
+		"name_plural": "දකුණු කොරියානු වොන්",
+		"subunit_name": "ජොන්",
+		"subunit_name_plural": "ජොන්"
+	},
+	"KWD": {
+		"name": "කුවේට් දිනාර්",
+		"name_plural": "කුවේට් දිනාර්",
+		"subunit_name": "ෆිල්ස්",
+		"subunit_name_plural": "ෆිල්ස්"
+	},
+	"KYD": {
+		"name": "කේමන් දූපත් ඩොලර්",
+		"name_plural": "කේමන් දූපත් ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"KZT": {
+		"name": "කසාක්ස්තාන් ටෙන්ගේ",
+		"name_plural": "කසාක්ස්තාන් ටෙන්ගේ",
+		"subunit_name": "තියින්",
+		"subunit_name_plural": "තියින්"
+	},
+	"LAK": {
+		"name": "ලාඕස් කිප්",
+		"name_plural": "ලාඕස් කිප්",
+		"subunit_name": "අත්",
+		"subunit_name_plural": "අත්"
+	},
+	"LBP": {
+		"name": "ලෙබනන් පවුම්",
+		"name_plural": "ලෙබනන් පවුම්",
+		"subunit_name": "පියස්ටර්",
+		"subunit_name_plural": "පියස්ටර්"
+	},
+	"LKR": {
+		"name": "ශ්‍රී ලංකා රුපියල්",
+		"name_plural": "ශ්‍රී ලංකා රුපියල්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"LRD": {
+		"name": "ලයිබීරියානු ඩොලර්",
+		"name_plural": "ලයිබීරියානු ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"LSL": {
+		"name": "ලෙසෝතෝ ලෝටි",
+		"name_plural": "ලෙසෝතෝ ලෝටි",
+		"subunit_name": "සෙන්ටේ",
+		"subunit_name_plural": "ලිසෙන්ටේ"
+	},
+	"LYD": {
+		"name": "ලිබියානු දිනාර්",
+		"name_plural": "ලිබියානු දිනාර්",
+		"subunit_name": "දිර්හම්",
+		"subunit_name_plural": "දිර්හම්"
+	},
+	"MAD": {
+		"name": "මොරොක්කෝ දිර්හම්",
+		"name_plural": "මොරොක්කෝ දිර්හම්",
+		"subunit_name": "සෙන්ටිම්",
+		"subunit_name_plural": "සෙන්ටිම්"
+	},
+	"MDL": {
+		"name": "මොල්ඩෝවානු ලෙව්",
+		"name_plural": "මොල්ඩෝවානු ලෙව්",
+		"subunit_name": "බෑන්",
+		"subunit_name_plural": "බෑනි"
+	},
+	"MGA": {
+		"name": "මැඩගස්කර් ඇරියාරි",
+		"name_plural": "මැඩගස්කර් ඇරියාරි",
+		"subunit_name": "ඉරයිම්බිලන්ජා",
+		"subunit_name_plural": "ඉරයිම්බිලන්ජා"
+	},
+	"MKD": {
+		"name": "මැසඩෝනියානු දෙනාර්",
+		"name_plural": "මැසඩෝනියානු දෙනාර්",
+		"subunit_name": "දෙනි",
+		"subunit_name_plural": "දෙනි"
+	},
+	"MMK": {
+		"name": "මියන්මාර් ක්‍යට්",
+		"name_plural": "මියන්මාර් ක්‍යට්",
+		"subunit_name": "ප්‍යා",
+		"subunit_name_plural": "ප්‍යා"
+	},
+	"MNT": {
+		"name": "මොන්ගෝලියානු ටුග්‍රික්",
+		"name_plural": "මොන්ගෝලියානු ටුග්‍රික්",
+		"subunit_name": "මොන්ගෝ",
+		"subunit_name_plural": "මොන්ගෝ"
+	},
+	"MOP": {
+		"name": "මකාවු පටාකා",
+		"name_plural": "මකාවු පටාකා",
+		"subunit_name": "අවෝ",
+		"subunit_name_plural": "අවෝ"
+	},
+	"MRU": {
+		"name": "මොරිතානියානු ඔගියා",
+		"name_plural": "මොරිතානියානු ඔගියා",
+		"subunit_name": "ඛෞම්ස්",
+		"subunit_name_plural": "ඛෞම්ස්"
+	},
+	"MUR": {
+		"name": "මොරිෂියස් රුපියල්",
+		"name_plural": "මොරිෂියස් රුපියල්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"MVR": {
+		"name": "මාලිදිව් රුෆියා",
+		"name_plural": "මාලිදිව් රුෆියා",
+		"subunit_name": "ලාරි",
+		"subunit_name_plural": "ලාරි"
+	},
+	"MWK": {
+		"name": "මලාවි ක්වාචා",
+		"name_plural": "මලාවි ක්වාචා",
+		"subunit_name": "තම්බාලා",
+		"subunit_name_plural": "තම්බාලා"
+	},
+	"MXN": {
+		"name": "මෙක්සිකෝ පෙසෝ",
+		"name_plural": "මෙක්සිකෝ පෙසෝ",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"MYR": {
+		"name": "මලේසියානු රින්ගිට්",
+		"name_plural": "මලේසියානු රින්ගිට්",
+		"subunit_name": "සෙන්",
+		"subunit_name_plural": "සෙන්"
+	},
+	"MZN": {
+		"name": "මොසැම්බික් මෙටිකල්",
+		"name_plural": "මොසැම්බික් මෙටිකල්",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"NAD": {
+		"name": "නමීබියානු ඩොලර්",
+		"name_plural": "නමීබියානු ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"NGN": {
+		"name": "නයිජීරියානු නයිරා",
+		"name_plural": "නයිජීරියානු නයිරා",
+		"subunit_name": "කොබෝ",
+		"subunit_name_plural": "කොබෝ"
+	},
+	"NIO": {
+		"name": "නිකරාගුවානු කෝඩෝබා",
+		"name_plural": "නිකරාගුවානු කෝඩෝබා",
+		"subunit_name": "සෙන්ටාවෝ",
+		"subunit_name_plural": "සෙන්ටාවෝ"
+	},
+	"NOK": {
+		"name": "නෝර්වේ ක්‍රෝන්",
+		"name_plural": "නෝර්වේ ක්‍රෝනර්",
+		"subunit_name": "ඕරේ",
+		"subunit_name_plural": "ඕරේ"
+	},
+	"NPR": {
+		"name": "නේපාල රුපියල්",
+		"name_plural": "නේපාල රුපියල්",
+		"subunit_name": "පයිසා",
+		"subunit_name_plural": "පයිසා"
+	},
+	"NZD": {
+		"name": "නවසීලන්ත ඩොලර්",
+		"name_plural": "නවසීලන්ත ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"OMR": {
+		"name": "ඔමාන් රියල්",
+		"name_plural": "ඔමාන් රියල්",
+		"subunit_name": "බයිසා",
+		"subunit_name_plural": "බයිසා"
+	},
+	"PAB": {
+		"name": "පනාමානු බල්බෝවා",
+		"name_plural": "පනාමානු බල්බෝවා",
+		"subunit_name": "සෙන්ටෙසිමෝ",
+		"subunit_name_plural": "සෙන්ටෙසිමෝ"
+	},
+	"PEN": {
+		"name": "පේරු සෝල්",
+		"name_plural": "පේරු සෝල්",
+		"subunit_name": "සෙන්ටිමෝ",
+		"subunit_name_plural": "සෙන්ටිමෝ"
+	},
+	"PGK": {
+		"name": "පැපුවා නව ගිනි කිනා",
+		"name_plural": "පැපුවා නව ගිනි කිනා",
+		"subunit_name": "ටොයා",
+		"subunit_name_plural": "ටොයා"
+	},
+	"PHP": {
+		"name": "ෆිලිපීන පෙසෝ",
+		"name_plural": "ෆිලිපීන පෙසෝ",
+		"subunit_name": "සෙන්ටිමෝ",
+		"subunit_name_plural": "සෙන්ටිමෝ"
+	},
+	"PKR": {
+		"name": "පාකිස්තාන රුපියල්",
+		"name_plural": "පාකිස්තාන රුපියල්",
+		"subunit_name": "පයිසා",
+		"subunit_name_plural": "පයිසා"
+	},
+	"PLN": {
+		"name": "පෝලන්ත ස්ලොටි",
+		"name_plural": "පෝලන්ත ස්ලොටි",
+		"subunit_name": "ග්‍රොෂ්",
+		"subunit_name_plural": "ග්‍රොෂි"
+	},
+	"PYG": {
+		"name": "පැරගුවේ ගුවාරානි",
+		"name_plural": "පැරගුවේ ගුවාරානි",
+		"subunit_name": "සෙන්ටිමෝ",
+		"subunit_name_plural": "සෙන්ටිමෝ"
+	},
+	"QAR": {
+		"name": "කටාර් රියල්",
+		"name_plural": "කටාර් රියල්",
+		"subunit_name": "දිර්හම්",
+		"subunit_name_plural": "දිර්හම්"
+	},
+	"RON": {
+		"name": "රුමේනියානු ලෙව්",
+		"name_plural": "රුමේනියානු ලෙව්",
+		"subunit_name": "බෑන්",
+		"subunit_name_plural": "බෑනි"
+	},
+	"RSD": {
+		"name": "සර්බියානු දිනාර්",
+		"name_plural": "සර්බියානු දිනාර්",
+		"subunit_name": "පාරා",
+		"subunit_name_plural": "පාරා"
+	},
+	"RUB": {
+		"name": "රුසියානු රුබල්",
+		"name_plural": "රුසියානු රුබල්",
+		"subunit_name": "කොපෙක්",
+		"subunit_name_plural": "කොපෙක්"
+	},
+	"RWF": {
+		"name": "රුවන්ඩා ෆ්‍රෑන්ක්",
+		"name_plural": "රුවන්ඩා ෆ්‍රෑන්ක්",
+		"subunit_name": "සෙන්ටිම්",
+		"subunit_name_plural": "සෙන්ටිම්"
+	},
+	"SAR": {
+		"name": "සවුදි රියල්",
+		"name_plural": "සවුදි රියල්",
+		"subunit_name": "හලාලා",
+		"subunit_name_plural": "හලාලා"
+	},
+	"SBD": {
+		"name": "සොලමන් දූපත් ඩොලර්",
+		"name_plural": "සොලමන් දූපත් ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"SCR": {
+		"name": "සේෂෙල්ස් රුපියල්",
+		"name_plural": "සේෂෙල්ස් රුපියල්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"SDG": {
+		"name": "සුඩාන් පවුම්",
+		"name_plural": "සුඩාන් පවුම්",
+		"subunit_name": "පියස්ටර්",
+		"subunit_name_plural": "පියස්ටර්"
+	},
+	"SEK": {
+		"name": "ස්වීඩන් ක්‍රෝනා",
+		"name_plural": "ස්වීඩන් ක්‍රෝනෝර්",
+		"subunit_name": "ඕරේ",
+		"subunit_name_plural": "ඕරේ"
+	},
+	"SGD": {
+		"name": "සිංගප්පූරු ඩොලර්",
+		"name_plural": "සිංගප්පූරු ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"SHP": {
+		"name": "සාන්ත හෙලෙනා පවුම්",
+		"name_plural": "සාන්ත හෙලෙනා පවුම්",
+		"subunit_name": "පෙනි",
+		"subunit_name_plural": "පෙන්ස්"
+	},
+	"SLL": {
+		"name": "සියෙරා ලියොන් ලියෝන්",
+		"name_plural": "සියෙරා ලියොන් ලියෝන්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"SOS": {
+		"name": "සොමාලියානු ෂිලින්",
+		"name_plural": "සොමාලියානු ෂිලින්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"SRD": {
+		"name": "සුරිනාම් ඩොලර්",
+		"name_plural": "සුරිනාම් ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"SSP": {
+		"name": "දකුණු සුඩාන් පවුම්",
+		"name_plural": "දකුණු සුඩාන් පවුම්",
+		"subunit_name": "පියස්ටර්",
+		"subunit_name_plural": "පියස්ටර්"
+	},
+	"STN": {
+		"name": "සාඕ තෝමේ සහ ප්‍රින්සිපේ ඩොබ්‍රා",
+		"name_plural": "සාඕ තෝමේ සහ ප්‍රින්සිපේ ඩොබ්‍රා",
+		"subunit_name": "සෙන්ටිමෝ",
+		"subunit_name_plural": "සෙන්ටිමෝ"
+	},
+	"SYP": {
+		"name": "සිරියානු පවුම්",
+		"name_plural": "සිරියානු පවුම්",
+		"subunit_name": "පියස්ටර්",
+		"subunit_name_plural": "පියස්ටර්"
+	},
+	"SZL": {
+		"name": "ස්වාසිලන්ත ලිලංගෙනි",
+		"name_plural": "ස්වාසිලන්ත එමලංගෙනි",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"THB": {
+		"name": "තායි බාත්",
+		"name_plural": "තායි බාත්",
+		"subunit_name": "සටාං",
+		"subunit_name_plural": "සටාං"
+	},
+	"TJS": {
+		"name": "තාජිකිස්තාන් සෝමෝනි",
+		"name_plural": "තාජිකිස්තාන් සෝමෝනි",
+		"subunit_name": "දිරම්",
+		"subunit_name_plural": "දිරම්"
+	},
+	"TMT": {
+		"name": "තුර්ක්මෙනිස්තාන් මනත්",
+		"name_plural": "තුර්ක්මෙනිස්තාන් මනත්",
+		"subunit_name": "ටෙන්ගේ",
+		"subunit_name_plural": "ටෙන්ගේ"
+	},
+	"TND": {
+		"name": "ටියුනීසියානු දිනාර්",
+		"name_plural": "ටියුනීසියානු දිනාර්",
+		"subunit_name": "මිලිම්",
+		"subunit_name_plural": "මිලිම්"
+	},
+	"TOP": {
+		"name": "ටොංගානු පාංගා",
+		"name_plural": "ටොංගානු පාංගා",
+		"subunit_name": "සෙනිටි",
+		"subunit_name_plural": "සෙනිටි"
+	},
+	"TRY": {
+		"name": "තුර්කි ලිරා",
+		"name_plural": "තුර්කි ලිරා",
+		"subunit_name": "කුරුෂ්",
+		"subunit_name_plural": "කුරුෂ්"
+	},
+	"TTD": {
+		"name": "ට්‍රිනිඩෑඩ් සහ ටොබැගෝ ඩොලර්",
+		"name_plural": "ට්‍රිනිඩෑඩ් සහ ටොබැගෝ ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"TWD": {
+		"name": "නව ටයිවාන් ඩොලර්",
+		"name_plural": "නව ටයිවාන් ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"TZS": {
+		"name": "ටැන්සානියානු ෂිලින්",
+		"name_plural": "ටැන්සානියානු ෂිලින්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"UAH": {
+		"name": "යුක්රේනියානු හ්‍රිව්නියා",
+		"name_plural": "යුක්රේනියානු හ්‍රිව්නියා",
+		"subunit_name": "කොපෙක්",
+		"subunit_name_plural": "කොපෙක්"
+	},
+	"UGX": {
+		"name": "උගන්ඩානු ෂිලින්",
+		"name_plural": "උගන්ඩානු ෂිලින්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"USD": {
+		"name": "ඇමෙරිකානු ඩොලර්",
+		"name_plural": "ඇමෙරිකානු ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"UYU": {
+		"name": "උරුගුවේ පෙසෝ",
+		"name_plural": "උරුගුවේ පෙසෝ",
+		"subunit_name": "සෙන්ටෙසිමෝ",
+		"subunit_name_plural": "සෙන්ටෙසිමෝ"
+	},
+	"UZS": {
+		"name": "උස්බෙකිස්තාන් සෝම්",
+		"name_plural": "උස්බෙකිස්තාන් සෝම්",
+		"subunit_name": "තියින්",
+		"subunit_name_plural": "තියින්"
+	},
+	"VES": {
+		"name": "වෙනිසියුලානු බොලිවාර්",
+		"name_plural": "වෙනිසියුලානු බොලිවාර්",
+		"subunit_name": "සෙන්ටිමෝ",
+		"subunit_name_plural": "සෙන්ටිමෝ"
+	},
+	"VND": {
+		"name": "වියට්නාම් ඩොන්",
+		"name_plural": "වියට්නාම් ඩොන්",
+		"subunit_name": "හාඕ",
+		"subunit_name_plural": "හාඕ"
+	},
+	"VUV": {
+		"name": "වනුවාටු වාටු",
+		"name_plural": "වනුවාටු වාටු",
+		"subunit_name": "සෙන්ටිම්",
+		"subunit_name_plural": "සෙන්ටිම්"
+	},
+	"WST": {
+		"name": "සමෝවානු ටාලා",
+		"name_plural": "සමෝවානු ටාලා",
+		"subunit_name": "සෙනේ",
+		"subunit_name_plural": "සෙනේ"
+	},
+	"XAF": {
+		"name": "මධ්‍යම අප්‍රිකානු CFA ෆ්‍රෑන්ක්",
+		"name_plural": "මධ්‍යම අප්‍රිකානු CFA ෆ්‍රෑන්ක්",
+		"subunit_name": "සෙන්ටිම්",
+		"subunit_name_plural": "සෙන්ටිම්"
+	},
+	"XCD": {
+		"name": "නැගෙනහිර කැරිබියානු ඩොලර්",
+		"name_plural": "නැගෙනහිර කැරිබියානු ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"XOF": {
+		"name": "බටහිර අප්‍රිකානු CFA ෆ්‍රෑන්ක්",
+		"name_plural": "බටහිර අප්‍රිකානු CFA ෆ්‍රෑන්ක්",
+		"subunit_name": "සෙන්ටිම්",
+		"subunit_name_plural": "සෙන්ටිම්"
+	},
+	"XPF": {
+		"name": "CFP ෆ්‍රෑන්ක්",
+		"name_plural": "CFP ෆ්‍රෑන්ක්",
+		"subunit_name": "සෙන්ටිම්",
+		"subunit_name_plural": "සෙන්ටිම්"
+	},
+	"YER": {
+		"name": "යේමන් රියල්",
+		"name_plural": "යේමන් රියල්",
+		"subunit_name": "ෆිල්ස්",
+		"subunit_name_plural": "ෆිල්ස්"
+	},
+	"ZAR": {
+		"name": "දකුණු අප්‍රිකානු රෑන්ඩ්",
+		"name_plural": "දකුණු අප්‍රිකානු රෑන්ඩ්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	},
+	"ZMW": {
+		"name": "සැම්බියානු ක්වාචා",
+		"name_plural": "සැම්බියානු ක්වාචා",
+		"subunit_name": "න්ග්වී",
+		"subunit_name_plural": "න්ග්වී"
+	},
+	"ZWL": {
+		"name": "සිම්බාබ්වේ ඩොලර්",
+		"name_plural": "සිම්බාබ්වේ ඩොලර්",
+		"subunit_name": "සෙන්ට්",
+		"subunit_name_plural": "සෙන්ට්"
+	}
+}

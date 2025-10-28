@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "اماراتی درهم",
+		"name_plural": "اماراتی درهمونه",
+		"subunit_name": "فلس",
+		"subunit_name_plural": "فلسونه"
+	},
+	"AFN": {
+		"name": "افغانی",
+		"name_plural": "افغانۍ",
+		"subunit_name": "پول",
+		"subunit_name_plural": "پولونه"
+	},
+	"ALL": {
+		"name": "البانیایی لیک",
+		"name_plural": "البانیایی لیکونه",
+		"subunit_name": "قیندارکه",
+		"subunit_name_plural": "قیندارکې"
+	},
+	"AMD": {
+		"name": "ارمنیایی درام",
+		"name_plural": "ارمنیایی درامونه",
+		"subunit_name": "لوما",
+		"subunit_name_plural": "لومې"
+	},
+	"ANG": {
+		"name": "هالنډي انټیلین ګیلډر",
+		"name_plural": "هالنډي انټیلین ګیلډرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"AOA": {
+		"name": "انګولیایی کوانزا",
+		"name_plural": "انګولیایی کوانزې",
+		"subunit_name": "سینتیمو",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"ARS": {
+		"name": "ارجنټاینې پیسو",
+		"name_plural": "ارجنټاینې پیسوګانې",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"AUD": {
+		"name": "آسټرالیایی ډالر",
+		"name_plural": "آسټرالیایی ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"AWG": {
+		"name": "اروبایی فلورین",
+		"name_plural": "اروبایی فلورینونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"AZN": {
+		"name": "اذربایجانی منات",
+		"name_plural": "اذربایجانی مناتونه",
+		"subunit_name": "قپیک",
+		"subunit_name_plural": "قپیکونه"
+	},
+	"BAM": {
+		"name": "بوسنیا او هیرزګوینا تبدیل منات",
+		"name_plural": "بوسنیا او هیرزګوینا تبدیل مناتونه",
+		"subunit_name": "فینینګ",
+		"subunit_name_plural": "فینینګونه"
+	},
+	"BBD": {
+		"name": "باربډایی ډالر",
+		"name_plural": "باربډایی ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"BDT": {
+		"name": "بنګلادیشي ټاکا",
+		"name_plural": "بنګلادیشي ټاکاګانې",
+		"subunit_name": "پویشا",
+		"subunit_name_plural": "پویشې"
+	},
+	"BGN": {
+		"name": "بلغاریایی لیف",
+		"name_plural": "بلغاریایی لیفونه",
+		"subunit_name": "ستوتینکا",
+		"subunit_name_plural": "ستوتینکې"
+	},
+	"BHD": {
+		"name": "بحریني دینار",
+		"name_plural": "بحریني دینارونه",
+		"subunit_name": "فلس",
+		"subunit_name_plural": "فلسونه"
+	},
+	"BIF": {
+		"name": "برونديي فرانک",
+		"name_plural": "برونديي فرانکونه",
+		"subunit_name": "سینتیم",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"BMD": {
+		"name": "برمودایی ډالر",
+		"name_plural": "برمودایی ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"BND": {
+		"name": "برونایی ډالر",
+		"name_plural": "برونایی ډالرونه",
+		"subunit_name": "سین",
+		"subunit_name_plural": "سینونه"
+	},
+	"BOB": {
+		"name": "بولیویایی بولیویانو",
+		"name_plural": "بولیویایی بولیویانوګانې",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"BRL": {
+		"name": "برازیلیایی ریال",
+		"name_plural": "برازیلیایی ریالونه",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"BSD": {
+		"name": "باهامی ډالر",
+		"name_plural": "باهامی ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"BTN": {
+		"name": "بوتاني نګولټرم",
+		"name_plural": "بوتاني نګولټرمونه",
+		"subunit_name": "چیتروم",
+		"subunit_name_plural": "چیترومونه"
+	},
+	"BWP": {
+		"name": "بوتسوانایی پولا",
+		"name_plural": "بوتسوانایی پولاګانې",
+		"subunit_name": "تھیبی",
+		"subunit_name_plural": "تھیبی"
+	},
+	"BYN": {
+		"name": "بلاروسي روبل",
+		"name_plural": "بلاروسي روبلونه",
+		"subunit_name": "کوپیک",
+		"subunit_name_plural": "کوپیکونه"
+	},
+	"BZD": {
+		"name": "بلیزي ډالر",
+		"name_plural": "بلیزي ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"CAD": {
+		"name": "کاناډایی ډالر",
+		"name_plural": "کاناډایی ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"CDF": {
+		"name": "کانګویی فرانک",
+		"name_plural": "کانګویی فرانکونه",
+		"subunit_name": "سینتیم",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"CHF": {
+		"name": "سویس فرانک",
+		"name_plural": "سویس فرانکونه",
+		"subunit_name": "راپین",
+		"subunit_name_plural": "راپینونه"
+	},
+	"CLP": {
+		"name": "چیلیایی پیسو",
+		"name_plural": "چیلیایی پیسوګانې",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"CNY": {
+		"name": "چینایی یوان",
+		"name_plural": "چینایی یوانونه",
+		"subunit_name": "فن",
+		"subunit_name_plural": "فنونه"
+	},
+	"COP": {
+		"name": "کولمبیایی پیسو",
+		"name_plural": "کولمبیایی پیسوګانې",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"CRC": {
+		"name": "کوسټاریکایی کولون",
+		"name_plural": "کوسټاریکایی کولونونه",
+		"subunit_name": "سینتیمو",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"CUC": {
+		"name": "کیوبایی تبدیل پیسو",
+		"name_plural": "کیوبایی تبدیل پیسوګانې",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"CUP": {
+		"name": "کیوبایی پیسو",
+		"name_plural": "کیوبایی پیسوګانې",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"CVE": {
+		"name": "کیپ وردي اسکودو",
+		"name_plural": "کیپ وردي اسکودوګانې",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"CZK": {
+		"name": "چېکي کرونا",
+		"name_plural": "چېکي کروناګانې",
+		"subunit_name": "هالیر",
+		"subunit_name_plural": "هالیرې"
+	},
+	"DJF": {
+		"name": "جبوتيي فرانک",
+		"name_plural": "جبوتيي فرانکونه",
+		"subunit_name": "سینتیم",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"DKK": {
+		"name": "ډنمارکي کرون",
+		"name_plural": "ډنمارکي کرونې",
+		"subunit_name": "اور",
+		"subunit_name_plural": "اورې"
+	},
+	"DOP": {
+		"name": "ډومینیکن پیسو",
+		"name_plural": "ډومینیکن پیسوګانې",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"DZD": {
+		"name": "الجزایري دینار",
+		"name_plural": "الجزایري دینارونه",
+		"subunit_name": "سینتیم",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"EGP": {
+		"name": "مصري پونډ",
+		"name_plural": "مصري پونډونه",
+		"subunit_name": "قیرش",
+		"subunit_name_plural": "قیرشونه"
+	},
+	"ERN": {
+		"name": "اریتره‌ایي ناکفا",
+		"name_plural": "اریتره‌ایي ناکفاګانې",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"ETB": {
+		"name": "ایتوپیايي بیر",
+		"name_plural": "ایتوپیايي بیرونه",
+		"subunit_name": "سنتیم",
+		"subunit_name_plural": "سنتیمونه"
+	},
+	"EUR": {
+		"name": "یورو",
+		"name_plural": "یوروګانې",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"FJD": {
+		"name": "فېجي ډالر",
+		"name_plural": "فېجي ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"FKP": {
+		"name": "فاکلینډ ټاپوګانو پونډ",
+		"name_plural": "فاکلینډ ټاپوګانو پونډونه",
+		"subunit_name": "پنی",
+		"subunit_name_plural": "پنس"
+	},
+	"GBP": {
+		"name": "بریتانوي پونډ",
+		"name_plural": "بریتانوي پونډونه",
+		"subunit_name": "پنی",
+		"subunit_name_plural": "پنس"
+	},
+	"GEL": {
+		"name": "جورجیايي لاري",
+		"name_plural": "جورجیايي لاريګانې",
+		"subunit_name": "تتری",
+		"subunit_name_plural": "تتری"
+	},
+	"GHS": {
+		"name": "غنايي سيدي",
+		"name_plural": "غنايي سيديګانې",
+		"subunit_name": "پسوا",
+		"subunit_name_plural": "پسواګانې"
+	},
+	"GIP": {
+		"name": "جبل الطارق پونډ",
+		"name_plural": "جبل الطارق پونډونه",
+		"subunit_name": "پنی",
+		"subunit_name_plural": "پنس"
+	},
+	"GMD": {
+		"name": "ګامبیایی دلاسی",
+		"name_plural": "ګامبیایی دلاسیګانې",
+		"subunit_name": "بوتوت",
+		"subunit_name_plural": "بوتوتونه"
+	},
+	"GNF": {
+		"name": "ګیني فرانک",
+		"name_plural": "ګیني فرانکونه",
+		"subunit_name": "سینتیم",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"GTQ": {
+		"name": "ګواتیمالایی کوېتزال",
+		"name_plural": "ګواتیمالایی کوېتزالونه",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"GYD": {
+		"name": "ګیاني ډالر",
+		"name_plural": "ګیاني ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"HKD": {
+		"name": "هانګ کانګ ډالر",
+		"name_plural": "هانګ کانګ ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"HNL": {
+		"name": "هانډوراسي لیمپیرا",
+		"name_plural": "هانډوراسي لیمپیراګانې",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"HRK": {
+		"name": "کروشیايي کونا",
+		"name_plural": "کروشیايي کوناګانې",
+		"subunit_name": "لیپا",
+		"subunit_name_plural": "لیپې"
+	},
+	"HTG": {
+		"name": "هایتي ګورد",
+		"name_plural": "هایتي ګوردونه",
+		"subunit_name": "سینتیم",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"HUF": {
+		"name": "هنګري فورینټ",
+		"name_plural": "هنګري فورینټونه",
+		"subunit_name": "فیلر",
+		"subunit_name_plural": "فیلرونه"
+	},
+	"IDR": {
+		"name": "اندونیزیایی روپیه",
+		"name_plural": "اندونیزیایی روپیې",
+		"subunit_name": "سین",
+		"subunit_name_plural": "سینونه"
+	},
+	"ILS": {
+		"name": "اسرائیلي نیا شیکل",
+		"name_plural": "اسرائیلي نیا شیکلونه",
+		"subunit_name": "اګورا",
+		"subunit_name_plural": "اګوروت"
+	},
+	"INR": {
+		"name": "هندي روپیه",
+		"name_plural": "هندي روپیې",
+		"subunit_name": "پیسه",
+		"subunit_name_plural": "پیسې"
+	},
+	"IQD": {
+		"name": "عراقي دینار",
+		"name_plural": "عراقي دینارونه",
+		"subunit_name": "فلس",
+		"subunit_name_plural": "فلسونه"
+	},
+	"IRR": {
+		"name": "ایراني ریال",
+		"name_plural": "ایراني ریالونه",
+		"subunit_name": "دینار",
+		"subunit_name_plural": "دینارونه"
+	},
+	"ISK": {
+		"name": "آیسلینډي کرونا",
+		"name_plural": "آیسلینډي کروناګانې",
+		"subunit_name": "ایریر",
+		"subunit_name_plural": "اورار"
+	},
+	"JMD": {
+		"name": "جمیکایی ډالر",
+		"name_plural": "جمیکایی ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"JOD": {
+		"name": "اردني دینار",
+		"name_plural": "اردني دینارونه",
+		"subunit_name": "فلس",
+		"subunit_name_plural": "فلسونه"
+	},
+	"JPY": {
+		"name": "جاپاني ین",
+		"name_plural": "جاپاني ینونه",
+		"subunit_name": "سین",
+		"subunit_name_plural": "سینونه"
+	},
+	"KES": {
+		"name": "کینیايي شلینګ",
+		"name_plural": "کینیايي شلینګونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"KGS": {
+		"name": "قرغزستاني سوم",
+		"name_plural": "قرغزستاني سومونه",
+		"subunit_name": "تین",
+		"subunit_name_plural": "تینونه"
+	},
+	"KHR": {
+		"name": "کمبودیايي ریال",
+		"name_plural": "کمبودیايي ریالونه",
+		"subunit_name": "سین",
+		"subunit_name_plural": "سینونه"
+	},
+	"KMF": {
+		"name": "کوموري فرانک",
+		"name_plural": "کوموري فرانکونه",
+		"subunit_name": "سینتیم",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"KPW": {
+		"name": "شمالي کوریا وون",
+		"name_plural": "شمالي کوریا وونونه",
+		"subunit_name": "چون",
+		"subunit_name_plural": "چونونه"
+	},
+	"KRW": {
+		"name": "سویلي کوریا وون",
+		"name_plural": "سویلي کوریا وونونه",
+		"subunit_name": "جون",
+		"subunit_name_plural": "جونونه"
+	},
+	"KWD": {
+		"name": "کویتي دینار",
+		"name_plural": "کویتي دینارونه",
+		"subunit_name": "فلس",
+		"subunit_name_plural": "فلسونه"
+	},
+	"KYD": {
+		"name": "کیمن ټاپوګانو ډالر",
+		"name_plural": "کیمن ټاپوګانو ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"KZT": {
+		"name": "قزاقستاني تنګه",
+		"name_plural": "قزاقستاني تنګې",
+		"subunit_name": "تین",
+		"subunit_name_plural": "تینونه"
+	},
+	"LAK": {
+		"name": "لاوسی کیپ",
+		"name_plural": "لاوسی کیپونه",
+		"subunit_name": "اټ",
+		"subunit_name_plural": "اټونه"
+	},
+	"LBP": {
+		"name": "لبناني پونډ",
+		"name_plural": "لبناني پونډونه",
+		"subunit_name": "قیرش",
+		"subunit_name_plural": "قیرشونه"
+	},
+	"LKR": {
+		"name": "سریلانکايي روپیه",
+		"name_plural": "سریلانکايي روپیې",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"LRD": {
+		"name": "لایبریايي ډالر",
+		"name_plural": "لایبریايي ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"LSL": {
+		"name": "لیسوتو لوتی",
+		"name_plural": "لیسوتو لوتی",
+		"subunit_name": "سینتی",
+		"subunit_name_plural": "لیسینتی"
+	},
+	"LYD": {
+		"name": "لیبیايي دینار",
+		"name_plural": "لیبیايي دینارونه",
+		"subunit_name": "درهم",
+		"subunit_name_plural": "درهمونه"
+	},
+	"MAD": {
+		"name": "مراکشي درهم",
+		"name_plural": "مراکشي درهمونه",
+		"subunit_name": "سینتیم",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"MDL": {
+		"name": "مولداویايي لیو",
+		"name_plural": "مولداویايي لیوګانې",
+		"subunit_name": "بان",
+		"subunit_name_plural": "بانی"
+	},
+	"MGA": {
+		"name": "مالاګاسي آریاری",
+		"name_plural": "مالاګاسي آریاریګانې",
+		"subunit_name": "ایرایمبیلانجا",
+		"subunit_name_plural": "ایرایمبیلانجا"
+	},
+	"MKD": {
+		"name": "مقدونیايي دینار",
+		"name_plural": "مقدونیايي دینارونه",
+		"subunit_name": "دنی",
+		"subunit_name_plural": "دنی"
+	},
+	"MMK": {
+		"name": "میانمار کیات",
+		"name_plural": "میانمار کیاتونه",
+		"subunit_name": "پیا",
+		"subunit_name_plural": "پیا"
+	},
+	"MNT": {
+		"name": "منګولیايي توګروګ",
+		"name_plural": "منګولیايي توګروګونه",
+		"subunit_name": "منګو",
+		"subunit_name_plural": "منګو"
+	},
+	"MOP": {
+		"name": "ماکانیز پاتاکا",
+		"name_plural": "ماکانیز پاتاکاګانې",
+		"subunit_name": "اوا",
+		"subunit_name_plural": "اواګانې"
+	},
+	"MRU": {
+		"name": "موریتانیايي اوګویا",
+		"name_plural": "موریتانیايي اوګویاګانې",
+		"subunit_name": "خومس",
+		"subunit_name_plural": "خومسونه"
+	},
+	"MUR": {
+		"name": "موریشسی روپیه",
+		"name_plural": "موریشسی روپیې",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"MVR": {
+		"name": "مالدیوي روفیا",
+		"name_plural": "مالدیوي روفیاګانې",
+		"subunit_name": "لاری",
+		"subunit_name_plural": "لاری"
+	},
+	"MWK": {
+		"name": "مالاویي کواچا",
+		"name_plural": "مالاویي کواچاګانې",
+		"subunit_name": "تامبالا",
+		"subunit_name_plural": "تامبالا"
+	},
+	"MXN": {
+		"name": "میکسیکو پیسو",
+		"name_plural": "میکسیکو پیسوګانې",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"MYR": {
+		"name": "مالیزیايي رینګیت",
+		"name_plural": "مالیزیايي رینګیتونه",
+		"subunit_name": "سین",
+		"subunit_name_plural": "سینونه"
+	},
+	"MZN": {
+		"name": "موزمبیقي میتیکل",
+		"name_plural": "موزمبیقي میتیکلونه",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"NAD": {
+		"name": "نامیبیايي ډالر",
+		"name_plural": "نامیبیايي ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"NGN": {
+		"name": "نایجیریايي نایرا",
+		"name_plural": "نایجیریايي نایراګانې",
+		"subunit_name": "کوبو",
+		"subunit_name_plural": "کوبو"
+	},
+	"NIO": {
+		"name": "نکاراګوايي کوردوبا",
+		"name_plural": "نکاراګوايي کوردوباګانې",
+		"subunit_name": "سینتاوو",
+		"subunit_name_plural": "سینتاووګانې"
+	},
+	"NOK": {
+		"name": "نارویژي کرون",
+		"name_plural": "نارویژي کرونې",
+		"subunit_name": "اور",
+		"subunit_name_plural": "اورې"
+	},
+	"NPR": {
+		"name": "نیپالي روپیه",
+		"name_plural": "نیپالي روپیې",
+		"subunit_name": "پیسه",
+		"subunit_name_plural": "پیسې"
+	},
+	"NZD": {
+		"name": "نیوزیلینډي ډالر",
+		"name_plural": "نیوزیلینډي ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"OMR": {
+		"name": "عماني ریال",
+		"name_plural": "عماني ریالونه",
+		"subunit_name": "بیسا",
+		"subunit_name_plural": "بیسا"
+	},
+	"PAB": {
+		"name": "پانامایی بالبوا",
+		"name_plural": "پانامایی بالبواګانې",
+		"subunit_name": "سینتسیمو",
+		"subunit_name_plural": "سینتسیموګانې"
+	},
+	"PEN": {
+		"name": "پیروي سول",
+		"name_plural": "پیروي سولونه",
+		"subunit_name": "سینتیمو",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"PGK": {
+		"name": "پاپوا نیو ګینیايي کینا",
+		"name_plural": "پاپوا نیو ګینیايي کیناګانې",
+		"subunit_name": "تویا",
+		"subunit_name_plural": "تویا"
+	},
+	"PHP": {
+		"name": "فلپیني پیسو",
+		"name_plural": "فلپیني پیسوګانې",
+		"subunit_name": "سینتیمو",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"PKR": {
+		"name": "پاکستاني روپیه",
+		"name_plural": "پاکستاني روپیې",
+		"subunit_name": "پیسه",
+		"subunit_name_plural": "پیسې"
+	},
+	"PLN": {
+		"name": "پولنډي زلوټي",
+		"name_plural": "پولنډي زلوټي",
+		"subunit_name": "ګروش",
+		"subunit_name_plural": "ګروشي"
+	},
+	"PYG": {
+		"name": "پاراګوایي ګوارانی",
+		"name_plural": "پاراګوایي ګوارانیګانې",
+		"subunit_name": "سینتیمو",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"QAR": {
+		"name": "قطري ریال",
+		"name_plural": "قطري ریالونه",
+		"subunit_name": "درهم",
+		"subunit_name_plural": "درهمونه"
+	},
+	"RON": {
+		"name": "رومانیايي لیو",
+		"name_plural": "رومانیايي لیوګانې",
+		"subunit_name": "بان",
+		"subunit_name_plural": "بانی"
+	},
+	"RSD": {
+		"name": "صربي دینار",
+		"name_plural": "صربي دینارونه",
+		"subunit_name": "پارا",
+		"subunit_name_plural": "پارا"
+	},
+	"RUB": {
+		"name": "روسي روبل",
+		"name_plural": "روسي روبلونه",
+		"subunit_name": "کوپیک",
+		"subunit_name_plural": "کوپیکونه"
+	},
+	"RWF": {
+		"name": "روانډايي فرانک",
+		"name_plural": "روانډايي فرانکونه",
+		"subunit_name": "سینتیم",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"SAR": {
+		"name": "سعودي ریال",
+		"name_plural": "سعودي ریالونه",
+		"subunit_name": "هلله",
+		"subunit_name_plural": "هللې"
+	},
+	"SBD": {
+		"name": "سولومون ټاپوګانو ډالر",
+		"name_plural": "سولومون ټاپوګانو ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"SCR": {
+		"name": "سیشلی روپیه",
+		"name_plural": "سیشلی روپیې",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"SDG": {
+		"name": "سوډاني پونډ",
+		"name_plural": "سوډاني پونډونه",
+		"subunit_name": "قیرش",
+		"subunit_name_plural": "قیرشونه"
+	},
+	"SEK": {
+		"name": "سویډني کرونا",
+		"name_plural": "سویډني کروناګانې",
+		"subunit_name": "اور",
+		"subunit_name_plural": "اورې"
+	},
+	"SGD": {
+		"name": "سینګاپور ډالر",
+		"name_plural": "سینګاپور ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"SHP": {
+		"name": "سینټ هیلینا پونډ",
+		"name_plural": "سینټ هیلینا پونډونه",
+		"subunit_name": "پنی",
+		"subunit_name_plural": "پنس"
+	},
+	"SLL": {
+		"name": "سیرالیوني لیون",
+		"name_plural": "سیرالیوني لیونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"SOS": {
+		"name": "صومالیې شلینګ",
+		"name_plural": "صومالیې شلینګونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"SRD": {
+		"name": "سورینامي ډالر",
+		"name_plural": "سورینامي ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"SSP": {
+		"name": "سویلي سوډان پونډ",
+		"name_plural": "سویلي سوډان پونډونه",
+		"subunit_name": "قیرش",
+		"subunit_name_plural": "قیرشونه"
+	},
+	"STN": {
+		"name": "ساو ټومي او پرنسیپي دوبرا",
+		"name_plural": "ساو ټومي او پرنسیپي دوبراګانې",
+		"subunit_name": "سینتیمو",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"SYP": {
+		"name": "سوریې پونډ",
+		"name_plural": "سوریې پونډونه",
+		"subunit_name": "قیرش",
+		"subunit_name_plural": "قیرشونه"
+	},
+	"SZL": {
+		"name": "سوازی لیلانګینی",
+		"name_plural": "سوازی لیلانګینی",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"THB": {
+		"name": "تایلنډي بات",
+		"name_plural": "تایلنډي باتونه",
+		"subunit_name": "ساتانګ",
+		"subunit_name_plural": "ساتانګونه"
+	},
+	"TJS": {
+		"name": "تاجکستاني ساماني",
+		"name_plural": "تاجکستاني سامانيګانې",
+		"subunit_name": "درم",
+		"subunit_name_plural": "درمونه"
+	},
+	"TMT": {
+		"name": "ترکمنستاني منات",
+		"name_plural": "ترکمنستاني مناتونه",
+		"subunit_name": "تنګه",
+		"subunit_name_plural": "تنګه"
+	},
+	"TND": {
+		"name": "تونسي دینار",
+		"name_plural": "تونسي دینارونه",
+		"subunit_name": "ملیم",
+		"subunit_name_plural": "ملیمونه"
+	},
+	"TOP": {
+		"name": "تونګا پانګا",
+		"name_plural": "تونګا پانګاګانې",
+		"subunit_name": "سینیتی",
+		"subunit_name_plural": "سینیتی"
+	},
+	"TRY": {
+		"name": "ترکي لیرا",
+		"name_plural": "ترکي لیراګانې",
+		"subunit_name": "قروش",
+		"subunit_name_plural": "قروش"
+	},
+	"TTD": {
+		"name": "ترینیداد او ټوباګو ډالر",
+		"name_plural": "ترینیداد او ټوباګو ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"TWD": {
+		"name": "نیا تایواني ډالر",
+		"name_plural": "نیا تایواني ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"TZS": {
+		"name": "تنزانیايي شلینګ",
+		"name_plural": "تنزانیايي شلینګونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"UAH": {
+		"name": "یوکرایني هریونیا",
+		"name_plural": "یوکرایني هریونیاګانې",
+		"subunit_name": "کوپیک",
+		"subunit_name_plural": "کوپیکونه"
+	},
+	"UGX": {
+		"name": "یوګانډايي شلینګ",
+		"name_plural": "یوګانډايي شلینګونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"USD": {
+		"name": "امریکايي ډالر",
+		"name_plural": "امریکايي ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"UYU": {
+		"name": "یوروګوایي پیسو",
+		"name_plural": "یوروګوایي پیسوګانې",
+		"subunit_name": "سینتسیمو",
+		"subunit_name_plural": "سینتسیموګانې"
+	},
+	"UZS": {
+		"name": "ازبکستاني سوم",
+		"name_plural": "ازبکستاني سومونه",
+		"subunit_name": "تین",
+		"subunit_name_plural": "تینونه"
+	},
+	"VES": {
+		"name": "وینزویلايي بولیوار",
+		"name_plural": "وینزویلايي بولیوارونه",
+		"subunit_name": "سینتیمو",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"VND": {
+		"name": "ویتنامی ډونګ",
+		"name_plural": "ویتنامی ډونګونه",
+		"subunit_name": "هاو",
+		"subunit_name_plural": "هاو"
+	},
+	"VUV": {
+		"name": "وانواتو واتو",
+		"name_plural": "وانواتو واتوګانې",
+		"subunit_name": "سینتیم",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"WST": {
+		"name": "ساموايي تالا",
+		"name_plural": "ساموايي تالاګانې",
+		"subunit_name": "سینی",
+		"subunit_name_plural": "سینی"
+	},
+	"XAF": {
+		"name": "منځنی افریقا CFA فرانک",
+		"name_plural": "منځنی افریقا CFA فرانکونه",
+		"subunit_name": "سینتیم",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"XCD": {
+		"name": "ختیځه کاریبیا ډالر",
+		"name_plural": "ختیځه کاریبیا ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"XOF": {
+		"name": "لویدیځه افریقا CFA فرانک",
+		"name_plural": "لویدیځه افریقا CFA فرانکونه",
+		"subunit_name": "سینتیم",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"XPF": {
+		"name": "CFP فرانک",
+		"name_plural": "CFP فرانکونه",
+		"subunit_name": "سینتیم",
+		"subunit_name_plural": "سینتیمونه"
+	},
+	"YER": {
+		"name": "یمني ریال",
+		"name_plural": "یمني ریالونه",
+		"subunit_name": "فلس",
+		"subunit_name_plural": "فلسونه"
+	},
+	"ZAR": {
+		"name": "سویلي افریقا رانډ",
+		"name_plural": "سویلي افریقا رانډونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	},
+	"ZMW": {
+		"name": "زیمبیايي کواچا",
+		"name_plural": "زیمبیايي کواچاګانې",
+		"subunit_name": "نګوی",
+		"subunit_name_plural": "نګوی"
+	},
+	"ZWL": {
+		"name": "زیمبابوېي ډالر",
+		"name_plural": "زیمبابوېي ډالرونه",
+		"subunit_name": "سینټ",
+		"subunit_name_plural": "سینټونه"
+	}
+}

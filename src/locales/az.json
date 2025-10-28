@@ -1,0 +1,938 @@
+{
+	"AED": {
+		"name": "Birləşmiş Ərəb Əmirlikləri Dirhəmi",
+		"name_plural": "Birləşmiş Ərəb Əmirlikləri dirhəmləri",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"AFN": {
+		"name": "Əfqanıstan Əfqanisi",
+		"name_plural": "Əfqanıstan əfqaniləri",
+		"subunit_name": "pul",
+		"subunit_name_plural": "pul"
+	},
+	"ALL": {
+		"name": "Albaniya Leki",
+		"name_plural": "Albaniya lekləri",
+		"subunit_name": "qindarka",
+		"subunit_name_plural": "qindarka"
+	},
+	"AMD": {
+		"name": "Ermənistan Dramı",
+		"name_plural": "Ermənistan dramları",
+		"subunit_name": "luma",
+		"subunit_name_plural": "luma"
+	},
+	"ANG": {
+		"name": "Niderland Antilyası Gilderi",
+		"name_plural": "Niderland Antilyası gilderləri",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"AOA": {
+		"name": "Anqola Kvanzası",
+		"name_plural": "Anqola kvanzaları",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimo"
+	},
+	"ARS": {
+		"name": "Argentina Pesosu",
+		"name_plural": "Argentina pesosları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"AUD": {
+		"name": "Avstraliya Dolları",
+		"name_plural": "Avstraliya dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"AWG": {
+		"name": "Aruba Florini",
+		"name_plural": "Aruba florinləri",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"AZN": {
+		"name": "Azərbaycan Manatı",
+		"name_plural": "Azərbaycan manatları",
+		"subunit_name": "qəpik",
+		"subunit_name_plural": "qəpik"
+	},
+	"BAM": {
+		"name": "Bosniya və Herseqovina Markası",
+		"name_plural": "Bosniya və Herseqovina markaları",
+		"subunit_name": "feniq",
+		"subunit_name_plural": "feniq"
+	},
+	"BBD": {
+		"name": "Barbados Dolları",
+		"name_plural": "Barbados dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"BDT": {
+		"name": "Banqladeş Takası",
+		"name_plural": "Banqladeş takaları",
+		"subunit_name": "poişa",
+		"subunit_name_plural": "poişa"
+	},
+	"BGN": {
+		"name": "Bolqarıstan Levi",
+		"name_plural": "Bolqarıstan levləri",
+		"subunit_name": "stotinka",
+		"subunit_name_plural": "stotinka"
+	},
+	"BHD": {
+		"name": "Bəhreyn Dinarı",
+		"name_plural": "Bəhreyn dinarları",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"BIF": {
+		"name": "Burundi Frankı",
+		"name_plural": "Burundi frankları",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"BMD": {
+		"name": "Bermud Dolları",
+		"name_plural": "Bermud dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"BND": {
+		"name": "Bruney Dolları",
+		"name_plural": "Bruney dollarları",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"BOB": {
+		"name": "Boliviya Bolivianosu",
+		"name_plural": "Boliviya bolivianosları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"BRL": {
+		"name": "Braziliya Realı",
+		"name_plural": "Braziliya realları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"BSD": {
+		"name": "Baham Adaları Dolları",
+		"name_plural": "Baham Adaları dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"BTN": {
+		"name": "Butan Nqultrumu",
+		"name_plural": "Butan nqultrumları",
+		"subunit_name": "çetrum",
+		"subunit_name_plural": "çetrum"
+	},
+	"BWP": {
+		"name": "Botsvana Pulası",
+		"name_plural": "Botsvana pulaları",
+		"subunit_name": "tebe",
+		"subunit_name_plural": "tebe"
+	},
+	"BYN": {
+		"name": "Belarus Rublu",
+		"name_plural": "Belarus rublu",
+		"subunit_name": "qəpik",
+		"subunit_name_plural": "qəpik"
+	},
+	"BZD": {
+		"name": "Beliz Dolları",
+		"name_plural": "Beliz dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"CAD": {
+		"name": "Kanada Dolları",
+		"name_plural": "Kanada dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"CDF": {
+		"name": "Konqo Frankı",
+		"name_plural": "Konqo frankları",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"CHF": {
+		"name": "İsveçrə Frankı",
+		"name_plural": "İsveçrə frankları",
+		"subunit_name": "rapen",
+		"subunit_name_plural": "rapen"
+	},
+	"CLP": {
+		"name": "Çili Pesosu",
+		"name_plural": "Çili pesosları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"CNY": {
+		"name": "Çin Yuanı",
+		"name_plural": "Çin yuanları",
+		"subunit_name": "fen",
+		"subunit_name_plural": "fen"
+	},
+	"COP": {
+		"name": "Kolumbiya Pesosu",
+		"name_plural": "Kolumbiya pesosları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"CRC": {
+		"name": "Kosta Rika Kolonu",
+		"name_plural": "Kosta Rika kolonları",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimo"
+	},
+	"CUC": {
+		"name": "Kuba Konvertasiya Pesosu",
+		"name_plural": "Kuba konvertasiya pesosları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"CUP": {
+		"name": "Kuba Pesosu",
+		"name_plural": "Kuba pesosları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"CVE": {
+		"name": "Kabo-Verde Eskudosu",
+		"name_plural": "Kabo-Verde eskudoları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"CZK": {
+		"name": "Çexiya Kronu",
+		"name_plural": "Çexiya kronları",
+		"subunit_name": "qroş",
+		"subunit_name_plural": "qroş"
+	},
+	"DJF": {
+		"name": "Cibuti Frankı",
+		"name_plural": "Cibuti frankları",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"DKK": {
+		"name": "Danimarka Kronu",
+		"name_plural": "Danimarka kronları",
+		"subunit_name": "ore",
+		"subunit_name_plural": "ore"
+	},
+	"DOP": {
+		"name": "Dominika Pesosu",
+		"name_plural": "Dominika pesosları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"DZD": {
+		"name": "Əlcəzair Dinarı",
+		"name_plural": "Əlcəzair dinarları",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"EGP": {
+		"name": "Misir Funtu",
+		"name_plural": "Misir funtları",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"ERN": {
+		"name": "Eritreya Nakfası",
+		"name_plural": "Eritreya nakfaları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"ETB": {
+		"name": "Efiopiya Birri",
+		"name_plural": "Efiopiya birrləri",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"EUR": {
+		"name": "Avro",
+		"name_plural": "Avro",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"FJD": {
+		"name": "Fici Dolları",
+		"name_plural": "Fici dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"FKP": {
+		"name": "Folklend Adaları Funtu",
+		"name_plural": "Folklend Adaları funtları",
+		"subunit_name": "pens",
+		"subunit_name_plural": "pens"
+	},
+	"GBP": {
+		"name": "Britaniya Funtu",
+		"name_plural": "Britaniya funtları",
+		"subunit_name": "pens",
+		"subunit_name_plural": "pens"
+	},
+	"GEL": {
+		"name": "Gürcüstan Larisi",
+		"name_plural": "Gürcüstan larisiləri",
+		"subunit_name": "tetri",
+		"subunit_name_plural": "tetri"
+	},
+	"GHS": {
+		"name": "Qana Sedisi",
+		"name_plural": "Qana sedisləri",
+		"subunit_name": "pesewa",
+		"subunit_name_plural": "pesewa"
+	},
+	"GIP": {
+		"name": "Cəbəli-Tariq Funtu",
+		"name_plural": "Cəbəli-Tariq funtları",
+		"subunit_name": "pens",
+		"subunit_name_plural": "pens"
+	},
+	"GMD": {
+		"name": "Qambiya Dalasisi",
+		"name_plural": "Qambiya dalasiləri",
+		"subunit_name": "butut",
+		"subunit_name_plural": "butut"
+	},
+	"GNF": {
+		"name": "Qvineya Frankı",
+		"name_plural": "Qvineya frankları",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"GTQ": {
+		"name": "Qvatemala Ketsalı",
+		"name_plural": "Qvatemala ketsalları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"GYD": {
+		"name": "Qayana Dolları",
+		"name_plural": "Qayana dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"HKD": {
+		"name": "Honq Konq Dolları",
+		"name_plural": "Honq Konq dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"HNL": {
+		"name": "Honduras Lempirası",
+		"name_plural": "Honduras lempirasları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"HRK": {
+		"name": "Xorvatiya Kunası",
+		"name_plural": "Xorvatiya kunaları",
+		"subunit_name": "lipa",
+		"subunit_name_plural": "lipa"
+	},
+	"HTG": {
+		"name": "Haiti Qurdı",
+		"name_plural": "Haiti qurdları",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"HUF": {
+		"name": "Macarıstan Forinti",
+		"name_plural": "Macarıstan forintləri",
+		"subunit_name": "filler",
+		"subunit_name_plural": "filler"
+	},
+	"IDR": {
+		"name": "İndoneziya Rupiyası",
+		"name_plural": "İndoneziya rupiyaları",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"ILS": {
+		"name": "İsrail Şekeli",
+		"name_plural": "İsrail şekelləri",
+		"subunit_name": "aqora",
+		"subunit_name_plural": "aqora"
+	},
+	"INR": {
+		"name": "Hindistan Rupisi",
+		"name_plural": "Hindistan rupisləri",
+		"subunit_name": "paysa",
+		"subunit_name_plural": "paysa"
+	},
+	"IQD": {
+		"name": "İraq Dinarı",
+		"name_plural": "İraq dinarları",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"IRR": {
+		"name": "İran Rialı",
+		"name_plural": "İran rialları",
+		"subunit_name": "dinar",
+		"subunit_name_plural": "dinar"
+	},
+	"ISK": {
+		"name": "İslandiya Kronu",
+		"name_plural": "İslandiya kronları",
+		"subunit_name": "eyrir",
+		"subunit_name_plural": "eyrir"
+	},
+	"JMD": {
+		"name": "Yamayka Dolları",
+		"name_plural": "Yamayka dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"JOD": {
+		"name": "İordaniya Dinarı",
+		"name_plural": "İordaniya dinarları",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"JPY": {
+		"name": "Yaponiya Yeni",
+		"name_plural": "Yaponiya yenləri",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KES": {
+		"name": "Keniya Şillinqi",
+		"name_plural": "Keniya şillinqləri",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"KGS": {
+		"name": "Qırğızıstan Somu",
+		"name_plural": "Qırğızıstan somları",
+		"subunit_name": "tiyin",
+		"subunit_name_plural": "tiyin"
+	},
+	"KHR": {
+		"name": "Kamboca Rieli",
+		"name_plural": "Kamboca rielləri",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"KMF": {
+		"name": "Komor Adaları Frankı",
+		"name_plural": "Komor Adaları frankları",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"KPW": {
+		"name": "Şimali Koreya Vonu",
+		"name_plural": "Şimali Koreya vonları",
+		"subunit_name": "çon",
+		"subunit_name_plural": "çon"
+	},
+	"KRW": {
+		"name": "Cənubi Koreya Vonu",
+		"name_plural": "Cənubi Koreya vonları",
+		"subunit_name": "çon",
+		"subunit_name_plural": "çon"
+	},
+	"KWD": {
+		"name": "Küveyt Dinarı",
+		"name_plural": "Küveyt dinarları",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"KYD": {
+		"name": "Kayman Adaları Dolları",
+		"name_plural": "Kayman Adaları dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"KZT": {
+		"name": "Qazaxıstan Tengesi",
+		"name_plural": "Qazaxıstan tengesləri",
+		"subunit_name": "tiın",
+		"subunit_name_plural": "tiın"
+	},
+	"LAK": {
+		"name": "Laos Kipi",
+		"name_plural": "Laos kipləri",
+		"subunit_name": "at",
+		"subunit_name_plural": "at"
+	},
+	"LBP": {
+		"name": "Livan Funtu",
+		"name_plural": "Livan funtları",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"LKR": {
+		"name": "Şri-Lanka Rupisi",
+		"name_plural": "Şri-Lanka rupisləri",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"LRD": {
+		"name": "Liberiya Dolları",
+		"name_plural": "Liberiya dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"LSL": {
+		"name": "Lesoto Lotisi",
+		"name_plural": "Lesoto lotiləri",
+		"subunit_name": "sente",
+		"subunit_name_plural": "sente"
+	},
+	"LYD": {
+		"name": "Liviya Dinarı",
+		"name_plural": "Liviya dinarları",
+		"subunit_name": "dirhəm",
+		"subunit_name_plural": "dirhəm"
+	},
+	"MAD": {
+		"name": "Mərakeş Dirhəmi",
+		"name_plural": "Mərakeş dirhəmləri",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"MDL": {
+		"name": "Moldova Leyi",
+		"name_plural": "Moldova leyləri",
+		"subunit_name": "ban",
+		"subunit_name_plural": "ban"
+	},
+	"MGA": {
+		"name": "Madaqaskar Ariarisi",
+		"name_plural": "Madaqaskar ariariləri",
+		"subunit_name": "iraimbilanja",
+		"subunit_name_plural": "iraimbilanja"
+	},
+	"MKD": {
+		"name": "Şimali Makedoniya Denarı",
+		"name_plural": "Şimali Makedoniya denarları",
+		"subunit_name": "deni",
+		"subunit_name_plural": "deni"
+	},
+	"MMK": {
+		"name": "Myanma Kiyatı",
+		"name_plural": "Myanma kiyatları",
+		"subunit_name": "pya",
+		"subunit_name_plural": "pya"
+	},
+	"MNT": {
+		"name": "Monqolustan Tuqriki",
+		"name_plural": "Monqolustan tuqrikləri",
+		"subunit_name": "mönqö",
+		"subunit_name_plural": "mönqö"
+	},
+	"MOP": {
+		"name": "Makao Patakası",
+		"name_plural": "Makao patakaları",
+		"subunit_name": "avo",
+		"subunit_name_plural": "avo"
+	},
+	"MRU": {
+		"name": "Mavritaniya Ugiyası",
+		"name_plural": "Mavritaniya ugiyaları",
+		"subunit_name": "xums",
+		"subunit_name_plural": "xums"
+	},
+	"MUR": {
+		"name": "Mavriki Rupisi",
+		"name_plural": "Mavriki rupisləri",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"MVR": {
+		"name": "Maldiv Rufiyaası",
+		"name_plural": "Maldiv rufiyaaları",
+		"subunit_name": "laari",
+		"subunit_name_plural": "laari"
+	},
+	"MWK": {
+		"name": "Malavi Kvaçası",
+		"name_plural": "Malavi kvaçaları",
+		"subunit_name": "tambala",
+		"subunit_name_plural": "tambala"
+	},
+	"MXN": {
+		"name": "Meksika Pesosu",
+		"name_plural": "Meksika pesosları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"MYR": {
+		"name": "Malayziya Ringqiti",
+		"name_plural": "Malayziya ringqitləri",
+		"subunit_name": "sen",
+		"subunit_name_plural": "sen"
+	},
+	"MZN": {
+		"name": "Mozambik Metikalı",
+		"name_plural": "Mozambik metikalları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"NAD": {
+		"name": "Namibiya Dolları",
+		"name_plural": "Namibiya dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"NGN": {
+		"name": "Nigeriya Nairası",
+		"name_plural": "Nigeriya nairaları",
+		"subunit_name": "kobo",
+		"subunit_name_plural": "kobo"
+	},
+	"NIO": {
+		"name": "Nikaraqua Kordobası",
+		"name_plural": "Nikaraqua kordobları",
+		"subunit_name": "sentavo",
+		"subunit_name_plural": "sentavo"
+	},
+	"NOK": {
+		"name": "Norveç Kronu",
+		"name_plural": "Norveç kronları",
+		"subunit_name": "ore",
+		"subunit_name_plural": "ore"
+	},
+	"NPR": {
+		"name": "Nepal Rupisi",
+		"name_plural": "Nepal rupisləri",
+		"subunit_name": "paysa",
+		"subunit_name_plural": "paysa"
+	},
+	"NZD": {
+		"name": "Yeni Zelandiya Dolları",
+		"name_plural": "Yeni Zelandiya dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"OMR": {
+		"name": "Oman Rialı",
+		"name_plural": "Oman rialları",
+		"subunit_name": "baysa",
+		"subunit_name_plural": "baysa"
+	},
+	"PAB": {
+		"name": "Panama Balboası",
+		"name_plural": "Panama balboaları",
+		"subunit_name": "sentesimo",
+		"subunit_name_plural": "sentisimo"
+	},
+	"PEN": {
+		"name": "Peru Solu",
+		"name_plural": "Peru solları",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimo"
+	},
+	"PGK": {
+		"name": "Papua-Yeni Qvineya Kinası",
+		"name_plural": "Papua-Yeni Qvineya kinaları",
+		"subunit_name": "toea",
+		"subunit_name_plural": "toea"
+	},
+	"PHP": {
+		"name": "Filippin Pesosu",
+		"name_plural": "Filippin pesosları",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimo"
+	},
+	"PKR": {
+		"name": "Pakistan Rupisi",
+		"name_plural": "Pakistan rupisləri",
+		"subunit_name": "paysa",
+		"subunit_name_plural": "paysa"
+	},
+	"PLN": {
+		"name": "Polşa Zlotısı",
+		"name_plural": "Polşa zlotıları",
+		"subunit_name": "qroş",
+		"subunit_name_plural": "qroş"
+	},
+	"PYG": {
+		"name": "Paraqvay Quaranisi",
+		"name_plural": "Paraqvay quarani",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimo"
+	},
+	"QAR": {
+		"name": "Qətər Rialı",
+		"name_plural": "Qətər rialları",
+		"subunit_name": "dirhəm",
+		"subunit_name_plural": "dirhəm"
+	},
+	"RON": {
+		"name": "Rumıniya Leyi",
+		"name_plural": "Rumıniya leyləri",
+		"subunit_name": "ban",
+		"subunit_name_plural": "ban"
+	},
+	"RSD": {
+		"name": "Serbiya Dinarı",
+		"name_plural": "Serbiya dinarları",
+		"subunit_name": "para",
+		"subunit_name_plural": "para"
+	},
+	"RUB": {
+		"name": "Rusiya Rublu",
+		"name_plural": "Rusiya rublu",
+		"subunit_name": "qəpik",
+		"subunit_name_plural": "qəpik"
+	},
+	"RWF": {
+		"name": "Ruanda Frankı",
+		"name_plural": "Ruanda frankları",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"SAR": {
+		"name": "Səudiyyə Ərəbistanı Rialı",
+		"name_plural": "Səudiyyə Ərəbistanı rialları",
+		"subunit_name": "həlalə",
+		"subunit_name_plural": "həlalə"
+	},
+	"SBD": {
+		"name": "Solomon Adaları Dolları",
+		"name_plural": "Solomon Adaları dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"SCR": {
+		"name": "Seyşel Rupisi",
+		"name_plural": "Seyşel rupisləri",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"SDG": {
+		"name": "Sudan Funtu",
+		"name_plural": "Sudan funtları",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"SEK": {
+		"name": "İsveç Kronu",
+		"name_plural": "İsveç kronları",
+		"subunit_name": "ore",
+		"subunit_name_plural": "ore"
+	},
+	"SGD": {
+		"name": "Sinqapur Dolları",
+		"name_plural": "Sinqapur dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"SHP": {
+		"name": "Müqəddəs Yelena Funtu",
+		"name_plural": "Müqəddəs Yelena funtları",
+		"subunit_name": "pens",
+		"subunit_name_plural": "pens"
+	},
+	"SLL": {
+		"name": "Sierra-Leone Leonu",
+		"name_plural": "Sierra-Leone leonları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"SOS": {
+		"name": "Somali Şillinqi",
+		"name_plural": "Somali şillinqləri",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"SRD": {
+		"name": "Surinam Dolları",
+		"name_plural": "Surinam dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"SSP": {
+		"name": "Cənubi Sudan Funtu",
+		"name_plural": "Cənubi Sudan funtları",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"STN": {
+		"name": "San-Tome və Prinsipi Dobrası",
+		"name_plural": "San-Tome və Prinsipi dobraları",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimo"
+	},
+	"SYP": {
+		"name": "Suriya Funtu",
+		"name_plural": "Suriya funtları",
+		"subunit_name": "piastre",
+		"subunit_name_plural": "piastre"
+	},
+	"SZL": {
+		"name": "Svazilend Lilangenisi",
+		"name_plural": "Svazilend lilangeniləri",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"THB": {
+		"name": "Tayland Batı",
+		"name_plural": "Tayland batları",
+		"subunit_name": "satang",
+		"subunit_name_plural": "satang"
+	},
+	"TJS": {
+		"name": "Tacikistan Somonisi",
+		"name_plural": "Tacikistan somoniləri",
+		"subunit_name": "diram",
+		"subunit_name_plural": "diram"
+	},
+	"TMT": {
+		"name": "Türkmənistan Manatı",
+		"name_plural": "Türkmənistan manatları",
+		"subunit_name": "tenge",
+		"subunit_name_plural": "tenge"
+	},
+	"TND": {
+		"name": "Tunis Dinarı",
+		"name_plural": "Tunis dinarları",
+		"subunit_name": "millim",
+		"subunit_name_plural": "millim"
+	},
+	"TOP": {
+		"name": "Tonqa Panqası",
+		"name_plural": "Tonqa panqaları",
+		"subunit_name": "seniti",
+		"subunit_name_plural": "seniti"
+	},
+	"TRY": {
+		"name": "Türkiyə Lirası",
+		"name_plural": "Türkiyə liraları",
+		"subunit_name": "quruş",
+		"subunit_name_plural": "quruş"
+	},
+	"TTD": {
+		"name": "Trinidad və Tobaqo Dolları",
+		"name_plural": "Trinidad və Tobaqo dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"TWD": {
+		"name": "Tayvan Dolları",
+		"name_plural": "Tayvan dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"TZS": {
+		"name": "Tanzaniya Şillinqi",
+		"name_plural": "Tanzaniya şillinqləri",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"UAH": {
+		"name": "Ukrayna Qrivnası",
+		"name_plural": "Ukrayna qrivnaları",
+		"subunit_name": "kopeyka",
+		"subunit_name_plural": "kopeyka"
+	},
+	"UGX": {
+		"name": "Uqanda Şillinqi",
+		"name_plural": "Uqanda şillinqləri",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"USD": {
+		"name": "ABŞ Dolları",
+		"name_plural": "ABŞ dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"UYU": {
+		"name": "Uruqvay Pesosu",
+		"name_plural": "Uruqvay pesosları",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimo"
+	},
+	"UZS": {
+		"name": "Özbəkistan Somu",
+		"name_plural": "Özbəkistan somları",
+		"subunit_name": "tiyin",
+		"subunit_name_plural": "tiyin"
+	},
+	"VES": {
+		"name": "Venesuela Bolivarı",
+		"name_plural": "Venesuela bolivarları",
+		"subunit_name": "sentimo",
+		"subunit_name_plural": "sentimo"
+	},
+	"VND": {
+		"name": "Vyetnam Donqu",
+		"name_plural": "Vyetnam donqları",
+		"subunit_name": "hao",
+		"subunit_name_plural": "hao"
+	},
+	"VUV": {
+		"name": "Vanuatu Vatusu",
+		"name_plural": "Vanuatu vatusları",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"WST": {
+		"name": "Samoa Talası",
+		"name_plural": "Samoa talaları",
+		"subunit_name": "sene",
+		"subunit_name_plural": "sene"
+	},
+	"XAF": {
+		"name": "Mərkəzi Afrika CFA Frankı",
+		"name_plural": "Mərkəzi Afrika CFA frankları",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"XCD": {
+		"name": "Şərqi Karib Dolları",
+		"name_plural": "Şərqi Karib dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"XOF": {
+		"name": "Qərbi Afrika CFA Frankı",
+		"name_plural": "Qərbi Afrika CFA frankları",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"XPF": {
+		"name": "CFP Frankı",
+		"name_plural": "CFP frankları",
+		"subunit_name": "santim",
+		"subunit_name_plural": "santim"
+	},
+	"YER": {
+		"name": "Yəmən Rialı",
+		"name_plural": "Yəmən rialları",
+		"subunit_name": "fils",
+		"subunit_name_plural": "fils"
+	},
+	"ZAR": {
+		"name": "Cənubi Afrika Randı",
+		"name_plural": "Cənubi Afrika randları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	},
+	"ZMW": {
+		"name": "Zambiya Kvaçası",
+		"name_plural": "Zambiya kvaçaları",
+		"subunit_name": "nqvee",
+		"subunit_name_plural": "nqvee"
+	},
+	"ZWL": {
+		"name": "Zimbabve Dolları",
+		"name_plural": "Zimbabve dollarları",
+		"subunit_name": "sent",
+		"subunit_name_plural": "sent"
+	}
+}

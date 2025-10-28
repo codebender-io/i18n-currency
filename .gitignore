@@ -1,0 +1,6 @@
+node_modules
+dist
+*i18n-currency*.tgz
+locales
+!src/locales/
+scripts
