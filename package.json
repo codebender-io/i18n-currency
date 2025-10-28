@@ -53,5 +53,13 @@
 	},
 	"engines": {
 		"node": ">=18"
-	}
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/codebender-io/i18n-currency.git"
+	},
+	"bugs": {
+		"url": "https://github.com/codebender-io/i18n-currency/issues"
+	},
+	"homepage": "https://github.com/codebender-io/i18n-currency#readme"
 }
