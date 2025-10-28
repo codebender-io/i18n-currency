@@ -49,7 +49,7 @@ const usd = lib.getCurrency("en-US", "USD");
 console.log(usd?.name); // "US Dollar" (for the provided locale data)
 ```
 
-> Note: This package expects you to provide localized `locales` when constructing `CurrencyLibrary`. The library includes base currency metadata bundled in `dist/data/base-currencies.json` and country mappings in `dist/data/country-currencies.json`. Provide locale JSON maps for translated names.
+> Note: This package expects you to provide localized `locales` when constructing `CurrencyLibrary`. The library includes base currency metadata bundled in `src/data/base-currencies.json` and country mappings in `src/data/country-currencies.json`. Provide locale JSON maps for translated names.
 
 ---
 
