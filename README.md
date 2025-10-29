@@ -22,7 +22,7 @@ It is intended for server and client (Node >=18 / ESM) usage and designed in Typ
 - **Base package (ESM, minified + gzipped)** — ~**93 KB**.
 - **Each locale file** (JSON) — ~**20–25 KB**.
 
-The library is **fully modular** and **tree-shakeable**: we expose ESM modules and ship locale files as separate JSON assets, so your bundler will include **only** the base code and the locale files you import. In other words — *you ship what you use only*.
+The library is **fully modular** and **tree-shakeable**: we expose ESM modules and ship locale files as separate JSON assets, so your bundler will include **only** the base code and the locale files you import. In other words — _you ship what you use only_.
 
 ### How to keep bundles small
 
@@ -42,6 +42,20 @@ pnpm add @codebender-io/i18n-currency
 
 # yarn
 yarn add @codebender-io/i18n-currency
+```
+
+---
+
+## ESM / CJS usage
+
+The package ships both ESM and CommonJS builds. Use `import` for modern projects and `require()` for older environments.
+
+```ts
+import { CurrencyLibrary } from "@codebender-io/i18n-currency";
+```
+
+```js
+const { CurrencyLibrary } = require("@codebender-io/i18n-currency");
 ```
 
 ---
@@ -143,8 +157,32 @@ export type CountryCurrencyMap = Record<CountryCode, CurrencyCode[]>;
 - `getAvailableLocales(): LocaleCode[]`  
   Returns locales provided in the initialization `locales` argument.
 
+- `getLocaleBestMatch(locale: string): string`  
+  Returns the best matching locale from available locales, falling back to the configured fallback locale.
+
 - `isLocaleSupported(locale: string): boolean`  
   Checks if locale root is supported.
+
+---
+
+## ✅ Summary
+
+| Function                                      | Description                                 |
+| --------------------------------------------- | ------------------------------------------- |
+| `getMap(locale)`                              | Get currency map for locale                 |
+| `getList(locale)`                             | List all currencies for a locale            |
+| `getCurrency(locale, code)`                   | Get localized currency info                 |
+| `hasCurrency(code)`                           | Check if currency code exists               |
+| `getCurrenciesByCountry(countryCode)`         | Get currency codes by country               |
+| `getCountryCurrencyData(locale, countryCode)` | Get localized currency data by country      |
+| `getPrimaryCurrencyByCountry(countryCode)`    | Get country's main currency                 |
+| `hasMultipleCurrencies(countryCode)`          | Check if a country uses multiple currencies |
+| `getSupportedCountryCodes()`                  | List all supported country codes            |
+| `getCountriesByCurrency(code)`                | Get all countries using a currency          |
+| `getCurrencyCodes()`                          | List all available currency codes           |
+| `getAvailableLocales()`                       | List available locales                      |
+| `getLocaleBestMatch(locale)`                  | Get best matching locale                    |
+| `isLocaleSupported(locale)`                   | Verify if a locale is supported             |
 
 ---
 
@@ -180,27 +218,130 @@ const locales = {
 
 ---
 
-## ESM / CJS usage
+# Usage Examples
 
-The package ships both ESM and CommonJS builds. Use `import` for modern projects and `require()` for older environments.
+This document demonstrates how to use the **CurrencyLibrary** class to access currency and localization data.
+
+---
+
+## 1. Importing and Initializing the Library
 
 ```ts
 import { CurrencyLibrary } from "@codebender-io/i18n-currency";
-```
+import en from "@codebender-io/i18n-currency/locales/en.json" assert { type: "json" };
+import fr from "@codebender-io/i18n-currency/locales/fr.json" assert { type: "json" };
 
-```js
-const { CurrencyLibrary } = require("@codebender-io/i18n-currency");
+// Initialize with available locales
+const lib = new CurrencyLibrary({
+	locales: { en, fr },
+	fallbackLocale: "en",
+});
 ```
 
 ---
 
-## Publishing notes
+## 2. Get Localized Currency Data
 
-- Scoped packages default to private on npm. To publish publicly use:
-    ```bash
-    npm publish --access public
-    ```
-- Ensure you are logged into an npm user that has publish access to `@codebender-io`.
+### Get a Specific Currency
+
+```ts
+const usd = lib.getCurrency("en-US", "usd");
+console.log(usd?.name); // "US Dollar"
+```
+
+### Get All Currencies for a Locale
+
+```ts
+const currencies = lib.getList("fr");
+console.log(currencies.length); // e.g., 180
+```
+
+### Check if a Currency Exists
+
+```ts
+console.log(lib.hasCurrency("JPY")); // true
+```
+
+---
+
+## 3. Country-Based Lookups
+
+### Get All Currencies Used by a Country
+
+```ts
+const currencies = lib.getCurrenciesByCountry("US");
+console.log(currencies); // ["USD"]
+```
+
+### Get Localized Currency Data for a Country
+
+```ts
+const countryData = lib.getCountryCurrencyData("fr", "CA");
+console.log(countryData[0].name); // "Dollar canadien"
+```
+
+### Get Primary Currency of a Country
+
+```ts
+const mainCurrency = lib.getPrimaryCurrencyByCountry("JP");
+console.log(mainCurrency); // "JPY"
+```
+
+### Check if a Country Has Multiple Currencies
+
+```ts
+console.log(lib.hasMultipleCurrencies("CH")); // true (Switzerland: CHF, EUR)
+```
+
+---
+
+## 4. Supported Data Utilities
+
+### List Supported Countries
+
+```ts
+const countries = lib.getSupportedCountryCodes();
+console.log(countries.slice(0, 5)); // ["US", "CA", "GB", "FR", "DE"]
+```
+
+### List Supported Currency Codes
+
+```ts
+const codes = lib.getCurrencyCodes();
+console.log(codes.length); // e.g., 180
+```
+
+### Get Countries Using a Specific Currency
+
+```ts
+const euroCountries = lib.getCountriesByCurrency("EUR");
+console.log(euroCountries); // ["FR", "DE", "IT", "ES", ...]
+```
+
+### List Available Locales
+
+```ts
+console.log(lib.getAvailableLocales()); // ["en", "fr"]
+```
+
+### Check Locale Support
+
+```ts
+console.log(lib.isLocaleSupported("fr-CA")); // true
+console.log(lib.isLocaleSupported("xx-YY")); // false
+```
+
+---
+
+## 5. Locale Matching
+
+### Get Best Match for a Locale
+
+```ts
+console.log(lib.getLocaleBestMatch("en-US")); // "en"
+console.log(lib.getLocaleBestMatch("fr-CA")); // "fr"
+console.log(lib.getLocaleBestMatch("xx-YY")); // "en" (fallback)
+```
 
 ---
 
@@ -230,6 +371,17 @@ Apache-2.0 — see `LICENSE` file.
 - GitHub: https://github.com/codebender-io
 - npm org: https://www.npmjs.com/org/codebender-io
 - LinkedIn: https://www.linkedin.com/company/codebender-io
-- X: https://x.com/codebender_io
 
 ---
+
+## Publishing notes
+
+- Scoped packages default to private on npm. To publish publicly use:
+    ```bash
+    npm publish --access public
+    ```
+- Ensure you are logged into an npm user that has publish access to `@codebender-io`.
+
+---
+
+© 2025 CurrencyLibrary Example Guide
