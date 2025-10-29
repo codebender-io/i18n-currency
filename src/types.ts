@@ -1,5 +1,6 @@
 /**
  * Represents the base (non-localized) currency information.
+ * This data is locale-independent and comes from ISO 4217 standards.
  */
 export interface CurrencyBase {
 	/** ISO 4217 alphabetic currency code (e.g., "USD", "EUR") */
@@ -20,12 +21,13 @@ export interface CurrencyBase {
 	countries: string[];
 	/** Native language name of the currency */
 	name_native: string;
-	/** Native name for the currency’s subunit (e.g., "cent") */
+	/** Native name for the currency's subunit (e.g., "cent") */
 	subunit_name_native: string;
 }
 
 /**
  * Represents localized currency information (translated names and labels).
+ * This data varies by locale and provides user-facing text.
  */
 export interface CurrencyLocalized {
 	/** Localized name of the currency (e.g., "US Dollar") */
@@ -59,3 +61,27 @@ export type LocaleCurrencyMap = Record<LocaleCode, CurrencyLocalizedMap>;
 export type CountryCode = string;
 /** Mapping of countries to one or more associated currency codes. */
 export type CountryCurrencyMap = Record<CountryCode, CurrencyCode[]>;
+
+/**
+ * Logger interface: optional, allows consumers to control logging.
+ * By default the library will use `console`.
+ *
+ * NOTE: Library intentionally avoids internal logging to prevent
+ * hidden I/O operations that callers might not expect.
+ */
+export interface Logger {
+	warn(...args: unknown[]): void;
+	info?: (...args: unknown[]) => void;
+}
+
+/**
+ * Properties for initializing a CurrencyLibrary instance.
+ */
+export interface CurrencyLibraryProps {
+	/** Map of localized currency data by locale (BCP-47 tags or language roots). */
+	locales: LocaleCurrencyMap;
+	/** Fallback locale if requested locale is not available. Defaults to "en". */
+	fallbackLocale?: LocaleCode;
+	/** Optional logger; defaults to console. */
+	logger?: Logger;
+}
