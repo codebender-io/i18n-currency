@@ -1,42 +1,50 @@
-name: Publish package to npm
+name: Publish package to npm (pnpm)
 
 on:
-  push:
-    branches:
-      - main
-  release:
-    types: [created]
+    workflow_dispatch: # manual trigger from Actions UI
+    push:
+        tags:
+            - "v*" # trigger on version tags like v1.2.3
+    release:
+        types: [created] # or when a GitHub release is created
 
 permissions:
-  contents: write         # for checkout
-  packages: write         # not strictly needed for npmjs, but ok to include
-  id-token: write         # only if you use OIDC, otherwise safe to keep default
+    contents: read
 
 jobs:
-  build-and-publish:
-    runs-on: ubuntu-latest
-    env:
-      NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}   # <-- your npm automation token stored as repo secret
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+    build-and-publish:
+        runs-on: ubuntu-latest
+        env:
+            NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      - name: Set up Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: 20
-          registry-url: https://registry.npmjs.org/   # setup-node will write .npmrc when NODE_AUTH_TOKEN exists
-          cache: 'npm'
+        steps:
+            - name: Checkout repository
+              uses: actions/checkout@v4
 
-      - name: Install dependencies
-        run: npm ci
+            - name: Set up Node.js
+              uses: actions/setup-node@v4
+              with:
+                  node-version: 22
+                  registry-url: https://registry.npmjs.org/ # setup-node will write .npmrc when NODE_AUTH_TOKEN exists
 
-      - name: Build (production)
-        run: npm run production
+            - name: Set up pnpm
+              uses: pnpm/action-setup@v4
+              with:
+                  version: 10
 
-      # Optional explicit auth line — useful for debugging auth issues
-      - name: Configure npm auth (explicit)
-        run: npm config set //registry.npmjs.org/:_authToken=${NODE_AUTH_TOKEN}
+            - name: Install dependencies
+              run: pnpm install --frozen-lockfile
 
-      - name: Publish to npm
-        run: npm publish --access public
+            - name: Build
+              run: pnpm run production
+
+            - name: Verify version not already published
+              run: |
+                  VERSION=$(node -p "require('./package.json').version")
+                  if npm view @codebender-io/i18n-currency@$VERSION > /dev/null 2>&1; then
+                    echo "Version $VERSION already exists on npm. Skipping publish."
+                    exit 0
+                  fi
+
+            - name: Publish to npm
+              run: pnpm publish --access public --no-git-checks
