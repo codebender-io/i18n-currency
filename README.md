@@ -107,6 +107,7 @@ export interface CurrencyLocalized {
 export type Currency = CurrencyBase & CurrencyLocalized;
 export type CurrencyCode = string;
 export type CurrencyBaseMap = Record<CurrencyCode, CurrencyBase>;
+export type CurrencyLocalizedMap = Record<CurrencyCode, CurrencyLocalized>;
 export type CurrencyMap = Record<CurrencyCode, Currency>;
 export type LocaleCode = string;
 export type LocaleCurrencyMap = Record<LocaleCode, CurrencyMap>;

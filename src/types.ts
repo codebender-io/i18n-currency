@@ -45,13 +45,15 @@ export type Currency = CurrencyBase & CurrencyLocalized;
 export type CurrencyCode = string;
 /** Map of currency code to its base data. */
 export type CurrencyBaseMap = Record<CurrencyCode, CurrencyBase>;
+/** Map of currency code to its localized data. */
+export type CurrencyLocalizedMap = Record<CurrencyCode, CurrencyLocalized>;
 /** Map of currency code to fully localized data. */
 export type CurrencyMap = Record<CurrencyCode, Currency>;
 
 /** BCP-47 locale code, e.g., "en", "fr-CA". */
 export type LocaleCode = string;
 /** Mapping of locale codes to localized currency maps. */
-export type LocaleCurrencyMap = Record<LocaleCode, CurrencyMap>;
+export type LocaleCurrencyMap = Record<LocaleCode, CurrencyLocalizedMap>;
 
 /** ISO 3166-1 alpha-2 country code, e.g., "US". */
 export type CountryCode = string;
