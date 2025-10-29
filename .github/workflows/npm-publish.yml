@@ -32,7 +32,13 @@ jobs:
               run: pnpm install --frozen-lockfile
 
             - name: Build
-              run: pnpm run production
+              run: pnpm build
+
+            - name: Test
+              run: pnpm test
+
+            - name: Pack
+              run: pnpm pack
 
             - name: Verify version not already published
               run: |

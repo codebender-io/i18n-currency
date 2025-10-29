@@ -2,7 +2,7 @@
 
 [![npm version](https://img.shields.io/npm/v/@codebender-io/i18n-currency?label=npm)](https://www.npmjs.com/package/@codebender-io/i18n-currency)
 [![License](https://img.shields.io/badge/license-Apache-2.0-blue.svg)](LICENSE)
-[![CI](https://github.com/codebender-io/i18n-currency/actions/workflows/ci.yml/badge.svg)](https://github.com/codebender-io/i18n-currency/actions)  
+[![CI](https://github.com/codebender-io/i18n-currency/actions/workflows/npm-publish.yml/badge.svg)](https://github.com/codebender-io/i18n-currency/actions)
 Maintained by **CodeBender** — website: https://codebender.io · GitHub: https://github.com/codebender-io
 
 ---
@@ -15,12 +15,12 @@ Maintained by **CodeBender** — website: https://codebender.io · GitHub: https
 - localized currency names and subunit names for multiple locales,
 - convenient lookup utilities by locale and by country.
 
-It is intended for server and client (Node >=18 / ESM) usage and designed in TypeScript with full types.
+It is intended for server and client (Node >=20 / ESM) usage and designed in TypeScript with full types.
 
 ## Size & bundle behaviour
 
-- **Base package (ESM, minified + gzipped)** — ~**93 KB**.
-- **Each locale file** (JSON) — ~**20–25 KB**.
+- **Base package (ESM, minified + gzipped)** — ~**39.7 KB**.
+- **Each locale file** (JSON) — ~**19–24 KB**.
 
 The library is **fully modular** and **tree-shakeable**: we expose ESM modules and ship locale files as separate JSON assets, so your bundler will include **only** the base code and the locale files you import. In other words — _you ship what you use only_.
 
@@ -355,8 +355,9 @@ Suggested workflow:
 1. Fork repository
 2. Create feature branch
 3. Run `pnpm install`
-4. Run `pnpm run build` and tests (if available)
-5. Open PR and describe changes
+4. Run `pnpm build`
+5. Run `pnpm test` (if available)
+6. Open PR and describe changes
 
 ---
 
@@ -385,4 +386,4 @@ Apache-2.0 — see `LICENSE` file.
 
 ---
 
-© 2025 CurrencyLibrary Example Guide
+Copyright © 2025 [CodeBender](https://codebender.io). Licensed under Apache-2.0. See [LICENSE](LICENSE) for details.
