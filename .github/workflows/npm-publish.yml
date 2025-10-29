@@ -1,10 +1,6 @@
 name: Publish package to npm (pnpm)
 
 on:
-    workflow_dispatch: # manual trigger from Actions UI
-    push:
-        tags:
-            - "v*" # trigger on version tags like v1.2.3
     release:
         types: [created] # or when a GitHub release is created
 
