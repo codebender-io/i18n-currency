@@ -110,7 +110,7 @@ export type CurrencyBaseMap = Record<CurrencyCode, CurrencyBase>;
 export type CurrencyLocalizedMap = Record<CurrencyCode, CurrencyLocalized>;
 export type CurrencyMap = Record<CurrencyCode, Currency>;
 export type LocaleCode = string;
-export type LocaleCurrencyMap = Record<LocaleCode, CurrencyMap>;
+export type LocaleCurrencyMap = Record<LocaleCode, CurrencyLocalizedMap>;
 export type CountryCode = string;
 export type CountryCurrencyMap = Record<CountryCode, CurrencyCode[]>;
 ```
