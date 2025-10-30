@@ -1,938 +1,926 @@
 {
 	"AED": {
-		"name": "Yhdistyneiden arabiemiirikuntien dirhami",
-		"name_plural": "Yhdistyneiden arabiemiirikuntien dirhamia",
-		"subunit_name": "fils",
-		"subunit_name_plural": "filsiä"
+		"name": "Arabiemiirikuntien dirhami",
+		"name_plural": "Arabiemiirikuntien dirhamia",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Filsiä"
 	},
 	"AFN": {
 		"name": "Afganistanin afgaani",
 		"name_plural": "Afganistanin afgaania",
-		"subunit_name": "pul",
-		"subunit_name_plural": "pulia"
+		"subunit_name": "Pul",
+		"subunit_name_plural": "Pulia"
 	},
 	"ALL": {
-		"name": "Albanian lekki",
-		"name_plural": "Albanian lekkia",
-		"subunit_name": "qindarkë",
-		"subunit_name_plural": "qindarkëa"
+		"name": "Albanian lek",
+		"name_plural": "Albanian lekiä",
+		"subunit_name": "Qindarkë",
+		"subunit_name_plural": "Qindarkëa"
 	},
 	"AMD": {
 		"name": "Armenian dram",
 		"name_plural": "Armenian dramia",
-		"subunit_name": "luma",
-		"subunit_name_plural": "lumaa"
+		"subunit_name": "Luma",
+		"subunit_name_plural": "Lumaa"
 	},
 	"ANG": {
-		"name": "Alankomaiden antillien guldeni",
-		"name_plural": "Alankomaiden antillien guldenia",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"name": "Alankomaiden Antillien guldeni",
+		"name_plural": "Alankomaiden Antillien guldenia",
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"AOA": {
 		"name": "Angolan kwanza",
 		"name_plural": "Angolan kwanzaa",
-		"subunit_name": "cêntimo",
-		"subunit_name_plural": "cêntimoa"
+		"subunit_name": "Cêntimo",
+		"subunit_name_plural": "Cêntimoa"
 	},
 	"ARS": {
 		"name": "Argentiinan peso",
-		"name_plural": "Argentiinan pesoja",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
+		"name_plural": "Argentiinan pesoa",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavoa"
 	},
 	"AUD": {
 		"name": "Australian dollari",
 		"name_plural": "Australian dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"AWG": {
-		"name": "Aruban florintti",
-		"name_plural": "Aruban florinttia",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"name": "Aruban floriini",
+		"name_plural": "Aruban floriinia",
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"AZN": {
-		"name": "Azerbaidžanin manat",
+		"name": "Azerbaidžanin manatti",
 		"name_plural": "Azerbaidžanin manattia",
-		"subunit_name": "qəpik",
-		"subunit_name_plural": "qəpikiä"
+		"subunit_name": "Qəpik",
+		"subunit_name_plural": "Qəpikiä"
 	},
 	"BAM": {
-		"name": "Bosnia ja Hertsegovinan vaihdettava markka",
-		"name_plural": "Bosnia ja Hertsegovinan vaihdettavaa markkaa",
-		"subunit_name": "fening",
-		"subunit_name_plural": "feningiä"
+		"name": "Bosnia-Hertsegovinan vaihdettava markka",
+		"name_plural": "Bosnia-Hertsegovinan vaihdettavaa markkaa",
+		"subunit_name": "Fening",
+		"subunit_name_plural": "Feningiä"
 	},
 	"BBD": {
-		"name": "Barbadoksen dollari",
-		"name_plural": "Barbadoksen dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"name": "Barbadosin dollari",
+		"name_plural": "Barbadosin dollaria",
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"BDT": {
 		"name": "Bangladeshin taka",
 		"name_plural": "Bangladeshin takaa",
-		"subunit_name": "poisha",
-		"subunit_name_plural": "poishaa"
+		"subunit_name": "Poisha",
+		"subunit_name_plural": "Poishaa"
 	},
 	"BGN": {
 		"name": "Bulgarian leva",
 		"name_plural": "Bulgarian levaa",
-		"subunit_name": "stotinka",
-		"subunit_name_plural": "stotinkaa"
+		"subunit_name": "Stotinka",
+		"subunit_name_plural": "Stotinkaa"
 	},
 	"BHD": {
 		"name": "Bahrainin dinaari",
 		"name_plural": "Bahrainin dinaaria",
-		"subunit_name": "fils",
-		"subunit_name_plural": "filsiä"
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Filsiä"
 	},
 	"BIF": {
 		"name": "Burundin frangi",
 		"name_plural": "Burundin frangia",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentimeä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"BMD": {
 		"name": "Bermudan dollari",
 		"name_plural": "Bermudan dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"BND": {
 		"name": "Brunein dollari",
 		"name_plural": "Brunein dollaria",
-		"subunit_name": "sen",
-		"subunit_name_plural": "seniä"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Seniä"
 	},
 	"BOB": {
 		"name": "Bolivian boliviano",
 		"name_plural": "Bolivian bolivianoa",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavoa"
 	},
 	"BRL": {
 		"name": "Brasilian real",
 		"name_plural": "Brasilian realia",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavoa"
 	},
 	"BSD": {
 		"name": "Bahaman dollari",
 		"name_plural": "Bahaman dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"BTN": {
 		"name": "Bhutanin ngultrum",
 		"name_plural": "Bhutanin ngultrumia",
-		"subunit_name": "chetrum",
-		"subunit_name_plural": "chetrumia"
+		"subunit_name": "Chetrum",
+		"subunit_name_plural": "Chetrumia"
 	},
 	"BWP": {
 		"name": "Botswanan pula",
 		"name_plural": "Botswanan pulaa",
-		"subunit_name": "thebe",
-		"subunit_name_plural": "thebeä"
+		"subunit_name": "Thebe",
+		"subunit_name_plural": "Thebeä"
 	},
 	"BYN": {
 		"name": "Valko-Venäjän rupla",
 		"name_plural": "Valko-Venäjän ruplaa",
-		"subunit_name": "kopeikka",
-		"subunit_name_plural": "kopeikkoja"
+		"subunit_name": "Kopekka",
+		"subunit_name_plural": "Kopekkaa"
 	},
 	"BZD": {
 		"name": "Belizen dollari",
 		"name_plural": "Belizen dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"CAD": {
 		"name": "Kanadan dollari",
 		"name_plural": "Kanadan dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"CDF": {
 		"name": "Kongon frangi",
 		"name_plural": "Kongon frangia",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentimeä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"CHF": {
 		"name": "Sveitsin frangi",
 		"name_plural": "Sveitsin frangia",
-		"subunit_name": "rappen",
-		"subunit_name_plural": "rappenia"
+		"subunit_name": "Rappen",
+		"subunit_name_plural": "Rappenia"
 	},
 	"CLP": {
 		"name": "Chilen peso",
-		"name_plural": "Chilen pesoja",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
+		"name_plural": "Chilen pesoa",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavoa"
 	},
 	"CNY": {
 		"name": "Kiinan juan",
 		"name_plural": "Kiinan juania",
-		"subunit_name": "fen",
-		"subunit_name_plural": "feniä"
+		"subunit_name": "Fen",
+		"subunit_name_plural": "Feniä"
 	},
 	"COP": {
 		"name": "Kolumbian peso",
-		"name_plural": "Kolumbian pesoja",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
+		"name_plural": "Kolumbian pesoa",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavoa"
 	},
 	"CRC": {
 		"name": "Costa Rican colón",
 		"name_plural": "Costa Rican colónia",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimoa"
-	},
-	"CUC": {
-		"name": "Kuuban vaihdettava peso",
-		"name_plural": "Kuuban vaihdettavaa pesoa",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Céntimoa"
 	},
 	"CUP": {
 		"name": "Kuuban peso",
-		"name_plural": "Kuuban pesoja",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
+		"name_plural": "Kuuban pesoa",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavoa"
 	},
 	"CVE": {
 		"name": "Kap Verden escudo",
 		"name_plural": "Kap Verden escudoa",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavoa"
 	},
 	"CZK": {
 		"name": "Tšekin koruna",
 		"name_plural": "Tšekin korunaa",
-		"subunit_name": "haléř",
-		"subunit_name_plural": "haléřeja"
+		"subunit_name": "Haléř",
+		"subunit_name_plural": "Haléřeä"
 	},
 	"DJF": {
 		"name": "Djiboutin frangi",
 		"name_plural": "Djiboutin frangia",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentimeä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"DKK": {
 		"name": "Tanskan kruunu",
 		"name_plural": "Tanskan kruunua",
-		"subunit_name": "øre",
-		"subunit_name_plural": "ørea"
+		"subunit_name": "Øre",
+		"subunit_name_plural": "Øreä"
 	},
 	"DOP": {
 		"name": "Dominikaanisen tasavallan peso",
-		"name_plural": "Dominikaanisen tasavallan pesoja",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
+		"name_plural": "Dominikaanisen tasavallan pesoa",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavoa"
 	},
 	"DZD": {
 		"name": "Algerian dinaari",
 		"name_plural": "Algerian dinaaria",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentimeä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"EGP": {
 		"name": "Egyptin punta",
 		"name_plural": "Egyptin puntaa",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastrea"
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Piastrea"
 	},
 	"ERN": {
 		"name": "Eritrean nakfa",
 		"name_plural": "Eritrean nakfaa",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"ETB": {
 		"name": "Etiopian birr",
 		"name_plural": "Etiopian birriä",
-		"subunit_name": "santim",
-		"subunit_name_plural": "santimia"
+		"subunit_name": "Santim",
+		"subunit_name_plural": "Santimia"
 	},
 	"EUR": {
-		"name": "euro",
-		"name_plural": "euroa",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"name": "Euro",
+		"name_plural": "Euroa",
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"FJD": {
 		"name": "Fidžin dollari",
 		"name_plural": "Fidžin dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"FKP": {
 		"name": "Falklandinsaarten punta",
 		"name_plural": "Falklandinsaarten puntaa",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pennyä"
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Pennyä"
 	},
 	"GBP": {
 		"name": "Englannin punta",
 		"name_plural": "Englannin puntaa",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pennyä"
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Pennyä"
 	},
 	"GEL": {
 		"name": "Georgian lari",
 		"name_plural": "Georgian laria",
-		"subunit_name": "tetri",
-		"subunit_name_plural": "tetriä"
+		"subunit_name": "Tetri",
+		"subunit_name_plural": "Tetria"
 	},
 	"GHS": {
 		"name": "Ghanan cedi",
 		"name_plural": "Ghanan cediä",
-		"subunit_name": "pesewa",
-		"subunit_name_plural": "pesewaa"
+		"subunit_name": "Pesewa",
+		"subunit_name_plural": "Pesewaa"
 	},
 	"GIP": {
 		"name": "Gibraltarin punta",
 		"name_plural": "Gibraltarin puntaa",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pennyä"
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Pennyä"
 	},
 	"GMD": {
 		"name": "Gambian dalasi",
 		"name_plural": "Gambian dalasia",
-		"subunit_name": "butut",
-		"subunit_name_plural": "bututia"
+		"subunit_name": "Butut",
+		"subunit_name_plural": "Bututia"
 	},
 	"GNF": {
 		"name": "Guinean frangi",
 		"name_plural": "Guinean frangia",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentimeä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"GTQ": {
 		"name": "Guatemalan quetzal",
 		"name_plural": "Guatemalan quetzalia",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavoa"
 	},
 	"GYD": {
 		"name": "Guyanan dollari",
 		"name_plural": "Guyanan dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"HKD": {
 		"name": "Hongkongin dollari",
 		"name_plural": "Hongkongin dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"HNL": {
 		"name": "Hondurasin lempira",
 		"name_plural": "Hondurasin lempiraa",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
-	},
-	"HRK": {
-		"name": "Kroatian kuna",
-		"name_plural": "Kroatian kunaa",
-		"subunit_name": "lipa",
-		"subunit_name_plural": "lipaa"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavoa"
 	},
 	"HTG": {
 		"name": "Haitin gourde",
 		"name_plural": "Haitin gourdea",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentimeä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"HUF": {
 		"name": "Unkarin forintti",
 		"name_plural": "Unkarin forinttia",
-		"subunit_name": "fillér",
-		"subunit_name_plural": "fillérejä"
+		"subunit_name": "Fillér",
+		"subunit_name_plural": "Fillériä"
 	},
 	"IDR": {
 		"name": "Indonesian rupia",
 		"name_plural": "Indonesian rupiaa",
-		"subunit_name": "sen",
-		"subunit_name_plural": "seniä"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Seniä"
 	},
 	"ILS": {
-		"name": "Israelin uusi sekeli",
-		"name_plural": "Israelin uutta sekeliä",
-		"subunit_name": "agora",
-		"subunit_name_plural": "agoraa"
+		"name": "Israelin sekeli",
+		"name_plural": "Israelin sekeliä",
+		"subunit_name": "Agora",
+		"subunit_name_plural": "Agoraa"
 	},
 	"INR": {
 		"name": "Intian rupia",
 		"name_plural": "Intian rupiaa",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisaa"
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paisaa"
 	},
 	"IQD": {
 		"name": "Irakin dinaari",
 		"name_plural": "Irakin dinaaria",
-		"subunit_name": "fils",
-		"subunit_name_plural": "filsiä"
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Filsiä"
 	},
 	"IRR": {
 		"name": "Iranin rial",
 		"name_plural": "Iranin rialia",
-		"subunit_name": "dinaari",
-		"subunit_name_plural": "dinaaria"
+		"subunit_name": "Dinaari",
+		"subunit_name_plural": "Dinaaria"
 	},
 	"ISK": {
-		"name": "Islannin kruuna",
+		"name": "Islannin kruunu",
 		"name_plural": "Islannin kruunua",
-		"subunit_name": "eyrir",
-		"subunit_name_plural": "auraria"
+		"subunit_name": "Eyrir",
+		"subunit_name_plural": "Auraa"
 	},
 	"JMD": {
 		"name": "Jamaikan dollari",
 		"name_plural": "Jamaikan dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"JOD": {
 		"name": "Jordanian dinaari",
 		"name_plural": "Jordanian dinaaria",
-		"subunit_name": "fils",
-		"subunit_name_plural": "filsiä"
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Filsiä"
 	},
 	"JPY": {
 		"name": "Japanin jeni",
 		"name_plural": "Japanin jeniä",
-		"subunit_name": "sen",
-		"subunit_name_plural": "seniä"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Seniä"
 	},
 	"KES": {
 		"name": "Kenian šillinki",
 		"name_plural": "Kenian šillinkiä",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"KGS": {
 		"name": "Kirgisian som",
 		"name_plural": "Kirgisian somia",
-		"subunit_name": "tyiyn",
-		"subunit_name_plural": "tyiyniä"
+		"subunit_name": "Tyiyn",
+		"subunit_name_plural": "Tyiyniä"
 	},
 	"KHR": {
 		"name": "Kambodžan riel",
 		"name_plural": "Kambodžan rieliä",
-		"subunit_name": "sen",
-		"subunit_name_plural": "seniä"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Seniä"
 	},
 	"KMF": {
 		"name": "Komorien frangi",
 		"name_plural": "Komorien frangia",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentimeä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"KPW": {
 		"name": "Pohjois-Korean won",
 		"name_plural": "Pohjois-Korean wonia",
-		"subunit_name": "jeon",
-		"subunit_name_plural": "jeonia"
+		"subunit_name": "Jeon",
+		"subunit_name_plural": "Jeonia"
 	},
 	"KRW": {
 		"name": "Etelä-Korean won",
 		"name_plural": "Etelä-Korean wonia",
-		"subunit_name": "jeon",
-		"subunit_name_plural": "jeonia"
+		"subunit_name": "Jeon",
+		"subunit_name_plural": "Jeonia"
 	},
 	"KWD": {
 		"name": "Kuwaitin dinaari",
 		"name_plural": "Kuwaitin dinaaria",
-		"subunit_name": "fils",
-		"subunit_name_plural": "filsiä"
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Filsiä"
 	},
 	"KYD": {
 		"name": "Caymansaarten dollari",
 		"name_plural": "Caymansaarten dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"KZT": {
 		"name": "Kazakstanin tenge",
 		"name_plural": "Kazakstanin tengeä",
-		"subunit_name": "tiyn",
-		"subunit_name_plural": "tiyniä"
+		"subunit_name": "Tiyn",
+		"subunit_name_plural": "Tiyniä"
 	},
 	"LAK": {
 		"name": "Laosin kip",
-		"name_plural": "Laosin kippiä",
-		"subunit_name": "att",
-		"subunit_name_plural": "attia"
+		"name_plural": "Laosin kipiä",
+		"subunit_name": "Att",
+		"subunit_name_plural": "Attia"
 	},
 	"LBP": {
 		"name": "Libanonin punta",
 		"name_plural": "Libanonin puntaa",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastrea"
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Piastrea"
 	},
 	"LKR": {
 		"name": "Sri Lankan rupia",
 		"name_plural": "Sri Lankan rupiaa",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"LRD": {
 		"name": "Liberian dollari",
 		"name_plural": "Liberian dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"LSL": {
 		"name": "Lesothon loti",
 		"name_plural": "Lesothon lotia",
-		"subunit_name": "sente",
-		"subunit_name_plural": "lisenteä"
+		"subunit_name": "Sente",
+		"subunit_name_plural": "Lisenteä"
 	},
 	"LYD": {
 		"name": "Libyan dinaari",
 		"name_plural": "Libyan dinaaria",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirhamia"
+		"subunit_name": "Dirham",
+		"subunit_name_plural": "Dirhamia"
 	},
 	"MAD": {
 		"name": "Marokon dirhami",
 		"name_plural": "Marokon dirhamia",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentimeä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"MDL": {
 		"name": "Moldovan leu",
 		"name_plural": "Moldovan leuta",
-		"subunit_name": "ban",
-		"subunit_name_plural": "bania"
+		"subunit_name": "Ban",
+		"subunit_name_plural": "Bania"
 	},
 	"MGA": {
 		"name": "Madagaskarin ariary",
 		"name_plural": "Madagaskarin ariarya",
-		"subunit_name": "iraimbilanja",
-		"subunit_name_plural": "iraimbilanjaa"
+		"subunit_name": "Iraimbilanja",
+		"subunit_name_plural": "Iraimbilanjaa"
 	},
 	"MKD": {
-		"name": "Pohjois-Makedonian denaari",
-		"name_plural": "Pohjois-Makedonian denaaria",
-		"subunit_name": "deni",
-		"subunit_name_plural": "deniä"
+		"name": "Makedonian denaari",
+		"name_plural": "Makedonian denaaria",
+		"subunit_name": "Deni",
+		"subunit_name_plural": "Deniä"
 	},
 	"MMK": {
 		"name": "Myanmarin kyat",
-		"name_plural": "Myanmarin kyatiä",
-		"subunit_name": "pya",
-		"subunit_name_plural": "pyaa"
+		"name_plural": "Myanmarin kyatia",
+		"subunit_name": "Pya",
+		"subunit_name_plural": "Pyaa"
 	},
 	"MNT": {
 		"name": "Mongolian tugrik",
 		"name_plural": "Mongolian tugrikia",
-		"subunit_name": "möngö",
-		"subunit_name_plural": "möngöä"
+		"subunit_name": "Möngö",
+		"subunit_name_plural": "Möngöä"
 	},
 	"MOP": {
 		"name": "Macaon pataca",
 		"name_plural": "Macaon patacaa",
-		"subunit_name": "avo",
-		"subunit_name_plural": "avoa"
+		"subunit_name": "Avo",
+		"subunit_name_plural": "Avoa"
 	},
 	"MRU": {
 		"name": "Mauritanian ouguiya",
 		"name_plural": "Mauritanian ouguiyaa",
-		"subunit_name": "khoums",
-		"subunit_name_plural": "khoumsia"
+		"subunit_name": "Khoums",
+		"subunit_name_plural": "Khoumsia"
 	},
 	"MUR": {
 		"name": "Mauritiuksen rupia",
 		"name_plural": "Mauritiuksen rupiaa",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"MVR": {
 		"name": "Malediivien rufiyaa",
 		"name_plural": "Malediivien rufiyaaa",
-		"subunit_name": "laari",
-		"subunit_name_plural": "laaria"
+		"subunit_name": "Laari",
+		"subunit_name_plural": "Laaria"
 	},
 	"MWK": {
 		"name": "Malawin kwacha",
 		"name_plural": "Malawin kwachaa",
-		"subunit_name": "tambala",
-		"subunit_name_plural": "tambalaa"
+		"subunit_name": "Tambala",
+		"subunit_name_plural": "Tambalaa"
 	},
 	"MXN": {
 		"name": "Meksikon peso",
-		"name_plural": "Meksikon pesoja",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
+		"name_plural": "Meksikon pesoa",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavoa"
 	},
 	"MYR": {
 		"name": "Malesian ringgit",
 		"name_plural": "Malesian ringgitiä",
-		"subunit_name": "sen",
-		"subunit_name_plural": "seniä"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Seniä"
 	},
 	"MZN": {
 		"name": "Mosambikin metical",
 		"name_plural": "Mosambikin meticalia",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavoa"
 	},
 	"NAD": {
 		"name": "Namibian dollari",
 		"name_plural": "Namibian dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"NGN": {
 		"name": "Nigerian naira",
 		"name_plural": "Nigerian nairaa",
-		"subunit_name": "kobo",
-		"subunit_name_plural": "koboa"
+		"subunit_name": "Kobo",
+		"subunit_name_plural": "Koboa"
 	},
 	"NIO": {
 		"name": "Nicaraguan córdoba",
 		"name_plural": "Nicaraguan córdobaa",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavoa"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavoa"
 	},
 	"NOK": {
 		"name": "Norjan kruunu",
 		"name_plural": "Norjan kruunua",
-		"subunit_name": "øre",
-		"subunit_name_plural": "ørea"
+		"subunit_name": "Øre",
+		"subunit_name_plural": "Øreä"
 	},
 	"NPR": {
 		"name": "Nepalin rupia",
 		"name_plural": "Nepalin rupiaa",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisaa"
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paisaa"
 	},
 	"NZD": {
 		"name": "Uuden-Seelannin dollari",
 		"name_plural": "Uuden-Seelannin dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"OMR": {
 		"name": "Omanin rial",
 		"name_plural": "Omanin rialia",
-		"subunit_name": "baisa",
-		"subunit_name_plural": "baisaa"
+		"subunit_name": "Baisa",
+		"subunit_name_plural": "Baisaa"
 	},
 	"PAB": {
 		"name": "Panaman balboa",
 		"name_plural": "Panaman balboaa",
-		"subunit_name": "centésimo",
-		"subunit_name_plural": "centésimoa"
+		"subunit_name": "Centésimo",
+		"subunit_name_plural": "Centésimoa"
 	},
 	"PEN": {
 		"name": "Perun sol",
 		"name_plural": "Perun solia",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimoa"
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Céntimoa"
 	},
 	"PGK": {
 		"name": "Papua-Uuden-Guinean kina",
 		"name_plural": "Papua-Uuden-Guinean kinaa",
-		"subunit_name": "toea",
-		"subunit_name_plural": "toeaa"
+		"subunit_name": "Toea",
+		"subunit_name_plural": "Toeaa"
 	},
 	"PHP": {
 		"name": "Filippiinien peso",
-		"name_plural": "Filippiinien pesoja",
-		"subunit_name": "sentimo",
-		"subunit_name_plural": "sentimoa"
+		"name_plural": "Filippiinien pesoa",
+		"subunit_name": "Sentimo",
+		"subunit_name_plural": "Sentimoa"
 	},
 	"PKR": {
 		"name": "Pakistanin rupia",
 		"name_plural": "Pakistanin rupiaa",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisaa"
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paisaa"
 	},
 	"PLN": {
-		"name": "Puolan zloty",
-		"name_plural": "Puolan zlotya",
-		"subunit_name": "grosz",
-		"subunit_name_plural": "groszyä"
+		"name": "Puolan złoty",
+		"name_plural": "Puolan złotya",
+		"subunit_name": "Grosz",
+		"subunit_name_plural": "Groszyä"
 	},
 	"PYG": {
 		"name": "Paraguayn guarani",
 		"name_plural": "Paraguayn guarania",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimoa"
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Céntimoa"
 	},
 	"QAR": {
 		"name": "Qatarin rial",
 		"name_plural": "Qatarin rialia",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirhamia"
+		"subunit_name": "Dirham",
+		"subunit_name_plural": "Dirhamia"
 	},
 	"RON": {
 		"name": "Romanian leu",
 		"name_plural": "Romanian leuta",
-		"subunit_name": "ban",
-		"subunit_name_plural": "bania"
+		"subunit_name": "Ban",
+		"subunit_name_plural": "Bania"
 	},
 	"RSD": {
 		"name": "Serbian dinaari",
 		"name_plural": "Serbian dinaaria",
-		"subunit_name": "para",
-		"subunit_name_plural": "paraa"
+		"subunit_name": "Para",
+		"subunit_name_plural": "Paraa"
 	},
 	"RUB": {
 		"name": "Venäjän rupla",
 		"name_plural": "Venäjän ruplaa",
-		"subunit_name": "kopeikka",
-		"subunit_name_plural": "kopeikkoja"
+		"subunit_name": "Kopekka",
+		"subunit_name_plural": "Kopekkaa"
 	},
 	"RWF": {
 		"name": "Ruandan frangi",
 		"name_plural": "Ruandan frangia",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentimeä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"SAR": {
 		"name": "Saudi-Arabian rial",
 		"name_plural": "Saudi-Arabian rialia",
-		"subunit_name": "halala",
-		"subunit_name_plural": "halalaa"
+		"subunit_name": "Halala",
+		"subunit_name_plural": "Halalaa"
 	},
 	"SBD": {
 		"name": "Salomonsaarten dollari",
 		"name_plural": "Salomonsaarten dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"SCR": {
 		"name": "Seychellien rupia",
 		"name_plural": "Seychellien rupiaa",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"SDG": {
 		"name": "Sudanin punta",
 		"name_plural": "Sudanin puntaa",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastrea"
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Piastrea"
 	},
 	"SEK": {
 		"name": "Ruotsin kruunu",
 		"name_plural": "Ruotsin kruunua",
-		"subunit_name": "öre",
-		"subunit_name_plural": "örea"
+		"subunit_name": "Öre",
+		"subunit_name_plural": "Öreä"
 	},
 	"SGD": {
 		"name": "Singaporen dollari",
 		"name_plural": "Singaporen dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"SHP": {
 		"name": "Saint Helenan punta",
 		"name_plural": "Saint Helenan puntaa",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pennyä"
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Pennyä"
 	},
-	"SLL": {
+	"SLE": {
 		"name": "Sierra Leonen leone",
 		"name_plural": "Sierra Leonen leonea",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"SOS": {
 		"name": "Somalian šillinki",
 		"name_plural": "Somalian šillinkiä",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"SRD": {
 		"name": "Surinamen dollari",
 		"name_plural": "Surinamen dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"SSP": {
 		"name": "Etelä-Sudanin punta",
 		"name_plural": "Etelä-Sudanin puntaa",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piasteria"
+		"subunit_name": "Piaster",
+		"subunit_name_plural": "Piasteria"
 	},
 	"STN": {
 		"name": "São Tomén ja Príncipen dobra",
 		"name_plural": "São Tomén ja Príncipen dobraa",
-		"subunit_name": "cêntimo",
-		"subunit_name_plural": "cêntimoa"
+		"subunit_name": "Cêntimo",
+		"subunit_name_plural": "Cêntimoa"
 	},
 	"SYP": {
 		"name": "Syyrian punta",
 		"name_plural": "Syyrian puntaa",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastrea"
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Piastrea"
 	},
 	"SZL": {
-		"name": "Swazimaan lilangeni",
-		"name_plural": "Swazimaan emalangenia",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"name": "Eswatinin lilangeni",
+		"name_plural": "Eswatinin emalangenia",
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"THB": {
 		"name": "Thaimaan baht",
 		"name_plural": "Thaimaan bahtia",
-		"subunit_name": "satang",
-		"subunit_name_plural": "satangia"
+		"subunit_name": "Satang",
+		"subunit_name_plural": "Satangia"
 	},
 	"TJS": {
 		"name": "Tadžikistanin somoni",
 		"name_plural": "Tadžikistanin somonia",
-		"subunit_name": "diram",
-		"subunit_name_plural": "diramia"
+		"subunit_name": "Diram",
+		"subunit_name_plural": "Diramia"
 	},
 	"TMT": {
-		"name": "Turkmenistanin manat",
+		"name": "Turkmenistanin manatti",
 		"name_plural": "Turkmenistanin manattia",
-		"subunit_name": "tenge",
-		"subunit_name_plural": "tengeä"
+		"subunit_name": "Tenge",
+		"subunit_name_plural": "Tengeä"
 	},
 	"TND": {
 		"name": "Tunisian dinaari",
 		"name_plural": "Tunisian dinaaria",
-		"subunit_name": "millime",
-		"subunit_name_plural": "millimeä"
+		"subunit_name": "Millime",
+		"subunit_name_plural": "Millimeä"
 	},
 	"TOP": {
 		"name": "Tongan paʻanga",
 		"name_plural": "Tongan paʻangaa",
-		"subunit_name": "seniti",
-		"subunit_name_plural": "senitiä"
+		"subunit_name": "Seniti",
+		"subunit_name_plural": "Senitiä"
 	},
 	"TRY": {
 		"name": "Turkin liira",
 		"name_plural": "Turkin liiraa",
-		"subunit_name": "kuruş",
-		"subunit_name_plural": "kuruşia"
+		"subunit_name": "Kuruş",
+		"subunit_name_plural": "Kuruşia"
 	},
 	"TTD": {
 		"name": "Trinidadin ja Tobagon dollari",
 		"name_plural": "Trinidadin ja Tobagon dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"TWD": {
 		"name": "Taiwanin uusi dollari",
 		"name_plural": "Taiwanin uutta dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"TZS": {
 		"name": "Tansanian šillinki",
 		"name_plural": "Tansanian šillinkiä",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"UAH": {
 		"name": "Ukrainan hryvnia",
 		"name_plural": "Ukrainan hryvniaa",
-		"subunit_name": "kopiyka",
-		"subunit_name_plural": "kopiykkaa"
+		"subunit_name": "Kopekka",
+		"subunit_name_plural": "Kopekkaa"
 	},
 	"UGX": {
 		"name": "Ugandan šillinki",
 		"name_plural": "Ugandan šillinkiä",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"USD": {
 		"name": "Yhdysvaltain dollari",
 		"name_plural": "Yhdysvaltain dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"UYU": {
 		"name": "Uruguayn peso",
-		"name_plural": "Uruguayn pesoja",
-		"subunit_name": "centésimo",
-		"subunit_name_plural": "centésimoa"
+		"name_plural": "Uruguayn pesoa",
+		"subunit_name": "Centésimo",
+		"subunit_name_plural": "Centésimoa"
 	},
 	"UZS": {
 		"name": "Uzbekistanin som",
 		"name_plural": "Uzbekistanin somia",
-		"subunit_name": "tiyin",
-		"subunit_name_plural": "tiyiniä"
+		"subunit_name": "Tiyin",
+		"subunit_name_plural": "Tiyiniä"
 	},
-	"VES": {
-		"name": "Venezuelan bolívar",
-		"name_plural": "Venezuelan bolívaria",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimoa"
+	"VED": {
+		"name": "Venezuelan digitaalinen bolívar",
+		"name_plural": "Venezuelan digitaalista bolívaria",
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Céntimoa"
 	},
 	"VND": {
 		"name": "Vietnamin dong",
 		"name_plural": "Vietnamin dongia",
-		"subunit_name": "hào",
-		"subunit_name_plural": "hàoa"
+		"subunit_name": "Hào",
+		"subunit_name_plural": "Hàoa"
 	},
 	"VUV": {
 		"name": "Vanuatun vatu",
 		"name_plural": "Vanuatun vatua",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentimeä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"WST": {
 		"name": "Samoan tala",
 		"name_plural": "Samoan talaa",
-		"subunit_name": "sene",
-		"subunit_name_plural": "seneä"
+		"subunit_name": "Sene",
+		"subunit_name_plural": "Seneä"
 	},
 	"XAF": {
 		"name": "Keski-Afrikan CFA-frangi",
 		"name_plural": "Keski-Afrikan CFA-frangia",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentimeä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"XCD": {
 		"name": "Itä-Karibian dollari",
 		"name_plural": "Itä-Karibian dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"XOF": {
 		"name": "Länsi-Afrikan CFA-frangi",
 		"name_plural": "Länsi-Afrikan CFA-frangia",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentimeä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"XPF": {
 		"name": "CFP-frangi",
 		"name_plural": "CFP-frangia",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentimeä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"YER": {
 		"name": "Jemenin rial",
 		"name_plural": "Jemenin rialia",
-		"subunit_name": "fils",
-		"subunit_name_plural": "filsiä"
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Filsiä"
 	},
 	"ZAR": {
 		"name": "Etelä-Afrikan randi",
 		"name_plural": "Etelä-Afrikan randia",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	},
 	"ZMW": {
 		"name": "Sambian kwacha",
 		"name_plural": "Sambian kwachaa",
-		"subunit_name": "ngwee",
-		"subunit_name_plural": "ngweeta"
+		"subunit_name": "Ngwee",
+		"subunit_name_plural": "Ngweeta"
 	},
 	"ZWL": {
 		"name": "Zimbabwen dollari",
 		"name_plural": "Zimbabwen dollaria",
-		"subunit_name": "sentti",
-		"subunit_name_plural": "senttiä"
+		"subunit_name": "Sentti",
+		"subunit_name_plural": "Senttiä"
 	}
 }

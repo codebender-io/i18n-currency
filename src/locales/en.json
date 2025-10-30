@@ -191,12 +191,6 @@
 		"subunit_name": "Céntimo",
 		"subunit_name_plural": "Céntimos"
 	},
-	"CUC": {
-		"name": "Cuban Convertible Peso",
-		"name_plural": "Cuban Convertible Pesos",
-		"subunit_name": "Centavo",
-		"subunit_name_plural": "Centavos"
-	},
 	"CUP": {
 		"name": "Cuban Peso",
 		"name_plural": "Cuban Pesos",
@@ -335,12 +329,6 @@
 		"subunit_name": "Centavo",
 		"subunit_name_plural": "Centavos"
 	},
-	"HRK": {
-		"name": "Croatian Kuna",
-		"name_plural": "Croatian Kunas",
-		"subunit_name": "Lipa",
-		"subunit_name_plural": "Lipa"
-	},
 	"HTG": {
 		"name": "Haitian Gourde",
 		"name_plural": "Haitian Gourdes",
@@ -414,8 +402,8 @@
 		"subunit_name_plural": "Cents"
 	},
 	"KGS": {
-		"name": "Kyrgystani Som",
-		"name_plural": "Kyrgystani Soms",
+		"name": "Kyrgyzstani Som",
+		"name_plural": "Kyrgyzstani Soms",
 		"subunit_name": "Tyiyn",
 		"subunit_name_plural": "Tyiyn"
 	},
@@ -487,7 +475,7 @@
 	},
 	"LSL": {
 		"name": "Lesotho Loti",
-		"name_plural": "Lesotho Loti",
+		"name_plural": "Lesotho Maloti",
 		"subunit_name": "Sente",
 		"subunit_name_plural": "Lisente"
 	},
@@ -654,8 +642,8 @@
 		"subunit_name_plural": "Paisa"
 	},
 	"PLN": {
-		"name": "Polish Zloty",
-		"name_plural": "Polish Zlotys",
+		"name": "Polish Złoty",
+		"name_plural": "Polish Złoty",
 		"subunit_name": "Grosz",
 		"subunit_name_plural": "Groszy"
 	},
@@ -737,7 +725,7 @@
 		"subunit_name": "Penny",
 		"subunit_name_plural": "Pence"
 	},
-	"SLL": {
+	"SLE": {
 		"name": "Sierra Leonean Leone",
 		"name_plural": "Sierra Leonean Leones",
 		"subunit_name": "Cent",
@@ -863,9 +851,9 @@
 		"subunit_name": "Tiyin",
 		"subunit_name_plural": "Tiyin"
 	},
-	"VES": {
-		"name": "Venezuelan Bolívar",
-		"name_plural": "Venezuelan Bolívares",
+	"VED": {
+		"name": "Venezuelan Bolívar Digital",
+		"name_plural": "Venezuelan Bolívares Digitales",
 		"subunit_name": "Céntimo",
 		"subunit_name_plural": "Céntimos"
 	},

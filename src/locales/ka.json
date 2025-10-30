@@ -1,285 +1,279 @@
 {
 	"AED": {
-		"name": "არაბთა გაერთიანებული საამიროების დირჰამი",
-		"name_plural": "არაბთა გაერთიანებული საამიროების დირჰამი",
+		"name": "არაბეთის გაერთიანებული საამიროების დირჰამი",
+		"name_plural": "არაბეთის გაერთიანებული საამიროების დირჰამები",
 		"subunit_name": "ფილსი",
-		"subunit_name_plural": "ფილსი"
+		"subunit_name_plural": "ფილსები"
 	},
 	"AFN": {
-		"name": "ავღანეთის ავღანი",
-		"name_plural": "ავღანეთის ავღანი",
+		"name": "ავღანური ავღანი",
+		"name_plural": "ავღანური ავღანები",
 		"subunit_name": "პული",
-		"subunit_name_plural": "პული"
+		"subunit_name_plural": "პულები"
 	},
 	"ALL": {
-		"name": "ალბანეთის ლეკი",
-		"name_plural": "ალბანეთის ლეკი",
-		"subunit_name": "ჩინდარკა",
-		"subunit_name_plural": "ჩინდარკა"
+		"name": "ალბანური ლეკი",
+		"name_plural": "ალბანური ლეკები",
+		"subunit_name": "ქინდარკა",
+		"subunit_name_plural": "ქინდარკები"
 	},
 	"AMD": {
-		"name": "სომხეთის დრამი",
-		"name_plural": "სომხეთის დრამი",
+		"name": "სომხური დრამი",
+		"name_plural": "სომხური დრამები",
 		"subunit_name": "ლუმა",
-		"subunit_name_plural": "ლუმა"
+		"subunit_name_plural": "ლუმები"
 	},
 	"ANG": {
-		"name": "ნიდერლანდების ანტილიის გულდენი",
-		"name_plural": "ნიდერლანდების ანტილიის გულდენი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "ნიდერლანდების ანტილის გულდენი",
+		"name_plural": "ნიდერლანდების ანტილის გულდენები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"AOA": {
-		"name": "ანგოლის კვანზა",
-		"name_plural": "ანგოლის კვანზა",
-		"subunit_name": "სენტიმუ",
-		"subunit_name_plural": "სენტიმუ"
+		"name": "ანგოლური კვანზა",
+		"name_plural": "ანგოლური კვანზები",
+		"subunit_name": "სენტიმო",
+		"subunit_name_plural": "სენტიმოები"
 	},
 	"ARS": {
-		"name": "არგენტინის პესო",
-		"name_plural": "არგენტინის პესო",
+		"name": "არგენტინული პესო",
+		"name_plural": "არგენტინული პესოები",
 		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
+		"subunit_name_plural": "სენტავოები"
 	},
 	"AUD": {
-		"name": "ავსტრალიის დოლარი",
-		"name_plural": "ავსტრალიის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "ავსტრალიური დოლარი",
+		"name_plural": "ავსტრალიური დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"AWG": {
-		"name": "არუბის ფლორინი",
-		"name_plural": "არუბის ფლორინი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "არუბან ფლორინი",
+		"name_plural": "არუბან ფლორინები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"AZN": {
-		"name": "აზერბაიჯანის მანათი",
-		"name_plural": "აზერბაიჯანის მანათი",
-		"subunit_name": "ქაპიკი",
-		"subunit_name_plural": "ქაპიკი"
+		"name": "აზერბაიჯანული მანათი",
+		"name_plural": "აზერბაიჯანული მანათები",
+		"subunit_name": "ყაპიკი",
+		"subunit_name_plural": "ყაპიკები"
 	},
 	"BAM": {
-		"name": "ბოსნია და ჰერცეგოვინის კონვერტირებადი მარკა",
-		"name_plural": "ბოსნია და ჰერცეგოვინის კონვერტირებადი მარკა",
+		"name": "ბოსნია-ჰერცეგოვინას კონვერტირებადი მარკა",
+		"name_plural": "ბოსნია-ჰერცეგოვინას კონვერტირებადი მარკები",
 		"subunit_name": "ფენინგი",
-		"subunit_name_plural": "ფენინგი"
+		"subunit_name_plural": "ფენინგები"
 	},
 	"BBD": {
-		"name": "ბარბადოსის დოლარი",
-		"name_plural": "ბარბადოსის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "ბარბადოსული დოლარი",
+		"name_plural": "ბარბადოსული დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"BDT": {
-		"name": "ბანგლადეშის ტაკა",
-		"name_plural": "ბანგლადეშის ტაკა",
+		"name": "ბანგლადეშური ტაკა",
+		"name_plural": "ბანგლადეშური ტაკები",
 		"subunit_name": "პოიშა",
-		"subunit_name_plural": "პოიშა"
+		"subunit_name_plural": "პოიშები"
 	},
 	"BGN": {
-		"name": "ბულგარეთის ლევი",
-		"name_plural": "ბულგარეთის ლევი",
+		"name": "ბულგარული ლევი",
+		"name_plural": "ბულგარული ლევები",
 		"subunit_name": "სტოტინკა",
-		"subunit_name_plural": "სტოტინკა"
+		"subunit_name_plural": "სტოტინკები"
 	},
 	"BHD": {
-		"name": "ბაჰრეინის დინარი",
-		"name_plural": "ბაჰრეინის დინარი",
+		"name": "ბაჰრეინული დინარი",
+		"name_plural": "ბაჰრეინული დინარები",
 		"subunit_name": "ფილსი",
-		"subunit_name_plural": "ფილსი"
+		"subunit_name_plural": "ფილსები"
 	},
 	"BIF": {
-		"name": "ბურუნდის ფრანკი",
-		"name_plural": "ბურუნდის ფრანკი",
-		"subunit_name": "სენტიმი",
-		"subunit_name_plural": "სენტიმი"
+		"name": "ბურუნდიული ფრანკი",
+		"name_plural": "ბურუნდიული ფრანკები",
+		"subunit_name": "სანტიმი",
+		"subunit_name_plural": "სანტიმები"
 	},
 	"BMD": {
-		"name": "ბერმუდის დოლარი",
-		"name_plural": "ბერმუდის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "ბერმუდული დოლარი",
+		"name_plural": "ბერმუდული დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"BND": {
 		"name": "ბრუნეის დოლარი",
-		"name_plural": "ბრუნეის დოლარი",
+		"name_plural": "ბრუნეის დოლარები",
 		"subunit_name": "სენი",
-		"subunit_name_plural": "სენი"
+		"subunit_name_plural": "სენები"
 	},
 	"BOB": {
-		"name": "ბოლივიის ბოლივიანო",
-		"name_plural": "ბოლივიის ბოლივიანო",
+		"name": "ბოლივიური ბოლივიანო",
+		"name_plural": "ბოლივიური ბოლივიანოები",
 		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
+		"subunit_name_plural": "სენტავოები"
 	},
 	"BRL": {
-		"name": "ბრაზილიის რეალი",
-		"name_plural": "ბრაზილიის რეალი",
+		"name": "ბრაზილიური რეალი",
+		"name_plural": "ბრაზილიური რეალი",
 		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
+		"subunit_name_plural": "სენტავოები"
 	},
 	"BSD": {
-		"name": "ბაჰამის დოლარი",
-		"name_plural": "ბაჰამის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "ბაჰამური დოლარი",
+		"name_plural": "ბაჰამური დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"BTN": {
-		"name": "ბჰუტანის ნგულტრუმი",
-		"name_plural": "ბჰუტანის ნგულტრუმი",
+		"name": "ბუტანური ნგულტრუმი",
+		"name_plural": "ბუტანური ნგულტრუმები",
 		"subunit_name": "ჩეტრუმი",
-		"subunit_name_plural": "ჩეტრუმი"
+		"subunit_name_plural": "ჩეტრუმები"
 	},
 	"BWP": {
-		"name": "ბოტსვანის პულა",
-		"name_plural": "ბოტსვანის პულა",
+		"name": "ბოცვანური პულა",
+		"name_plural": "ბოცვანური პულები",
 		"subunit_name": "თებე",
-		"subunit_name_plural": "თებე"
+		"subunit_name_plural": "თებეები"
 	},
 	"BYN": {
-		"name": "ბელარუსის რუბლი",
-		"name_plural": "ბელარუსის რუბლი",
-		"subunit_name": "კოპეკი",
-		"subunit_name_plural": "კოპეკი"
+		"name": "ბელარუსული რუბლი",
+		"name_plural": "ბელარუსული რუბლები",
+		"subunit_name": "კაპეიკა",
+		"subunit_name_plural": "კაპეიკები"
 	},
 	"BZD": {
 		"name": "ბელიზის დოლარი",
-		"name_plural": "ბელიზის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name_plural": "ბელიზის დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"CAD": {
-		"name": "კანადის დოლარი",
-		"name_plural": "კანადის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "კანადური დოლარი",
+		"name_plural": "კანადური დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"CDF": {
 		"name": "კონგოს ფრანკი",
-		"name_plural": "კონგოს ფრანკი",
-		"subunit_name": "სენტიმი",
-		"subunit_name_plural": "სენტიმი"
+		"name_plural": "კონგოს ფრანკები",
+		"subunit_name": "სანტიმი",
+		"subunit_name_plural": "სანტიმები"
 	},
 	"CHF": {
-		"name": "შვეიცარიის ფრანკი",
-		"name_plural": "შვეიცარიის ფრანკი",
+		"name": "შვეიცარიული ფრანკი",
+		"name_plural": "შვეიცარიული ფრანკები",
 		"subunit_name": "რაპენი",
-		"subunit_name_plural": "რაპენი"
+		"subunit_name_plural": "რაპენები"
 	},
 	"CLP": {
 		"name": "ჩილეს პესო",
-		"name_plural": "ჩილეს პესო",
+		"name_plural": "ჩილეს პესოები",
 		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
+		"subunit_name_plural": "სენტავოები"
 	},
 	"CNY": {
-		"name": "ჩინეთის იუანი",
-		"name_plural": "ჩინეთის იუანი",
+		"name": "ჩინური იუანი",
+		"name_plural": "ჩინური იუანები",
 		"subunit_name": "ფენი",
-		"subunit_name_plural": "ფენი"
+		"subunit_name_plural": "ფენები"
 	},
 	"COP": {
-		"name": "კოლუმბიის პესო",
-		"name_plural": "კოლუმბიის პესო",
+		"name": "კოლუმბიური პესო",
+		"name_plural": "კოლუმბიური პესოები",
 		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
+		"subunit_name_plural": "სენტავოები"
 	},
 	"CRC": {
-		"name": "კოსტა-რიკის კოლონი",
-		"name_plural": "კოსტა-რიკის კოლონი",
-		"subunit_name": "სენტიმუ",
-		"subunit_name_plural": "სენტიმუ"
-	},
-	"CUC": {
-		"name": "კუბის კონვერტირებადი პესო",
-		"name_plural": "კუბის კონვერტირებადი პესო",
-		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
+		"name": "კოსტა-რიკული კოლონი",
+		"name_plural": "კოსტა-რიკული კოლონები",
+		"subunit_name": "სენტიმო",
+		"subunit_name_plural": "სენტიმოები"
 	},
 	"CUP": {
-		"name": "კუბის პესო",
-		"name_plural": "კუბის პესო",
+		"name": "კუბური პესო",
+		"name_plural": "კუბური პესოები",
 		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
+		"subunit_name_plural": "სენტავოები"
 	},
 	"CVE": {
 		"name": "კაბო-ვერდეს ესკუდო",
-		"name_plural": "კაბო-ვერდეს ესკუდო",
+		"name_plural": "კაბო-ვერდეს ესკუდოები",
 		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
+		"subunit_name_plural": "სენტავოები"
 	},
 	"CZK": {
-		"name": "ჩეხეთის კრონა",
-		"name_plural": "ჩეხეთის კრონა",
-		"subunit_name": "ჰალერი",
-		"subunit_name_plural": "ჰალერი"
+		"name": "ჩეხური კრონა",
+		"name_plural": "ჩეხური კრონები",
+		"subunit_name": "ჰალერჟი",
+		"subunit_name_plural": "ჰალერჟები"
 	},
 	"DJF": {
 		"name": "ჯიბუტის ფრანკი",
-		"name_plural": "ჯიბუტის ფრანკი",
-		"subunit_name": "სენტიმი",
-		"subunit_name_plural": "სენტიმი"
+		"name_plural": "ჯიბუტის ფრანკები",
+		"subunit_name": "სანტიმი",
+		"subunit_name_plural": "სანტიმები"
 	},
 	"DKK": {
-		"name": "დანიის კრონა",
-		"name_plural": "დანიის კრონა",
+		"name": "დანიური კრონი",
+		"name_plural": "დანიური კრონები",
 		"subunit_name": "ერე",
-		"subunit_name_plural": "ერე"
+		"subunit_name_plural": "ერეები"
 	},
 	"DOP": {
-		"name": "დომინიკანის რესპუბლიკის პესო",
-		"name_plural": "დომინიკანის რესპუბლიკის პესო",
+		"name": "დომინიკანური პესო",
+		"name_plural": "დომინიკანური პესოები",
 		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
+		"subunit_name_plural": "სენტავოები"
 	},
 	"DZD": {
-		"name": "ალჟირის დინარი",
-		"name_plural": "ალჟირის დინარი",
-		"subunit_name": "სენტიმი",
-		"subunit_name_plural": "სენტიმი"
+		"name": "ალჟირული დინარი",
+		"name_plural": "ალჟირული დინარები",
+		"subunit_name": "სანტიმი",
+		"subunit_name_plural": "სანტიმები"
 	},
 	"EGP": {
-		"name": "ეგვიპტის ფუნტი",
-		"name_plural": "ეგვიპტის ფუნტი",
+		"name": "ეგვიპტური ფუნტი",
+		"name_plural": "ეგვიპტური ფუნტები",
 		"subunit_name": "პიასტრი",
-		"subunit_name_plural": "პიასტრი"
+		"subunit_name_plural": "პიასტრები"
 	},
 	"ERN": {
 		"name": "ერიტრეის ნაკფა",
-		"name_plural": "ერიტრეის ნაკფა",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name_plural": "ერიტრეის ნაკფები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"ETB": {
-		"name": "ეთიოპიის ბირი",
-		"name_plural": "ეთიოპიის ბირი",
+		"name": "ეთიოპიური ბირი",
+		"name_plural": "ეთიოპიური ბირები",
 		"subunit_name": "სანტიმი",
-		"subunit_name_plural": "სანტიმი"
+		"subunit_name_plural": "სანტიმები"
 	},
 	"EUR": {
 		"name": "ევრო",
-		"name_plural": "ევრო",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name_plural": "ევროები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"FJD": {
 		"name": "ფიჯის დოლარი",
-		"name_plural": "ფიჯის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name_plural": "ფიჯის დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"FKP": {
 		"name": "ფოლკლენდის კუნძულების ფუნტი",
-		"name_plural": "ფოლკლენდის კუნძულების ფუნტი",
+		"name_plural": "ფოლკლენდის კუნძულების ფუნტები",
 		"subunit_name": "პენი",
-		"subunit_name_plural": "პენი"
+		"subunit_name_plural": "პენები"
 	},
 	"GBP": {
-		"name": "ბრიტანეთის ფუნტი",
-		"name_plural": "ბრიტანეთის ფუნტი",
+		"name": "ბრიტანული ფუნტი",
+		"name_plural": "ბრიტანული ფუნტები",
 		"subunit_name": "პენი",
-		"subunit_name_plural": "პენი"
+		"subunit_name_plural": "პენები"
 	},
 	"GEL": {
 		"name": "ქართული ლარი",
@@ -288,651 +282,645 @@
 		"subunit_name_plural": "თეთრი"
 	},
 	"GHS": {
-		"name": "განის სედი",
-		"name_plural": "განის სედი",
+		"name": "განური სედი",
+		"name_plural": "განური სედები",
 		"subunit_name": "პესევა",
-		"subunit_name_plural": "პესევა"
+		"subunit_name_plural": "პესევები"
 	},
 	"GIP": {
 		"name": "გიბრალტარის ფუნტი",
-		"name_plural": "გიბრალტარის ფუნტი",
+		"name_plural": "გიბრალტარის ფუნტები",
 		"subunit_name": "პენი",
-		"subunit_name_plural": "პენი"
+		"subunit_name_plural": "პენები"
 	},
 	"GMD": {
-		"name": "გამბიის დალასი",
-		"name_plural": "გამბიის დალასი",
+		"name": "გამბიური დალასი",
+		"name_plural": "გამბიური დალასები",
 		"subunit_name": "ბუტუტი",
-		"subunit_name_plural": "ბუტუტი"
+		"subunit_name_plural": "ბუტუტები"
 	},
 	"GNF": {
-		"name": "გვინეის ფრანკი",
-		"name_plural": "გვინეის ფრანკი",
-		"subunit_name": "სენტიმი",
-		"subunit_name_plural": "სენტიმი"
+		"name": "გვინეური ფრანკი",
+		"name_plural": "გვინეური ფრანკები",
+		"subunit_name": "სანტიმი",
+		"subunit_name_plural": "სანტიმები"
 	},
 	"GTQ": {
-		"name": "გვატემალის კეცალი",
-		"name_plural": "გვატემალის კეცალი",
+		"name": "გვატემალური კეტსალი",
+		"name_plural": "გვატემალური კეტსალები",
 		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
+		"subunit_name_plural": "სენტავოები"
 	},
 	"GYD": {
-		"name": "გაიანის დოლარი",
-		"name_plural": "გაიანის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "გაიანური დოლარი",
+		"name_plural": "გაიანური დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"HKD": {
 		"name": "ჰონკონგის დოლარი",
-		"name_plural": "ჰონკონგის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name_plural": "ჰონკონგის დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"HNL": {
-		"name": "ჰონდურასის ლემპირა",
-		"name_plural": "ჰონდურასის ლემპირა",
+		"name": "ჰონდურასული ლემპირა",
+		"name_plural": "ჰონდურასული ლემპირები",
 		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
-	},
-	"HRK": {
-		"name": "ხორვატიის კუნა",
-		"name_plural": "ხორვატიის კუნა",
-		"subunit_name": "ლიპა",
-		"subunit_name_plural": "ლიპა"
+		"subunit_name_plural": "სენტავოები"
 	},
 	"HTG": {
-		"name": "ჰაიტის გურდი",
-		"name_plural": "ჰაიტის გურდი",
-		"subunit_name": "სენტიმი",
-		"subunit_name_plural": "სენტიმი"
+		"name": "ჰაიტური გურდი",
+		"name_plural": "ჰაიტური გურდები",
+		"subunit_name": "სანტიმი",
+		"subunit_name_plural": "სანტიმები"
 	},
 	"HUF": {
-		"name": "უნგრეთის ფორინტი",
-		"name_plural": "უნგრეთის ფორინტი",
+		"name": "უნგრული ფორინტი",
+		"name_plural": "უნგრული ფორინტები",
 		"subunit_name": "ფილერი",
-		"subunit_name_plural": "ფილერი"
+		"subunit_name_plural": "ფილერები"
 	},
 	"IDR": {
-		"name": "ინდონეზიის რუპია",
-		"name_plural": "ინდონეზიის რუპია",
+		"name": "ინდონეზიური რუპია",
+		"name_plural": "ინდონეზიური რუპიები",
 		"subunit_name": "სენი",
-		"subunit_name_plural": "სენი"
+		"subunit_name_plural": "სენები"
 	},
 	"ILS": {
 		"name": "ისრაელის ახალი შეკელი",
-		"name_plural": "ისრაელის ახალი შეკელი",
+		"name_plural": "ისრაელის ახალი შეკელები",
 		"subunit_name": "აგორა",
-		"subunit_name_plural": "აგორა"
+		"subunit_name_plural": "აგოროტი"
 	},
 	"INR": {
-		"name": "ინდოეთის რუპია",
-		"name_plural": "ინდოეთის რუპია",
+		"name": "ინდური რუპია",
+		"name_plural": "ინდური რუპიები",
 		"subunit_name": "პაისა",
-		"subunit_name_plural": "პაისა"
+		"subunit_name_plural": "პაისები"
 	},
 	"IQD": {
-		"name": "ერაყის დინარი",
-		"name_plural": "ერაყის დინარი",
+		"name": "ერაყული დინარი",
+		"name_plural": "ერაყული დინარები",
 		"subunit_name": "ფილსი",
-		"subunit_name_plural": "ფილსი"
+		"subunit_name_plural": "ფილსები"
 	},
 	"IRR": {
-		"name": "ირანის რიალი",
-		"name_plural": "ირანის რიალი",
+		"name": "ირანული რიალი",
+		"name_plural": "ირანული რიალები",
 		"subunit_name": "დინარი",
-		"subunit_name_plural": "დინარი"
+		"subunit_name_plural": "დინარები"
 	},
 	"ISK": {
-		"name": "ისლანდიის კრონა",
-		"name_plural": "ისლანდიის კრონა",
-		"subunit_name": "აურა",
-		"subunit_name_plural": "აურა"
+		"name": "ისლანდიური კრონა",
+		"name_plural": "ისლანდიური კრონები",
+		"subunit_name": "ეირირი",
+		"subunit_name_plural": "აურარი"
 	},
 	"JMD": {
-		"name": "იამაიკის დოლარი",
-		"name_plural": "იამაიკის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "იამაიკური დოლარი",
+		"name_plural": "იამაიკური დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"JOD": {
-		"name": "იორდანიის დინარი",
-		"name_plural": "იორდანიის დინარი",
+		"name": "იორდანიული დინარი",
+		"name_plural": "იორდანიული დინარები",
 		"subunit_name": "ფილსი",
-		"subunit_name_plural": "ფილსი"
+		"subunit_name_plural": "ფილსები"
 	},
 	"JPY": {
-		"name": "იაპონიის იენი",
-		"name_plural": "იაპონიის იენი",
+		"name": "იაპონური იენა",
+		"name_plural": "იაპონური იენები",
 		"subunit_name": "სენი",
-		"subunit_name_plural": "სენი"
+		"subunit_name_plural": "სენები"
 	},
 	"KES": {
-		"name": "კენიის შილინგი",
-		"name_plural": "კენიის შილინგი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "კენიური შილინგი",
+		"name_plural": "კენიური შილინგები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"KGS": {
-		"name": "ყირგიზეთის სომი",
-		"name_plural": "ყირგიზეთის სომი",
-		"subunit_name": "ტიინი",
-		"subunit_name_plural": "ტიინი"
+		"name": "ყირგიზული სომი",
+		"name_plural": "ყირგიზული სომები",
+		"subunit_name": "თიინი",
+		"subunit_name_plural": "თიინები"
 	},
 	"KHR": {
-		"name": "კამბოჯის რიელი",
-		"name_plural": "კამბოჯის რიელი",
+		"name": "კამბოჯური რიელი",
+		"name_plural": "კამბოჯური რიელები",
 		"subunit_name": "სენი",
-		"subunit_name_plural": "სენი"
+		"subunit_name_plural": "სენები"
 	},
 	"KMF": {
-		"name": "კომორის ფრანკი",
-		"name_plural": "კომორის ფრანკი",
-		"subunit_name": "სენტიმი",
-		"subunit_name_plural": "სენტიმი"
+		"name": "კომორული ფრანკი",
+		"name_plural": "კომორული ფრანკები",
+		"subunit_name": "სანტიმი",
+		"subunit_name_plural": "სანტიმები"
 	},
 	"KPW": {
-		"name": "ჩრდილოეთ კორეის ვონი",
-		"name_plural": "ჩრდილოეთ კორეის ვონი",
-		"subunit_name": "ჩონი",
-		"subunit_name_plural": "ჩონი"
+		"name": "ჩრდილოეთ კორეული ვონი",
+		"name_plural": "ჩრდილოეთ კორეული ვონები",
+		"subunit_name": "ჯონი",
+		"subunit_name_plural": "ჯონები"
 	},
 	"KRW": {
-		"name": "სამხრეთ კორეის ვონი",
-		"name_plural": "სამხრეთ კორეის ვონი",
-		"subunit_name": "ჩონი",
-		"subunit_name_plural": "ჩონი"
+		"name": "სამხრეთ კორეული ვონი",
+		"name_plural": "სამხრეთ კორეული ვონები",
+		"subunit_name": "ჯონი",
+		"subunit_name_plural": "ჯონები"
 	},
 	"KWD": {
-		"name": "ქუვეითის დინარი",
-		"name_plural": "ქუვეითის დინარი",
+		"name": "ქუვეითური დინარი",
+		"name_plural": "ქუვეითური დინარები",
 		"subunit_name": "ფილსი",
-		"subunit_name_plural": "ფილსი"
+		"subunit_name_plural": "ფილსები"
 	},
 	"KYD": {
 		"name": "კაიმანის კუნძულების დოლარი",
-		"name_plural": "კაიმანის კუნძულების დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name_plural": "კაიმანის კუნძულების დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"KZT": {
-		"name": "ყაზახეთის ტენგე",
-		"name_plural": "ყაზახეთის ტენგე",
-		"subunit_name": "ტიინი",
-		"subunit_name_plural": "ტიინი"
+		"name": "ყაზახური ტენგე",
+		"name_plural": "ყაზახური ტენგეები",
+		"subunit_name": "თიინი",
+		"subunit_name_plural": "თიინები"
 	},
 	"LAK": {
-		"name": "ლაოსის კიპი",
-		"name_plural": "ლაოსის კიპი",
+		"name": "ლაოსური კიპი",
+		"name_plural": "ლაოსური კიპები",
 		"subunit_name": "ატი",
-		"subunit_name_plural": "ატი"
+		"subunit_name_plural": "ატები"
 	},
 	"LBP": {
-		"name": "ლიბანის ფუნტი",
-		"name_plural": "ლიბანის ფუნტი",
+		"name": "ლიბანური ფუნტი",
+		"name_plural": "ლიბანური ფუნტები",
 		"subunit_name": "პიასტრი",
-		"subunit_name_plural": "პიასტრი"
+		"subunit_name_plural": "პიასტრები"
 	},
 	"LKR": {
-		"name": "შრი-ლანკის რუპია",
-		"name_plural": "შრი-ლანკის რუპია",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "შრი-ლანკური რუპია",
+		"name_plural": "შრი-ლანკური რუპიები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"LRD": {
-		"name": "ლიბერიის დოლარი",
-		"name_plural": "ლიბერიის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "ლიბერიული დოლარი",
+		"name_plural": "ლიბერიული დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"LSL": {
 		"name": "ლესოთოს ლოტი",
-		"name_plural": "ლესოთოს ლოტი",
+		"name_plural": "ლესოთოს ლოტები",
 		"subunit_name": "სენტე",
-		"subunit_name_plural": "სენტე"
+		"subunit_name_plural": "ლისენტე"
 	},
 	"LYD": {
-		"name": "ლიბიის დინარი",
-		"name_plural": "ლიბიის დინარი",
+		"name": "ლიბიური დინარი",
+		"name_plural": "ლიბიური დინარები",
 		"subunit_name": "დირჰამი",
-		"subunit_name_plural": "დირჰამი"
+		"subunit_name_plural": "დირჰამები"
 	},
 	"MAD": {
 		"name": "მაროკოს დირჰამი",
-		"name_plural": "მაროკოს დირჰამი",
-		"subunit_name": "სენტიმი",
-		"subunit_name_plural": "სენტიმი"
+		"name_plural": "მაროკოს დირჰამები",
+		"subunit_name": "სანტიმი",
+		"subunit_name_plural": "სანტიმები"
 	},
 	"MDL": {
-		"name": "მოლდოვის ლეუ",
-		"name_plural": "მოლდოვის ლეუ",
+		"name": "მოლდოვური ლეუ",
+		"name_plural": "მოლდოვური ლეუები",
 		"subunit_name": "ბანი",
-		"subunit_name_plural": "ბანი"
+		"subunit_name_plural": "ბანები"
 	},
 	"MGA": {
-		"name": "მადაგასკარის არიარი",
-		"name_plural": "მადაგასკარის არიარი",
+		"name": "მადაგასკარული არიარი",
+		"name_plural": "მადაგასკარული არიარები",
 		"subunit_name": "ირაიმბილანჯა",
-		"subunit_name_plural": "ირაიმბილანჯა"
+		"subunit_name_plural": "ირაიმბილანჯები"
 	},
 	"MKD": {
-		"name": "მაკედონიის დენარი",
-		"name_plural": "მაკედონიის დენარი",
+		"name": "მაკედონური დენარი",
+		"name_plural": "მაკედონური დენარები",
 		"subunit_name": "დენი",
-		"subunit_name_plural": "დენი"
+		"subunit_name_plural": "დენები"
 	},
 	"MMK": {
 		"name": "მიანმარის კიატი",
-		"name_plural": "მიანმარის კიატი",
+		"name_plural": "მიანმარის კიატები",
 		"subunit_name": "პია",
-		"subunit_name_plural": "პია"
+		"subunit_name_plural": "პიები"
 	},
 	"MNT": {
-		"name": "მონღოლეთის ტუგრიკი",
-		"name_plural": "მონღოლეთის ტუგრიკი",
-		"subunit_name": "მონგო",
-		"subunit_name_plural": "მონგო"
+		"name": "მონღოლური ტუგრიკი",
+		"name_plural": "მონღოლური ტუგრიკები",
+		"subunit_name": "მუნგო",
+		"subunit_name_plural": "მუნგოები"
 	},
 	"MOP": {
-		"name": "მაკაოს პატაკა",
-		"name_plural": "მაკაოს პატაკა",
+		"name": "მაკაუს პატაკა",
+		"name_plural": "მაკაუს პატაკები",
 		"subunit_name": "ავო",
-		"subunit_name_plural": "ავო"
+		"subunit_name_plural": "ავოები"
 	},
 	"MRU": {
-		"name": "მავრიტანიის ოუგუია",
-		"name_plural": "მავრიტანიის ოუგუია",
+		"name": "მავრიტანული უგია",
+		"name_plural": "მავრიტანული უგიები",
 		"subunit_name": "ხუმსი",
-		"subunit_name_plural": "ხუმსი"
+		"subunit_name_plural": "ხუმსები"
 	},
 	"MUR": {
-		"name": "მავრიტიუსის რუპია",
-		"name_plural": "მავრიტიუსის რუპია",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "მავრიტანული რუპია",
+		"name_plural": "მავრიტანული რუპიები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"MVR": {
-		"name": "მალდივის რუფია",
-		"name_plural": "მალდივის რუფია",
-		"subunit_name": "ლაარი",
-		"subunit_name_plural": "ლაარი"
+		"name": "მალდივური რუფია",
+		"name_plural": "მალდივური რუფიები",
+		"subunit_name": "ლარი",
+		"subunit_name_plural": "ლარები"
 	},
 	"MWK": {
-		"name": "მალავის კვაჩა",
-		"name_plural": "მალავის კვაჩა",
+		"name": "მალავიური კვაჩა",
+		"name_plural": "მალავიური კვაჩები",
 		"subunit_name": "ტამბალა",
-		"subunit_name_plural": "ტამბალა"
+		"subunit_name_plural": "ტამბალები"
 	},
 	"MXN": {
-		"name": "მექსიკის პესო",
-		"name_plural": "მექსიკის პესო",
+		"name": "მექსიკური პესო",
+		"name_plural": "მექსიკური პესოები",
 		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
+		"subunit_name_plural": "სენტავოები"
 	},
 	"MYR": {
-		"name": "მალაიზიის რინგიტი",
-		"name_plural": "მალაიზიის რინგიტი",
+		"name": "მალაიზიური რინგიტი",
+		"name_plural": "მალაიზიური რინგიტები",
 		"subunit_name": "სენი",
-		"subunit_name_plural": "სენი"
+		"subunit_name_plural": "სენები"
 	},
 	"MZN": {
-		"name": "მოზამბიკის მეტიკალი",
-		"name_plural": "მოზამბიკის მეტიკალი",
+		"name": "მოზამბიკური მეტიკალი",
+		"name_plural": "მოზამბიკური მეტიკალები",
 		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
+		"subunit_name_plural": "სენტავოები"
 	},
 	"NAD": {
-		"name": "ნამიბიის დოლარი",
-		"name_plural": "ნამიბიის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "ნამიბიური დოლარი",
+		"name_plural": "ნამიბიური დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"NGN": {
-		"name": "ნიგერიის ნაირა",
-		"name_plural": "ნიგერიის ნაირა",
+		"name": "ნიგერიული ნაირა",
+		"name_plural": "ნიგერიული ნაირები",
 		"subunit_name": "კობო",
-		"subunit_name_plural": "კობო"
+		"subunit_name_plural": "კობოები"
 	},
 	"NIO": {
-		"name": "ნიკარაგუის კორდობა",
-		"name_plural": "ნიკარაგუის კორდობა",
+		"name": "ნიკარაგუას კორდობა",
+		"name_plural": "ნიკარაგუას კორდობები",
 		"subunit_name": "სენტავო",
-		"subunit_name_plural": "სენტავო"
+		"subunit_name_plural": "სენტავოები"
 	},
 	"NOK": {
-		"name": "ნორვეგიის კრონა",
-		"name_plural": "ნორვეგიის კრონა",
+		"name": "ნორვეგიული კრონი",
+		"name_plural": "ნორვეგიული კრონები",
 		"subunit_name": "ერე",
-		"subunit_name_plural": "ერე"
+		"subunit_name_plural": "ერეები"
 	},
 	"NPR": {
-		"name": "ნეპალის რუპია",
-		"name_plural": "ნეპალის რუპია",
+		"name": "ნეპალური რუპია",
+		"name_plural": "ნეპალური რუპიები",
 		"subunit_name": "პაისა",
-		"subunit_name_plural": "პაისა"
+		"subunit_name_plural": "პაისები"
 	},
 	"NZD": {
 		"name": "ახალი ზელანდიის დოლარი",
-		"name_plural": "ახალი ზელანდიის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name_plural": "ახალი ზელანდიის დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"OMR": {
 		"name": "ომანის რიალი",
-		"name_plural": "ომანის რიალი",
+		"name_plural": "ომანის რიალები",
 		"subunit_name": "ბაისა",
-		"subunit_name_plural": "ბაისა"
+		"subunit_name_plural": "ბაისები"
 	},
 	"PAB": {
-		"name": "პანამის ბალბოა",
-		"name_plural": "პანამის ბალბოა",
+		"name": "პანამური ბალბოა",
+		"name_plural": "პანამური ბალბოები",
 		"subunit_name": "სენტესიმო",
-		"subunit_name_plural": "სენტესიმო"
+		"subunit_name_plural": "სენტესიმოები"
 	},
 	"PEN": {
 		"name": "პერუს სოლი",
-		"name_plural": "პერუს სოლი",
-		"subunit_name": "სენტიმუ",
-		"subunit_name_plural": "სენტიმუ"
+		"name_plural": "პერუს სოლები",
+		"subunit_name": "სენტიმო",
+		"subunit_name_plural": "სენტიმოები"
 	},
 	"PGK": {
 		"name": "პაპუა-ახალი გვინეის კინა",
-		"name_plural": "პაპუა-ახალი გვინეის კინა",
+		"name_plural": "პაპუა-ახალი გვინეის კინები",
 		"subunit_name": "ტოეა",
-		"subunit_name_plural": "ტოეა"
+		"subunit_name_plural": "ტოეები"
 	},
 	"PHP": {
 		"name": "ფილიპინების პესო",
-		"name_plural": "ფილიპინების პესო",
-		"subunit_name": "სენტიმუ",
-		"subunit_name_plural": "სენტიმუ"
+		"name_plural": "ფილიპინების პესოები",
+		"subunit_name": "სენტიმო",
+		"subunit_name_plural": "სენტიმოები"
 	},
 	"PKR": {
-		"name": "პაკისტანის რუპია",
-		"name_plural": "პაკისტანის რუპია",
+		"name": "პაკისტანური რუპია",
+		"name_plural": "პაკისტანური რუპიები",
 		"subunit_name": "პაისა",
-		"subunit_name_plural": "პაისა"
+		"subunit_name_plural": "პაისები"
 	},
 	"PLN": {
-		"name": "პოლონეთის ზლოტი",
-		"name_plural": "პოლონეთის ზლოტი",
+		"name": "პოლონური ზლოტი",
+		"name_plural": "პოლონური ზლოტები",
 		"subunit_name": "გროში",
-		"subunit_name_plural": "გროში"
+		"subunit_name_plural": "გროშები"
 	},
 	"PYG": {
-		"name": "პარაგვაის გუარანი",
-		"name_plural": "პარაგვაის გუარანი",
-		"subunit_name": "სენტიმუ",
-		"subunit_name_plural": "სენტიმუ"
+		"name": "პარაგვაული გუარანი",
+		"name_plural": "პარაგვაული გუარანები",
+		"subunit_name": "სენტიმო",
+		"subunit_name_plural": "სენტიმოები"
 	},
 	"QAR": {
-		"name": "კატარის რიალი",
-		"name_plural": "კატარის რიალი",
+		"name": "კატარული რიალი",
+		"name_plural": "კატარული რიალები",
 		"subunit_name": "დირჰამი",
-		"subunit_name_plural": "დირჰამი"
+		"subunit_name_plural": "დირჰამები"
 	},
 	"RON": {
-		"name": "რუმინეთის ლეუ",
-		"name_plural": "რუმინეთის ლეუ",
+		"name": "რუმინული ლეუ",
+		"name_plural": "რუმინული ლეუები",
 		"subunit_name": "ბანი",
-		"subunit_name_plural": "ბანი"
+		"subunit_name_plural": "ბანები"
 	},
 	"RSD": {
-		"name": "სერბეთის დინარი",
-		"name_plural": "სერბეთის დინარი",
+		"name": "სერბული დინარი",
+		"name_plural": "სერბული დინარები",
 		"subunit_name": "პარა",
-		"subunit_name_plural": "პარა"
+		"subunit_name_plural": "პარები"
 	},
 	"RUB": {
-		"name": "რუსეთის რუბლი",
-		"name_plural": "რუსეთის რუბლი",
-		"subunit_name": "კოპეკი",
-		"subunit_name_plural": "კოპეკი"
+		"name": "რუსული რუბლი",
+		"name_plural": "რუსული რუბლები",
+		"subunit_name": "კაპეიკა",
+		"subunit_name_plural": "კაპეიკები"
 	},
 	"RWF": {
-		"name": "რუანდის ფრანკი",
-		"name_plural": "რუანდის ფრანკი",
-		"subunit_name": "სენტიმი",
-		"subunit_name_plural": "სენტიმი"
+		"name": "რუანდური ფრანკი",
+		"name_plural": "რუანდური ფრანკები",
+		"subunit_name": "სანტიმი",
+		"subunit_name_plural": "სანტიმები"
 	},
 	"SAR": {
-		"name": "საუდის არაბეთის რიალი",
-		"name_plural": "საუდის არაბეთის რიალი",
+		"name": "საუდის რიალი",
+		"name_plural": "საუდის რიალები",
 		"subunit_name": "ჰალალა",
-		"subunit_name_plural": "ჰალალა"
+		"subunit_name_plural": "ჰალალები"
 	},
 	"SBD": {
 		"name": "სოლომონის კუნძულების დოლარი",
-		"name_plural": "სოლომონის კუნძულების დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name_plural": "სოლომონის კუნძულების დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"SCR": {
-		"name": "სეიშელის რუპია",
-		"name_plural": "სეიშელის რუპია",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "სეიშელური რუპია",
+		"name_plural": "სეიშელური რუპიები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"SDG": {
-		"name": "სუდანის ფუნტი",
-		"name_plural": "სუდანის ფუნტი",
+		"name": "სუდანური ფუნტი",
+		"name_plural": "სუდანური ფუნტები",
 		"subunit_name": "პიასტრი",
-		"subunit_name_plural": "პიასტრი"
+		"subunit_name_plural": "პიასტრები"
 	},
 	"SEK": {
-		"name": "შვედეთის კრონა",
-		"name_plural": "შვედეთის კრონა",
+		"name": "შვედური კრონა",
+		"name_plural": "შვედური კრონები",
 		"subunit_name": "ერე",
-		"subunit_name_plural": "ერე"
+		"subunit_name_plural": "ერეები"
 	},
 	"SGD": {
 		"name": "სინგაპურის დოლარი",
-		"name_plural": "სინგაპურის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name_plural": "სინგაპურის დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"SHP": {
 		"name": "წმინდა ელენეს კუნძულის ფუნტი",
-		"name_plural": "წმინდა ელენეს კუნძულის ფუნტი",
+		"name_plural": "წმინდა ელენეს კუნძულის ფუნტები",
 		"subunit_name": "პენი",
-		"subunit_name_plural": "პენი"
+		"subunit_name_plural": "პენები"
 	},
-	"SLL": {
+	"SLE": {
 		"name": "სიერა-ლეონეს ლეონე",
-		"name_plural": "სიერა-ლეონეს ლეონე",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name_plural": "სიერა-ლეონეს ლეონეები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"SOS": {
-		"name": "სომალის შილინგი",
-		"name_plural": "სომალის შილინგი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "სომალური შილინგი",
+		"name_plural": "სომალური შილინგები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"SRD": {
-		"name": "სურინამის დოლარი",
-		"name_plural": "სურინამის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "სურინამული დოლარი",
+		"name_plural": "სურინამული დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"SSP": {
-		"name": "სამხრეთ სუდანის ფუნტი",
-		"name_plural": "სამხრეთ სუდანის ფუნტი",
+		"name": "სამხრეთ სუდანური ფუნტი",
+		"name_plural": "სამხრეთ სუდანური ფუნტები",
 		"subunit_name": "პიასტრი",
-		"subunit_name_plural": "პიასტრი"
+		"subunit_name_plural": "პიასტრები"
 	},
 	"STN": {
 		"name": "სან-ტომე და პრინსიპის დობრა",
-		"name_plural": "სან-ტომე და პრინსიპის დობრა",
-		"subunit_name": "სენტიმუ",
-		"subunit_name_plural": "სენტიმუ"
+		"name_plural": "სან-ტომე და პრინსიპის დობრები",
+		"subunit_name": "სენტიმო",
+		"subunit_name_plural": "სენტიმოები"
 	},
 	"SYP": {
-		"name": "სირიის ფუნტი",
-		"name_plural": "სირიის ფუნტი",
+		"name": "სირიული ფუნტი",
+		"name_plural": "სირიული ფუნტები",
 		"subunit_name": "პიასტრი",
-		"subunit_name_plural": "პიასტრი"
+		"subunit_name_plural": "პიასტრები"
 	},
 	"SZL": {
-		"name": "ესვატინის ლილანგენი",
-		"name_plural": "ესვატინის ლილანგენი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "სვაზილენდის ლილანგენი",
+		"name_plural": "სვაზილენდის ემალანგენი",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"THB": {
-		"name": "ტაილანდის ბათი",
-		"name_plural": "ტაილანდის ბათი",
+		"name": "ტაილანდური ბატი",
+		"name_plural": "ტაილანდური ბატები",
 		"subunit_name": "სატანგი",
-		"subunit_name_plural": "სატანგი"
+		"subunit_name_plural": "სატანგები"
 	},
 	"TJS": {
-		"name": "ტაჯიკეთის სომონი",
-		"name_plural": "ტაჯიკეთის სომონი",
+		"name": "ტაჯიკური სომონი",
+		"name_plural": "ტაჯიკური სომონები",
 		"subunit_name": "დირამი",
-		"subunit_name_plural": "დირამი"
+		"subunit_name_plural": "დირამები"
 	},
 	"TMT": {
-		"name": "თურქმენეთის მანათი",
-		"name_plural": "თურქმენეთის მანათი",
+		"name": "თურქმენული მანათი",
+		"name_plural": "თურქმენული მანათები",
 		"subunit_name": "თენგე",
-		"subunit_name_plural": "თენგე"
+		"subunit_name_plural": "თენგეები"
 	},
 	"TND": {
-		"name": "ტუნისის დინარი",
-		"name_plural": "ტუნისის დინარი",
+		"name": "ტუნისური დინარი",
+		"name_plural": "ტუნისური დინარები",
 		"subunit_name": "მილიმი",
-		"subunit_name_plural": "მილიმი"
+		"subunit_name_plural": "მილიმები"
 	},
 	"TOP": {
-		"name": "ტონგის პაანგა",
-		"name_plural": "ტონგის პაანგა",
+		"name": "ტონგანური პაანგა",
+		"name_plural": "ტონგანური პაანგები",
 		"subunit_name": "სენიტი",
-		"subunit_name_plural": "სენიტი"
+		"subunit_name_plural": "სენიტები"
 	},
 	"TRY": {
-		"name": "თურქეთის ლირა",
-		"name_plural": "თურქეთის ლირა",
-		"subunit_name": "ქურუში",
-		"subunit_name_plural": "ქურუში"
+		"name": "თურქული ლირა",
+		"name_plural": "თურქული ლირები",
+		"subunit_name": "ყურუში",
+		"subunit_name_plural": "ყურუშები"
 	},
 	"TTD": {
 		"name": "ტრინიდად და ტობაგოს დოლარი",
-		"name_plural": "ტრინიდად და ტობაგოს დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name_plural": "ტრინიდად და ტობაგოს დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"TWD": {
-		"name": "ტაივანის ახალი დოლარი",
-		"name_plural": "ტაივანის ახალი დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "ტაივანური ახალი დოლარი",
+		"name_plural": "ტაივანური ახალი დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"TZS": {
-		"name": "ტანზანიის შილინგი",
-		"name_plural": "ტანზანიის შილინგი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "ტანზანიური შილინგი",
+		"name_plural": "ტანზანიური შილინგები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"UAH": {
-		"name": "უკრაინის გრივნა",
-		"name_plural": "უკრაინის გრივნა",
-		"subunit_name": "კოპეკი",
-		"subunit_name_plural": "კოპეკი"
+		"name": "უკრაინული გრივნა",
+		"name_plural": "უკრაინული გრივნები",
+		"subunit_name": "კაპეიკა",
+		"subunit_name_plural": "კაპეიკები"
 	},
 	"UGX": {
-		"name": "უგანდის შილინგი",
-		"name_plural": "უგანდის შილინგი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "უგანდური შილინგი",
+		"name_plural": "უგანდური შილინგები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"USD": {
-		"name": "აშშ დოლარი",
-		"name_plural": "აშშ დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "ამერიკული დოლარი",
+		"name_plural": "ამერიკული დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"UYU": {
-		"name": "ურუგვაის პესო",
-		"name_plural": "ურუგვაის პესო",
+		"name": "ურუგვაული პესო",
+		"name_plural": "ურუგვაული პესოები",
 		"subunit_name": "სენტესიმო",
-		"subunit_name_plural": "სენტესიმო"
+		"subunit_name_plural": "სენტესიმოები"
 	},
 	"UZS": {
-		"name": "უზბეკეთის სომი",
-		"name_plural": "უზბეკეთის სომი",
-		"subunit_name": "ტიინი",
-		"subunit_name_plural": "ტიინი"
+		"name": "უზბეკური სუმი",
+		"name_plural": "უზბეკური სუმები",
+		"subunit_name": "თიინი",
+		"subunit_name_plural": "თიინები"
 	},
-	"VES": {
-		"name": "ვენესუელის ბოლივარი",
-		"name_plural": "ვენესუელის ბოლივარი",
-		"subunit_name": "სენტიმუ",
-		"subunit_name_plural": "სენტიმუ"
+	"VED": {
+		"name": "ვენესუელური ბოლივარი დიგიტალი",
+		"name_plural": "ვენესუელური ბოლივარები დიგიტალი",
+		"subunit_name": "სენტიმო",
+		"subunit_name_plural": "სენტიმოები"
 	},
 	"VND": {
-		"name": "ვიეტნამის დონგი",
-		"name_plural": "ვიეტნამის დონგი",
+		"name": "ვიეტნამური დონგი",
+		"name_plural": "ვიეტნამური დონგები",
 		"subunit_name": "ჰაო",
-		"subunit_name_plural": "ჰაო"
+		"subunit_name_plural": "ჰაოები"
 	},
 	"VUV": {
 		"name": "ვანუატუს ვატუ",
-		"name_plural": "ვანუატუს ვატუ",
-		"subunit_name": "სენტიმი",
-		"subunit_name_plural": "სენტიმი"
+		"name_plural": "ვანუატუს ვატუები",
+		"subunit_name": "სანტიმი",
+		"subunit_name_plural": "სანტიმები"
 	},
 	"WST": {
-		"name": "სამოას ტალა",
-		"name_plural": "სამოას ტალა",
+		"name": "სამოური ტალა",
+		"name_plural": "სამოური ტალები",
 		"subunit_name": "სენე",
-		"subunit_name_plural": "სენე"
+		"subunit_name_plural": "სენეები"
 	},
 	"XAF": {
-		"name": "ცენტრალურ აფრიკული CFA ფრანკი",
-		"name_plural": "ცენტრალურ აფრიკული CFA ფრანკი",
-		"subunit_name": "სენტიმი",
-		"subunit_name_plural": "სენტიმი"
+		"name": "ცენტრალური აფრიკის CFA ფრანკი",
+		"name_plural": "ცენტრალური აფრიკის CFA ფრანკები",
+		"subunit_name": "სანტიმი",
+		"subunit_name_plural": "სანტიმები"
 	},
 	"XCD": {
 		"name": "აღმოსავლეთ კარიბის დოლარი",
-		"name_plural": "აღმოსავლეთ კარიბის დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name_plural": "აღმოსავლეთ კარიბის დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"XOF": {
-		"name": "დასავლეთ აფრიკული CFA ფრანკი",
-		"name_plural": "დასავლეთ აფრიკული CFA ფრანკი",
-		"subunit_name": "სენტიმი",
-		"subunit_name_plural": "სენტიმი"
+		"name": "დასავლეთ აფრიკის CFA ფრანკი",
+		"name_plural": "დასავლეთ აფრიკის CFA ფრანკები",
+		"subunit_name": "სანტიმი",
+		"subunit_name_plural": "სანტიმები"
 	},
 	"XPF": {
 		"name": "CFP ფრანკი",
-		"name_plural": "CFP ფრანკი",
-		"subunit_name": "სენტიმი",
-		"subunit_name_plural": "სენტიმი"
+		"name_plural": "CFP ფრანკები",
+		"subunit_name": "სანტიმი",
+		"subunit_name_plural": "სანტიმები"
 	},
 	"YER": {
-		"name": "იემენის რიალი",
-		"name_plural": "იემენის რიალი",
+		"name": "იემენური რიალი",
+		"name_plural": "იემენური რიალები",
 		"subunit_name": "ფილსი",
-		"subunit_name_plural": "ფილსი"
+		"subunit_name_plural": "ფილსები"
 	},
 	"ZAR": {
-		"name": "სამხრეთ აფრიკის რანდი",
-		"name_plural": "სამხრეთ აფრიკის რანდი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name": "სამხრეთ აფრიკული რანდი",
+		"name_plural": "სამხრეთ აფრიკული რანდები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	},
 	"ZMW": {
-		"name": "ზამბიის კვაჩა",
-		"name_plural": "ზამბიის კვაჩა",
-		"subunit_name": "ნგვეე",
-		"subunit_name_plural": "ნგვეე"
+		"name": "ზამბიური კვაჩა",
+		"name_plural": "ზამბიური კვაჩები",
+		"subunit_name": "ნგვე",
+		"subunit_name_plural": "ნგვეები"
 	},
 	"ZWL": {
 		"name": "ზიმბაბვეს დოლარი",
-		"name_plural": "ზიმბაბვეს დოლარი",
-		"subunit_name": "ცენტი",
-		"subunit_name_plural": "ცენტი"
+		"name_plural": "ზიმბაბვეს დოლარები",
+		"subunit_name": "სენტი",
+		"subunit_name_plural": "სენტები"
 	}
 }

@@ -8,14 +8,14 @@
 	"AFN": {
 		"name": "Afganistano afganis",
 		"name_plural": "Afganistano afganiai",
-		"subunit_name": "pulas",
-		"subunit_name_plural": "pulai"
+		"subunit_name": "pulis",
+		"subunit_name_plural": "puliai"
 	},
 	"ALL": {
 		"name": "Albanijos lekas",
 		"name_plural": "Albanijos lekai",
-		"subunit_name": "qindarka",
-		"subunit_name_plural": "qindarkos"
+		"subunit_name": "kindarka",
+		"subunit_name_plural": "kindarkos"
 	},
 	"AMD": {
 		"name": "Armėnijos dramas",
@@ -48,22 +48,22 @@
 		"subunit_name_plural": "centai"
 	},
 	"AWG": {
-		"name": "Arubos guldenas",
-		"name_plural": "Arubos guldenai",
+		"name": "Arubos florinas",
+		"name_plural": "Arubos florinai",
 		"subunit_name": "centas",
 		"subunit_name_plural": "centai"
 	},
 	"AZN": {
-		"name": "Azerbaidžano manatas",
-		"name_plural": "Azerbaidžano manatai",
+		"name": "Azerbaidžiano manatas",
+		"name_plural": "Azerbaidžiano manatai",
 		"subunit_name": "qəpik",
-		"subunit_name_plural": "qəpikai"
+		"subunit_name_plural": "qəpik"
 	},
 	"BAM": {
 		"name": "Bosnijos ir Hercegovinos konvertuojamoji markė",
 		"name_plural": "Bosnijos ir Hercegovinos konvertuojamosios markės",
-		"subunit_name": "fenigas",
-		"subunit_name_plural": "fenigai"
+		"subunit_name": "feningas",
+		"subunit_name_plural": "feningai"
 	},
 	"BBD": {
 		"name": "Barbadoso doleris",
@@ -134,7 +134,7 @@
 	"BWP": {
 		"name": "Botsvanos pula",
 		"name_plural": "Botsvanos pulos",
-		"subunit_name": "thebe",
+		"subunit_name": "thebė",
 		"subunit_name_plural": "thebės"
 	},
 	"BYN": {
@@ -176,8 +176,8 @@
 	"CNY": {
 		"name": "Kinijos ženminbi juanis",
 		"name_plural": "Kinijos ženminbi juaniai",
-		"subunit_name": "fenas",
-		"subunit_name_plural": "fenai"
+		"subunit_name": "fenis",
+		"subunit_name_plural": "feniai"
 	},
 	"COP": {
 		"name": "Kolumbijos pesas",
@@ -190,12 +190,6 @@
 		"name_plural": "Kosta Rikos kolonai",
 		"subunit_name": "centimas",
 		"subunit_name_plural": "centimai"
-	},
-	"CUC": {
-		"name": "Kubos konvertuojamasis pesas",
-		"name_plural": "Kubos konvertuojamieji pesai",
-		"subunit_name": "centavas",
-		"subunit_name_plural": "centavai"
 	},
 	"CUP": {
 		"name": "Kubos pesas",
@@ -212,12 +206,12 @@
 	"CZK": {
 		"name": "Čekijos krona",
 		"name_plural": "Čekijos kronos",
-		"subunit_name": "haleris",
+		"subunit_name": "halerius",
 		"subunit_name_plural": "haleriai"
 	},
 	"DJF": {
-		"name": "Džibutio frankas",
-		"name_plural": "Džibutio frankai",
+		"name": "Džibučio frankas",
+		"name_plural": "Džibučio frankai",
 		"subunit_name": "centimas",
 		"subunit_name_plural": "centimai"
 	},
@@ -270,16 +264,16 @@
 		"subunit_name_plural": "centai"
 	},
 	"FKP": {
-		"name": "Folklando salų svaras",
-		"name_plural": "Folklando salų svarai",
-		"subunit_name": "pensas",
-		"subunit_name_plural": "pensai"
+		"name": "Folklando Salų svaras",
+		"name_plural": "Folklando Salų svarai",
+		"subunit_name": "penis",
+		"subunit_name_plural": "peniai"
 	},
 	"GBP": {
-		"name": "Svaras sterlingų",
-		"name_plural": "Svarai sterlingų",
-		"subunit_name": "pensas",
-		"subunit_name_plural": "pensai"
+		"name": "Didžiosios Britanijos svaras",
+		"name_plural": "Didžiosios Britanijos svarai",
+		"subunit_name": "penis",
+		"subunit_name_plural": "peniai"
 	},
 	"GEL": {
 		"name": "Gruzijos laris",
@@ -290,14 +284,14 @@
 	"GHS": {
 		"name": "Ganos sedis",
 		"name_plural": "Ganos sedžiai",
-		"subunit_name": "pesava",
-		"subunit_name_plural": "pesavos"
+		"subunit_name": "pesewa",
+		"subunit_name_plural": "pesewos"
 	},
 	"GIP": {
 		"name": "Gibraltaro svaras",
 		"name_plural": "Gibraltaro svarai",
-		"subunit_name": "pensas",
-		"subunit_name_plural": "pensai"
+		"subunit_name": "penis",
+		"subunit_name_plural": "peniai"
 	},
 	"GMD": {
 		"name": "Gambijos dalasis",
@@ -335,12 +329,6 @@
 		"subunit_name": "centavas",
 		"subunit_name_plural": "centavai"
 	},
-	"HRK": {
-		"name": "Kroatijos kuna",
-		"name_plural": "Kroatijos kunos",
-		"subunit_name": "lipa",
-		"subunit_name_plural": "lipos"
-	},
 	"HTG": {
 		"name": "Haičio gurdas",
 		"name_plural": "Haičio gurdai",
@@ -362,8 +350,8 @@
 	"ILS": {
 		"name": "Izraelio naujasis šekelis",
 		"name_plural": "Izraelio naujieji šekeliai",
-		"subunit_name": "agora",
-		"subunit_name_plural": "agoros"
+		"subunit_name": "agara",
+		"subunit_name_plural": "agaros"
 	},
 	"INR": {
 		"name": "Indijos rupija",
@@ -386,8 +374,8 @@
 	"ISK": {
 		"name": "Islandijos krona",
 		"name_plural": "Islandijos kronos",
-		"subunit_name": "auraras",
-		"subunit_name_plural": "aurarai"
+		"subunit_name": "aurar",
+		"subunit_name_plural": "aurar"
 	},
 	"JMD": {
 		"name": "Jamaikos doleris",
@@ -416,8 +404,8 @@
 	"KGS": {
 		"name": "Kirgizstano somas",
 		"name_plural": "Kirgizstano somai",
-		"subunit_name": "tyiynas",
-		"subunit_name_plural": "tyiynai"
+		"subunit_name": "tyjynas",
+		"subunit_name_plural": "tyjynai"
 	},
 	"KHR": {
 		"name": "Kambodžos rielis",
@@ -450,8 +438,8 @@
 		"subunit_name_plural": "filsai"
 	},
 	"KYD": {
-		"name": "Kaimanų salų doleris",
-		"name_plural": "Kaimanų salų doleriai",
+		"name": "Kaimanų Salų doleris",
+		"name_plural": "Kaimanų Salų doleriai",
 		"subunit_name": "centas",
 		"subunit_name_plural": "centai"
 	},
@@ -487,9 +475,9 @@
 	},
 	"LSL": {
 		"name": "Lesoto lotis",
-		"name_plural": "Lesoto lotiai",
+		"name_plural": "Lesoto ločiai",
 		"subunit_name": "sente",
-		"subunit_name_plural": "sentės"
+		"subunit_name_plural": "lisente"
 	},
 	"LYD": {
 		"name": "Libijos dinaras",
@@ -504,16 +492,16 @@
 		"subunit_name_plural": "centimai"
 	},
 	"MDL": {
-		"name": "Moldovos lėjus",
-		"name_plural": "Moldovos lėjai",
-		"subunit_name": "banas",
-		"subunit_name_plural": "banai"
+		"name": "Moldovos lėja",
+		"name_plural": "Moldovos lėjos",
+		"subunit_name": "banis",
+		"subunit_name_plural": "baniai"
 	},
 	"MGA": {
 		"name": "Madagaskaro ariaris",
 		"name_plural": "Madagaskaro ariariai",
 		"subunit_name": "iraimbilanja",
-		"subunit_name_plural": "iraimbilanjos"
+		"subunit_name_plural": "iraimbilanja"
 	},
 	"MKD": {
 		"name": "Šiaurės Makedonijos denaras",
@@ -522,28 +510,28 @@
 		"subunit_name_plural": "deniai"
 	},
 	"MMK": {
-		"name": "Mianmaro kiatas",
-		"name_plural": "Mianmaro kiatai",
+		"name": "Mianmaro kijatas",
+		"name_plural": "Mianmaro kijatai",
 		"subunit_name": "pja",
 		"subunit_name_plural": "pjos"
 	},
 	"MNT": {
 		"name": "Mongolijos tugrikas",
 		"name_plural": "Mongolijos tugrikai",
-		"subunit_name": "mungė",
-		"subunit_name_plural": "mungės"
+		"subunit_name": "mongo",
+		"subunit_name_plural": "mongos"
 	},
 	"MOP": {
 		"name": "Makao pataka",
 		"name_plural": "Makao patakos",
-		"subunit_name": "avos",
-		"subunit_name_plural": "avos"
+		"subunit_name": "avas",
+		"subunit_name_plural": "avai"
 	},
 	"MRU": {
 		"name": "Mauritanijos ugija",
 		"name_plural": "Mauritanijos ugijos",
-		"subunit_name": "khumas",
-		"subunit_name_plural": "khumai"
+		"subunit_name": "chumas",
+		"subunit_name_plural": "chumai"
 	},
 	"MUR": {
 		"name": "Mauricijaus rupija",
@@ -577,7 +565,7 @@
 	},
 	"MZN": {
 		"name": "Mozambiko metikalis",
-		"name_plural": "Mozambiko metikalai",
+		"name_plural": "Mozambiko metikaliai",
 		"subunit_name": "centavas",
 		"subunit_name_plural": "centavai"
 	},
@@ -590,8 +578,8 @@
 	"NGN": {
 		"name": "Nigerijos naira",
 		"name_plural": "Nigerijos nairos",
-		"subunit_name": "kobas",
-		"subunit_name_plural": "kobai"
+		"subunit_name": "kobo",
+		"subunit_name_plural": "kobo"
 	},
 	"NIO": {
 		"name": "Nikaragvos kordoba",
@@ -625,7 +613,7 @@
 	},
 	"PAB": {
 		"name": "Panamos balboa",
-		"name_plural": "Panamos balbojos",
+		"name_plural": "Panamos balboos",
 		"subunit_name": "centesimas",
 		"subunit_name_plural": "centesimai"
 	},
@@ -638,8 +626,8 @@
 	"PGK": {
 		"name": "Papua Naujosios Gvinėjos kina",
 		"name_plural": "Papua Naujosios Gvinėjos kinos",
-		"subunit_name": "toja",
-		"subunit_name_plural": "tojos"
+		"subunit_name": "toea",
+		"subunit_name_plural": "toea"
 	},
 	"PHP": {
 		"name": "Filipinų pesas",
@@ -660,8 +648,8 @@
 		"subunit_name_plural": "grašiai"
 	},
 	"PYG": {
-		"name": "Paragvajaus guaranis",
-		"name_plural": "Paragvajaus guaraniai",
+		"name": "Paragvajaus gvaranis",
+		"name_plural": "Paragvajaus gvaraniai",
 		"subunit_name": "centimas",
 		"subunit_name_plural": "centimai"
 	},
@@ -672,10 +660,10 @@
 		"subunit_name_plural": "dirhamai"
 	},
 	"RON": {
-		"name": "Rumunijos lėjus",
-		"name_plural": "Rumunijos lėjai",
-		"subunit_name": "banas",
-		"subunit_name_plural": "banai"
+		"name": "Rumunijos lėja",
+		"name_plural": "Rumunijos lėjos",
+		"subunit_name": "banis",
+		"subunit_name_plural": "baniai"
 	},
 	"RSD": {
 		"name": "Serbijos dinaras",
@@ -702,8 +690,8 @@
 		"subunit_name_plural": "halalos"
 	},
 	"SBD": {
-		"name": "Saliamono salų doleris",
-		"name_plural": "Saliamono salų doleriai",
+		"name": "Saliamono Salų doleris",
+		"name_plural": "Saliamono Salų doleriai",
 		"subunit_name": "centas",
 		"subunit_name_plural": "centai"
 	},
@@ -732,12 +720,12 @@
 		"subunit_name_plural": "centai"
 	},
 	"SHP": {
-		"name": "Šventosios Elenos svaras",
-		"name_plural": "Šventosios Elenos svarai",
-		"subunit_name": "pensas",
-		"subunit_name_plural": "pensai"
+		"name": "Šventosios Elenos salų svaras",
+		"name_plural": "Šventosios Elenos salų svarai",
+		"subunit_name": "penis",
+		"subunit_name_plural": "peniai"
 	},
-	"SLL": {
+	"SLE": {
 		"name": "Siera Leonės leonė",
 		"name_plural": "Siera Leonės leonės",
 		"subunit_name": "centas",
@@ -762,8 +750,8 @@
 		"subunit_name_plural": "piastrai"
 	},
 	"STN": {
-		"name": "San Tomės ir Principės dobra",
-		"name_plural": "San Tomės ir Principės dobros",
+		"name": "San Tomė ir Principė dobra",
+		"name_plural": "San Tomė ir Principė dobros",
 		"subunit_name": "centimas",
 		"subunit_name_plural": "centimai"
 	},
@@ -774,8 +762,8 @@
 		"subunit_name_plural": "piastrai"
 	},
 	"SZL": {
-		"name": "Svazilando lilangenis",
-		"name_plural": "Svazilando lilangeniai",
+		"name": "Svazilendo lilangenis",
+		"name_plural": "Svazilendo lilangeniai",
 		"subunit_name": "centas",
 		"subunit_name_plural": "centai"
 	},
@@ -795,7 +783,7 @@
 		"name": "Turkmėnistano manatas",
 		"name_plural": "Turkmėnistano manatai",
 		"subunit_name": "tenge",
-		"subunit_name_plural": "tenges"
+		"subunit_name_plural": "tenge"
 	},
 	"TND": {
 		"name": "Tuniso dinaras",
@@ -804,10 +792,10 @@
 		"subunit_name_plural": "milimai"
 	},
 	"TOP": {
-		"name": "Tongo paanga",
-		"name_plural": "Tongo paangos",
+		"name": "Tongos paanga",
+		"name_plural": "Tongos paangos",
 		"subunit_name": "seniti",
-		"subunit_name_plural": "senitiai"
+		"subunit_name_plural": "seniti"
 	},
 	"TRY": {
 		"name": "Turkijos lira",
@@ -860,10 +848,10 @@
 	"UZS": {
 		"name": "Uzbekistano sumas",
 		"name_plural": "Uzbekistano sumai",
-		"subunit_name": "tiyinas",
-		"subunit_name_plural": "tiyinai"
+		"subunit_name": "tijinas",
+		"subunit_name_plural": "tijinai"
 	},
-	"VES": {
+	"VED": {
 		"name": "Venesuelos bolivaras",
 		"name_plural": "Venesuelos bolivarai",
 		"subunit_name": "centimas",
@@ -878,14 +866,14 @@
 	"VUV": {
 		"name": "Vanuatu vatu",
 		"name_plural": "Vanuatu vatu",
-		"subunit_name": "centimas",
-		"subunit_name_plural": "centimai"
+		"subunit_name": "",
+		"subunit_name_plural": ""
 	},
 	"WST": {
 		"name": "Samoa tala",
 		"name_plural": "Samoa talos",
 		"subunit_name": "sene",
-		"subunit_name_plural": "senės"
+		"subunit_name_plural": "sene"
 	},
 	"XAF": {
 		"name": "Centrinės Afrikos CFA frankas",
@@ -918,8 +906,8 @@
 		"subunit_name_plural": "filsai"
 	},
 	"ZAR": {
-		"name": "Pietų Afrikos Respublikos randas",
-		"name_plural": "Pietų Afrikos Respublikos randai",
+		"name": "Pietų Afrikos respublikos randas",
+		"name_plural": "Pietų Afrikos respublikos randai",
 		"subunit_name": "centas",
 		"subunit_name_plural": "centai"
 	},

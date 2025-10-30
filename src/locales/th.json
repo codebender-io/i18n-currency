@@ -26,38 +26,38 @@
 	"ANG": {
 		"name": "กิลเดอร์เนเธอร์แลนด์แอนทิลลิส",
 		"name_plural": "กิลเดอร์เนเธอร์แลนด์แอนทิลลิส",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"AOA": {
-		"name": "กวานซาแองโกลา",
-		"name_plural": "กวานซาแองโกลา",
+		"name": "กวันซาแองโกลา",
+		"name_plural": "กวันซาแองโกลา",
 		"subunit_name": "เซนติโม",
 		"subunit_name_plural": "เซนติโม"
 	},
 	"ARS": {
 		"name": "เปโซอาร์เจนตินา",
 		"name_plural": "เปโซอาร์เจนตินา",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
+		"subunit_name": "เซนตาวู",
+		"subunit_name_plural": "เซนตาวู"
 	},
 	"AUD": {
 		"name": "ดอลลาร์ออสเตรเลีย",
 		"name_plural": "ดอลลาร์ออสเตรเลีย",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"AWG": {
 		"name": "ฟลอรินอารูบา",
 		"name_plural": "ฟลอรินอารูบา",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"AZN": {
 		"name": "มานัตอาเซอร์ไบจาน",
 		"name_plural": "มานัตอาเซอร์ไบจาน",
-		"subunit_name": "กัปปิก",
-		"subunit_name_plural": "กัปปิก"
+		"subunit_name": "เกปิก",
+		"subunit_name_plural": "เกปิก"
 	},
 	"BAM": {
 		"name": "มาร์กบอสเนียและเฮอร์เซโกวีนา",
@@ -68,20 +68,20 @@
 	"BBD": {
 		"name": "ดอลลาร์บาร์เบโดส",
 		"name_plural": "ดอลลาร์บาร์เบโดส",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"BDT": {
 		"name": "ตากาบังกลาเทศ",
 		"name_plural": "ตากาบังกลาเทศ",
-		"subunit_name": "โปยชา",
-		"subunit_name_plural": "โปยชา"
+		"subunit_name": "ปอยชา",
+		"subunit_name_plural": "ปอยชา"
 	},
 	"BGN": {
 		"name": "เลฟบัลแกเรีย",
 		"name_plural": "เลฟบัลแกเรีย",
-		"subunit_name": "สโตตินกี",
-		"subunit_name_plural": "สโตตินกี"
+		"subunit_name": "สตอตินกา",
+		"subunit_name_plural": "สตอตินกา"
 	},
 	"BHD": {
 		"name": "ดีนาร์บาห์เรน",
@@ -92,38 +92,38 @@
 	"BIF": {
 		"name": "ฟรังก์บุรุนดี",
 		"name_plural": "ฟรังก์บุรุนดี",
-		"subunit_name": "เซนตีม",
-		"subunit_name_plural": "เซนตีม"
+		"subunit_name": "ซองตีม",
+		"subunit_name_plural": "ซองตีม"
 	},
 	"BMD": {
 		"name": "ดอลลาร์เบอร์มิวดา",
 		"name_plural": "ดอลลาร์เบอร์มิวดา",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"BND": {
 		"name": "ดอลลาร์บรูไน",
 		"name_plural": "ดอลลาร์บรูไน",
-		"subunit_name": "เซน",
-		"subunit_name_plural": "เซน"
+		"subunit_name": "เซ็น",
+		"subunit_name_plural": "เซ็น"
 	},
 	"BOB": {
-		"name": "โบลิเวียโนโบลิเวีย",
-		"name_plural": "โบลิเวียโนโบลิเวีย",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
+		"name": "โบลิเวียนโบลิเวียโน",
+		"name_plural": "โบลิเวียนโบลิเวียโน",
+		"subunit_name": "เซนตาวู",
+		"subunit_name_plural": "เซนตาวู"
 	},
 	"BRL": {
 		"name": "เรียลบราซิล",
 		"name_plural": "เรียลบราซิล",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
+		"subunit_name": "เซนตาวู",
+		"subunit_name_plural": "เซนตาวู"
 	},
 	"BSD": {
 		"name": "ดอลลาร์บาฮามาส",
 		"name_plural": "ดอลลาร์บาฮามาส",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"BTN": {
 		"name": "งุลตรัมภูฏาน",
@@ -146,32 +146,32 @@
 	"BZD": {
 		"name": "ดอลลาร์เบลีซ",
 		"name_plural": "ดอลลาร์เบลีซ",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"CAD": {
 		"name": "ดอลลาร์แคนาดา",
 		"name_plural": "ดอลลาร์แคนาดา",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"CDF": {
 		"name": "ฟรังก์คองโก",
 		"name_plural": "ฟรังก์คองโก",
-		"subunit_name": "เซนตีม",
-		"subunit_name_plural": "เซนตีม"
+		"subunit_name": "ซองตีม",
+		"subunit_name_plural": "ซองตีม"
 	},
 	"CHF": {
 		"name": "ฟรังก์สวิส",
 		"name_plural": "ฟรังก์สวิส",
-		"subunit_name": "แร็ปเพน",
-		"subunit_name_plural": "แร็ปเพน"
+		"subunit_name": "แรปเพน",
+		"subunit_name_plural": "แรปเพน"
 	},
 	"CLP": {
 		"name": "เปโซชิลี",
 		"name_plural": "เปโซชิลี",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
+		"subunit_name": "เซนตาวู",
+		"subunit_name_plural": "เซนตาวู"
 	},
 	"CNY": {
 		"name": "หยวนจีน",
@@ -182,92 +182,86 @@
 	"COP": {
 		"name": "เปโซโคลอมเบีย",
 		"name_plural": "เปโซโคลอมเบีย",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
+		"subunit_name": "เซนตาวู",
+		"subunit_name_plural": "เซนตาวู"
 	},
 	"CRC": {
-		"name": "โคลอนคอสตาริกา",
-		"name_plural": "โคลอนคอสตาริกา",
+		"name": "โคโลนคอสตาริกา",
+		"name_plural": "โคโลนคอสตาริกา",
 		"subunit_name": "เซนติโม",
 		"subunit_name_plural": "เซนติโม"
-	},
-	"CUC": {
-		"name": "เปโซคิวบาแปลงรูป",
-		"name_plural": "เปโซคิวบาแปลงรูป",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
 	},
 	"CUP": {
 		"name": "เปโซคิวบา",
 		"name_plural": "เปโซคิวบา",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
+		"subunit_name": "เซนตาวู",
+		"subunit_name_plural": "เซนตาวู"
 	},
 	"CVE": {
 		"name": "เอสคูโดเคปเวิร์ด",
 		"name_plural": "เอสคูโดเคปเวิร์ด",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
+		"subunit_name": "เซนตาวู",
+		"subunit_name_plural": "เซนตาวู"
 	},
 	"CZK": {
 		"name": "โครูนาสาธารณรัฐเช็ก",
 		"name_plural": "โครูนาสาธารณรัฐเช็ก",
-		"subunit_name": "ฮาเลร์",
-		"subunit_name_plural": "ฮาเลร์"
+		"subunit_name": "ฮาเลอร์",
+		"subunit_name_plural": "ฮาเลอร์"
 	},
 	"DJF": {
 		"name": "ฟรังก์จิบูตี",
 		"name_plural": "ฟรังก์จิบูตี",
-		"subunit_name": "เซนตีม",
-		"subunit_name_plural": "เซนตีม"
+		"subunit_name": "ซองตีม",
+		"subunit_name_plural": "ซองตีม"
 	},
 	"DKK": {
 		"name": "โครนเดนมาร์ก",
 		"name_plural": "โครนเดนมาร์ก",
-		"subunit_name": "เอเร",
-		"subunit_name_plural": "เอเร"
+		"subunit_name": "ออเร",
+		"subunit_name_plural": "ออเร"
 	},
 	"DOP": {
-		"name": "เปโซสาธารณรัฐโดมินิกัน",
-		"name_plural": "เปโซสาธารณรัฐโดมินิกัน",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
+		"name": "เปโซโดมินิกัน",
+		"name_plural": "เปโซโดมินิกัน",
+		"subunit_name": "เซนตาวู",
+		"subunit_name_plural": "เซนตาวู"
 	},
 	"DZD": {
 		"name": "ดีนาร์แอลจีเรีย",
 		"name_plural": "ดีนาร์แอลจีเรีย",
-		"subunit_name": "เซนตีม",
-		"subunit_name_plural": "เซนตีม"
+		"subunit_name": "ซองตีม",
+		"subunit_name_plural": "ซองตีม"
 	},
 	"EGP": {
 		"name": "ปอนด์อียิปต์",
 		"name_plural": "ปอนด์อียิปต์",
-		"subunit_name": "พีแอสเตอร์",
-		"subunit_name_plural": "พีแอสเตอร์"
+		"subunit_name": "เปียสเตอร์",
+		"subunit_name_plural": "เปียสเตอร์"
 	},
 	"ERN": {
-		"name": "แนกฟาเอริเทรีย",
-		"name_plural": "แนกฟาเอริเทรีย",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"name": "แนกฟาอีริเทรีย",
+		"name_plural": "แนกฟาอีริเทรีย",
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"ETB": {
 		"name": "เบอรร์เอธิโอเปีย",
 		"name_plural": "เบอรร์เอธิโอเปีย",
-		"subunit_name": "ซันตีม",
-		"subunit_name_plural": "ซันตีม"
+		"subunit_name": "ซานติม",
+		"subunit_name_plural": "ซานติม"
 	},
 	"EUR": {
 		"name": "ยูโร",
 		"name_plural": "ยูโร",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"FJD": {
 		"name": "ดอลลาร์ฟิจิ",
 		"name_plural": "ดอลลาร์ฟิจิ",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"FKP": {
 		"name": "ปอนด์หมู่เกาะฟอล์กแลนด์",
@@ -284,8 +278,8 @@
 	"GEL": {
 		"name": "ลารีจอร์เจีย",
 		"name_plural": "ลารีจอร์เจีย",
-		"subunit_name": "เตทรี",
-		"subunit_name_plural": "เตทรี"
+		"subunit_name": "เททรี",
+		"subunit_name_plural": "เททรี"
 	},
 	"GHS": {
 		"name": "เซดีกานา",
@@ -300,52 +294,46 @@
 		"subunit_name_plural": "เพนนี"
 	},
 	"GMD": {
-		"name": "ดาลาซีแกมเบีย",
-		"name_plural": "ดาลาซีแกมเบีย",
-		"subunit_name": "บูตัท",
-		"subunit_name_plural": "บูตัท"
+		"name": "ดาลาซิกัมเบีย",
+		"name_plural": "ดาลาซิกัมเบีย",
+		"subunit_name": "บูตัต",
+		"subunit_name_plural": "บูตัต"
 	},
 	"GNF": {
 		"name": "ฟรังก์กินี",
 		"name_plural": "ฟรังก์กินี",
-		"subunit_name": "เซนตีม",
-		"subunit_name_plural": "เซนตีม"
+		"subunit_name": "ซองตีม",
+		"subunit_name_plural": "ซองตีม"
 	},
 	"GTQ": {
 		"name": "เควตซัลกัวเตมาลา",
 		"name_plural": "เควตซัลกัวเตมาลา",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
+		"subunit_name": "เซนตาวู",
+		"subunit_name_plural": "เซนตาวู"
 	},
 	"GYD": {
 		"name": "ดอลลาร์กายอานา",
 		"name_plural": "ดอลลาร์กายอานา",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"HKD": {
 		"name": "ดอลลาร์ฮ่องกง",
 		"name_plural": "ดอลลาร์ฮ่องกง",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"HNL": {
 		"name": "เลมปิราฮอนดูรัส",
 		"name_plural": "เลมปิราฮอนดูรัส",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
-	},
-	"HRK": {
-		"name": "คูนาโครเอเชีย",
-		"name_plural": "คูนาโครเอเชีย",
-		"subunit_name": "ลิปา",
-		"subunit_name_plural": "ลิปา"
+		"subunit_name": "เซนตาวู",
+		"subunit_name_plural": "เซนตาวู"
 	},
 	"HTG": {
 		"name": "กูร์ดเฮติ",
 		"name_plural": "กูร์ดเฮติ",
-		"subunit_name": "เซนตีม",
-		"subunit_name_plural": "เซนตีม"
+		"subunit_name": "ซองตีม",
+		"subunit_name_plural": "ซองตีม"
 	},
 	"HUF": {
 		"name": "ฟอรินต์ฮังการี",
@@ -356,20 +344,20 @@
 	"IDR": {
 		"name": "รูเปียห์อินโดนีเซีย",
 		"name_plural": "รูเปียห์อินโดนีเซีย",
-		"subunit_name": "เซน",
-		"subunit_name_plural": "เซน"
+		"subunit_name": "เซ็น",
+		"subunit_name_plural": "เซ็น"
 	},
 	"ILS": {
 		"name": "เชเกลใหม่อิสราเอล",
 		"name_plural": "เชเกลใหม่อิสราเอล",
-		"subunit_name": "อะโกรา",
-		"subunit_name_plural": "อะโกรา"
+		"subunit_name": "อากอราออต",
+		"subunit_name_plural": "อากอราออต"
 	},
 	"INR": {
 		"name": "รูปีอินเดีย",
 		"name_plural": "รูปีอินเดีย",
-		"subunit_name": "ไปส์",
-		"subunit_name_plural": "ไปส์"
+		"subunit_name": "ไปสา",
+		"subunit_name_plural": "ไปสา"
 	},
 	"IQD": {
 		"name": "ดีนาร์อิรัก",
@@ -386,14 +374,14 @@
 	"ISK": {
 		"name": "โครนาไอซ์แลนด์",
 		"name_plural": "โครนาไอซ์แลนด์",
-		"subunit_name": "เอย์เรอร์",
-		"subunit_name_plural": "เอย์เรอร์"
+		"subunit_name": "เอาเรอร์",
+		"subunit_name_plural": "เอาเรอร์"
 	},
 	"JMD": {
 		"name": "ดอลลาร์จาเมกา",
 		"name_plural": "ดอลลาร์จาเมกา",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"JOD": {
 		"name": "ดีนาร์จอร์แดน",
@@ -404,44 +392,44 @@
 	"JPY": {
 		"name": "เยนญี่ปุ่น",
 		"name_plural": "เยนญี่ปุ่น",
-		"subunit_name": "เซน",
-		"subunit_name_plural": "เซน"
+		"subunit_name": "เซ็น",
+		"subunit_name_plural": "เซ็น"
 	},
 	"KES": {
 		"name": "ชิลลิงเคนยา",
 		"name_plural": "ชิลลิงเคนยา",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"KGS": {
 		"name": "ซอมคีร์กีซสถาน",
 		"name_plural": "ซอมคีร์กีซสถาน",
-		"subunit_name": "เตยิน",
-		"subunit_name_plural": "เตยิน"
+		"subunit_name": "ตียิน",
+		"subunit_name_plural": "ตียิน"
 	},
 	"KHR": {
 		"name": "เรียลกัมพูชา",
 		"name_plural": "เรียลกัมพูชา",
-		"subunit_name": "เซน",
-		"subunit_name_plural": "เซน"
+		"subunit_name": "เซ็น",
+		"subunit_name_plural": "เซ็น"
 	},
 	"KMF": {
 		"name": "ฟรังก์คอโมโรส",
 		"name_plural": "ฟรังก์คอโมโรส",
-		"subunit_name": "เซนตีม",
-		"subunit_name_plural": "เซนตีม"
+		"subunit_name": "ซองตีม",
+		"subunit_name_plural": "ซองตีม"
 	},
 	"KPW": {
 		"name": "วอนเกาหลีเหนือ",
 		"name_plural": "วอนเกาหลีเหนือ",
-		"subunit_name": "ชŏน",
-		"subunit_name_plural": "ชŏน"
+		"subunit_name": "ชอน",
+		"subunit_name_plural": "ชอน"
 	},
 	"KRW": {
 		"name": "วอนเกาหลีใต้",
 		"name_plural": "วอนเกาหลีใต้",
-		"subunit_name": "จŏน",
-		"subunit_name_plural": "จŏน"
+		"subunit_name": "ชอน",
+		"subunit_name_plural": "ชอน"
 	},
 	"KWD": {
 		"name": "ดีนาร์คูเวต",
@@ -452,8 +440,8 @@
 	"KYD": {
 		"name": "ดอลลาร์หมู่เกาะเคย์แมน",
 		"name_plural": "ดอลลาร์หมู่เกาะเคย์แมน",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"KZT": {
 		"name": "เทงเจคาซัคสถาน",
@@ -470,25 +458,25 @@
 	"LBP": {
 		"name": "ปอนด์เลบานอน",
 		"name_plural": "ปอนด์เลบานอน",
-		"subunit_name": "พีแอสเตอร์",
-		"subunit_name_plural": "พีแอสเตอร์"
+		"subunit_name": "เปียสเตอร์",
+		"subunit_name_plural": "เปียสเตอร์"
 	},
 	"LKR": {
 		"name": "รูปีศรีลังกา",
 		"name_plural": "รูปีศรีลังกา",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"LRD": {
 		"name": "ดอลลาร์ไลบีเรีย",
 		"name_plural": "ดอลลาร์ไลบีเรีย",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"LSL": {
 		"name": "โลตีเลโซโท",
 		"name_plural": "โลตีเลโซโท",
-		"subunit_name": "ลิเซนเต",
+		"subunit_name": "เซนเต",
 		"subunit_name_plural": "ลิเซนเต"
 	},
 	"LYD": {
@@ -498,22 +486,22 @@
 		"subunit_name_plural": "ดิรฮัม"
 	},
 	"MAD": {
-		"name": "ดีรฮัมโมร็อกโก",
-		"name_plural": "ดีรฮัมโมร็อกโก",
-		"subunit_name": "เซนตีม",
-		"subunit_name_plural": "เซนตีม"
+		"name": "ดิรฮัมโมร็อกโก",
+		"name_plural": "ดิรฮัมโมร็อกโก",
+		"subunit_name": "ซองตีม",
+		"subunit_name_plural": "ซองตีม"
 	},
 	"MDL": {
-		"name": "เลยมอลโดวา",
-		"name_plural": "เลยมอลโดวา",
-		"subunit_name": "บัน",
-		"subunit_name_plural": "บัน"
+		"name": "เลอูมอลโดวา",
+		"name_plural": "เลอูมอลโดวา",
+		"subunit_name": "บาน",
+		"subunit_name_plural": "บาน"
 	},
 	"MGA": {
 		"name": "อาเรียรีมาดากัสการ์",
 		"name_plural": "อาเรียรีมาดากัสการ์",
-		"subunit_name": "อิไรมบิลานจา",
-		"subunit_name_plural": "อิไรมบิลานจา"
+		"subunit_name": "อิไรมบิลันจา",
+		"subunit_name_plural": "อิไรมบิลันจา"
 	},
 	"MKD": {
 		"name": "ดีนาร์มาซิโดเนีย",
@@ -524,14 +512,14 @@
 	"MMK": {
 		"name": "จ๊าตพม่า",
 		"name_plural": "จ๊าตพม่า",
-		"subunit_name": "พยัต",
-		"subunit_name_plural": "พยัต"
+		"subunit_name": "พย่า",
+		"subunit_name_plural": "พย่า"
 	},
 	"MNT": {
 		"name": "ทูกริกมองโกเลีย",
 		"name_plural": "ทูกริกมองโกเลีย",
-		"subunit_name": "มุงโก",
-		"subunit_name_plural": "มุงโก"
+		"subunit_name": "มองเกอ",
+		"subunit_name_plural": "มองเกอ"
 	},
 	"MOP": {
 		"name": "ปาตากามาเก๊า",
@@ -542,14 +530,14 @@
 	"MRU": {
 		"name": "อูกียามอริเตเนีย",
 		"name_plural": "อูกียามอริเตเนีย",
-		"subunit_name": "คhouม",
-		"subunit_name_plural": "คhouม"
+		"subunit_name": "คูมส์",
+		"subunit_name_plural": "คูมส์"
 	},
 	"MUR": {
 		"name": "รูปีมอริเชียส",
 		"name_plural": "รูปีมอริเชียส",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"MVR": {
 		"name": "รูฟิยามัลดีฟส์",
@@ -566,26 +554,26 @@
 	"MXN": {
 		"name": "เปโซเม็กซิโก",
 		"name_plural": "เปโซเม็กซิโก",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
+		"subunit_name": "เซนตาวู",
+		"subunit_name_plural": "เซนตาวู"
 	},
 	"MYR": {
 		"name": "ริงกิตมาเลเซีย",
 		"name_plural": "ริงกิตมาเลเซีย",
-		"subunit_name": "เซน",
-		"subunit_name_plural": "เซน"
+		"subunit_name": "เซ็น",
+		"subunit_name_plural": "เซ็น"
 	},
 	"MZN": {
 		"name": "เมติคัลโมซัมบิก",
 		"name_plural": "เมติคัลโมซัมบิก",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
+		"subunit_name": "เซนตาวู",
+		"subunit_name_plural": "เซนตาวู"
 	},
 	"NAD": {
 		"name": "ดอลลาร์นามิเบีย",
 		"name_plural": "ดอลลาร์นามิเบีย",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"NGN": {
 		"name": "ไนราไนจีเรีย",
@@ -596,38 +584,38 @@
 	"NIO": {
 		"name": "กอร์โดบานิการากัว",
 		"name_plural": "กอร์โดบานิการากัว",
-		"subunit_name": "เซนตาโว",
-		"subunit_name_plural": "เซนตาโว"
+		"subunit_name": "เซนตาวู",
+		"subunit_name_plural": "เซนตาวู"
 	},
 	"NOK": {
 		"name": "โครนนอร์เวย์",
 		"name_plural": "โครนนอร์เวย์",
-		"subunit_name": "เอเร",
-		"subunit_name_plural": "เอเร"
+		"subunit_name": "ออเร",
+		"subunit_name_plural": "ออเร"
 	},
 	"NPR": {
 		"name": "รูปีเนปาล",
 		"name_plural": "รูปีเนปาล",
-		"subunit_name": "ไปส์",
-		"subunit_name_plural": "ไปส์"
+		"subunit_name": "ไปสา",
+		"subunit_name_plural": "ไปสา"
 	},
 	"NZD": {
 		"name": "ดอลลาร์นิวซีแลนด์",
 		"name_plural": "ดอลลาร์นิวซีแลนด์",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"OMR": {
 		"name": "เรียลโอมาน",
 		"name_plural": "เรียลโอมาน",
-		"subunit_name": "ไปซา",
-		"subunit_name_plural": "ไปซา"
+		"subunit_name": "ไบซา",
+		"subunit_name_plural": "ไบซา"
 	},
 	"PAB": {
 		"name": "บัลบัวปานามา",
 		"name_plural": "บัลบัวปานามา",
-		"subunit_name": "เซนติสิโม",
-		"subunit_name_plural": "เซนติสิโม"
+		"subunit_name": "เซนเตซิโม",
+		"subunit_name_plural": "เซนเตซิโม"
 	},
 	"PEN": {
 		"name": "ซอลเปรู",
@@ -650,8 +638,8 @@
 	"PKR": {
 		"name": "รูปีปากีสถาน",
 		"name_plural": "รูปีปากีสถาน",
-		"subunit_name": "ไปส์",
-		"subunit_name_plural": "ไปส์"
+		"subunit_name": "ไปสา",
+		"subunit_name_plural": "ไปสา"
 	},
 	"PLN": {
 		"name": "ซลอตีโปแลนด์",
@@ -672,10 +660,10 @@
 		"subunit_name_plural": "ดิรฮัม"
 	},
 	"RON": {
-		"name": "เลยโรมาเนีย",
-		"name_plural": "เลยโรมาเนีย",
-		"subunit_name": "บัน",
-		"subunit_name_plural": "บัน"
+		"name": "เลอูโรมาเนีย",
+		"name_plural": "เลอูโรมาเนีย",
+		"subunit_name": "บาน",
+		"subunit_name_plural": "บาน"
 	},
 	"RSD": {
 		"name": "ดีนาร์เซอร์เบีย",
@@ -692,8 +680,8 @@
 	"RWF": {
 		"name": "ฟรังก์รวันดา",
 		"name_plural": "ฟรังก์รวันดา",
-		"subunit_name": "เซนตีม",
-		"subunit_name_plural": "เซนตีม"
+		"subunit_name": "ซองตีม",
+		"subunit_name_plural": "ซองตีม"
 	},
 	"SAR": {
 		"name": "ริยัลซาอุดีอาระเบีย",
@@ -704,32 +692,32 @@
 	"SBD": {
 		"name": "ดอลลาร์หมู่เกาะโซโลมอน",
 		"name_plural": "ดอลลาร์หมู่เกาะโซโลมอน",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"SCR": {
 		"name": "รูปีเซเชลส์",
 		"name_plural": "รูปีเซเชลส์",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"SDG": {
 		"name": "ปอนด์ซูดาน",
 		"name_plural": "ปอนด์ซูดาน",
-		"subunit_name": "พีแอสเตอร์",
-		"subunit_name_plural": "พีแอสเตอร์"
+		"subunit_name": "เปียสเตอร์",
+		"subunit_name_plural": "เปียสเตอร์"
 	},
 	"SEK": {
 		"name": "โครนาสวีเดน",
 		"name_plural": "โครนาสวีเดน",
-		"subunit_name": "เอเร",
-		"subunit_name_plural": "เอเร"
+		"subunit_name": "ออเร",
+		"subunit_name_plural": "ออเร"
 	},
 	"SGD": {
 		"name": "ดอลลาร์สิงคโปร์",
 		"name_plural": "ดอลลาร์สิงคโปร์",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"SHP": {
 		"name": "ปอนด์เซนต์เฮเลนา",
@@ -737,47 +725,47 @@
 		"subunit_name": "เพนนี",
 		"subunit_name_plural": "เพนนี"
 	},
-	"SLL": {
+	"SLE": {
 		"name": "ลีโอนเซียร์ราลีโอน",
 		"name_plural": "ลีโอนเซียร์ราลีโอน",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"SOS": {
 		"name": "ชิลลิงโซมาเลีย",
 		"name_plural": "ชิลลิงโซมาเลีย",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"SRD": {
-		"name": "ดอลลาร์ซูรินาม",
-		"name_plural": "ดอลลาร์ซูรินาม",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"name": "ดอลลาร์ซูรินาเม",
+		"name_plural": "ดอลลาร์ซูรินาเม",
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"SSP": {
 		"name": "ปอนด์ซูดานใต้",
 		"name_plural": "ปอนด์ซูดานใต้",
-		"subunit_name": "พีแอสเตอร์",
-		"subunit_name_plural": "พีแอสเตอร์"
+		"subunit_name": "เปียสเตอร์",
+		"subunit_name_plural": "เปียสเตอร์"
 	},
 	"STN": {
-		"name": "โดบราเซาตูเมและปรินซิปี",
-		"name_plural": "โดบราเซาตูเมและปรินซิปี",
+		"name": "โดบราซาวตูเมและปรินซิปี",
+		"name_plural": "โดบราซาวตูเมและปรินซิปี",
 		"subunit_name": "เซนติโม",
 		"subunit_name_plural": "เซนติโม"
 	},
 	"SYP": {
 		"name": "ปอนด์ซีเรีย",
 		"name_plural": "ปอนด์ซีเรีย",
-		"subunit_name": "พีแอสเตอร์",
-		"subunit_name_plural": "พีแอสเตอร์"
+		"subunit_name": "เปียสเตอร์",
+		"subunit_name_plural": "เปียสเตอร์"
 	},
 	"SZL": {
-		"name": "ลิลังเจนีสวาซิแลนด์",
-		"name_plural": "ลิลังเจนีสวาซิแลนด์",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"name": "ลิลันเจนีสวาซิ",
+		"name_plural": "ลิลันเจนีสวาซิ",
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"THB": {
 		"name": "บาทไทย",
@@ -788,14 +776,14 @@
 	"TJS": {
 		"name": "โซโมนิทาจิกิสถาน",
 		"name_plural": "โซโมนิทาจิกิสถาน",
-		"subunit_name": "ดิราม",
-		"subunit_name_plural": "ดิราม"
+		"subunit_name": "ดิรัม",
+		"subunit_name_plural": "ดิรัม"
 	},
 	"TMT": {
 		"name": "มานัตเติร์กเมนิสถาน",
 		"name_plural": "มานัตเติร์กเมนิสถาน",
-		"subunit_name": "เทนเกซี",
-		"subunit_name_plural": "เทนเกซี"
+		"subunit_name": "เทงเก",
+		"subunit_name_plural": "เทงเก"
 	},
 	"TND": {
 		"name": "ดีนาร์ตูนิเซีย",
@@ -804,34 +792,34 @@
 		"subunit_name_plural": "มิลลิเม"
 	},
 	"TOP": {
-		"name": "พาแองกาตองกา",
-		"name_plural": "พาแองกาตองกา",
+		"name": "พาอังกาตองกา",
+		"name_plural": "พาอังกาตองกา",
 		"subunit_name": "เซนิตี",
 		"subunit_name_plural": "เซนิตี"
 	},
 	"TRY": {
 		"name": "ลีราตุรกี",
 		"name_plural": "ลีราตุรกี",
-		"subunit_name": "คูรูช",
-		"subunit_name_plural": "คูรูช"
+		"subunit_name": "คูรูส",
+		"subunit_name_plural": "คูรูส"
 	},
 	"TTD": {
 		"name": "ดอลลาร์ตรินิแดดและโตเบโก",
 		"name_plural": "ดอลลาร์ตรินิแดดและโตเบโก",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"TWD": {
 		"name": "ดอลลาร์ไต้หวันใหม่",
 		"name_plural": "ดอลลาร์ไต้หวันใหม่",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"TZS": {
 		"name": "ชิลลิงแทนซาเนีย",
 		"name_plural": "ชิลลิงแทนซาเนีย",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"UAH": {
 		"name": "ฮรีฟเนียยูเครน",
@@ -842,20 +830,20 @@
 	"UGX": {
 		"name": "ชิลลิงยูกันดา",
 		"name_plural": "ชิลลิงยูกันดา",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"USD": {
 		"name": "ดอลลาร์สหรัฐ",
 		"name_plural": "ดอลลาร์สหรัฐ",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"UYU": {
 		"name": "เปโซอุรุกวัย",
 		"name_plural": "เปโซอุรุกวัย",
-		"subunit_name": "เซนเตซีโม",
-		"subunit_name_plural": "เซนเตซีโม"
+		"subunit_name": "เซนเตซิโม",
+		"subunit_name_plural": "เซนเตซิโม"
 	},
 	"UZS": {
 		"name": "ซอมอุซเบกิสถาน",
@@ -863,23 +851,23 @@
 		"subunit_name": "ตียิน",
 		"subunit_name_plural": "ตียิน"
 	},
-	"VES": {
-		"name": "โบลิวาร์เวเนซุเอลา",
-		"name_plural": "โบลิวาร์เวเนซุเอลา",
+	"VED": {
+		"name": "โบลิวาร์ดิจิตัลเวเนซุเอลา",
+		"name_plural": "โบลิวาร์ดิจิตัลเวเนซุเอลา",
 		"subunit_name": "เซนติโม",
 		"subunit_name_plural": "เซนติโม"
 	},
 	"VND": {
 		"name": "ดองเวียดนาม",
 		"name_plural": "ดองเวียดนาม",
-		"subunit_name": "เฮา",
-		"subunit_name_plural": "เฮา"
+		"subunit_name": "เหฺวียด",
+		"subunit_name_plural": "เหฺวียด"
 	},
 	"VUV": {
 		"name": "วาตูวานูอาตู",
 		"name_plural": "วาตูวานูอาตู",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "ซองตีม",
+		"subunit_name_plural": "ซองตีม"
 	},
 	"WST": {
 		"name": "ทาลาซามัว",
@@ -888,28 +876,28 @@
 		"subunit_name_plural": "เซเน"
 	},
 	"XAF": {
-		"name": "ฟรังก์เซฟาธนาคารรัฐแอฟริกากลาง",
-		"name_plural": "ฟรังก์เซฟาธนาคารรัฐแอฟริกากลาง",
-		"subunit_name": "เซนตีม",
-		"subunit_name_plural": "เซนตีม"
+		"name": "ฟรังก์ซีเอฟเอแอฟริกากลาง",
+		"name_plural": "ฟรังก์ซีเอฟเอแอฟริกากลาง",
+		"subunit_name": "ซองตีม",
+		"subunit_name_plural": "ซองตีม"
 	},
 	"XCD": {
 		"name": "ดอลลาร์แคริบเบียนตะวันออก",
 		"name_plural": "ดอลลาร์แคริบเบียนตะวันออก",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"XOF": {
-		"name": "ฟรังก์เซฟาธนาคารรัฐแอฟริกาตะวันตก",
-		"name_plural": "ฟรังก์เซฟาธนาคารรัฐแอฟริกาตะวันตก",
-		"subunit_name": "เซนตีม",
-		"subunit_name_plural": "เซนตีม"
+		"name": "ฟรังก์ซีเอฟเอแอฟริกาตะวันตก",
+		"name_plural": "ฟรังก์ซีเอฟเอแอฟริกาตะวันตก",
+		"subunit_name": "ซองตีม",
+		"subunit_name_plural": "ซองตีม"
 	},
 	"XPF": {
 		"name": "ฟรังก์ซีเอฟพี",
 		"name_plural": "ฟรังก์ซีเอฟพี",
-		"subunit_name": "เซนตีม",
-		"subunit_name_plural": "เซนตีม"
+		"subunit_name": "ซองตีม",
+		"subunit_name_plural": "ซองตีม"
 	},
 	"YER": {
 		"name": "เรียลเยเมน",
@@ -920,19 +908,19 @@
 	"ZAR": {
 		"name": "แรนด์แอฟริกาใต้",
 		"name_plural": "แรนด์แอฟริกาใต้",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	},
 	"ZMW": {
 		"name": "ควาชาแซมเบีย",
 		"name_plural": "ควาชาแซมเบีย",
-		"subunit_name": "งกวี",
-		"subunit_name_plural": "งกวี"
+		"subunit_name": "งวี",
+		"subunit_name_plural": "งวี"
 	},
 	"ZWL": {
 		"name": "ดอลลาร์ซิมบับเว",
 		"name_plural": "ดอลลาร์ซิมบับเว",
-		"subunit_name": "เซนต์",
-		"subunit_name_plural": "เซนต์"
+		"subunit_name": "เซ็นต์",
+		"subunit_name_plural": "เซ็นต์"
 	}
 }

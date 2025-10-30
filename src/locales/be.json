@@ -1,937 +1,925 @@
 {
 	"AED": {
-		"name": "Дырхем ЗША",
-		"name_plural": "дырхемы ЗША",
+		"name": "Дырхам ААЭ",
+		"name_plural": "Дырхамы ААЭ",
 		"subunit_name": "філс",
 		"subunit_name_plural": "філсы"
 	},
 	"AFN": {
 		"name": "Афганскі афгані",
-		"name_plural": "афганскія афгані",
+		"name_plural": "Афганскія афгані",
 		"subunit_name": "пул",
 		"subunit_name_plural": "пулы"
 	},
 	"ALL": {
 		"name": "Албанскі лек",
-		"name_plural": "албанскія лекі",
-		"subunit_name": "цындарка",
-		"subunit_name_plural": "цындаркі"
+		"name_plural": "Албанскія лекі",
+		"subunit_name": "кіндарка",
+		"subunit_name_plural": "кіндаркі"
 	},
 	"AMD": {
 		"name": "Армянскі драм",
-		"name_plural": "армянскія драмы",
+		"name_plural": "Армянскія драмы",
 		"subunit_name": "лума",
 		"subunit_name_plural": "лумы"
 	},
 	"ANG": {
-		"name": "Гульдэн Нідэрландскіх Антыль",
-		"name_plural": "гульдэны Нідэрландскіх Антыль",
+		"name": "Нідэрландскі антыльскі гульдэн",
+		"name_plural": "Нідэрландскія антыльскія гульдэны",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"AOA": {
 		"name": "Ангольская кванза",
-		"name_plural": "ангольскія кванзы",
-		"subunit_name": "сэнтыма",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Ангольскія кванзы",
+		"subunit_name": "сентыма",
+		"subunit_name_plural": "сентымы"
 	},
 	"ARS": {
 		"name": "Аргенцінскае песа",
-		"name_plural": "аргенцінскія песа",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
+		"name_plural": "Аргенцінскія песа",
+		"subunit_name": "сентава",
+		"subunit_name_plural": "сентавы"
 	},
 	"AUD": {
 		"name": "Аўстралійскі долар",
-		"name_plural": "аўстралійскія долары",
+		"name_plural": "Аўстралійскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"AWG": {
-		"name": "Арубскі флорын",
-		"name_plural": "арубскія флорыны",
+		"name": "Арубанскі флорын",
+		"name_plural": "Арубанскія флорыны",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"AZN": {
 		"name": "Азербайджанскі манат",
-		"name_plural": "азербайджанскія манаты",
+		"name_plural": "Азербайджанскія манаты",
 		"subunit_name": "гяпік",
 		"subunit_name_plural": "гяпікі"
 	},
 	"BAM": {
 		"name": "Канвертоўная марка Босніі і Герцагавіны",
-		"name_plural": "канвертоўныя маркі Босніі і Герцагавіны",
+		"name_plural": "Канвертоўныя маркі Босніі і Герцагавіны",
 		"subunit_name": "фенінг",
 		"subunit_name_plural": "фенінгі"
 	},
 	"BBD": {
 		"name": "Барбадаскі долар",
-		"name_plural": "барбадаскія долары",
+		"name_plural": "Барбадаскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"BDT": {
 		"name": "Бангладэшская така",
-		"name_plural": "бангладэшскія такі",
-		"subunit_name": "пойша",
-		"subunit_name_plural": "пойшы"
+		"name_plural": "Бангладэшскія такі",
+		"subunit_name": "пайша",
+		"subunit_name_plural": "пайшы"
 	},
 	"BGN": {
 		"name": "Балгарскі леў",
-		"name_plural": "балгарскія левы",
-		"subunit_name": "стацінка",
-		"subunit_name_plural": "стацінкі"
+		"name_plural": "Балгарскія левы",
+		"subunit_name": "стоцінка",
+		"subunit_name_plural": "стоцінкі"
 	},
 	"BHD": {
 		"name": "Бахрэйнскі дынар",
-		"name_plural": "бахрэйнскія дынары",
+		"name_plural": "Бахрэйнскія дынары",
 		"subunit_name": "філс",
 		"subunit_name_plural": "філсы"
 	},
 	"BIF": {
 		"name": "Бурундзійскі франк",
-		"name_plural": "бурундзійскія франкі",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Бурундзійскія франкі",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"BMD": {
 		"name": "Бермудскі долар",
-		"name_plural": "бермудскія долары",
+		"name_plural": "Бермудскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"BND": {
 		"name": "Брунейскі долар",
-		"name_plural": "брунейскія долары",
+		"name_plural": "Брунейскія долары",
 		"subunit_name": "сен",
-		"subunit_name_plural": "сены"
+		"subunit_name_plural": "сен"
 	},
 	"BOB": {
-		"name": "Балівійскі балівіяна",
-		"name_plural": "балівійскія балівіяна",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
+		"name": "Балівіяна",
+		"name_plural": "Балівіяны",
+		"subunit_name": "сентава",
+		"subunit_name_plural": "сентавы"
 	},
 	"BRL": {
 		"name": "Бразільскі рэал",
-		"name_plural": "бразільскія рэалы",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
+		"name_plural": "Бразільскія рэалы",
+		"subunit_name": "сентава",
+		"subunit_name_plural": "сентавы"
 	},
 	"BSD": {
 		"name": "Багамскі долар",
-		"name_plural": "багамскія долары",
+		"name_plural": "Багамскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"BTN": {
 		"name": "Бутанскі нгултрум",
-		"name_plural": "бутанскія нгултрумы",
+		"name_plural": "Бутанскія нгултрумы",
 		"subunit_name": "чэтрум",
 		"subunit_name_plural": "чэтрумы"
 	},
 	"BWP": {
 		"name": "Батсванская пула",
-		"name_plural": "батсванскія пулы",
+		"name_plural": "Батсванскія пулы",
 		"subunit_name": "тэбэ",
 		"subunit_name_plural": "тэбэ"
 	},
 	"BYN": {
 		"name": "Беларускі рубель",
-		"name_plural": "беларускія рублі",
+		"name_plural": "Беларускія рублі",
 		"subunit_name": "капейка",
 		"subunit_name_plural": "капейкі"
 	},
 	"BZD": {
 		"name": "Белізскі долар",
-		"name_plural": "белізскія долары",
+		"name_plural": "Белізскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"CAD": {
 		"name": "Канадскі долар",
-		"name_plural": "канадскія долары",
+		"name_plural": "Канадскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"CDF": {
 		"name": "Кангалезскі франк",
-		"name_plural": "кангалезскія франкі",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Кангалезскія франкі",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"CHF": {
 		"name": "Швейцарскі франк",
-		"name_plural": "швейцарскія франкі",
+		"name_plural": "Швейцарскія франкі",
 		"subunit_name": "рапен",
 		"subunit_name_plural": "рапены"
 	},
 	"CLP": {
 		"name": "Чылійскае песа",
-		"name_plural": "чылійскія песа",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
+		"name_plural": "Чылійскія песа",
+		"subunit_name": "сентава",
+		"subunit_name_plural": "сентавы"
 	},
 	"CNY": {
 		"name": "Кітайскі юань",
-		"name_plural": "кітайскія юані",
+		"name_plural": "Кітайскія юані",
 		"subunit_name": "фэнь",
 		"subunit_name_plural": "фэні"
 	},
 	"COP": {
 		"name": "Калумбійскае песа",
-		"name_plural": "калумбійскія песа",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
+		"name_plural": "Калумбійскія песа",
+		"subunit_name": "сентава",
+		"subunit_name_plural": "сентавы"
 	},
 	"CRC": {
 		"name": "Коста-рыканскі калон",
-		"name_plural": "коста-рыканскія калоны",
-		"subunit_name": "сэнтыма",
-		"subunit_name_plural": "сэнтымы"
-	},
-	"CUC": {
-		"name": "Кубінскае канвертоўнае песа",
-		"name_plural": "кубінскія канвертоўныя песа",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
+		"name_plural": "Коста-рыканскія калоны",
+		"subunit_name": "сентыма",
+		"subunit_name_plural": "сентымы"
 	},
 	"CUP": {
 		"name": "Кубінскае песа",
-		"name_plural": "кубінскія песа",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
+		"name_plural": "Кубінскія песа",
+		"subunit_name": "сентава",
+		"subunit_name_plural": "сентавы"
 	},
 	"CVE": {
 		"name": "Эскуда Каба-Вердэ",
-		"name_plural": "эскуды Каба-Вердэ",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
+		"name_plural": "Эскуда Каба-Вердэ",
+		"subunit_name": "сентава",
+		"subunit_name_plural": "сентавы"
 	},
 	"CZK": {
 		"name": "Чэшская крона",
-		"name_plural": "чэшскія кроны",
-		"subunit_name": "галер",
-		"subunit_name_plural": "галеры"
+		"name_plural": "Чэшскія кроны",
+		"subunit_name": "галэж",
+		"subunit_name_plural": "галэжы"
 	},
 	"DJF": {
 		"name": "Джыбуційскі франк",
-		"name_plural": "джыбуційскія франкі",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Джыбуційскія франкі",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"DKK": {
 		"name": "Дацкая крона",
-		"name_plural": "дацкія кроны",
-		"subunit_name": "эре",
-		"subunit_name_plural": "эре"
+		"name_plural": "Дацкія кроны",
+		"subunit_name": "эрэ",
+		"subunit_name_plural": "эрэ"
 	},
 	"DOP": {
 		"name": "Дамініканскае песа",
-		"name_plural": "дамініканскія песа",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
+		"name_plural": "Дамініканскія песа",
+		"subunit_name": "сентава",
+		"subunit_name_plural": "сентавы"
 	},
 	"DZD": {
 		"name": "Алжырскі дынар",
-		"name_plural": "алжырскія дынары",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Алжырскія дынары",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"EGP": {
 		"name": "Егіпецкі фунт",
-		"name_plural": "егіпецкія фунты",
-		"subunit_name": "піястр",
-		"subunit_name_plural": "піястры"
+		"name_plural": "Егіпецкія фунты",
+		"subunit_name": "піастр",
+		"subunit_name_plural": "піастры"
 	},
 	"ERN": {
 		"name": "Эрытрэйская накфа",
-		"name_plural": "эрытрэйскія накфы",
+		"name_plural": "Эрытрэйскія накфы",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"ETB": {
 		"name": "Эфіопскі быр",
-		"name_plural": "эфіопскія быры",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Эфіопскія быры",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"EUR": {
 		"name": "Еўра",
-		"name_plural": "еўра",
+		"name_plural": "Еўра",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"FJD": {
 		"name": "Фіджыйскі долар",
-		"name_plural": "фіджыйскія долары",
+		"name_plural": "Фіджыйскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"FKP": {
-		"name": "Фалклендскі фунт",
-		"name_plural": "фалклендскія фунты",
+		"name": "Фунт Фалклендскіх астравоў",
+		"name_plural": "Фунты Фалклендскіх астравоў",
 		"subunit_name": "пені",
 		"subunit_name_plural": "пенсы"
 	},
 	"GBP": {
-		"name": "Брытанскі фунт стэрлінгаў",
-		"name_plural": "брытанскія фунты стэрлінгаў",
+		"name": "Брытанскі фунт",
+		"name_plural": "Брытанскія фунты",
 		"subunit_name": "пені",
 		"subunit_name_plural": "пенсы"
 	},
 	"GEL": {
 		"name": "Грузінскі лары",
-		"name_plural": "грузінскія лары",
+		"name_plural": "Грузінскія лары",
 		"subunit_name": "тэтры",
 		"subunit_name_plural": "тэтры"
 	},
 	"GHS": {
 		"name": "Ганскі седзі",
-		"name_plural": "ганскія седзі",
+		"name_plural": "Ганскія седзі",
 		"subunit_name": "песева",
 		"subunit_name_plural": "песевы"
 	},
 	"GIP": {
 		"name": "Гібралтарскі фунт",
-		"name_plural": "гібралтарскія фунты",
+		"name_plural": "Гібралтарскія фунты",
 		"subunit_name": "пені",
 		"subunit_name_plural": "пенсы"
 	},
 	"GMD": {
 		"name": "Гамбійскі даласі",
-		"name_plural": "гамбійскія даласі",
+		"name_plural": "Гамбійскія даласі",
 		"subunit_name": "бутут",
 		"subunit_name_plural": "бутуты"
 	},
 	"GNF": {
 		"name": "Гвінейскі франк",
-		"name_plural": "гвінейскія франкі",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Гвінейскія франкі",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"GTQ": {
 		"name": "Гватэмальскі кетсаль",
-		"name_plural": "гватэмальскія кетсалі",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
+		"name_plural": "Гватэмальскія кетсалі",
+		"subunit_name": "сентава",
+		"subunit_name_plural": "сентавы"
 	},
 	"GYD": {
 		"name": "Гаянскі долар",
-		"name_plural": "гаянскія долары",
+		"name_plural": "Гаянскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"HKD": {
 		"name": "Ганконгскі долар",
-		"name_plural": "ганконгскія долары",
+		"name_plural": "Ганконгскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"HNL": {
 		"name": "Гандураская лемпіра",
-		"name_plural": "гандураскія лемпіры",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
-	},
-	"HRK": {
-		"name": "Харвацкая куна",
-		"name_plural": "харвацкія куны",
-		"subunit_name": "ліпа",
-		"subunit_name_plural": "ліпы"
+		"name_plural": "Гандураскія лемпіры",
+		"subunit_name": "сентава",
+		"subunit_name_plural": "сентавы"
 	},
 	"HTG": {
 		"name": "Гаіцянскі гурд",
-		"name_plural": "гаіцянскія гурды",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Гаіцянскія гурды",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"HUF": {
 		"name": "Венгерскі форынт",
-		"name_plural": "венгерскія форынты",
+		"name_plural": "Венгерскія форынты",
 		"subunit_name": "філер",
 		"subunit_name_plural": "філеры"
 	},
 	"IDR": {
 		"name": "Інданезійская рупія",
-		"name_plural": "інданезійскія рупіі",
+		"name_plural": "Інданезійскія рупіі",
 		"subunit_name": "сен",
-		"subunit_name_plural": "сены"
+		"subunit_name_plural": "сен"
 	},
 	"ILS": {
 		"name": "Ізраільскі новы шэкель",
-		"name_plural": "ізраільскія новыя шэкелі",
+		"name_plural": "Ізраільскія новыя шэкелі",
 		"subunit_name": "агора",
-		"subunit_name_plural": "агоры"
+		"subunit_name_plural": "агорот"
 	},
 	"INR": {
 		"name": "Індыйская рупія",
-		"name_plural": "індыйскія рупіі",
+		"name_plural": "Індыйскія рупіі",
 		"subunit_name": "пайса",
 		"subunit_name_plural": "пайсы"
 	},
 	"IQD": {
 		"name": "Іракскі дынар",
-		"name_plural": "іракскія дынары",
+		"name_plural": "Іракскія дынары",
 		"subunit_name": "філс",
 		"subunit_name_plural": "філсы"
 	},
 	"IRR": {
 		"name": "Іранскі рыял",
-		"name_plural": "іранскія рыялы",
+		"name_plural": "Іранскія рыялы",
 		"subunit_name": "дынар",
 		"subunit_name_plural": "дынары"
 	},
 	"ISK": {
 		"name": "Ісландская крона",
-		"name_plural": "ісландскія кроны",
-		"subunit_name": "эйрыр",
-		"subunit_name_plural": "эйрыры"
+		"name_plural": "Ісландскія кроны",
+		"subunit_name": "эйрэр",
+		"subunit_name_plural": "аўрар"
 	},
 	"JMD": {
 		"name": "Ямайскі долар",
-		"name_plural": "ямайскія долары",
+		"name_plural": "Ямайскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"JOD": {
 		"name": "Іарданскі дынар",
-		"name_plural": "іарданскія дынары",
+		"name_plural": "Іарданскія дынары",
 		"subunit_name": "філс",
 		"subunit_name_plural": "філсы"
 	},
 	"JPY": {
 		"name": "Японская іена",
-		"name_plural": "японскія іены",
+		"name_plural": "Японскія іены",
 		"subunit_name": "сен",
-		"subunit_name_plural": "сены"
+		"subunit_name_plural": "сен"
 	},
 	"KES": {
 		"name": "Кенійскі шылінг",
-		"name_plural": "кенійскія шылінгі",
+		"name_plural": "Кенійскія шылінгі",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"KGS": {
-		"name": "Кыргызскі сом",
-		"name_plural": "кыргызскія сомы",
+		"name": "Кіргізскі сом",
+		"name_plural": "Кіргізскія сомы",
 		"subunit_name": "тыйын",
 		"subunit_name_plural": "тыйыны"
 	},
 	"KHR": {
-		"name": "Камбаджыйскі рыель",
-		"name_plural": "камбаджыйскія рыелі",
+		"name": "Камбоджыйскі рыель",
+		"name_plural": "Камбоджыйскія рыэлі",
 		"subunit_name": "сен",
-		"subunit_name_plural": "сены"
+		"subunit_name_plural": "сен"
 	},
 	"KMF": {
 		"name": "Каморскі франк",
-		"name_plural": "каморскія франкі",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Каморскія франкі",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"KPW": {
 		"name": "Паўночнакарэйская вона",
-		"name_plural": "паўночнакарэйскія воны",
+		"name_plural": "Паўночнакарэйскія воны",
 		"subunit_name": "чон",
 		"subunit_name_plural": "чоны"
 	},
 	"KRW": {
 		"name": "Паўднёвакарэйская вона",
-		"name_plural": "паўднёвакарэйскія воны",
+		"name_plural": "Паўднёвакарэйскія воны",
 		"subunit_name": "чон",
 		"subunit_name_plural": "чоны"
 	},
 	"KWD": {
 		"name": "Кувейцкі дынар",
-		"name_plural": "кувейцкія дынары",
+		"name_plural": "Кувейцкія дынары",
 		"subunit_name": "філс",
 		"subunit_name_plural": "філсы"
 	},
 	"KYD": {
 		"name": "Долар Кайманавых астравоў",
-		"name_plural": "долары Кайманавых астравоў",
+		"name_plural": "Долары Кайманавых астравоў",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"KZT": {
 		"name": "Казахстанскі тэнге",
-		"name_plural": "казахстанскія тэнге",
-		"subunit_name": "тыын",
-		"subunit_name_plural": "тыыны"
+		"name_plural": "Казахстанскія тэнге",
+		"subunit_name": "тыйын",
+		"subunit_name_plural": "тыйыны"
 	},
 	"LAK": {
 		"name": "Лаоскі кіп",
-		"name_plural": "лаоскія кіпы",
+		"name_plural": "Лаоскія кіпы",
 		"subunit_name": "ат",
 		"subunit_name_plural": "аты"
 	},
 	"LBP": {
 		"name": "Ліванскі фунт",
-		"name_plural": "ліванскія фунты",
-		"subunit_name": "піястр",
-		"subunit_name_plural": "піястры"
+		"name_plural": "Ліванскія фунты",
+		"subunit_name": "піастр",
+		"subunit_name_plural": "піастры"
 	},
 	"LKR": {
 		"name": "Шры-Ланкійская рупія",
-		"name_plural": "шры-ланкійскія рупіі",
+		"name_plural": "Шры-Ланкійскія рупіі",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"LRD": {
 		"name": "Ліберыйскі долар",
-		"name_plural": "ліберыйскія долары",
+		"name_plural": "Ліберыйскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"LSL": {
-		"name": "Лесоцкі лоці",
-		"name_plural": "лесоцкія лоці",
-		"subunit_name": "сентэ",
-		"subunit_name_plural": "лісентэ"
+		"name": "Лесотскі лоці",
+		"name_plural": "Лесотскія лоці",
+		"subunit_name": "сенце",
+		"subunit_name_plural": "лісенце"
 	},
 	"LYD": {
 		"name": "Лівійскі дынар",
-		"name_plural": "лівійскія дынары",
+		"name_plural": "Лівійскія дынары",
 		"subunit_name": "дырхам",
 		"subunit_name_plural": "дырхамы"
 	},
 	"MAD": {
-		"name": "Мароканскі дырхам",
-		"name_plural": "мароканскія дырхамы",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name": "Мараканскі дырхам",
+		"name_plural": "Мараканскія дырхамы",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"MDL": {
 		"name": "Малдаўскі лей",
-		"name_plural": "малдаўскія леі",
+		"name_plural": "Малдаўскія леі",
 		"subunit_name": "бан",
 		"subunit_name_plural": "бані"
 	},
 	"MGA": {
-		"name": "Малагасійскі арыяры",
-		"name_plural": "малагасійскія арыяры",
-		"subunit_name": "іраймбіланжа",
-		"subunit_name_plural": "іраймбіланжа"
+		"name": "Мадагаскарскі арыяры",
+		"name_plural": "Мадагаскарскія арыяры",
+		"subunit_name": "іраймбіланджа",
+		"subunit_name_plural": "іраймбіланджа"
 	},
 	"MKD": {
 		"name": "Македонскі дэнар",
-		"name_plural": "македонскія дэнары",
+		"name_plural": "Македонскія дэнары",
 		"subunit_name": "дэні",
 		"subunit_name_plural": "дэні"
 	},
 	"MMK": {
 		"name": "М'янманскі к'ят",
-		"name_plural": "м'янманскія к'яты",
+		"name_plural": "М'янманскія к'яты",
 		"subunit_name": "п'я",
-		"subunit_name_plural": "п'я"
+		"subunit_name_plural": "п'і"
 	},
 	"MNT": {
 		"name": "Мангольскі тугрык",
-		"name_plural": "мангольскія тугрыкі",
+		"name_plural": "Мангольскія тугрыкі",
 		"subunit_name": "мунгу",
 		"subunit_name_plural": "мунгу"
 	},
 	"MOP": {
 		"name": "Патака Макаа",
-		"name_plural": "патакі Макаа",
+		"name_plural": "Патакі Макаа",
 		"subunit_name": "ава",
-		"subunit_name_plural": "авы"
+		"subunit_name_plural": "ава"
 	},
 	"MRU": {
 		"name": "Маўрытанская угія",
-		"name_plural": "маўрытанскія угіі",
+		"name_plural": "Маўрытанскія угіі",
 		"subunit_name": "хумс",
 		"subunit_name_plural": "хумсы"
 	},
 	"MUR": {
 		"name": "Маўрыкійская рупія",
-		"name_plural": "маўрыкійскія рупіі",
+		"name_plural": "Маўрыкійскія рупіі",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"MVR": {
 		"name": "Мальдыўская руфія",
-		"name_plural": "мальдыўскія руфіі",
+		"name_plural": "Мальдыўскія руфіі",
 		"subunit_name": "лары",
 		"subunit_name_plural": "лары"
 	},
 	"MWK": {
 		"name": "Малавійская квача",
-		"name_plural": "малавійскія квачы",
+		"name_plural": "Малавійскія квачы",
 		"subunit_name": "тамбала",
 		"subunit_name_plural": "тамбалы"
 	},
 	"MXN": {
 		"name": "Мексіканскае песа",
-		"name_plural": "мексіканскія песа",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
+		"name_plural": "Мексіканскія песа",
+		"subunit_name": "сентава",
+		"subunit_name_plural": "сентавы"
 	},
 	"MYR": {
 		"name": "Малайзійскі рынгіт",
-		"name_plural": "малайзійскія рынгіты",
+		"name_plural": "Малайзійскія рынгіты",
 		"subunit_name": "сен",
-		"subunit_name_plural": "сены"
+		"subunit_name_plural": "сен"
 	},
 	"MZN": {
 		"name": "Мазамбікскі метыкал",
-		"name_plural": "мазамбікскія метыкалы",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
+		"name_plural": "Мазамбікскія метыкалы",
+		"subunit_name": "сентава",
+		"subunit_name_plural": "сентавы"
 	},
 	"NAD": {
 		"name": "Намібійскі долар",
-		"name_plural": "намібійскія долары",
+		"name_plural": "Намібійскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"NGN": {
 		"name": "Нігерыйская найра",
-		"name_plural": "нігерыйскія найры",
-		"subunit_name": "каба",
-		"subunit_name_plural": "кабы"
+		"name_plural": "Нігерыйскія найры",
+		"subunit_name": "кобо",
+		"subunit_name_plural": "кобо"
 	},
 	"NIO": {
 		"name": "Нікарагуанская кордаба",
-		"name_plural": "нікарагуанскія кордабы",
-		"subunit_name": "сэнтава",
-		"subunit_name_plural": "сэнтавы"
+		"name_plural": "Нікарагуанскія кордабы",
+		"subunit_name": "сентава",
+		"subunit_name_plural": "сентавы"
 	},
 	"NOK": {
 		"name": "Нарвежская крона",
-		"name_plural": "нарвежскія кроны",
-		"subunit_name": "эре",
-		"subunit_name_plural": "эре"
+		"name_plural": "Нарвежскія кроны",
+		"subunit_name": "эрэ",
+		"subunit_name_plural": "эрэ"
 	},
 	"NPR": {
 		"name": "Непальская рупія",
-		"name_plural": "непальскія рупіі",
+		"name_plural": "Непальскія рупіі",
 		"subunit_name": "пайса",
 		"subunit_name_plural": "пайсы"
 	},
 	"NZD": {
 		"name": "Новазеландскі долар",
-		"name_plural": "новазеландскія долары",
+		"name_plural": "Новазеландскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"OMR": {
 		"name": "Аманскі рыял",
-		"name_plural": "аманскія рыялы",
+		"name_plural": "Аманскія рыялы",
 		"subunit_name": "байза",
 		"subunit_name_plural": "байзы"
 	},
 	"PAB": {
-		"name": "Панамская бальбоа",
-		"name_plural": "панамскія бальбоа",
-		"subunit_name": "сэнтэсіма",
-		"subunit_name_plural": "сэнтэсімы"
+		"name": "Панамскае бальбоа",
+		"name_plural": "Панамскія бальбоа",
+		"subunit_name": "сентысіма",
+		"subunit_name_plural": "сентысімы"
 	},
 	"PEN": {
 		"name": "Перуанскі соль",
-		"name_plural": "перуанскія солі",
-		"subunit_name": "сэнтыма",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Перуанскія соль",
+		"subunit_name": "сентыма",
+		"subunit_name_plural": "сентымы"
 	},
 	"PGK": {
-		"name": "Кіна Папуа — Новай Гвінеі",
-		"name_plural": "кіны Папуа — Новай Гвінеі",
-		"subunit_name": "тоэа",
-		"subunit_name_plural": "тоэа"
+		"name": "Кіна Папуа-Новай Гвінеі",
+		"name_plural": "Кіны Папуа-Новай Гвінеі",
+		"subunit_name": "тэа",
+		"subunit_name_plural": "тэа"
 	},
 	"PHP": {
 		"name": "Філіпінскае песа",
-		"name_plural": "філіпінскія песа",
-		"subunit_name": "сэнтыма",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Філіпінскія песа",
+		"subunit_name": "сентыма",
+		"subunit_name_plural": "сентымы"
 	},
 	"PKR": {
 		"name": "Пакістанская рупія",
-		"name_plural": "пакістанскія рупіі",
+		"name_plural": "Пакістанскія рупіі",
 		"subunit_name": "пайса",
 		"subunit_name_plural": "пайсы"
 	},
 	"PLN": {
 		"name": "Польскі злоты",
-		"name_plural": "польскія злотыя",
+		"name_plural": "Польскія злотыя",
 		"subunit_name": "грош",
 		"subunit_name_plural": "грошы"
 	},
 	"PYG": {
 		"name": "Парагвайскі гуарані",
-		"name_plural": "парагвайскія гуарані",
-		"subunit_name": "сэнтыма",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Парагвайскія гуарані",
+		"subunit_name": "сентыма",
+		"subunit_name_plural": "сентымы"
 	},
 	"QAR": {
 		"name": "Катарскі рыял",
-		"name_plural": "катарскія рыялы",
+		"name_plural": "Катарскія рыялы",
 		"subunit_name": "дырхам",
 		"subunit_name_plural": "дырхамы"
 	},
 	"RON": {
 		"name": "Румынскі лей",
-		"name_plural": "румынскія леі",
+		"name_plural": "Румынскія леі",
 		"subunit_name": "бан",
 		"subunit_name_plural": "бані"
 	},
 	"RSD": {
 		"name": "Сербскі дынар",
-		"name_plural": "сербскія дынары",
+		"name_plural": "Сербскія дынары",
 		"subunit_name": "пара",
 		"subunit_name_plural": "пары"
 	},
 	"RUB": {
 		"name": "Расійскі рубель",
-		"name_plural": "расійскія рублі",
+		"name_plural": "Расійскія рублі",
 		"subunit_name": "капейка",
 		"subunit_name_plural": "капейкі"
 	},
 	"RWF": {
 		"name": "Руандыйскі франк",
-		"name_plural": "руандыйскія франкі",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Руандыйскія франкі",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"SAR": {
 		"name": "Саудаўскі рыял",
-		"name_plural": "саудаўскія рыялы",
+		"name_plural": "Саудаўскія рыялы",
 		"subunit_name": "халал",
 		"subunit_name_plural": "халалы"
 	},
 	"SBD": {
 		"name": "Долар Саламонавых астравоў",
-		"name_plural": "долары Саламонавых астравоў",
+		"name_plural": "Долары Саламонавых астравоў",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"SCR": {
 		"name": "Сейшэльская рупія",
-		"name_plural": "сейшэльскія рупіі",
+		"name_plural": "Сейшэльскія рупіі",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"SDG": {
 		"name": "Суданскі фунт",
-		"name_plural": "суданскія фунты",
-		"subunit_name": "піястр",
-		"subunit_name_plural": "піястры"
+		"name_plural": "Суданскія фунты",
+		"subunit_name": "піастр",
+		"subunit_name_plural": "піастры"
 	},
 	"SEK": {
 		"name": "Шведская крона",
-		"name_plural": "шведскія кроны",
-		"subunit_name": "эре",
-		"subunit_name_plural": "эре"
+		"name_plural": "Шведскія кроны",
+		"subunit_name": "эрэ",
+		"subunit_name_plural": "эрэ"
 	},
 	"SGD": {
 		"name": "Сінгапурскі долар",
-		"name_plural": "сінгапурскія долары",
+		"name_plural": "Сінгапурскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"SHP": {
 		"name": "Фунт Святой Алены",
-		"name_plural": "фунты Святой Алены",
+		"name_plural": "Фунты Святой Алены",
 		"subunit_name": "пені",
 		"subunit_name_plural": "пенсы"
 	},
-	"SLL": {
-		"name": "Леонэ Сьера-Леонэ",
-		"name_plural": "леонэ Сьера-Леонэ",
+	"SLE": {
+		"name": "Леон Сьера-Леонэ",
+		"name_plural": "Леоны Сьера-Леонэ",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"SOS": {
 		"name": "Самалійскі шылінг",
-		"name_plural": "самалійскія шылінгі",
+		"name_plural": "Самалійскія шылінгі",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"SRD": {
 		"name": "Сурынамскі долар",
-		"name_plural": "сурынамскія долары",
+		"name_plural": "Сурынамскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"SSP": {
 		"name": "Паўднёвасуданскі фунт",
-		"name_plural": "паўднёвасуданскія фунты",
-		"subunit_name": "піястр",
-		"subunit_name_plural": "піястры"
+		"name_plural": "Паўднёвасуданскія фунты",
+		"subunit_name": "піастр",
+		"subunit_name_plural": "піастры"
 	},
 	"STN": {
-		"name": "Добра Сан-Томэ і Прынсіпі",
-		"name_plural": "добы Сан-Томэ і Прынсіпі",
-		"subunit_name": "сэнтыма",
-		"subunit_name_plural": "сэнтымы"
+		"name": "Добра Сан-Тамэ і Прынсіпі",
+		"name_plural": "Добры Сан-Тамэ і Прынсіпі",
+		"subunit_name": "сентыма",
+		"subunit_name_plural": "сентымы"
 	},
 	"SYP": {
 		"name": "Сірыйскі фунт",
-		"name_plural": "сірыйскія фунты",
-		"subunit_name": "піястр",
-		"subunit_name_plural": "піястры"
+		"name_plural": "Сірыйскія фунты",
+		"subunit_name": "піастр",
+		"subunit_name_plural": "піастры"
 	},
 	"SZL": {
 		"name": "Свазілендскі лілангені",
-		"name_plural": "свазілендскія лілангені",
+		"name_plural": "Свазілендскія эмалангені",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"THB": {
 		"name": "Тайскі бат",
-		"name_plural": "тайскія баты",
+		"name_plural": "Тайскія баты",
 		"subunit_name": "сатанг",
 		"subunit_name_plural": "сатангі"
 	},
 	"TJS": {
 		"name": "Таджыкскі самані",
-		"name_plural": "таджыкскія самані",
+		"name_plural": "Таджыкскія самані",
 		"subunit_name": "дырам",
 		"subunit_name_plural": "дырамы"
 	},
 	"TMT": {
 		"name": "Туркменскі манат",
-		"name_plural": "туркменскія манаты",
-		"subunit_name": "тэнге",
-		"subunit_name_plural": "тэнге"
+		"name_plural": "Туркменскія манаты",
+		"subunit_name": "тэнгэ",
+		"subunit_name_plural": "тэнгэ"
 	},
 	"TND": {
 		"name": "Туніскі дынар",
-		"name_plural": "туніскія дынары",
+		"name_plural": "Туніскія дынары",
 		"subunit_name": "мілім",
 		"subunit_name_plural": "мілімы"
 	},
 	"TOP": {
 		"name": "Танганская паанга",
-		"name_plural": "танганскія паангі",
-		"subunit_name": "сеніці",
-		"subunit_name_plural": "сеніці"
+		"name_plural": "Танганскія паангі",
+		"subunit_name": "сеныці",
+		"subunit_name_plural": "сеныці"
 	},
 	"TRY": {
 		"name": "Турэцкая ліра",
-		"name_plural": "турэцкія ліры",
+		"name_plural": "Турэцкія ліры",
 		"subunit_name": "куруш",
 		"subunit_name_plural": "курушы"
 	},
 	"TTD": {
 		"name": "Долар Трынідада і Табага",
-		"name_plural": "долары Трынідада і Табага",
+		"name_plural": "Долары Трынідада і Табага",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"TWD": {
 		"name": "Новы тайваньскі долар",
-		"name_plural": "новыя тайваньскія долары",
+		"name_plural": "Новыя тайваньскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"TZS": {
 		"name": "Танзанійскі шылінг",
-		"name_plural": "танзанійскія шылінгі",
+		"name_plural": "Танзанійскія шылінгі",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"UAH": {
 		"name": "Украінская грыўня",
-		"name_plural": "украінскія грыўні",
+		"name_plural": "Украінскія грыўні",
 		"subunit_name": "капейка",
 		"subunit_name_plural": "капейкі"
 	},
 	"UGX": {
 		"name": "Угандыйскі шылінг",
-		"name_plural": "угандыйскія шылінгі",
+		"name_plural": "Угандыйскія шылінгі",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"USD": {
 		"name": "Долар ЗША",
-		"name_plural": "долары ЗША",
+		"name_plural": "Долары ЗША",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"UYU": {
 		"name": "Уругвайскае песа",
-		"name_plural": "уругвайскія песа",
-		"subunit_name": "сэнтэсіма",
-		"subunit_name_plural": "сэнтэсімы"
+		"name_plural": "Уругвайскія песа",
+		"subunit_name": "сентысіма",
+		"subunit_name_plural": "сентысімы"
 	},
 	"UZS": {
-		"name": "Узбекскі сом",
-		"name_plural": "узбекскія сомы",
-		"subunit_name": "ційн",
-		"subunit_name_plural": "ційны"
+		"name": "Узбекскі сум",
+		"name_plural": "Узбекскія сумы",
+		"subunit_name": "тыйын",
+		"subunit_name_plural": "тыйыны"
 	},
-	"VES": {
-		"name": "Венесуэльскі балівар",
-		"name_plural": "венесуэльскія балівары",
-		"subunit_name": "сэнтыма",
-		"subunit_name_plural": "сэнтымы"
+	"VED": {
+		"name": "Венесуэльскі балівар Digital",
+		"name_plural": "Венесуэльскія балівары Digital",
+		"subunit_name": "сентыма",
+		"subunit_name_plural": "сентымы"
 	},
 	"VND": {
 		"name": "В'етнамскі донг",
-		"name_plural": "в'етнамскія донгі",
+		"name_plural": "В'етнамскія донгі",
 		"subunit_name": "хаа",
 		"subunit_name_plural": "хаа"
 	},
 	"VUV": {
 		"name": "Вануацкі вату",
-		"name_plural": "вануацкія вату",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Вануацкія вату",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"WST": {
 		"name": "Самоанская тала",
-		"name_plural": "самоанскія талы",
-		"subunit_name": "сэнэ",
-		"subunit_name_plural": "сэнэ"
+		"name_plural": "Самоанскія талы",
+		"subunit_name": "сене",
+		"subunit_name_plural": "сене"
 	},
 	"XAF": {
 		"name": "Цэнтральнаафрыканскі франк КФА",
-		"name_plural": "цэнтральнаафрыканскія франкі КФА",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Цэнтральнаафрыканскія франкі КФА",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"XCD": {
 		"name": "Усходнекарыбскі долар",
-		"name_plural": "усходнекарыбскія долары",
+		"name_plural": "Усходнекарыбскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"XOF": {
 		"name": "Заходнеафрыканскі франк КФА",
-		"name_plural": "заходнеафрыканскія франкі КФА",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Заходнеафрыканскія франкі КФА",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"XPF": {
 		"name": "Франк КФП",
-		"name_plural": "франкі КФП",
-		"subunit_name": "сэнтым",
-		"subunit_name_plural": "сэнтымы"
+		"name_plural": "Франкі КФП",
+		"subunit_name": "сантым",
+		"subunit_name_plural": "сантымы"
 	},
 	"YER": {
 		"name": "Еменскі рыял",
-		"name_plural": "еменскія рыялы",
+		"name_plural": "Еменскія рыялы",
 		"subunit_name": "філс",
 		"subunit_name_plural": "філсы"
 	},
 	"ZAR": {
-		"name": "Паўднёваафрыканскі ранд",
-		"name_plural": "паўднёваафрыканскія ранды",
+		"name": "Паўднёваафрыканскі рэнд",
+		"name_plural": "Паўднёваафрыканскія рэнды",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	},
 	"ZMW": {
 		"name": "Замбійская квача",
-		"name_plural": "замбійскія квачы",
-		"subunit_name": "нгвээ",
-		"subunit_name_plural": "нгвээ"
+		"name_plural": "Замбійскія квачы",
+		"subunit_name": "нгвэ",
+		"subunit_name_plural": "нгвэ"
 	},
 	"ZWL": {
 		"name": "Зімбабвійскі долар",
-		"name_plural": "зімбабвійскія долары",
+		"name_plural": "Зімбабвійскія долары",
 		"subunit_name": "цэнт",
 		"subunit_name_plural": "цэнты"
 	}

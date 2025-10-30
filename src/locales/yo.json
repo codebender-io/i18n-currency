@@ -1,938 +1,926 @@
 {
 	"AED": {
-		"name": "Dírámù ti Ilẹ̀ Arabu",
-		"name_plural": "Awọn dírámù ti Ilẹ̀ Arabu",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Dirahamu Orílẹ́ède Arabu",
+		"name_plural": "Àwọn Dirahamu Orílẹ́ède Arabu",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Àwọn Fils"
 	},
 	"AFN": {
-		"name": "Afghani ti Afghanistan",
-		"name_plural": "Awọn afghani ti Afghanistan",
-		"subunit_name": "pul",
-		"subunit_name_plural": "puls"
+		"name": "Afugánì Orílẹ́ède Afuganistan",
+		"name_plural": "Àwọn Afugánì Orílẹ́ède Afuganistan",
+		"subunit_name": "Pul",
+		"subunit_name_plural": "Àwọn Pul"
 	},
 	"ALL": {
-		"name": "Lek ti Albania",
-		"name_plural": "Awọn lek ti Albania",
-		"subunit_name": "qindarkë",
-		"subunit_name_plural": "qindarkë"
+		"name": "Lẹ́ẹ̀kì Orílẹ́ède Albania",
+		"name_plural": "Àwọn Lẹ́ẹ̀kì Orílẹ́ède Albania",
+		"subunit_name": "Qindarkë",
+		"subunit_name_plural": "Àwọn Qindarkë"
 	},
 	"AMD": {
-		"name": "Dram ti Armenia",
-		"name_plural": "Awọn dram ti Armenia",
-		"subunit_name": "luma",
-		"subunit_name_plural": "lumas"
+		"name": "Dírámì Orílẹ́ède Améníà",
+		"name_plural": "Àwọn Dírámì Orílẹ́ède Améníà",
+		"subunit_name": "Luma",
+		"subunit_name_plural": "Àwọn Luma"
 	},
 	"ANG": {
-		"name": "Guilder ti Netherlands Antilles",
-		"name_plural": "Awọn guilder ti Netherlands Antilles",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Gílídà Netherlands Antillean",
+		"name_plural": "Àwọn Gílídà Netherlands Antillean",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"AOA": {
-		"name": "Kwanza ti Angola",
-		"name_plural": "Awọn kwanza ti Angola",
-		"subunit_name": "cêntimo",
-		"subunit_name_plural": "cêntimos"
+		"name": "Kwanṣa Orílẹ́ède Àngólà",
+		"name_plural": "Àwọn Kwanṣa Orílẹ́ède Àngólà",
+		"subunit_name": "Cêntimo",
+		"subunit_name_plural": "Àwọn Cêntimo"
 	},
 	"ARS": {
-		"name": "Peso ti Argentina",
-		"name_plural": "Awọn peso ti Argentina",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Pésò Orílẹ́ède Agentínà",
+		"name_plural": "Àwọn Pésò Orílẹ́ède Agentínà",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Àwọn Centavo"
 	},
 	"AUD": {
-		"name": "Dọla ti Australia",
-		"name_plural": "Awọn dọla ti Australia",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Ástràlìá",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Ástràlìá",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"AWG": {
-		"name": "Florin ti Aruba",
-		"name_plural": "Awọn florin ti Aruba",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Folọrínì Orílẹ́ède Árúbà",
+		"name_plural": "Àwọn Folọrínì Orílẹ́ède Árúbà",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"AZN": {
-		"name": "Manat ti Azerbaijan",
-		"name_plural": "Awọn manat ti Azerbaijan",
-		"subunit_name": "qəpik",
-		"subunit_name_plural": "qəpiks"
+		"name": "Mánátì Orílẹ́ède Asẹ́bájánì",
+		"name_plural": "Àwọn Mánátì Orílẹ́ède Asẹ́bájánì",
+		"subunit_name": "Qəpik",
+		"subunit_name_plural": "Àwọn Qəpik"
 	},
 	"BAM": {
-		"name": "Mark ti Bosnia-Herzegovina",
-		"name_plural": "Awọn mark ti Bosnia-Herzegovina",
-		"subunit_name": "fening",
-		"subunit_name_plural": "fenings"
+		"name": "Mákì Orílẹ́ède Bọ̀síníà àti Ẹtisẹgófínà",
+		"name_plural": "Àwọn Mákì Orílẹ́ède Bọ̀síníà àti Ẹtisẹgófínà",
+		"subunit_name": "Fening",
+		"subunit_name_plural": "Àwọn Fening"
 	},
 	"BBD": {
-		"name": "Dọla ti Barbados",
-		"name_plural": "Awọn dọla ti Barbados",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Bábádósì",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Bábádósì",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"BDT": {
-		"name": "Taka ti Bangladesh",
-		"name_plural": "Awọn taka ti Bangladesh",
-		"subunit_name": "poisha",
-		"subunit_name_plural": "poishas"
+		"name": "Tákà Orílẹ́ède Bángáládésì",
+		"name_plural": "Àwọn Tákà Orílẹ́ède Bángáládésì",
+		"subunit_name": "Poisha",
+		"subunit_name_plural": "Àwọn Poisha"
 	},
 	"BGN": {
-		"name": "Lev ti Bulgaria",
-		"name_plural": "Awọn lev ti Bulgaria",
-		"subunit_name": "stotinka",
-		"subunit_name_plural": "stotinki"
+		"name": "Lẹ́fà Orílẹ́ède Bùùgáríà",
+		"name_plural": "Àwọn Lẹ́fà Orílẹ́ède Bùùgáríà",
+		"subunit_name": "Stotinka",
+		"subunit_name_plural": "Àwọn Stotinka"
 	},
 	"BHD": {
-		"name": "Dínà ti Bahrain",
-		"name_plural": "Awọn dínà ti Bahrain",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Dínárì Orílẹ́ède Báránì",
+		"name_plural": "Àwọn Dínárì Orílẹ́ède Báránì",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Àwọn Fils"
 	},
 	"BIF": {
-		"name": "Faransì ti Burundi",
-		"name_plural": "Awọn faransì ti Burundi",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Faransi Orílẹ́ède Bùùrúndì",
+		"name_plural": "Àwọn Faransi Orílẹ́ède Bùùrúndì",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Àwọn Centime"
 	},
 	"BMD": {
-		"name": "Dọla ti Bermuda",
-		"name_plural": "Awọn dọla ti Bermuda",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Bémúdà",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Bémúdà",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"BND": {
-		"name": "Dọla ti Brunei",
-		"name_plural": "Awọn dọla ti Brunei",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Dọla Orílẹ́ède Búrúnẹ́lì",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Búrúnẹ́lì",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Àwọn Sen"
 	},
 	"BOB": {
-		"name": "Boliviano ti Bolivia",
-		"name_plural": "Awọn boliviano ti Bolivia",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Bolífíánò Orílẹ́ède Bọ̀lífíà",
+		"name_plural": "Àwọn Bolífíánò Orílẹ́ède Bọ̀lífíà",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Àwọn Centavo"
 	},
 	"BRL": {
-		"name": "Real ti Brazil",
-		"name_plural": "Awọn real ti Brazil",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Rẹ́álì Orílẹ́ède Bàràsílì",
+		"name_plural": "Àwọn Rẹ́álì Orílẹ́ède Bàràsílì",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Àwọn Centavo"
 	},
 	"BSD": {
-		"name": "Dọla ti Bahamas",
-		"name_plural": "Awọn dọla ti Bahamas",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Bàhámásì",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Bàhámásì",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"BTN": {
-		"name": "Ngultrum ti Bhutan",
-		"name_plural": "Awọn ngultrum ti Bhutan",
-		"subunit_name": "chetrum",
-		"subunit_name_plural": "chetrums"
+		"name": "Ngúltírámù Orílẹ́ède Bútánì",
+		"name_plural": "Àwọn Ngúltírámù Orílẹ́ède Bútánì",
+		"subunit_name": "Chetrum",
+		"subunit_name_plural": "Àwọn Chetrum"
 	},
 	"BWP": {
-		"name": "Pula ti Botswana",
-		"name_plural": "Awọn pula ti Botswana",
-		"subunit_name": "thebe",
-		"subunit_name_plural": "thebe"
+		"name": "Púlá Orílẹ́ède Bọ̀tìsúwánà",
+		"name_plural": "Àwọn Púlá Orílẹ́ède Bọ̀tìsúwánà",
+		"subunit_name": "Thebe",
+		"subunit_name_plural": "Àwọn Thebe"
 	},
 	"BYN": {
-		"name": "Ruble ti Belarus",
-		"name_plural": "Awọn ruble ti Belarus",
-		"subunit_name": "kopeck",
-		"subunit_name_plural": "kopecks"
+		"name": "Rúbọ̀ Orílẹ́ède Bélárúsì",
+		"name_plural": "Àwọn Rúbọ̀ Orílẹ́ède Bélárúsì",
+		"subunit_name": "Kopeck",
+		"subunit_name_plural": "Àwọn Kopeck"
 	},
 	"BZD": {
-		"name": "Dọla ti Belize",
-		"name_plural": "Awọn dọla ti Belize",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Bèlísè",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Bèlísè",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"CAD": {
-		"name": "Dọla ti Canada",
-		"name_plural": "Awọn dọla ti Canada",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Kánádà",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Kánádà",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"CDF": {
-		"name": "Faransì ti Congo",
-		"name_plural": "Awọn faransì ti Congo",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Faransi Orílẹ́ède Kóngò",
+		"name_plural": "Àwọn Faransi Orílẹ́ède Kóngò",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Àwọn Centime"
 	},
 	"CHF": {
-		"name": "Faransì ti Switzerland",
-		"name_plural": "Awọn faransì ti Switzerland",
-		"subunit_name": "rappen",
-		"subunit_name_plural": "rappen"
+		"name": "Faransi Orílẹ́ède swítsàlandì",
+		"name_plural": "Àwọn Faransi Orílẹ́ède swítsàlandì",
+		"subunit_name": "Rappen",
+		"subunit_name_plural": "Àwọn Rappen"
 	},
 	"CLP": {
-		"name": "Peso ti Chile",
-		"name_plural": "Awọn peso ti Chile",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Pésò Orílẹ́ède Ṣílè",
+		"name_plural": "Àwọn Pésò Orílẹ́ède Ṣílè",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Àwọn Centavo"
 	},
 	"CNY": {
-		"name": "Yuan ti China",
-		"name_plural": "Awọn yuan ti China",
-		"subunit_name": "fen",
-		"subunit_name_plural": "fen"
+		"name": "Yúánì Orílẹ́ède Ṣáínà",
+		"name_plural": "Àwọn Yúánì Orílẹ́ède Ṣáínà",
+		"subunit_name": "Fen",
+		"subunit_name_plural": "Àwọn Fen"
 	},
 	"COP": {
-		"name": "Peso ti Colombia",
-		"name_plural": "Awọn peso ti Colombia",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Pésò Orílẹ́ède Kòlóḿbíà",
+		"name_plural": "Àwọn Pésò Orílẹ́ède Kòlóḿbíà",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Àwọn Centavo"
 	},
 	"CRC": {
-		"name": "Colón ti Costa Rica",
-		"name_plural": "Awọn colón ti Costa Rica",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
-	},
-	"CUC": {
-		"name": "Peso ti Cuba (Convertible)",
-		"name_plural": "Awọn peso ti Cuba (Convertible)",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Kólónì Orílẹ́ède Kuosta Ríkà",
+		"name_plural": "Àwọn Kólónì Orílẹ́ède Kuosta Ríkà",
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Àwọn Céntimo"
 	},
 	"CUP": {
-		"name": "Peso ti Cuba",
-		"name_plural": "Awọn peso ti Cuba",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Pésò Orílẹ́ède Kúbà",
+		"name_plural": "Àwọn Pésò Orílẹ́ède Kúbà",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Àwọn Centavo"
 	},
 	"CVE": {
-		"name": "Escudo ti Cape Verde",
-		"name_plural": "Awọn escudo ti Cape Verde",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Ẹsíkúdò Orílẹ́ède Etíokun Kápé féndè",
+		"name_plural": "Àwọn Ẹsíkúdò Orílẹ́ède Etíokun Kápé féndè",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Àwọn Centavo"
 	},
 	"CZK": {
-		"name": "Koruna ti Czech Republic",
-		"name_plural": "Awọn koruna ti Czech Republic",
-		"subunit_name": "haléř",
-		"subunit_name_plural": "haléře"
+		"name": "Koruna Orílẹ́ède Ṣẹ́ẹ̀kì",
+		"name_plural": "Àwọn Koruna Orílẹ́ède Ṣẹ́ẹ̀kì",
+		"subunit_name": "Haléř",
+		"subunit_name_plural": "Àwọn Haléř"
 	},
 	"DJF": {
-		"name": "Faransì ti Djibouti",
-		"name_plural": "Awọn faransì ti Djibouti",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Faransi Orílẹ́ède Díbọ́ótì",
+		"name_plural": "Àwọn Faransi Orílẹ́ède Díbọ́ótì",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Àwọn Centime"
 	},
 	"DKK": {
-		"name": "Krone ti Denmark",
-		"name_plural": "Awọn kroner ti Denmark",
-		"subunit_name": "øre",
-		"subunit_name_plural": "øre"
+		"name": "Kírónì Orílẹ́ède Dẹ́ḿákì",
+		"name_plural": "Àwọn Kírónì Orílẹ́ède Dẹ́ḿákì",
+		"subunit_name": "Øre",
+		"subunit_name_plural": "Àwọn Øre"
 	},
 	"DOP": {
-		"name": "Peso ti Dominican Republic",
-		"name_plural": "Awọn peso ti Dominican Republic",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Pésò Orílẹ́ède Dòmíníkánì",
+		"name_plural": "Àwọn Pésò Orílẹ́ède Dòmíníkánì",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Àwọn Centavo"
 	},
 	"DZD": {
-		"name": "Dínà ti Algeria",
-		"name_plural": "Awọn dínà ti Algeria",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Dínárì Orílẹ́ède Àlùgèríánì",
+		"name_plural": "Àwọn Dínárì Orílẹ́ède Àlùgèríánì",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Àwọn Centime"
 	},
 	"EGP": {
-		"name": "Pound ti Egypt",
-		"name_plural": "Awọn pound ti Egypt",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastres"
+		"name": "Pọ́n-ún Orílẹ́ède Égípítì",
+		"name_plural": "Àwọn Pọ́n-ún Orílẹ́ède Égípítì",
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Àwọn Piastre"
 	},
 	"ERN": {
-		"name": "Nakfa ti Eritrea",
-		"name_plural": "Awọn nakfa ti Eritrea",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Nákífà Orílẹ́ède Eritira",
+		"name_plural": "Àwọn Nákífà Orílẹ́ède Eritira",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"ETB": {
-		"name": "Birr ti Ethiopia",
-		"name_plural": "Awọn birr ti Ethiopia",
-		"subunit_name": "santim",
-		"subunit_name_plural": "santims"
+		"name": "Báà Orílẹ́ède Etopia",
+		"name_plural": "Àwọn Báà Orílẹ́ède Etopia",
+		"subunit_name": "Santim",
+		"subunit_name_plural": "Àwọn Santim"
 	},
 	"EUR": {
-		"name": "Euro",
-		"name_plural": "Awọn euro",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Yúrò",
+		"name_plural": "Àwọn Yúrò",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"FJD": {
-		"name": "Dọla ti Fiji",
-		"name_plural": "Awọn dọla ti Fiji",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Fíjì",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Fíjì",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"FKP": {
-		"name": "Pound ti Falkland Islands",
-		"name_plural": "Awọn pound ti Falkland Islands",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"name": "Pọ́n-ún Erékùsù Falkland",
+		"name_plural": "Àwọn Pọ́n-ún Erékùsù Falkland",
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Àwọn Penny"
 	},
 	"GBP": {
-		"name": "Pound ti Britain",
-		"name_plural": "Awọn pound ti Britain",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"name": "Pọ́n-ún Orílẹ́ède Gẹ̀ẹ́sì",
+		"name_plural": "Àwọn Pọ́n-ún Orílẹ́ède Gẹ̀ẹ́sì",
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Àwọn Penny"
 	},
 	"GEL": {
-		"name": "Lari ti Georgia",
-		"name_plural": "Awọn lari ti Georgia",
-		"subunit_name": "tetri",
-		"subunit_name_plural": "tetri"
+		"name": "Lárì Orílẹ́ède Gọ̀jìà",
+		"name_plural": "Àwọn Lárì Orílẹ́ède Gọ̀jìà",
+		"subunit_name": "Tetri",
+		"subunit_name_plural": "Àwọn Tetri"
 	},
 	"GHS": {
-		"name": "Cedi ti Ghana",
-		"name_plural": "Awọn cedi ti Ghana",
-		"subunit_name": "pesewa",
-		"subunit_name_plural": "pesewas"
+		"name": "Sídì Orílẹ́ède Gana",
+		"name_plural": "Àwọn Sídì Orílẹ́ède Gana",
+		"subunit_name": "Pesewa",
+		"subunit_name_plural": "Àwọn Pesewa"
 	},
 	"GIP": {
-		"name": "Pound ti Gibraltar",
-		"name_plural": "Awọn pound ti Gibraltar",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"name": "Pọ́n-ún Orílẹ́ède Gibaratara",
+		"name_plural": "Àwọn Pọ́n-ún Orílẹ́ède Gibaratara",
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Àwọn Penny"
 	},
 	"GMD": {
-		"name": "Dalasi ti Gambia",
-		"name_plural": "Awọn dalasi ti Gambia",
-		"subunit_name": "butut",
-		"subunit_name_plural": "bututs"
+		"name": "Dálásì Orílẹ́ède Gamibia",
+		"name_plural": "Àwọn Dálásì Orílẹ́ède Gamibia",
+		"subunit_name": "Butut",
+		"subunit_name_plural": "Àwọn Butut"
 	},
 	"GNF": {
-		"name": "Faransì ti Guinea",
-		"name_plural": "Awọn faransì ti Guinea",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Faransi Orílẹ́ède Gene",
+		"name_plural": "Àwọn Faransi Orílẹ́ède Gene",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Àwọn Centime"
 	},
 	"GTQ": {
-		"name": "Quetzal ti Guatemala",
-		"name_plural": "Awọn quetzal ti Guatemala",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Kúétísálì Orílẹ́ède Guatemala",
+		"name_plural": "Àwọn Kúétísálì Orílẹ́ède Guatemala",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Àwọn Centavo"
 	},
 	"GYD": {
-		"name": "Dọla ti Guyana",
-		"name_plural": "Awọn dọla ti Guyana",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Guyana",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Guyana",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"HKD": {
-		"name": "Dọla ti Hong Kong",
-		"name_plural": "Awọn dọla ti Hong Kong",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Hong Kong",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Hong Kong",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"HNL": {
-		"name": "Lempira ti Honduras",
-		"name_plural": "Awọn lempira ti Honduras",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
-	},
-	"HRK": {
-		"name": "Kuna ti Croatia",
-		"name_plural": "Awọn kuna ti Croatia",
-		"subunit_name": "lipa",
-		"subunit_name_plural": "lipa"
+		"name": "Lẹ́ẹ̀mpírà Orílẹ́ède Hondurasi",
+		"name_plural": "Àwọn Lẹ́ẹ̀mpírà Orílẹ́ède Hondurasi",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Àwọn Centavo"
 	},
 	"HTG": {
-		"name": "Gourde ti Haiti",
-		"name_plural": "Awọn gourde ti Haiti",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Gódù Orílẹ́ède Haati",
+		"name_plural": "Àwọn Gódù Orílẹ́ède Haati",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Àwọn Centime"
 	},
 	"HUF": {
-		"name": "Forint ti Hungary",
-		"name_plural": "Awọn forint ti Hungary",
-		"subunit_name": "fillér",
-		"subunit_name_plural": "fillér"
+		"name": "Fóríǹtì Orílẹ́ède Hungari",
+		"name_plural": "Àwọn Fóríǹtì Orílẹ́ède Hungari",
+		"subunit_name": "Fillér",
+		"subunit_name_plural": "Àwọn Fillér"
 	},
 	"IDR": {
-		"name": "Rupiah ti Indonesia",
-		"name_plural": "Awọn rupiah ti Indonesia",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Rúpíà Orílẹ́ède Indonesia",
+		"name_plural": "Àwọn Rúpíà Orílẹ́ède Indonesia",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Àwọn Sen"
 	},
 	"ILS": {
-		"name": "Shekel ti Israel",
-		"name_plural": "Awọn shekel ti Israel",
-		"subunit_name": "agora",
-		"subunit_name_plural": "agorot"
+		"name": "Ṣékélì Orílẹ́ède Iserẹli",
+		"name_plural": "Àwọn Ṣékélì Orílẹ́ède Iserẹli",
+		"subunit_name": "Agora",
+		"subunit_name_plural": "Àwọn Agora"
 	},
 	"INR": {
-		"name": "Rúpìì ti India",
-		"name_plural": "Awọn rúpìì ti India",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paise"
+		"name": "Rúpìì Orílẹ́ède India",
+		"name_plural": "Àwọn Rúpìì Orílẹ́ède India",
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Àwọn Paisa"
 	},
 	"IQD": {
-		"name": "Dínà ti Iraq",
-		"name_plural": "Awọn dínà ti Iraq",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Dínárì Orílẹ́ède Iraki",
+		"name_plural": "Àwọn Dínárì Orílẹ́ède Iraki",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Àwọn Fils"
 	},
 	"IRR": {
-		"name": "Rial ti Iran",
-		"name_plural": "Awọn rial ti Iran",
-		"subunit_name": "dinar",
-		"subunit_name_plural": "dinars"
+		"name": "Ríálì Orílẹ́ède Irani",
+		"name_plural": "Àwọn Ríálì Orílẹ́ède Irani",
+		"subunit_name": "Dinar",
+		"subunit_name_plural": "Àwọn Dinar"
 	},
 	"ISK": {
-		"name": "Króna ti Iceland",
-		"name_plural": "Awọn krónur ti Iceland",
-		"subunit_name": "eyrir",
-		"subunit_name_plural": "aurar"
+		"name": "Kórónà Orílẹ́ède Aṣilandi",
+		"name_plural": "Àwọn Kórónà Orílẹ́ède Aṣilandi",
+		"subunit_name": "Eyrir",
+		"subunit_name_plural": "Àwọn Eyrir"
 	},
 	"JMD": {
-		"name": "Dọla ti Jamaica",
-		"name_plural": "Awọn dọla ti Jamaica",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Jamaika",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Jamaika",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"JOD": {
-		"name": "Dínà ti Jordan",
-		"name_plural": "Awọn dínà ti Jordan",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Dínárì Orílẹ́ède Jọdani",
+		"name_plural": "Àwọn Dínárì Orílẹ́ède Jọdani",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Àwọn Fils"
 	},
 	"JPY": {
-		"name": "Yen ti Japan",
-		"name_plural": "Awọn yen ti Japan",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Yẹnì Orílẹ́ède Japani",
+		"name_plural": "Àwọn Yẹnì Orílẹ́ède Japani",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Àwọn Sen"
 	},
 	"KES": {
-		"name": "Shilling ti Kenya",
-		"name_plural": "Awọn shilling ti Kenya",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Sílíì Orílẹ́ède Kenya",
+		"name_plural": "Àwọn Sílíì Orílẹ́ède Kenya",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"KGS": {
-		"name": "Som ti Kyrgyzstan",
-		"name_plural": "Awọn som ti Kyrgyzstan",
-		"subunit_name": "tyiyn",
-		"subunit_name_plural": "tyiyn"
+		"name": "Sómù Orílẹ́ède Kuriṣisitani",
+		"name_plural": "Àwọn Sómù Orílẹ́ède Kuriṣisitani",
+		"subunit_name": "Tyiyn",
+		"subunit_name_plural": "Àwọn Tyiyn"
 	},
 	"KHR": {
-		"name": "Riel ti Cambodia",
-		"name_plural": "Awọn riel ti Cambodia",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Ríẹ́lì Orílẹ́ède Kàmùbódíà",
+		"name_plural": "Àwọn Ríẹ́lì Orílẹ́ède Kàmùbódíà",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Àwọn Sen"
 	},
 	"KMF": {
-		"name": "Faransì ti Comoros",
-		"name_plural": "Awọn faransì ti Comoros",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Faransi Orílẹ́ède Kòmòrósì",
+		"name_plural": "Àwọn Faransi Orílẹ́ède Kòmòrósì",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Àwọn Centime"
 	},
 	"KPW": {
-		"name": "Won ti North Korea",
-		"name_plural": "Awọn won ti North Korea",
-		"subunit_name": "jeon",
-		"subunit_name_plural": "jeon"
+		"name": "Wọ́nù Orílẹ́ède Guusu Kọria",
+		"name_plural": "Àwọn Wọ́nù Orílẹ́ède Guusu Kọria",
+		"subunit_name": "Jeon",
+		"subunit_name_plural": "Àwọn Jeon"
 	},
 	"KRW": {
-		"name": "Won ti South Korea",
-		"name_plural": "Awọn won ti South Korea",
-		"subunit_name": "jeon",
-		"subunit_name_plural": "jeon"
+		"name": "Wọ́nù Orílẹ́ède Ariwa Kọria",
+		"name_plural": "Àwọn Wọ́nù Orílẹ́ède Ariwa Kọria",
+		"subunit_name": "Jeon",
+		"subunit_name_plural": "Àwọn Jeon"
 	},
 	"KWD": {
-		"name": "Dínà ti Kuwait",
-		"name_plural": "Awọn dínà ti Kuwait",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Dínárì Orílẹ́ède Kuweti",
+		"name_plural": "Àwọn Dínárì Orílẹ́ède Kuweti",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Àwọn Fils"
 	},
 	"KYD": {
-		"name": "Dọla ti Cayman Islands",
-		"name_plural": "Awọn dọla ti Cayman Islands",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Erékùsù Cayman",
+		"name_plural": "Àwọn Dọla Erékùsù Cayman",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"KZT": {
-		"name": "Tenge ti Kazakhstan",
-		"name_plural": "Awọn tenge ti Kazakhstan",
-		"subunit_name": "tiyn",
-		"subunit_name_plural": "tiyn"
+		"name": "Tẹ́ǹgì Orílẹ́ède Kaṣaṣatani",
+		"name_plural": "Àwọn Tẹ́ǹgì Orílẹ́ède Kaṣaṣatani",
+		"subunit_name": "Tiyn",
+		"subunit_name_plural": "Àwọn Tiyn"
 	},
 	"LAK": {
-		"name": "Kip ti Laos",
-		"name_plural": "Awọn kip ti Laos",
-		"subunit_name": "att",
-		"subunit_name_plural": "att"
+		"name": "Kípì Orílẹ́ède Laosi",
+		"name_plural": "Àwọn Kípì Orílẹ́ède Laosi",
+		"subunit_name": "Att",
+		"subunit_name_plural": "Àwọn Att"
 	},
 	"LBP": {
-		"name": "Pound ti Lebanon",
-		"name_plural": "Awọn pound ti Lebanon",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastres"
+		"name": "Pọ́n-ún Orílẹ́ède Lebanon",
+		"name_plural": "Àwọn Pọ́n-ún Orílẹ́ède Lebanon",
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Àwọn Piastre"
 	},
 	"LKR": {
-		"name": "Rúpìì ti Sri Lanka",
-		"name_plural": "Awọn rúpìì ti Sri Lanka",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Rúpìì Orílẹ́ède Siri Lanka",
+		"name_plural": "Àwọn Rúpìì Orílẹ́ède Siri Lanka",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"LRD": {
-		"name": "Dọla ti Liberia",
-		"name_plural": "Awọn dọla ti Liberia",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Liberia",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Liberia",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"LSL": {
-		"name": "Loti ti Lesotho",
-		"name_plural": "Awọn loti ti Lesotho",
-		"subunit_name": "sente",
-		"subunit_name_plural": "lisente"
+		"name": "Lótiì Orílẹ́ède Lesoto",
+		"name_plural": "Àwọn Lótiì Orílẹ́ède Lesoto",
+		"subunit_name": "Sente",
+		"subunit_name_plural": "Àwọn Sente"
 	},
 	"LYD": {
-		"name": "Dínà ti Libya",
-		"name_plural": "Awọn dínà ti Libya",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirhams"
+		"name": "Dínárì Orílẹ́ède Libiya",
+		"name_plural": "Àwọn Dínárì Orílẹ́ède Libiya",
+		"subunit_name": "Dirham",
+		"subunit_name_plural": "Àwọn Dirham"
 	},
 	"MAD": {
-		"name": "Dírámù ti Morocco",
-		"name_plural": "Awọn dírámù ti Morocco",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Dírámì Orílẹ́ède Moroko",
+		"name_plural": "Àwọn Dírámì Orílẹ́ède Moroko",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Àwọn Centime"
 	},
 	"MDL": {
-		"name": "Leu ti Moldova",
-		"name_plural": "Awọn leu ti Moldova",
-		"subunit_name": "ban",
-		"subunit_name_plural": "bani"
+		"name": "Léhù Orílẹ́ède Modofia",
+		"name_plural": "Àwọn Léhù Orílẹ́ède Modofia",
+		"subunit_name": "Ban",
+		"subunit_name_plural": "Àwọn Ban"
 	},
 	"MGA": {
-		"name": "Ariary ti Madagascar",
-		"name_plural": "Awọn ariary ti Madagascar",
-		"subunit_name": "iraimbilanja",
-		"subunit_name_plural": "iraimbilanja"
+		"name": "Aríárì Orílẹ́ède Madasika",
+		"name_plural": "Àwọn Aríárì Orílẹ́ède Madasika",
+		"subunit_name": "Iraimbilanja",
+		"subunit_name_plural": "Àwọn Iraimbilanja"
 	},
 	"MKD": {
-		"name": "Denar ti Macedonia",
-		"name_plural": "Awọn denar ti Macedonia",
-		"subunit_name": "deni",
-		"subunit_name_plural": "deni"
+		"name": "Dínárì Orílẹ́ède Masidonia",
+		"name_plural": "Àwọn Dínárì Orílẹ́ède Masidonia",
+		"subunit_name": "Deni",
+		"subunit_name_plural": "Àwọn Deni"
 	},
 	"MMK": {
-		"name": "Kyat ti Myanmar",
-		"name_plural": "Awọn kyat ti Myanmar",
-		"subunit_name": "pya",
-		"subunit_name_plural": "pya"
+		"name": "Kíyátì Orílẹ́ède Manamari",
+		"name_plural": "Àwọn Kíyátì Orílẹ́ède Manamari",
+		"subunit_name": "Pya",
+		"subunit_name_plural": "Àwọn Pya"
 	},
 	"MNT": {
-		"name": "Tugrik ti Mongolia",
-		"name_plural": "Awọn tugrik ti Mongolia",
-		"subunit_name": "möngö",
-		"subunit_name_plural": "möngö"
+		"name": "Túgíríkì Orílẹ́ède Mogolia",
+		"name_plural": "Àwọn Túgíríkì Orílẹ́ède Mogolia",
+		"subunit_name": "Möngö",
+		"subunit_name_plural": "Àwọn Möngö"
 	},
 	"MOP": {
-		"name": "Pataca ti Macau",
-		"name_plural": "Awọn pataca ti Macau",
-		"subunit_name": "avo",
-		"subunit_name_plural": "avos"
+		"name": "Pátákà Orílẹ́ède Makau",
+		"name_plural": "Àwọn Pátákà Orílẹ́ède Makau",
+		"subunit_name": "Avo",
+		"subunit_name_plural": "Àwọn Avo"
 	},
 	"MRU": {
-		"name": "Ouguiya ti Mauritania",
-		"name_plural": "Awọn ouguiya ti Mauritania",
-		"subunit_name": "khoums",
-		"subunit_name_plural": "khoums"
+		"name": "Úgíyà Orílẹ́ède Maritania",
+		"name_plural": "Àwọn Úgíyà Orílẹ́ède Maritania",
+		"subunit_name": "Khoums",
+		"subunit_name_plural": "Àwọn Khoums"
 	},
 	"MUR": {
-		"name": "Rúpìì ti Mauritius",
-		"name_plural": "Awọn rúpìì ti Mauritius",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Rúpìì Orílẹ́ède Maritiusi",
+		"name_plural": "Àwọn Rúpìì Orílẹ́ède Maritiusi",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"MVR": {
-		"name": "Rufiyaa ti Maldives",
-		"name_plural": "Awọn rufiyaa ti Maldives",
-		"subunit_name": "laari",
-		"subunit_name_plural": "laari"
+		"name": "Rúfíyà Orílẹ́ède Maladifi",
+		"name_plural": "Àwọn Rúfíyà Orílẹ́ède Maladifi",
+		"subunit_name": "Laari",
+		"subunit_name_plural": "Àwọn Laari"
 	},
 	"MWK": {
-		"name": "Kwacha ti Malawi",
-		"name_plural": "Awọn kwacha ti Malawi",
-		"subunit_name": "tambala",
-		"subunit_name_plural": "tambala"
+		"name": "Kásá Orílẹ́ède Malawi",
+		"name_plural": "Àwọn Kásá Orílẹ́ède Malawi",
+		"subunit_name": "Tambala",
+		"subunit_name_plural": "Àwọn Tambala"
 	},
 	"MXN": {
-		"name": "Peso ti Mexico",
-		"name_plural": "Awọn peso ti Mexico",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Pésò Orílẹ́ède Mesiko",
+		"name_plural": "Àwọn Pésò Orílẹ́ède Mesiko",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Àwọn Centavo"
 	},
 	"MYR": {
-		"name": "Ringgit ti Malaysia",
-		"name_plural": "Awọn ringgit ti Malaysia",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Ríǹgítì Orílẹ́ède Malasia",
+		"name_plural": "Àwọn Ríǹgítì Orílẹ́ède Malasia",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Àwọn Sen"
 	},
 	"MZN": {
-		"name": "Metical ti Mozambique",
-		"name_plural": "Awọn metical ti Mozambique",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Métíkàlì Orílẹ́ède Moṣamibiku",
+		"name_plural": "Àwọn Métíkàlì Orílẹ́ède Moṣamibiku",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Àwọn Centavo"
 	},
 	"NAD": {
-		"name": "Dọla ti Namibia",
-		"name_plural": "Awọn dọla ti Namibia",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Namibia",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Namibia",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"NGN": {
-		"name": "Naira ti Nigeria",
-		"name_plural": "Awọn naira ti Nigeria",
-		"subunit_name": "kobo",
-		"subunit_name_plural": "kobo"
+		"name": "Náírà Orílẹ́ède Nàìjíríà",
+		"name_plural": "Àwọn Náírà Orílẹ́ède Nàìjíríà",
+		"subunit_name": "Kobo",
+		"subunit_name_plural": "Àwọn Kobo"
 	},
 	"NIO": {
-		"name": "Córdoba ti Nicaragua",
-		"name_plural": "Awọn córdoba ti Nicaragua",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Kọ́dóbà Orílẹ́ède NIkaragua",
+		"name_plural": "Àwọn Kọ́dóbà Orílẹ́ède NIkaragua",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Àwọn Centavo"
 	},
 	"NOK": {
-		"name": "Krone ti Norway",
-		"name_plural": "Awọn kroner ti Norway",
-		"subunit_name": "øre",
-		"subunit_name_plural": "øre"
+		"name": "Kírónì Orílẹ́ède Nọọwii",
+		"name_plural": "Àwọn Kírónì Orílẹ́ède Nọọwii",
+		"subunit_name": "Øre",
+		"subunit_name_plural": "Àwọn Øre"
 	},
 	"NPR": {
-		"name": "Rúpìì ti Nepal",
-		"name_plural": "Awọn rúpìì ti Nepal",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisa"
+		"name": "Rúpìì Orílẹ́ède Nepa",
+		"name_plural": "Àwọn Rúpìì Orílẹ́ède Nepa",
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Àwọn Paisa"
 	},
 	"NZD": {
-		"name": "Dọla ti New Zealand",
-		"name_plural": "Awọn dọla ti New Zealand",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède ṣilandi Titun",
+		"name_plural": "Àwọn Dọla Orílẹ́ède ṣilandi Titun",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"OMR": {
-		"name": "Rial ti Oman",
-		"name_plural": "Awọn rial ti Oman",
-		"subunit_name": "baisa",
-		"subunit_name_plural": "baisa"
+		"name": "Ríyálì Orílẹ́ède Ọọma",
+		"name_plural": "Àwọn Ríyálì Orílẹ́ède Ọọma",
+		"subunit_name": "Baisa",
+		"subunit_name_plural": "Àwọn Baisa"
 	},
 	"PAB": {
-		"name": "Balboa ti Panama",
-		"name_plural": "Awọn balboa ti Panama",
-		"subunit_name": "centésimo",
-		"subunit_name_plural": "centésimos"
+		"name": "Balibóa Orílẹ́ède Panama",
+		"name_plural": "Àwọn Balibóa Orílẹ́ède Panama",
+		"subunit_name": "Centésimo",
+		"subunit_name_plural": "Àwọn Centésimo"
 	},
 	"PEN": {
-		"name": "Sol ti Peru",
-		"name_plural": "Awọn sol ti Peru",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
+		"name": "Sólì Orílẹ́ède Peru",
+		"name_plural": "Àwọn Sólì Orílẹ́ède Peru",
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Àwọn Céntimo"
 	},
 	"PGK": {
-		"name": "Kina ti Papua New Guinea",
-		"name_plural": "Awọn kina ti Papua New Guinea",
-		"subunit_name": "toea",
-		"subunit_name_plural": "toea"
+		"name": "Kínà Orílẹ́ède Paapu ti Giini",
+		"name_plural": "Àwọn Kínà Orílẹ́ède Paapu ti Giini",
+		"subunit_name": "Toea",
+		"subunit_name_plural": "Àwọn Toea"
 	},
 	"PHP": {
-		"name": "Peso ti Philippines",
-		"name_plural": "Awọn peso ti Philippines",
-		"subunit_name": "sentimo",
-		"subunit_name_plural": "sentimos"
+		"name": "Pésò Orílẹ́ède filipini",
+		"name_plural": "Àwọn Pésò Orílẹ́ède filipini",
+		"subunit_name": "Sentimo",
+		"subunit_name_plural": "Àwọn Sentimo"
 	},
 	"PKR": {
-		"name": "Rúpìì ti Pakistan",
-		"name_plural": "Awọn rúpìì ti Pakistan",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisa"
+		"name": "Rúpìì Orílẹ́ède Pakisitan",
+		"name_plural": "Àwọn Rúpìì Orílẹ́ède Pakisitan",
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Àwọn Paisa"
 	},
 	"PLN": {
-		"name": "Zloty ti Poland",
-		"name_plural": "Awọn zloty ti Poland",
-		"subunit_name": "grosz",
-		"subunit_name_plural": "groszy"
+		"name": "Sílọ̀tì Orílẹ́ède Polandi",
+		"name_plural": "Àwọn Sílọ̀tì Orílẹ́ède Polandi",
+		"subunit_name": "Grosz",
+		"subunit_name_plural": "Àwọn Grosz"
 	},
 	"PYG": {
-		"name": "Guarani ti Paraguay",
-		"name_plural": "Awọn guarani ti Paraguay",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
+		"name": "Guáránì Orílẹ́ède Paraguye",
+		"name_plural": "Àwọn Guáránì Orílẹ́ède Paraguye",
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Àwọn Céntimo"
 	},
 	"QAR": {
-		"name": "Rial ti Qatar",
-		"name_plural": "Awọn rial ti Qatar",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirhams"
+		"name": "Ríyálì Orílẹ́ède Kota",
+		"name_plural": "Àwọn Ríyálì Orílẹ́ède Kota",
+		"subunit_name": "Dirham",
+		"subunit_name_plural": "Àwọn Dirham"
 	},
 	"RON": {
-		"name": "Leu ti Romania",
-		"name_plural": "Awọn leu ti Romania",
-		"subunit_name": "ban",
-		"subunit_name_plural": "bani"
+		"name": "Léhù Orílẹ́ède Romania",
+		"name_plural": "Àwọn Léhù Orílẹ́ède Romania",
+		"subunit_name": "Ban",
+		"subunit_name_plural": "Àwọn Ban"
 	},
 	"RSD": {
-		"name": "Dínà ti Serbia",
-		"name_plural": "Awọn dínà ti Serbia",
-		"subunit_name": "para",
-		"subunit_name_plural": "para"
+		"name": "Dínárì Orílẹ́ède Serbia",
+		"name_plural": "Àwọn Dínárì Orílẹ́ède Serbia",
+		"subunit_name": "Para",
+		"subunit_name_plural": "Àwọn Para"
 	},
 	"RUB": {
-		"name": "Ruble ti Russia",
-		"name_plural": "Awọn ruble ti Russia",
-		"subunit_name": "kopeck",
-		"subunit_name_plural": "kopecks"
+		"name": "Rúbọ̀ Orílẹ́ède Rọṣia",
+		"name_plural": "Àwọn Rúbọ̀ Orílẹ́ède Rọṣia",
+		"subunit_name": "Kopeck",
+		"subunit_name_plural": "Àwọn Kopeck"
 	},
 	"RWF": {
-		"name": "Faransì ti Rwanda",
-		"name_plural": "Awọn faransì ti Rwanda",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Faransi Orílẹ́ède Ruwanda",
+		"name_plural": "Àwọn Faransi Orílẹ́ède Ruwanda",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Àwọn Centime"
 	},
 	"SAR": {
-		"name": "Riyal ti Saudi Arabia",
-		"name_plural": "Awọn riyal ti Saudi Arabia",
-		"subunit_name": "halala",
-		"subunit_name_plural": "halalas"
+		"name": "Ríyálì Orílẹ́ède Saudi",
+		"name_plural": "Àwọn Ríyálì Orílẹ́ède Saudi",
+		"subunit_name": "Halala",
+		"subunit_name_plural": "Àwọn Halala"
 	},
 	"SBD": {
-		"name": "Dọla ti Solomon Islands",
-		"name_plural": "Awọn dọla ti Solomon Islands",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Erékùsù Solomon",
+		"name_plural": "Àwọn Dọla Erékùsù Solomon",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"SCR": {
-		"name": "Rúpìì ti Seychelles",
-		"name_plural": "Awọn rúpìì ti Seychelles",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Rúpìì Orílẹ́ède seṣẹlẹsi",
+		"name_plural": "Àwọn Rúpìì Orílẹ́ède seṣẹlẹsi",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"SDG": {
-		"name": "Pound ti Sudan",
-		"name_plural": "Awọn pound ti Sudan",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastres"
+		"name": "Pọ́n-ún Orílẹ́ède Sudani",
+		"name_plural": "Àwọn Pọ́n-ún Orílẹ́ède Sudani",
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Àwọn Piastre"
 	},
 	"SEK": {
-		"name": "Krona ti Sweden",
-		"name_plural": "Awọn kronor ti Sweden",
-		"subunit_name": "öre",
-		"subunit_name_plural": "öre"
+		"name": "Kórónà Orílẹ́ède Swidini",
+		"name_plural": "Àwọn Kórónà Orílẹ́ède Swidini",
+		"subunit_name": "Öre",
+		"subunit_name_plural": "Àwọn Öre"
 	},
 	"SGD": {
-		"name": "Dọla ti Singapore",
-		"name_plural": "Awọn dọla ti Singapore",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Singapore",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Singapore",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"SHP": {
-		"name": "Pound ti St. Helena",
-		"name_plural": "Awọn pound ti St. Helena",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"name": "Pọ́n-ún Erékùsù Hẹlena",
+		"name_plural": "Àwọn Pọ́n-ún Erékùsù Hẹlena",
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Àwọn Penny"
 	},
-	"SLL": {
-		"name": "Leone ti Sierra Leone",
-		"name_plural": "Awọn leone ti Sierra Leone",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+	"SLE": {
+		"name": "Líónì Orílẹ́ède Sierra Leone",
+		"name_plural": "Àwọn Líónì Orílẹ́ède Sierra Leone",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"SOS": {
-		"name": "Shilling ti Somalia",
-		"name_plural": "Awọn shilling ti Somalia",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Sílíì Orílẹ́ède Somali",
+		"name_plural": "Àwọn Sílíì Orílẹ́ède Somali",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"SRD": {
-		"name": "Dọla ti Suriname",
-		"name_plural": "Awọn dọla ti Suriname",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Surinami",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Surinami",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"SSP": {
-		"name": "Pound ti South Sudan",
-		"name_plural": "Awọn pound ti South Sudan",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piasters"
+		"name": "Pọ́n-ún Orílẹ́ède Gusu Sudan",
+		"name_plural": "Àwọn Pọ́n-ún Orílẹ́ède Gusu Sudan",
+		"subunit_name": "Piaster",
+		"subunit_name_plural": "Àwọn Piaster"
 	},
 	"STN": {
-		"name": "Dobra ti São Tomé & Príncipe",
-		"name_plural": "Awọn dobra ti São Tomé & Príncipe",
-		"subunit_name": "cêntimo",
-		"subunit_name_plural": "cêntimos"
+		"name": "Dóbùrà Orílẹ́ède Sao tome Ati Pirisipe",
+		"name_plural": "Àwọn Dóbùrà Orílẹ́ède Sao tome Ati Pirisipe",
+		"subunit_name": "Cêntimo",
+		"subunit_name_plural": "Àwọn Cêntimo"
 	},
 	"SYP": {
-		"name": "Pound ti Syria",
-		"name_plural": "Awọn pound ti Syria",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastres"
+		"name": "Pọ́n-ún Orílẹ́ède Siria",
+		"name_plural": "Àwọn Pọ́n-ún Orílẹ́ède Siria",
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Àwọn Piastre"
 	},
 	"SZL": {
-		"name": "Lilangeni ti Eswatini",
-		"name_plural": "Awọn emalangeni ti Eswatini",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Lílánẹ́ní Orílẹ́ède Saṣiland",
+		"name_plural": "Àwọn Lílánẹ́ní Orílẹ́ède Saṣiland",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"THB": {
-		"name": "Baht ti Thailand",
-		"name_plural": "Awọn baht ti Thailand",
-		"subunit_name": "satang",
-		"subunit_name_plural": "satang"
+		"name": "Báàtì Orílẹ́ède Tailandi",
+		"name_plural": "Àwọn Báàtì Orílẹ́ède Tailandi",
+		"subunit_name": "Satang",
+		"subunit_name_plural": "Àwọn Satang"
 	},
 	"TJS": {
-		"name": "Somoni ti Tajikistan",
-		"name_plural": "Awọn somoni ti Tajikistan",
-		"subunit_name": "diram",
-		"subunit_name_plural": "dirams"
+		"name": "Sómónì Orílẹ́ède Takisitani",
+		"name_plural": "Àwọn Sómónì Orílẹ́ède Takisitani",
+		"subunit_name": "Diram",
+		"subunit_name_plural": "Àwọn Diram"
 	},
 	"TMT": {
-		"name": "Manat ti Turkmenistan",
-		"name_plural": "Awọn manat ti Turkmenistan",
-		"subunit_name": "tenge",
-		"subunit_name_plural": "tenge"
+		"name": "Mánátì Orílẹ́ède Tọkimẹnistan",
+		"name_plural": "Àwọn Mánátì Orílẹ́ède Tọkimẹnistan",
+		"subunit_name": "Tenge",
+		"subunit_name_plural": "Àwọn Tenge"
 	},
 	"TND": {
-		"name": "Dínà ti Tunisia",
-		"name_plural": "Awọn dínà ti Tunisia",
-		"subunit_name": "millime",
-		"subunit_name_plural": "millimes"
+		"name": "Dínárì Orílẹ́ède Tuniṣia",
+		"name_plural": "Àwọn Dínárì Orílẹ́ède Tuniṣia",
+		"subunit_name": "Millime",
+		"subunit_name_plural": "Àwọn Millime"
 	},
 	"TOP": {
-		"name": "Paʻanga ti Tonga",
-		"name_plural": "Awọn paʻanga ti Tonga",
-		"subunit_name": "seniti",
-		"subunit_name_plural": "seniti"
+		"name": "Páʻángà Orílẹ́ède Tonga",
+		"name_plural": "Àwọn Páʻángà Orílẹ́ède Tonga",
+		"subunit_name": "Seniti",
+		"subunit_name_plural": "Àwọn Seniti"
 	},
 	"TRY": {
-		"name": "Lira ti Turkey",
-		"name_plural": "Awọn lira ti Turkey",
-		"subunit_name": "kuruş",
-		"subunit_name_plural": "kuruş"
+		"name": "Lírà Orílẹ́ède Tọki",
+		"name_plural": "Àwọn Lírà Orílẹ́ède Tọki",
+		"subunit_name": "Kuruş",
+		"subunit_name_plural": "Àwọn Kuruş"
 	},
 	"TTD": {
-		"name": "Dọla ti Trinidad & Tobago",
-		"name_plural": "Awọn dọla ti Trinidad & Tobago",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Tirinida Ati Tobaga",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Tirinida Ati Tobaga",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"TWD": {
-		"name": "Dọla ti Taiwan",
-		"name_plural": "Awọn dọla ti Taiwan",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Taiwani",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Taiwani",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"TZS": {
-		"name": "Shilling ti Tanzania",
-		"name_plural": "Awọn shilling ti Tanzania",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Sílíì Orílẹ́ède Tanṣania",
+		"name_plural": "Àwọn Sílíì Orílẹ́ède Tanṣania",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"UAH": {
-		"name": "Hryvnia ti Ukraine",
-		"name_plural": "Awọn hryvnia ti Ukraine",
-		"subunit_name": "kopeck",
-		"subunit_name_plural": "kopecks"
+		"name": "Híríníà Orílẹ́ède Ukarini",
+		"name_plural": "Àwọn Híríníà Orílẹ́ède Ukarini",
+		"subunit_name": "Kopeck",
+		"subunit_name_plural": "Àwọn Kopeck"
 	},
 	"UGX": {
-		"name": "Shilling ti Uganda",
-		"name_plural": "Awọn shilling ti Uganda",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Sílíì Orílẹ́ède Uganda",
+		"name_plural": "Àwọn Sílíì Orílẹ́ède Uganda",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"USD": {
-		"name": "Dọla ti Amẹrika",
-		"name_plural": "Awọn dọla ti Amẹrika",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède Amerika",
+		"name_plural": "Àwọn Dọla Orílẹ́ède Amerika",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"UYU": {
-		"name": "Peso ti Uruguay",
-		"name_plural": "Awọn peso ti Uruguay",
-		"subunit_name": "centésimo",
-		"subunit_name_plural": "centésimos"
+		"name": "Pésò Orílẹ́ède Nruguway",
+		"name_plural": "Àwọn Pésò Orílẹ́ède Nruguway",
+		"subunit_name": "Centésimo",
+		"subunit_name_plural": "Àwọn Centésimo"
 	},
 	"UZS": {
-		"name": "Som ti Uzbekistan",
-		"name_plural": "Awọn som ti Uzbekistan",
-		"subunit_name": "tiyin",
-		"subunit_name_plural": "tiyin"
+		"name": "Sómù Orílẹ́ède Nṣibẹkisitani",
+		"name_plural": "Àwọn Sómù Orílẹ́ède Nṣibẹkisitani",
+		"subunit_name": "Tiyin",
+		"subunit_name_plural": "Àwọn Tiyin"
 	},
-	"VES": {
-		"name": "Bolívar ti Venezuela",
-		"name_plural": "Awọn bolívar ti Venezuela",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
+	"VED": {
+		"name": "Bolívar Onirun Orílẹ́ède Fẹnẹṣuẹla",
+		"name_plural": "Àwọn Bolívar Onirun Orílẹ́ède Fẹnẹṣuẹla",
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Àwọn Céntimo"
 	},
 	"VND": {
-		"name": "Dong ti Vietnam",
-		"name_plural": "Awọn dong ti Vietnam",
-		"subunit_name": "hào",
-		"subunit_name_plural": "hào"
+		"name": "Dóngì Orílẹ́ède Fẹtinami",
+		"name_plural": "Àwọn Dóngì Orílẹ́ède Fẹtinami",
+		"subunit_name": "Hào",
+		"subunit_name_plural": "Àwọn Hào"
 	},
 	"VUV": {
-		"name": "Vatu ti Vanuatu",
-		"name_plural": "Awọn vatu ti Vanuatu",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Fátù Orílẹ́ède Faniatu",
+		"name_plural": "Àwọn Fátù Orílẹ́ède Faniatu",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Àwọn Centime"
 	},
 	"WST": {
-		"name": "Tala ti Samoa",
-		"name_plural": "Awọn tala ti Samoa",
-		"subunit_name": "sene",
-		"subunit_name_plural": "sene"
+		"name": "Tálà Orílẹ́ède Samọ",
+		"name_plural": "Àwọn Tálà Orílẹ́ède Samọ",
+		"subunit_name": "Sene",
+		"subunit_name_plural": "Àwọn Sene"
 	},
 	"XAF": {
-		"name": "Faransì CFA ti Central Africa",
-		"name_plural": "Awọn faransì CFA ti Central Africa",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Faransi CFA Apáàríwá Afírikà",
+		"name_plural": "Àwọn Faransi CFA Apáàríwá Afírikà",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Àwọn Centime"
 	},
 	"XCD": {
-		"name": "Dọla ti East Caribbean",
-		"name_plural": "Awọn dọla ti East Caribbean",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Ilà Oòrùn Káríbẹ́ánì",
+		"name_plural": "Àwọn Dọla Ilà Oòrùn Káríbẹ́ánì",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"XOF": {
-		"name": "Faransì CFA ti West Africa",
-		"name_plural": "Awọn faransì CFA ti West Africa",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Faransi CFA Apáìwọ̀òrùn Afírikà",
+		"name_plural": "Àwọn Faransi CFA Apáìwọ̀òrùn Afírikà",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Àwọn Centime"
 	},
 	"XPF": {
-		"name": "Faransì CFP",
-		"name_plural": "Awọn faransì CFP",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Faransi CFP",
+		"name_plural": "Àwọn Faransi CFP",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Àwọn Centime"
 	},
 	"YER": {
-		"name": "Rial ti Yemen",
-		"name_plural": "Awọn rial ti Yemen",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Ríyálì Orílẹ́ède yemeni",
+		"name_plural": "Àwọn Ríyálì Orílẹ́ède yemeni",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Àwọn Fils"
 	},
 	"ZAR": {
-		"name": "Rand ti South Africa",
-		"name_plural": "Awọn rand ti South Africa",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Ráǹdì Orílẹ́ède Ariwa Afírikà",
+		"name_plural": "Àwọn Ráǹdì Orílẹ́ède Ariwa Afírikà",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	},
 	"ZMW": {
-		"name": "Kwacha ti Zambia",
-		"name_plural": "Awọn kwacha ti Zambia",
-		"subunit_name": "ngwee",
-		"subunit_name_plural": "ngwee"
+		"name": "Kásá Orílẹ́ède ṣamibia",
+		"name_plural": "Àwọn Kásá Orílẹ́ède ṣamibia",
+		"subunit_name": "Ngwee",
+		"subunit_name_plural": "Àwọn Ngwee"
 	},
 	"ZWL": {
-		"name": "Dọla ti Zimbabwe",
-		"name_plural": "Awọn dọla ti Zimbabwe",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cents"
+		"name": "Dọla Orílẹ́ède ṣimbabue",
+		"name_plural": "Àwọn Dọla Orílẹ́ède ṣimbabue",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Àwọn Senti"
 	}
 }

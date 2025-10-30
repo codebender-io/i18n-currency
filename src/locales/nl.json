@@ -1,938 +1,926 @@
 {
 	"AED": {
-		"name": "VAE-dirham",
-		"name_plural": "VAE-dirhams",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Verenigde Arabische Emiraten-dirham",
+		"name_plural": "Verenigde Arabische Emiraten-dirhams",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"AFN": {
 		"name": "Afghaanse afghani",
 		"name_plural": "Afghaanse afghani's",
-		"subunit_name": "pul",
-		"subunit_name_plural": "puls"
+		"subunit_name": "Pul",
+		"subunit_name_plural": "Puls"
 	},
 	"ALL": {
 		"name": "Albanese lek",
-		"name_plural": "Albanese lek",
-		"subunit_name": "qindarkë",
-		"subunit_name_plural": "qindarkë"
+		"name_plural": "Albanese lekë",
+		"subunit_name": "Qindarkë",
+		"subunit_name_plural": "Qindarkë"
 	},
 	"AMD": {
 		"name": "Armeense dram",
 		"name_plural": "Armeense drams",
-		"subunit_name": "luma",
-		"subunit_name_plural": "luma"
+		"subunit_name": "Luma",
+		"subunit_name_plural": "Lumas"
 	},
 	"ANG": {
-		"name": "Antilliaanse gulden",
-		"name_plural": "Antilliaanse guldens",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"name": "Nederlands-Antilliaanse gulden",
+		"name_plural": "Nederlands-Antilliaanse guldens",
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"AOA": {
 		"name": "Angolese kwanza",
-		"name_plural": "Angolese kwanza's",
-		"subunit_name": "cêntimo",
-		"subunit_name_plural": "cêntimos"
+		"name_plural": "Angolese kwanzas",
+		"subunit_name": "Cêntimo",
+		"subunit_name_plural": "Cêntimos"
 	},
 	"ARS": {
 		"name": "Argentijnse peso",
-		"name_plural": "Argentijnse peso's",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name_plural": "Argentijnse pesos",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"AUD": {
 		"name": "Australische dollar",
 		"name_plural": "Australische dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"AWG": {
-		"name": "Arubaanse florijn",
-		"name_plural": "Arubaanse florijnen",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"name": "Arubaanse florin",
+		"name_plural": "Arubaanse florins",
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"AZN": {
 		"name": "Azerbeidzjaanse manat",
-		"name_plural": "Azerbeidzjaanse manat",
-		"subunit_name": "qəpik",
-		"subunit_name_plural": "qəpik"
+		"name_plural": "Azerbeidzjaanse manats",
+		"subunit_name": "Qəpik",
+		"subunit_name_plural": "Qəpiks"
 	},
 	"BAM": {
-		"name": "Bosnische inwisselbare mark",
-		"name_plural": "Bosnische inwisselbare mark",
-		"subunit_name": "fening",
-		"subunit_name_plural": "fening"
+		"name": "Bosnische convertibele mark",
+		"name_plural": "Bosnische convertibele marken",
+		"subunit_name": "Fening",
+		"subunit_name_plural": "Fenings"
 	},
 	"BBD": {
-		"name": "Barbadiaanse dollar",
-		"name_plural": "Barbadiaanse dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"name": "Barbadaanse dollar",
+		"name_plural": "Barbadaanse dollars",
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"BDT": {
 		"name": "Bengalese taka",
 		"name_plural": "Bengalese taka's",
-		"subunit_name": "poisha",
-		"subunit_name_plural": "poisha"
+		"subunit_name": "Poisha",
+		"subunit_name_plural": "Poishas"
 	},
 	"BGN": {
 		"name": "Bulgaarse lev",
 		"name_plural": "Bulgaarse leva",
-		"subunit_name": "stotinka",
-		"subunit_name_plural": "stotinki"
+		"subunit_name": "Stotinka",
+		"subunit_name_plural": "Stotinki"
 	},
 	"BHD": {
 		"name": "Bahreinse dinar",
 		"name_plural": "Bahreinse dinars",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"BIF": {
 		"name": "Burundese frank",
-		"name_plural": "Burundese frank",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name_plural": "Burundese franken",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Centimes"
 	},
 	"BMD": {
 		"name": "Bermuda-dollar",
 		"name_plural": "Bermuda-dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"BND": {
 		"name": "Bruneise dollar",
 		"name_plural": "Bruneise dollars",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"BOB": {
 		"name": "Boliviaanse boliviano",
 		"name_plural": "Boliviaanse boliviano's",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"BRL": {
 		"name": "Braziliaanse real",
-		"name_plural": "Braziliaanse real",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name_plural": "Braziliaanse reais",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"BSD": {
 		"name": "Bahamaanse dollar",
 		"name_plural": "Bahamaanse dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"BTN": {
 		"name": "Bhutaanse ngultrum",
-		"name_plural": "Bhutaanse ngultrum",
-		"subunit_name": "chetrum",
-		"subunit_name_plural": "chetrum"
+		"name_plural": "Bhutaanse ngultrums",
+		"subunit_name": "Chetrum",
+		"subunit_name_plural": "Chetrums"
 	},
 	"BWP": {
 		"name": "Botswaanse pula",
-		"name_plural": "Botswaanse pula's",
-		"subunit_name": "thebe",
-		"subunit_name_plural": "thebe"
+		"name_plural": "Botswaanse pulas",
+		"subunit_name": "Thebe",
+		"subunit_name_plural": "Thebes"
 	},
 	"BYN": {
 		"name": "Wit-Russische roebel",
 		"name_plural": "Wit-Russische roebels",
-		"subunit_name": "kopek",
-		"subunit_name_plural": "kopeks"
+		"subunit_name": "Kopeke",
+		"subunit_name_plural": "Kopeken"
 	},
 	"BZD": {
 		"name": "Belizaanse dollar",
 		"name_plural": "Belizaanse dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"CAD": {
 		"name": "Canadese dollar",
 		"name_plural": "Canadese dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"CDF": {
 		"name": "Congolese frank",
-		"name_plural": "Congolese frank",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name_plural": "Congolese franken",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Centimes"
 	},
 	"CHF": {
 		"name": "Zwitserse frank",
-		"name_plural": "Zwitserse frank",
-		"subunit_name": "rappen",
-		"subunit_name_plural": "rappen"
+		"name_plural": "Zwitserse franken",
+		"subunit_name": "Rappen",
+		"subunit_name_plural": "Rappen"
 	},
 	"CLP": {
 		"name": "Chileense peso",
-		"name_plural": "Chileense peso's",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name_plural": "Chileense pesos",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"CNY": {
 		"name": "Chinese yuan",
 		"name_plural": "Chinese yuan",
-		"subunit_name": "fen",
-		"subunit_name_plural": "fen"
+		"subunit_name": "Fen",
+		"subunit_name_plural": "Fen"
 	},
 	"COP": {
 		"name": "Colombiaanse peso",
-		"name_plural": "Colombiaanse peso's",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name_plural": "Colombiaanse pesos",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"CRC": {
 		"name": "Costa Ricaanse colón",
-		"name_plural": "Costa Ricaanse colón",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
-	},
-	"CUC": {
-		"name": "Cubaanse converteerbare peso",
-		"name_plural": "Cubaanse converteerbare peso's",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name_plural": "Costa Ricaanse colóns",
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Céntimos"
 	},
 	"CUP": {
 		"name": "Cubaanse peso",
-		"name_plural": "Cubaanse peso's",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name_plural": "Cubaanse pesos",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"CVE": {
 		"name": "Kaapverdische escudo",
 		"name_plural": "Kaapverdische escudo's",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"CZK": {
 		"name": "Tsjechische kroon",
 		"name_plural": "Tsjechische kronen",
-		"subunit_name": "haléř",
-		"subunit_name_plural": "haléř"
+		"subunit_name": "Haléř",
+		"subunit_name_plural": "Haléře"
 	},
 	"DJF": {
 		"name": "Djiboutiaanse frank",
-		"name_plural": "Djiboutiaanse frank",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name_plural": "Djiboutiaanse franken",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Centimes"
 	},
 	"DKK": {
 		"name": "Deense kroon",
 		"name_plural": "Deense kronen",
-		"subunit_name": "øre",
-		"subunit_name_plural": "øre"
+		"subunit_name": "Øre",
+		"subunit_name_plural": "Øre"
 	},
 	"DOP": {
 		"name": "Dominicaanse peso",
-		"name_plural": "Dominicaanse peso's",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name_plural": "Dominicaanse pesos",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"DZD": {
 		"name": "Algerijnse dinar",
 		"name_plural": "Algerijnse dinars",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Centimes"
 	},
 	"EGP": {
 		"name": "Egyptisch pond",
 		"name_plural": "Egyptische ponden",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piasters"
+		"subunit_name": "Piaster",
+		"subunit_name_plural": "Piasters"
 	},
 	"ERN": {
 		"name": "Eritrese nakfa",
 		"name_plural": "Eritrese nakfa's",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"ETB": {
 		"name": "Ethiopische birr",
-		"name_plural": "Ethiopische birr",
-		"subunit_name": "santim",
-		"subunit_name_plural": "santim"
+		"name_plural": "Ethiopische birrs",
+		"subunit_name": "Santim",
+		"subunit_name_plural": "Santims"
 	},
 	"EUR": {
-		"name": "euro",
-		"name_plural": "euro",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"name": "Euro",
+		"name_plural": "Euro's",
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"FJD": {
 		"name": "Fijische dollar",
 		"name_plural": "Fijische dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"FKP": {
 		"name": "Falklandeilands pond",
 		"name_plural": "Falklandeilands ponden",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Pence"
 	},
 	"GBP": {
 		"name": "Brits pond",
 		"name_plural": "Britse ponden",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Pence"
 	},
 	"GEL": {
 		"name": "Georgische lari",
-		"name_plural": "Georgische lari",
-		"subunit_name": "tetri",
-		"subunit_name_plural": "tetri"
+		"name_plural": "Georgische lari's",
+		"subunit_name": "Tetri",
+		"subunit_name_plural": "Tetri"
 	},
 	"GHS": {
 		"name": "Ghanese cedi",
-		"name_plural": "Ghanese cedi",
-		"subunit_name": "pesewa",
-		"subunit_name_plural": "pesewa"
+		"name_plural": "Ghanese cedi's",
+		"subunit_name": "Pesewa",
+		"subunit_name_plural": "Pesewa's"
 	},
 	"GIP": {
 		"name": "Gibraltarees pond",
 		"name_plural": "Gibraltarees ponden",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Pence"
 	},
 	"GMD": {
 		"name": "Gambiaanse dalasi",
-		"name_plural": "Gambiaanse dalasi",
-		"subunit_name": "butut",
-		"subunit_name_plural": "butut"
+		"name_plural": "Gambiaanse dalasi's",
+		"subunit_name": "Butut",
+		"subunit_name_plural": "Bututs"
 	},
 	"GNF": {
-		"name": "Guineese frank",
-		"name_plural": "Guineese frank",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Guinese frank",
+		"name_plural": "Guinese franken",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Centimes"
 	},
 	"GTQ": {
 		"name": "Guatemalteekse quetzal",
 		"name_plural": "Guatemalteekse quetzals",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"GYD": {
 		"name": "Guyaanse dollar",
 		"name_plural": "Guyaanse dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"HKD": {
 		"name": "Hongkongse dollar",
 		"name_plural": "Hongkongse dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"HNL": {
 		"name": "Hondurese lempira",
 		"name_plural": "Hondurese lempira's",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
-	},
-	"HRK": {
-		"name": "Kroatische kuna",
-		"name_plural": "Kroatische kuna's",
-		"subunit_name": "lipa",
-		"subunit_name_plural": "lipa"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"HTG": {
 		"name": "Haïtiaanse gourde",
 		"name_plural": "Haïtiaanse gourdes",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Centimes"
 	},
 	"HUF": {
 		"name": "Hongaarse forint",
-		"name_plural": "Hongaarse forint",
-		"subunit_name": "fillér",
-		"subunit_name_plural": "fillér"
+		"name_plural": "Hongaarse forints",
+		"subunit_name": "Fillér",
+		"subunit_name_plural": "Fillér"
 	},
 	"IDR": {
 		"name": "Indonesische roepia",
 		"name_plural": "Indonesische roepia's",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"ILS": {
 		"name": "Israëlische nieuwe sjekel",
 		"name_plural": "Israëlische nieuwe sjekels",
-		"subunit_name": "agora",
-		"subunit_name_plural": "agorot"
+		"subunit_name": "Agora",
+		"subunit_name_plural": "Agorot"
 	},
 	"INR": {
 		"name": "Indiase roepie",
 		"name_plural": "Indiase roepies",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paise"
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paise"
 	},
 	"IQD": {
 		"name": "Iraakse dinar",
 		"name_plural": "Iraakse dinars",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"IRR": {
 		"name": "Iraanse rial",
-		"name_plural": "Iraanse rial",
-		"subunit_name": "dinar",
-		"subunit_name_plural": "dinar"
+		"name_plural": "Iraanse rials",
+		"subunit_name": "Dinar",
+		"subunit_name_plural": "Dinars"
 	},
 	"ISK": {
 		"name": "IJslandse kroon",
 		"name_plural": "IJslandse kronen",
-		"subunit_name": "eyrir",
-		"subunit_name_plural": "aurar"
+		"subunit_name": "Eyrir",
+		"subunit_name_plural": "Aurar"
 	},
 	"JMD": {
 		"name": "Jamaicaanse dollar",
 		"name_plural": "Jamaicaanse dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"JOD": {
 		"name": "Jordaanse dinar",
 		"name_plural": "Jordaanse dinars",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"JPY": {
 		"name": "Japanse yen",
 		"name_plural": "Japanse yen",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"KES": {
 		"name": "Keniaanse shilling",
-		"name_plural": "Keniaanse shilling",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"name_plural": "Keniaanse shillings",
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"KGS": {
 		"name": "Kirgizische som",
 		"name_plural": "Kirgizische som",
-		"subunit_name": "tyiyn",
-		"subunit_name_plural": "tyiyn"
+		"subunit_name": "Tyiyn",
+		"subunit_name_plural": "Tyiyn"
 	},
 	"KHR": {
 		"name": "Cambodjaanse riel",
-		"name_plural": "Cambodjaanse riel",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name_plural": "Cambodjaanse riels",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"KMF": {
 		"name": "Comorese frank",
-		"name_plural": "Comorese frank",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name_plural": "Comorese franken",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Centimes"
 	},
 	"KPW": {
 		"name": "Noord-Koreaanse won",
 		"name_plural": "Noord-Koreaanse won",
-		"subunit_name": "jeon",
-		"subunit_name_plural": "jeon"
+		"subunit_name": "Jeon",
+		"subunit_name_plural": "Jeon"
 	},
 	"KRW": {
 		"name": "Zuid-Koreaanse won",
 		"name_plural": "Zuid-Koreaanse won",
-		"subunit_name": "jeon",
-		"subunit_name_plural": "jeon"
+		"subunit_name": "Jeon",
+		"subunit_name_plural": "Jeon"
 	},
 	"KWD": {
 		"name": "Koeweitse dinar",
 		"name_plural": "Koeweitse dinars",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"KYD": {
 		"name": "Kaaimaneilandse dollar",
 		"name_plural": "Kaaimaneilandse dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"KZT": {
 		"name": "Kazachse tenge",
 		"name_plural": "Kazachse tenge",
-		"subunit_name": "tiyn",
-		"subunit_name_plural": "tiyn"
+		"subunit_name": "Tiyn",
+		"subunit_name_plural": "Tiyn"
 	},
 	"LAK": {
 		"name": "Laotiaanse kip",
 		"name_plural": "Laotiaanse kip",
-		"subunit_name": "att",
-		"subunit_name_plural": "att"
+		"subunit_name": "Att",
+		"subunit_name_plural": "Att"
 	},
 	"LBP": {
 		"name": "Libanees pond",
-		"name_plural": "Libanese ponden",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piasters"
+		"name_plural": "Libanees ponden",
+		"subunit_name": "Piaster",
+		"subunit_name_plural": "Piasters"
 	},
 	"LKR": {
 		"name": "Sri Lankaanse roepie",
 		"name_plural": "Sri Lankaanse roepies",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"LRD": {
 		"name": "Liberiaanse dollar",
 		"name_plural": "Liberiaanse dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"LSL": {
 		"name": "Lesothaanse loti",
-		"name_plural": "Lesothaanse loti",
-		"subunit_name": "sente",
-		"subunit_name_plural": "lisente"
+		"name_plural": "Lesothaanse loti's",
+		"subunit_name": "Sente",
+		"subunit_name_plural": "Lisente"
 	},
 	"LYD": {
 		"name": "Libische dinar",
 		"name_plural": "Libische dinars",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirham"
+		"subunit_name": "Dirham",
+		"subunit_name_plural": "Dirhams"
 	},
 	"MAD": {
 		"name": "Marokkaanse dirham",
-		"name_plural": "Marokkaanse dirham",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name_plural": "Marokkaanse dirhams",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Centimes"
 	},
 	"MDL": {
 		"name": "Moldavische leu",
 		"name_plural": "Moldavische lei",
-		"subunit_name": "ban",
-		"subunit_name_plural": "bani"
+		"subunit_name": "Ban",
+		"subunit_name_plural": "Bani"
 	},
 	"MGA": {
 		"name": "Malagassische ariary",
-		"name_plural": "Malagassische ariary",
-		"subunit_name": "iraimbilanja",
-		"subunit_name_plural": "iraimbilanja"
+		"name_plural": "Malagassische ariary's",
+		"subunit_name": "Iraimbilanja",
+		"subunit_name_plural": "Iraimbilanja"
 	},
 	"MKD": {
 		"name": "Macedonische denar",
-		"name_plural": "Macedonische denars",
-		"subunit_name": "deni",
-		"subunit_name_plural": "deni"
+		"name_plural": "Macedonische denari",
+		"subunit_name": "Deni",
+		"subunit_name_plural": "Deni"
 	},
 	"MMK": {
 		"name": "Myanmarese kyat",
-		"name_plural": "Myanmarese kyat",
-		"subunit_name": "pya",
-		"subunit_name_plural": "pya"
+		"name_plural": "Myanmarese kyats",
+		"subunit_name": "Pya",
+		"subunit_name_plural": "Pya"
 	},
 	"MNT": {
 		"name": "Mongoolse tugrik",
-		"name_plural": "Mongoolse tugrik",
-		"subunit_name": "möngö",
-		"subunit_name_plural": "möngö"
+		"name_plural": "Mongoolse tugriks",
+		"subunit_name": "Möngö",
+		"subunit_name_plural": "Möngö"
 	},
 	"MOP": {
 		"name": "Macause pataca",
 		"name_plural": "Macause pataca's",
-		"subunit_name": "avo",
-		"subunit_name_plural": "avo"
+		"subunit_name": "Avo",
+		"subunit_name_plural": "Avos"
 	},
 	"MRU": {
 		"name": "Mauritaanse ouguiya",
-		"name_plural": "Mauritaanse ouguiya",
-		"subunit_name": "khoums",
-		"subunit_name_plural": "khoums"
+		"name_plural": "Mauritaanse ouguiya's",
+		"subunit_name": "Khoums",
+		"subunit_name_plural": "Khoums"
 	},
 	"MUR": {
 		"name": "Mauritiaanse roepie",
 		"name_plural": "Mauritiaanse roepies",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"MVR": {
 		"name": "Maldivische rufiyaa",
-		"name_plural": "Maldivische rufiyaa",
-		"subunit_name": "laari",
-		"subunit_name_plural": "laari"
+		"name_plural": "Maldivische rufiyaa's",
+		"subunit_name": "Laari",
+		"subunit_name_plural": "Laari"
 	},
 	"MWK": {
 		"name": "Malawische kwacha",
-		"name_plural": "Malawische kwacha",
-		"subunit_name": "tambala",
-		"subunit_name_plural": "tambala"
+		"name_plural": "Malawische kwacha's",
+		"subunit_name": "Tambala",
+		"subunit_name_plural": "Tambala"
 	},
 	"MXN": {
 		"name": "Mexicaanse peso",
-		"name_plural": "Mexicaanse peso's",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name_plural": "Mexicaanse pesos",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"MYR": {
 		"name": "Maleisische ringgit",
 		"name_plural": "Maleisische ringgit",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"MZN": {
 		"name": "Mozambikaanse metical",
-		"name_plural": "Mozambikaanse metical",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name_plural": "Mozambikaanse meticals",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"NAD": {
 		"name": "Namibische dollar",
 		"name_plural": "Namibische dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"NGN": {
 		"name": "Nigeriaanse naira",
-		"name_plural": "Nigeriaanse naira",
-		"subunit_name": "kobo",
-		"subunit_name_plural": "kobo"
+		"name_plural": "Nigeriaanse naira's",
+		"subunit_name": "Kobo",
+		"subunit_name_plural": "Kobo's"
 	},
 	"NIO": {
 		"name": "Nicaraguaanse córdoba",
 		"name_plural": "Nicaraguaanse córdoba's",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"NOK": {
 		"name": "Noorse kroon",
 		"name_plural": "Noorse kronen",
-		"subunit_name": "øre",
-		"subunit_name_plural": "øre"
+		"subunit_name": "Øre",
+		"subunit_name_plural": "Øre"
 	},
 	"NPR": {
 		"name": "Nepalese roepie",
 		"name_plural": "Nepalese roepies",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisa"
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paisa"
 	},
 	"NZD": {
 		"name": "Nieuw-Zeelandse dollar",
 		"name_plural": "Nieuw-Zeelandse dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"OMR": {
 		"name": "Omaanse rial",
-		"name_plural": "Omaanse rial",
-		"subunit_name": "baisa",
-		"subunit_name_plural": "baisa"
+		"name_plural": "Omaanse rials",
+		"subunit_name": "Baisa",
+		"subunit_name_plural": "Baisa"
 	},
 	"PAB": {
 		"name": "Panamese balboa",
 		"name_plural": "Panamese balboa's",
-		"subunit_name": "centésimo",
-		"subunit_name_plural": "centésimos"
+		"subunit_name": "Centésimo",
+		"subunit_name_plural": "Centésimos"
 	},
 	"PEN": {
 		"name": "Peruaanse sol",
-		"name_plural": "Peruaanse sol",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
+		"name_plural": "Peruaanse soles",
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Céntimos"
 	},
 	"PGK": {
 		"name": "Papoea-Nieuw-Guinese kina",
-		"name_plural": "Papoea-Nieuw-Guinese kina",
-		"subunit_name": "toea",
-		"subunit_name_plural": "toea"
+		"name_plural": "Papoea-Nieuw-Guinese kina's",
+		"subunit_name": "Toea",
+		"subunit_name_plural": "Toea"
 	},
 	"PHP": {
 		"name": "Filipijnse peso",
-		"name_plural": "Filipijnse peso's",
-		"subunit_name": "sentimo",
-		"subunit_name_plural": "sentimos"
+		"name_plural": "Filipijnse pesos",
+		"subunit_name": "Sentimo",
+		"subunit_name_plural": "Sentimos"
 	},
 	"PKR": {
 		"name": "Pakistaanse roepie",
 		"name_plural": "Pakistaanse roepies",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisa"
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paisa"
 	},
 	"PLN": {
 		"name": "Poolse zloty",
-		"name_plural": "Poolse zloty",
-		"subunit_name": "grosz",
-		"subunit_name_plural": "groszy"
+		"name_plural": "Poolse zloty's",
+		"subunit_name": "Grosz",
+		"subunit_name_plural": "Groszy"
 	},
 	"PYG": {
 		"name": "Paraguayaanse guarani",
-		"name_plural": "Paraguayaanse guarani",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
+		"name_plural": "Paraguayaanse guarani's",
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Céntimos"
 	},
 	"QAR": {
 		"name": "Qatarese rial",
-		"name_plural": "Qatarese rial",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirham"
+		"name_plural": "Qatarese rials",
+		"subunit_name": "Dirham",
+		"subunit_name_plural": "Dirhams"
 	},
 	"RON": {
 		"name": "Roemeense leu",
 		"name_plural": "Roemeense lei",
-		"subunit_name": "ban",
-		"subunit_name_plural": "bani"
+		"subunit_name": "Ban",
+		"subunit_name_plural": "Bani"
 	},
 	"RSD": {
 		"name": "Servische dinar",
 		"name_plural": "Servische dinars",
-		"subunit_name": "para",
-		"subunit_name_plural": "para"
+		"subunit_name": "Para",
+		"subunit_name_plural": "Para"
 	},
 	"RUB": {
 		"name": "Russische roebel",
 		"name_plural": "Russische roebels",
-		"subunit_name": "kopek",
-		"subunit_name_plural": "kopeks"
+		"subunit_name": "Kopeke",
+		"subunit_name_plural": "Kopeken"
 	},
 	"RWF": {
 		"name": "Rwandese frank",
-		"name_plural": "Rwandese frank",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name_plural": "Rwandese franken",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Centimes"
 	},
 	"SAR": {
-		"name": "Saoedi-Arabische rijal",
-		"name_plural": "Saoedi-Arabische rijal",
-		"subunit_name": "halala",
-		"subunit_name_plural": "halala"
+		"name": "Saoedi-Arabische riyal",
+		"name_plural": "Saoedi-Arabische riyals",
+		"subunit_name": "Halala",
+		"subunit_name_plural": "Halalas"
 	},
 	"SBD": {
 		"name": "Salomon-dollar",
 		"name_plural": "Salomon-dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"SCR": {
 		"name": "Seychelse roepie",
 		"name_plural": "Seychelse roepies",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"SDG": {
 		"name": "Soedanees pond",
 		"name_plural": "Soedanese ponden",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piasters"
+		"subunit_name": "Piaster",
+		"subunit_name_plural": "Piasters"
 	},
 	"SEK": {
 		"name": "Zweedse kroon",
 		"name_plural": "Zweedse kronen",
-		"subunit_name": "öre",
-		"subunit_name_plural": "öre"
+		"subunit_name": "Öre",
+		"subunit_name_plural": "Öre"
 	},
 	"SGD": {
 		"name": "Singaporese dollar",
 		"name_plural": "Singaporese dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"SHP": {
 		"name": "Sint-Heleens pond",
 		"name_plural": "Sint-Heleens ponden",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Pence"
 	},
-	"SLL": {
+	"SLE": {
 		"name": "Sierra Leoonse leone",
-		"name_plural": "Sierra Leoonse leone",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"name_plural": "Sierra Leoonse leones",
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"SOS": {
 		"name": "Somalische shilling",
-		"name_plural": "Somalische shilling",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"name_plural": "Somalische shillings",
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"SRD": {
 		"name": "Surinaamse dollar",
 		"name_plural": "Surinaamse dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"SSP": {
 		"name": "Zuid-Soedanees pond",
 		"name_plural": "Zuid-Soedanese ponden",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piasters"
+		"subunit_name": "Piaster",
+		"subunit_name_plural": "Piasters"
 	},
 	"STN": {
-		"name": "Santomese dobra",
-		"name_plural": "Santomese dobra",
-		"subunit_name": "cêntimo",
-		"subunit_name_plural": "cêntimos"
+		"name": "São Tomé en Príncipe-dobra",
+		"name_plural": "São Tomé en Príncipe-dobra's",
+		"subunit_name": "Cêntimo",
+		"subunit_name_plural": "Cêntimos"
 	},
 	"SYP": {
 		"name": "Syrisch pond",
 		"name_plural": "Syrische ponden",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piasters"
+		"subunit_name": "Piaster",
+		"subunit_name_plural": "Piasters"
 	},
 	"SZL": {
 		"name": "Swazische lilangeni",
-		"name_plural": "Swazische lilangeni",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"name_plural": "Swazische emalangeni",
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"THB": {
 		"name": "Thaise baht",
 		"name_plural": "Thaise baht",
-		"subunit_name": "satang",
-		"subunit_name_plural": "satang"
+		"subunit_name": "Satang",
+		"subunit_name_plural": "Satang"
 	},
 	"TJS": {
 		"name": "Tadzjiekse somoni",
-		"name_plural": "Tadzjiekse somoni",
-		"subunit_name": "diram",
-		"subunit_name_plural": "diram"
+		"name_plural": "Tadzjiekse somoni's",
+		"subunit_name": "Diram",
+		"subunit_name_plural": "Dirams"
 	},
 	"TMT": {
 		"name": "Turkmeense manat",
-		"name_plural": "Turkmeense manat",
-		"subunit_name": "tenge",
-		"subunit_name_plural": "tenge"
+		"name_plural": "Turkmeense manats",
+		"subunit_name": "Tenge",
+		"subunit_name_plural": "Tenge"
 	},
 	"TND": {
 		"name": "Tunesische dinar",
 		"name_plural": "Tunesische dinars",
-		"subunit_name": "millime",
-		"subunit_name_plural": "millime"
+		"subunit_name": "Millime",
+		"subunit_name_plural": "Millimes"
 	},
 	"TOP": {
 		"name": "Tongaanse paʻanga",
-		"name_plural": "Tongaanse paʻanga",
-		"subunit_name": "seniti",
-		"subunit_name_plural": "seniti"
+		"name_plural": "Tongaanse paʻanga's",
+		"subunit_name": "Seniti",
+		"subunit_name_plural": "Seniti"
 	},
 	"TRY": {
 		"name": "Turkse lira",
 		"name_plural": "Turkse lira's",
-		"subunit_name": "kuruş",
-		"subunit_name_plural": "kuruş"
+		"subunit_name": "Kuruş",
+		"subunit_name_plural": "Kuruş"
 	},
 	"TTD": {
 		"name": "Trinidad en Tobago-dollar",
 		"name_plural": "Trinidad en Tobago-dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"TWD": {
-		"name": "Taiwanese dollar",
-		"name_plural": "Taiwanese dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"name": "Nieuwe Taiwanese dollar",
+		"name_plural": "Nieuwe Taiwanese dollars",
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"TZS": {
 		"name": "Tanzaniaanse shilling",
-		"name_plural": "Tanzaniaanse shilling",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"name_plural": "Tanzaniaanse shillings",
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"UAH": {
 		"name": "Oekraïense hryvnia",
 		"name_plural": "Oekraïense hryvnia's",
-		"subunit_name": "kopek",
-		"subunit_name_plural": "kopeks"
+		"subunit_name": "Kopeke",
+		"subunit_name_plural": "Kopeken"
 	},
 	"UGX": {
 		"name": "Oegandese shilling",
-		"name_plural": "Oegandese shilling",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"name_plural": "Oegandese shillings",
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"USD": {
 		"name": "Amerikaanse dollar",
 		"name_plural": "Amerikaanse dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"UYU": {
 		"name": "Uruguayaanse peso",
-		"name_plural": "Uruguayaanse peso's",
-		"subunit_name": "centésimo",
-		"subunit_name_plural": "centésimos"
+		"name_plural": "Uruguayaanse pesos",
+		"subunit_name": "Centésimo",
+		"subunit_name_plural": "Centésimos"
 	},
 	"UZS": {
-		"name": "Oezbeekse soem",
-		"name_plural": "Oezbeekse soem",
-		"subunit_name": "tiyin",
-		"subunit_name_plural": "tiyin"
+		"name": "Oezbeekse sum",
+		"name_plural": "Oezbeekse sum",
+		"subunit_name": "Tiyin",
+		"subunit_name_plural": "Tiyin"
 	},
-	"VES": {
-		"name": "Venezolaanse bolívar",
-		"name_plural": "Venezolaanse bolívar",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
+	"VED": {
+		"name": "Venezolaanse digitale bolívar",
+		"name_plural": "Venezolaanse digitale bolívares",
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Céntimos"
 	},
 	"VND": {
 		"name": "Vietnamese dong",
 		"name_plural": "Vietnamese dong",
-		"subunit_name": "hào",
-		"subunit_name_plural": "hào"
+		"subunit_name": "Hào",
+		"subunit_name_plural": "Hào"
 	},
 	"VUV": {
 		"name": "Vanuatuaanse vatu",
 		"name_plural": "Vanuatuaanse vatu",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Centimes"
 	},
 	"WST": {
 		"name": "Samoaanse tala",
 		"name_plural": "Samoaanse tala",
-		"subunit_name": "sene",
-		"subunit_name_plural": "sene"
+		"subunit_name": "Sene",
+		"subunit_name_plural": "Sene"
 	},
 	"XAF": {
-		"name": "Centraal-Afrikaanse CFA-frank",
-		"name_plural": "Centraal-Afrikaanse CFA-frank",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "CFA-frank",
+		"name_plural": "CFA-franken",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Centimes"
 	},
 	"XCD": {
 		"name": "Oost-Caribische dollar",
 		"name_plural": "Oost-Caribische dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"XOF": {
-		"name": "West-Afrikaanse CFA-frank",
-		"name_plural": "West-Afrikaanse CFA-frank",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "CFA-frank",
+		"name_plural": "CFA-franken",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Centimes"
 	},
 	"XPF": {
 		"name": "CFP-frank",
-		"name_plural": "CFP-frank",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name_plural": "CFP-franken",
+		"subunit_name": "Centime",
+		"subunit_name_plural": "Centimes"
 	},
 	"YER": {
 		"name": "Jemenitische rial",
-		"name_plural": "Jemenitische rial",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name_plural": "Jemenitische rials",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"ZAR": {
 		"name": "Zuid-Afrikaanse rand",
 		"name_plural": "Zuid-Afrikaanse rand",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	},
 	"ZMW": {
 		"name": "Zambiaanse kwacha",
-		"name_plural": "Zambiaanse kwacha",
-		"subunit_name": "ngwee",
-		"subunit_name_plural": "ngwee"
+		"name_plural": "Zambiaanse kwacha's",
+		"subunit_name": "Ngwee",
+		"subunit_name_plural": "Ngwee"
 	},
 	"ZWL": {
 		"name": "Zimbabwaanse dollar",
 		"name_plural": "Zimbabwaanse dollars",
-		"subunit_name": "cent",
-		"subunit_name_plural": "cent"
+		"subunit_name": "Cent",
+		"subunit_name_plural": "Centen"
 	}
 }

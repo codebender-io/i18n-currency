@@ -12,10 +12,10 @@
 		"subunit_name_plural": "풀"
 	},
 	"ALL": {
-		"name": "알바니아 렉",
-		"name_plural": "알바니아 렉",
-		"subunit_name": "친다르케",
-		"subunit_name_plural": "친다르케"
+		"name": "알바니아 레크",
+		"name_plural": "알바니아 레크",
+		"subunit_name": "킨다르카",
+		"subunit_name_plural": "킨다르카"
 	},
 	"AMD": {
 		"name": "아르메니아 드람",
@@ -56,14 +56,14 @@
 	"AZN": {
 		"name": "아제르바이잔 마나트",
 		"name_plural": "아제르바이잔 마나트",
-		"subunit_name": "게픽",
-		"subunit_name_plural": "게픽"
+		"subunit_name": "케픽",
+		"subunit_name_plural": "케픽"
 	},
 	"BAM": {
 		"name": "보스니아 헤르체고비나 태환 마르크",
 		"name_plural": "보스니아 헤르체고비나 태환 마르크",
-		"subunit_name": "페닝",
-		"subunit_name_plural": "페닝"
+		"subunit_name": "페니",
+		"subunit_name_plural": "페니"
 	},
 	"BBD": {
 		"name": "바베이도스 달러",
@@ -81,7 +81,7 @@
 		"name": "불가리아 레프",
 		"name_plural": "불가리아 레프",
 		"subunit_name": "스토틴카",
-		"subunit_name_plural": "스토틴키"
+		"subunit_name_plural": "스토틴카"
 	},
 	"BHD": {
 		"name": "바레인 디나르",
@@ -114,8 +114,8 @@
 		"subunit_name_plural": "센타보"
 	},
 	"BRL": {
-		"name": "브라질 헤알",
-		"name_plural": "브라질 헤알",
+		"name": "브라질 레알",
+		"name_plural": "브라질 레알",
 		"subunit_name": "센타보",
 		"subunit_name_plural": "센타보"
 	},
@@ -140,8 +140,8 @@
 	"BYN": {
 		"name": "벨라루스 루블",
 		"name_plural": "벨라루스 루블",
-		"subunit_name": "코펙",
-		"subunit_name_plural": "코펙"
+		"subunit_name": "코페이카",
+		"subunit_name_plural": "코페이카"
 	},
 	"BZD": {
 		"name": "벨리즈 달러",
@@ -191,12 +191,6 @@
 		"subunit_name": "센티모",
 		"subunit_name_plural": "센티모"
 	},
-	"CUC": {
-		"name": "쿠바 태환 페소",
-		"name_plural": "쿠바 태환 페소",
-		"subunit_name": "센타보",
-		"subunit_name_plural": "센타보"
-	},
 	"CUP": {
 		"name": "쿠바 페소",
 		"name_plural": "쿠바 페소",
@@ -204,8 +198,8 @@
 		"subunit_name_plural": "센타보"
 	},
 	"CVE": {
-		"name": "카보베르데 에스쿠도",
-		"name_plural": "카보베르데 에스쿠도",
+		"name": "카보베르데 에스쿠두",
+		"name_plural": "카보베르데 에스쿠두",
 		"subunit_name": "센타보",
 		"subunit_name_plural": "센타보"
 	},
@@ -242,20 +236,20 @@
 	"EGP": {
 		"name": "이집트 파운드",
 		"name_plural": "이집트 파운드",
-		"subunit_name": "피아스트르",
-		"subunit_name_plural": "피아스트르"
+		"subunit_name": "피아스터",
+		"subunit_name_plural": "피아스터"
 	},
 	"ERN": {
-		"name": "에리트레아 낙파",
-		"name_plural": "에리트레아 낙파",
+		"name": "에리트리아 낙파",
+		"name_plural": "에리트리아 낙파",
 		"subunit_name": "센트",
 		"subunit_name_plural": "센트"
 	},
 	"ETB": {
 		"name": "에티오피아 비르",
 		"name_plural": "에티오피아 비르",
-		"subunit_name": "산팀",
-		"subunit_name_plural": "산팀"
+		"subunit_name": "센트",
+		"subunit_name_plural": "센트"
 	},
 	"EUR": {
 		"name": "유로",
@@ -335,12 +329,6 @@
 		"subunit_name": "센타보",
 		"subunit_name_plural": "센타보"
 	},
-	"HRK": {
-		"name": "크로아티아 쿠나",
-		"name_plural": "크로아티아 쿠나",
-		"subunit_name": "리파",
-		"subunit_name_plural": "리파"
-	},
 	"HTG": {
 		"name": "아이티 구르드",
 		"name_plural": "아이티 구르드",
@@ -360,10 +348,10 @@
 		"subunit_name_plural": "센"
 	},
 	"ILS": {
-		"name": "이스라엘 신 셰켈",
-		"name_plural": "이스라엘 신 셰켈",
+		"name": "이스라엘 신셰켈",
+		"name_plural": "이스라엘 신셰켈",
 		"subunit_name": "아고라",
-		"subunit_name_plural": "아고로트"
+		"subunit_name_plural": "아고라"
 	},
 	"INR": {
 		"name": "인도 루피",
@@ -387,7 +375,7 @@
 		"name": "아이슬란드 크로나",
 		"name_plural": "아이슬란드 크로나",
 		"subunit_name": "에이리르",
-		"subunit_name_plural": "아우라르"
+		"subunit_name_plural": "에이리르"
 	},
 	"JMD": {
 		"name": "자메이카 달러",
@@ -416,8 +404,8 @@
 	"KGS": {
 		"name": "키르기스스탄 솜",
 		"name_plural": "키르기스스탄 솜",
-		"subunit_name": "티인",
-		"subunit_name_plural": "티인"
+		"subunit_name": "티윈",
+		"subunit_name_plural": "티윈"
 	},
 	"KHR": {
 		"name": "캄보디아 리엘",
@@ -432,8 +420,8 @@
 		"subunit_name_plural": "상팀"
 	},
 	"KPW": {
-		"name": "북한 원",
-		"name_plural": "북한 원",
+		"name": "조선 민주주의 인민공화국 원",
+		"name_plural": "조선 민주주의 인민공화국 원",
 		"subunit_name": "전",
 		"subunit_name_plural": "전"
 	},
@@ -470,8 +458,8 @@
 	"LBP": {
 		"name": "레바논 파운드",
 		"name_plural": "레바논 파운드",
-		"subunit_name": "피아스트르",
-		"subunit_name_plural": "피아스트르"
+		"subunit_name": "피아스터",
+		"subunit_name_plural": "피아스터"
 	},
 	"LKR": {
 		"name": "스리랑카 루피",
@@ -489,7 +477,7 @@
 		"name": "레소토 로티",
 		"name_plural": "레소토 로티",
 		"subunit_name": "센테",
-		"subunit_name_plural": "리센테"
+		"subunit_name_plural": "센테"
 	},
 	"LYD": {
 		"name": "리비아 디나르",
@@ -507,7 +495,7 @@
 		"name": "몰도바 레우",
 		"name_plural": "몰도바 레우",
 		"subunit_name": "반",
-		"subunit_name_plural": "바니"
+		"subunit_name_plural": "반"
 	},
 	"MGA": {
 		"name": "마다가스카르 아리아리",
@@ -522,16 +510,16 @@
 		"subunit_name_plural": "데니"
 	},
 	"MMK": {
-		"name": "미얀마 챠트",
-		"name_plural": "미얀마 챠트",
+		"name": "미얀마 짯",
+		"name_plural": "미얀마 짯",
 		"subunit_name": "퍄",
 		"subunit_name_plural": "퍄"
 	},
 	"MNT": {
 		"name": "몽골 투그릭",
 		"name_plural": "몽골 투그릭",
-		"subunit_name": "뭉게",
-		"subunit_name_plural": "뭉게"
+		"subunit_name": "뭉고",
+		"subunit_name_plural": "뭉고"
 	},
 	"MOP": {
 		"name": "마카오 파타카",
@@ -542,8 +530,8 @@
 	"MRU": {
 		"name": "모리타니 우기야",
 		"name_plural": "모리타니 우기야",
-		"subunit_name": "쿠움스",
-		"subunit_name_plural": "쿠움스"
+		"subunit_name": "쿰",
+		"subunit_name_plural": "쿰"
 	},
 	"MUR": {
 		"name": "모리셔스 루피",
@@ -620,8 +608,8 @@
 	"OMR": {
 		"name": "오만 리알",
 		"name_plural": "오만 리알",
-		"subunit_name": "바이사",
-		"subunit_name_plural": "바이사"
+		"subunit_name": "바이자",
+		"subunit_name_plural": "바이자"
 	},
 	"PAB": {
 		"name": "파나마 발보아",
@@ -654,8 +642,8 @@
 		"subunit_name_plural": "파이사"
 	},
 	"PLN": {
-		"name": "폴란드 즐로티",
-		"name_plural": "폴란드 즐로티",
+		"name": "폴란드 즈워티",
+		"name_plural": "폴란드 즈워티",
 		"subunit_name": "그로시",
 		"subunit_name_plural": "그로시"
 	},
@@ -666,8 +654,8 @@
 		"subunit_name_plural": "센티모"
 	},
 	"QAR": {
-		"name": "카타르 리알",
-		"name_plural": "카타르 리알",
+		"name": "카타르 리얄",
+		"name_plural": "카타르 리얄",
 		"subunit_name": "디르함",
 		"subunit_name_plural": "디르함"
 	},
@@ -675,7 +663,7 @@
 		"name": "루마니아 레우",
 		"name_plural": "루마니아 레우",
 		"subunit_name": "반",
-		"subunit_name_plural": "바니"
+		"subunit_name_plural": "반"
 	},
 	"RSD": {
 		"name": "세르비아 디나르",
@@ -686,8 +674,8 @@
 	"RUB": {
 		"name": "러시아 루블",
 		"name_plural": "러시아 루블",
-		"subunit_name": "코펙",
-		"subunit_name_plural": "코펙"
+		"subunit_name": "코페이카",
+		"subunit_name_plural": "코페이카"
 	},
 	"RWF": {
 		"name": "르완다 프랑",
@@ -716,8 +704,8 @@
 	"SDG": {
 		"name": "수단 파운드",
 		"name_plural": "수단 파운드",
-		"subunit_name": "피아스트르",
-		"subunit_name_plural": "피아스트르"
+		"subunit_name": "피아스터",
+		"subunit_name_plural": "피아스터"
 	},
 	"SEK": {
 		"name": "스웨덴 크로나",
@@ -737,7 +725,7 @@
 		"subunit_name": "페니",
 		"subunit_name_plural": "펜스"
 	},
-	"SLL": {
+	"SLE": {
 		"name": "시에라리온 레온",
 		"name_plural": "시에라리온 레온",
 		"subunit_name": "센트",
@@ -770,12 +758,12 @@
 	"SYP": {
 		"name": "시리아 파운드",
 		"name_plural": "시리아 파운드",
-		"subunit_name": "피아스트르",
-		"subunit_name_plural": "피아스트르"
+		"subunit_name": "피아스터",
+		"subunit_name_plural": "피아스터"
 	},
 	"SZL": {
 		"name": "에스와티니 릴랑게니",
-		"name_plural": "에스와티니 에말랑게니",
+		"name_plural": "에스와티니 릴랑게니",
 		"subunit_name": "센트",
 		"subunit_name_plural": "센트"
 	},
@@ -810,10 +798,10 @@
 		"subunit_name_plural": "세니티"
 	},
 	"TRY": {
-		"name": "터키 리라",
-		"name_plural": "터키 리라",
-		"subunit_name": "쿠루쉬",
-		"subunit_name_plural": "쿠루쉬"
+		"name": "튀르키예 리라",
+		"name_plural": "튀르키예 리라",
+		"subunit_name": "쿠루ş",
+		"subunit_name_plural": "쿠루ş"
 	},
 	"TTD": {
 		"name": "트리니다드 토바고 달러",
@@ -822,8 +810,8 @@
 		"subunit_name_plural": "센트"
 	},
 	"TWD": {
-		"name": "신 대만 달러",
-		"name_plural": "신 대만 달러",
+		"name": "신 타이완 달러",
+		"name_plural": "신 타이완 달러",
 		"subunit_name": "센트",
 		"subunit_name_plural": "센트"
 	},
@@ -834,10 +822,10 @@
 		"subunit_name_plural": "센트"
 	},
 	"UAH": {
-		"name": "우크라이나 그리브나",
-		"name_plural": "우크라이나 그리브나",
-		"subunit_name": "코펙",
-		"subunit_name_plural": "코펙"
+		"name": "우크라이나 흐리브냐",
+		"name_plural": "우크라이나 흐리브냐",
+		"subunit_name": "코페이카",
+		"subunit_name_plural": "코페이카"
 	},
 	"UGX": {
 		"name": "우간다 실링",
@@ -858,14 +846,14 @@
 		"subunit_name_plural": "센테시모"
 	},
 	"UZS": {
-		"name": "우즈베키스탄 솜",
-		"name_plural": "우즈베키스탄 솜",
+		"name": "우즈베키스탄 숨",
+		"name_plural": "우즈베키스탄 숨",
 		"subunit_name": "티인",
 		"subunit_name_plural": "티인"
 	},
-	"VES": {
-		"name": "베네수엘라 볼리바르",
-		"name_plural": "베네수엘라 볼리바르",
+	"VED": {
+		"name": "베네수엘라 디지털 볼리바르",
+		"name_plural": "베네수엘라 디지털 볼리바르",
 		"subunit_name": "센티모",
 		"subunit_name_plural": "센티모"
 	},
@@ -926,8 +914,8 @@
 	"ZMW": {
 		"name": "잠비아 콰차",
 		"name_plural": "잠비아 콰차",
-		"subunit_name": "응궤",
-		"subunit_name_plural": "응궤"
+		"subunit_name": "응웨",
+		"subunit_name_plural": "응웨"
 	},
 	"ZWL": {
 		"name": "짐바브웨 달러",

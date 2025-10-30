@@ -1,938 +1,926 @@
 {
 	"AED": {
-		"name": "UAEko dirham",
-		"name_plural": "UAEko dirhamak",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Arabiar Emirerri Batuetako dirham",
+		"name_plural": "Arabiar Emirerri Batuetako dirhamak",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"AFN": {
 		"name": "Afganistango afghani",
 		"name_plural": "Afganistango afghaniak",
-		"subunit_name": "pul",
-		"subunit_name_plural": "pul"
+		"subunit_name": "Pul",
+		"subunit_name_plural": "Pul"
 	},
 	"ALL": {
 		"name": "Albaniako lek",
 		"name_plural": "Albaniako lekak",
-		"subunit_name": "qindarkë",
-		"subunit_name_plural": "qindarkë"
+		"subunit_name": "Qindarkë",
+		"subunit_name_plural": "Qindarkë"
 	},
 	"AMD": {
 		"name": "Armeniako dram",
 		"name_plural": "Armeniako dramak",
-		"subunit_name": "luma",
-		"subunit_name_plural": "luma"
+		"subunit_name": "Luma",
+		"subunit_name_plural": "Luma"
 	},
 	"ANG": {
-		"name": "Antilla Herbeheretarreko guldena",
-		"name_plural": "Antilla Herbeheretarreko guldenak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Herbehereetako Antilletako florina",
+		"name_plural": "Herbehereetako Antilletako florinak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"AOA": {
 		"name": "Angolako kwanza",
-		"name_plural": "Angolako kwanzak",
-		"subunit_name": "cêntimo",
-		"subunit_name_plural": "cêntimoak"
+		"name_plural": "Angolako kwanza",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"ARS": {
 		"name": "Argentinako peso",
 		"name_plural": "Argentinako pesoak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
+		"subunit_name": "Zentabo",
+		"subunit_name_plural": "Zentaboak"
 	},
 	"AUD": {
-		"name": "Australiako dolarra",
-		"name_plural": "Australiako dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Australiako dolar",
+		"name_plural": "Australiako dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"AWG": {
 		"name": "Arubako florina",
 		"name_plural": "Arubako florinak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"AZN": {
-		"name": "Azerbaijango manata",
+		"name": "Azerbaijango manat",
 		"name_plural": "Azerbaijango manatak",
-		"subunit_name": "qəpik",
-		"subunit_name_plural": "qəpik"
+		"subunit_name": "Qəpik",
+		"subunit_name_plural": "Qəpik"
 	},
 	"BAM": {
 		"name": "Bosnia-Herzegovinako marko bihurgarria",
 		"name_plural": "Bosnia-Herzegovinako marko bihurgarriak",
-		"subunit_name": "fening",
-		"subunit_name_plural": "fening"
+		"subunit_name": "Fening",
+		"subunit_name_plural": "Fening"
 	},
 	"BBD": {
-		"name": "Barbadoseko dolarra",
-		"name_plural": "Barbadoseko dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Barbadoseko dolar",
+		"name_plural": "Barbadoseko dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"BDT": {
 		"name": "Bangladesheko taka",
 		"name_plural": "Bangladesheko takak",
-		"subunit_name": "poisha",
-		"subunit_name_plural": "poisha"
+		"subunit_name": "Poisha",
+		"subunit_name_plural": "Poisha"
 	},
 	"BGN": {
-		"name": "Bulgariako leva",
+		"name": "Bulgariako lev",
 		"name_plural": "Bulgariako levak",
-		"subunit_name": "stotinka",
-		"subunit_name_plural": "stotinka"
+		"subunit_name": "Stotinka",
+		"subunit_name_plural": "Stotinka"
 	},
 	"BHD": {
-		"name": "Bahreineko dinarra",
-		"name_plural": "Bahreineko dinarrak",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Bahraingo dinar",
+		"name_plural": "Bahraingo dinarrak",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"BIF": {
-		"name": "Burundiko frankoa",
-		"name_plural": "Burundiko frankoak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Burundiko libera",
+		"name_plural": "Burundiko liberak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"BMD": {
-		"name": "Bermudako dolarra",
-		"name_plural": "Bermudako dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Bermudetako dolar",
+		"name_plural": "Bermudetako dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"BND": {
-		"name": "Bruneiko dolarra",
-		"name_plural": "Bruneiko dolarak",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Bruneiko dolar",
+		"name_plural": "Bruneiko dolarrak",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"BOB": {
-		"name": "Boliviako bolivianoa",
+		"name": "Boliviako boliviano",
 		"name_plural": "Boliviako bolivianoak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
+		"subunit_name": "Zentabo",
+		"subunit_name_plural": "Zentaboak"
 	},
 	"BRL": {
-		"name": "Brasilgo reala",
-		"name_plural": "Brasilgo realak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
+		"name": "Brasilgo erreal",
+		"name_plural": "Brasilgo errealak",
+		"subunit_name": "Zentabo",
+		"subunit_name_plural": "Zentaboak"
 	},
 	"BSD": {
-		"name": "Bahametako dolarra",
-		"name_plural": "Bahametako dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Bahametako dolar",
+		"name_plural": "Bahametako dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"BTN": {
-		"name": "Bhutango ngultruma",
+		"name": "Bhutango ngultrum",
 		"name_plural": "Bhutango ngultrumak",
-		"subunit_name": "chetrum",
-		"subunit_name_plural": "chetrum"
+		"subunit_name": "Chetrum",
+		"subunit_name_plural": "Chetrum"
 	},
 	"BWP": {
 		"name": "Botswanako pula",
 		"name_plural": "Botswanako pulak",
-		"subunit_name": "thebe",
-		"subunit_name_plural": "thebe"
+		"subunit_name": "Thebe",
+		"subunit_name_plural": "Thebe"
 	},
 	"BYN": {
-		"name": "Bielorrusiako rubloa",
-		"name_plural": "Bielorrusiako rubloak",
-		"subunit_name": "kopeika",
-		"subunit_name_plural": "kopeika"
+		"name": "Bielorrusiako errublo",
+		"name_plural": "Bielorrusiako errubloak",
+		"subunit_name": "Kopecka",
+		"subunit_name_plural": "Kopecka"
 	},
 	"BZD": {
-		"name": "Belizeko dolarra",
-		"name_plural": "Belizeko dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Belizeko dolar",
+		"name_plural": "Belizeko dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"CAD": {
-		"name": "Kanadako dolarra",
-		"name_plural": "Kanadako dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Kanadako dolar",
+		"name_plural": "Kanadako dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"CDF": {
-		"name": "Kongoko frankoa",
-		"name_plural": "Kongoko frankoak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Kongoko libera",
+		"name_plural": "Kongoko liberak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"CHF": {
-		"name": "Suitzako frankoa",
-		"name_plural": "Suitzako frankoak",
-		"subunit_name": "rappen",
-		"subunit_name_plural": "rappen"
+		"name": "Suitzako libera",
+		"name_plural": "Suitzako liberak",
+		"subunit_name": "Rappen",
+		"subunit_name_plural": "Rappen"
 	},
 	"CLP": {
 		"name": "Txileko peso",
 		"name_plural": "Txileko pesoak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
+		"subunit_name": "Zentabo",
+		"subunit_name_plural": "Zentaboak"
 	},
 	"CNY": {
 		"name": "Txinako yuan",
 		"name_plural": "Txinako yuanak",
-		"subunit_name": "fen",
-		"subunit_name_plural": "fen"
+		"subunit_name": "Fen",
+		"subunit_name_plural": "Fen"
 	},
 	"COP": {
 		"name": "Kolonbiako peso",
 		"name_plural": "Kolonbiako pesoak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
+		"subunit_name": "Zentabo",
+		"subunit_name_plural": "Zentaboak"
 	},
 	"CRC": {
 		"name": "Costa Ricako colón",
 		"name_plural": "Costa Ricako colónak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
-	},
-	"CUC": {
-		"name": "Kubako peso bihurgarria",
-		"name_plural": "Kubako peso bihurgarriak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"CUP": {
 		"name": "Kubako peso",
 		"name_plural": "Kubako pesoak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
+		"subunit_name": "Zentabo",
+		"subunit_name_plural": "Zentaboak"
 	},
 	"CVE": {
-		"name": "Cabo Verdeko escudoa",
-		"name_plural": "Cabo Verdeko escudoak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
+		"name": "Cabo Verdeko ezkuido",
+		"name_plural": "Cabo Verdeko ezkuidoak",
+		"subunit_name": "Zentabo",
+		"subunit_name_plural": "Zentaboak"
 	},
 	"CZK": {
-		"name": "Txekiar koruna",
-		"name_plural": "Txekiar korunak",
-		"subunit_name": "haléř",
-		"subunit_name_plural": "haléř"
+		"name": "Txekiako koroa",
+		"name_plural": "Txekiako koroa",
+		"subunit_name": "Haléř",
+		"subunit_name_plural": "Haléř"
 	},
 	"DJF": {
-		"name": "Djibutiko frankoa",
-		"name_plural": "Djibutiko frankoak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Djibutiko libera",
+		"name_plural": "Djibutiko liberak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"DKK": {
 		"name": "Danimarkako koroa",
-		"name_plural": "Danimarkako koroak",
-		"subunit_name": "øre",
-		"subunit_name_plural": "øre"
+		"name_plural": "Danimarkako koroa",
+		"subunit_name": "Øre",
+		"subunit_name_plural": "Øre"
 	},
 	"DOP": {
 		"name": "Dominikar Errepublikako peso",
 		"name_plural": "Dominikar Errepublikako pesoak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
+		"subunit_name": "Zentabo",
+		"subunit_name_plural": "Zentaboak"
 	},
 	"DZD": {
-		"name": "Aljeriako dinarra",
+		"name": "Aljeriako dinar",
 		"name_plural": "Aljeriako dinarrak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"EGP": {
 		"name": "Egiptoko libera",
 		"name_plural": "Egiptoko liberak",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastre"
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Piastre"
 	},
 	"ERN": {
 		"name": "Eritreako nakfa",
 		"name_plural": "Eritreako nakfak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"ETB": {
-		"name": "Etiopiako birra",
+		"name": "Etiopiako birr",
 		"name_plural": "Etiopiako birrak",
-		"subunit_name": "santim",
-		"subunit_name_plural": "santim"
+		"subunit_name": "Santim",
+		"subunit_name_plural": "Santim"
 	},
 	"EUR": {
-		"name": "Euroa",
-		"name_plural": "euroak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Euro",
+		"name_plural": "Euroak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"FJD": {
-		"name": "Fijiko dolarra",
-		"name_plural": "Fijiko dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Fijiko dolar",
+		"name_plural": "Fijiko dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"FKP": {
-		"name": "Falklandetako libera",
-		"name_plural": "Falklandetako liberak",
-		"subunit_name": "penny",
-		"subunit_name_plural": "penny"
+		"name": "Falkland Uharteetako libera",
+		"name_plural": "Falkland Uharteetako liberak",
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Penny"
 	},
 	"GBP": {
-		"name": "Libera esterlina",
-		"name_plural": "libera esterlinak",
-		"subunit_name": "penny",
-		"subunit_name_plural": "penny"
+		"name": "Britania Handiko libera",
+		"name_plural": "Britania Handiko liberak",
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Penny"
 	},
 	"GEL": {
-		"name": "Georgiako laria",
+		"name": "Georgiako lari",
 		"name_plural": "Georgiako lariak",
-		"subunit_name": "tetri",
-		"subunit_name_plural": "tetri"
+		"subunit_name": "Tetri",
+		"subunit_name_plural": "Tetri"
 	},
 	"GHS": {
-		"name": "Ghanako cedia",
+		"name": "Ghanako cedi",
 		"name_plural": "Ghanako cediak",
-		"subunit_name": "pesewa",
-		"subunit_name_plural": "pesewa"
+		"subunit_name": "Pesewa",
+		"subunit_name_plural": "Pesewa"
 	},
 	"GIP": {
-		"name": "Gibraltarko libera",
-		"name_plural": "Gibraltarko liberak",
-		"subunit_name": "penny",
-		"subunit_name_plural": "penny"
+		"name": "Gibraltarreko libera",
+		"name_plural": "Gibraltarreko liberak",
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Penny"
 	},
 	"GMD": {
-		"name": "Gambiako dalasia",
-		"name_plural": "Gambiako dalasiak",
-		"subunit_name": "butut",
-		"subunit_name_plural": "butut"
+		"name": "Ganbiako dalasi",
+		"name_plural": "Ganbiako dalasiak",
+		"subunit_name": "Butut",
+		"subunit_name_plural": "Butut"
 	},
 	"GNF": {
-		"name": "Gineako frankoa",
-		"name_plural": "Gineako frankoak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Gineako libera",
+		"name_plural": "Gineako liberak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"GTQ": {
-		"name": "Guatemalako quetzala",
+		"name": "Guatemalako quetzal",
 		"name_plural": "Guatemalako quetzalak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
+		"subunit_name": "Zentabo",
+		"subunit_name_plural": "Zentaboak"
 	},
 	"GYD": {
-		"name": "Guyanako dolarra",
-		"name_plural": "Guyanako dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Guyanako dolar",
+		"name_plural": "Guyanako dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"HKD": {
-		"name": "Hong Kongeko dolarra",
-		"name_plural": "Hong Kongeko dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Hong Kongeko dolar",
+		"name_plural": "Hong Kongeko dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"HNL": {
 		"name": "Hondurasko lempira",
 		"name_plural": "Hondurasko lempirak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
-	},
-	"HRK": {
-		"name": "Kroaziako kuna",
-		"name_plural": "Kroaziako kunak",
-		"subunit_name": "lipa",
-		"subunit_name_plural": "lipa"
+		"subunit_name": "Zentabo",
+		"subunit_name_plural": "Zentaboak"
 	},
 	"HTG": {
-		"name": "Haitiko gourdea",
+		"name": "Haitiko gourde",
 		"name_plural": "Haitiko gourdeak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"HUF": {
-		"name": "Hungariako forinta",
+		"name": "Hungariako forint",
 		"name_plural": "Hungariako forintak",
-		"subunit_name": "fillér",
-		"subunit_name_plural": "fillér"
+		"subunit_name": "Fillér",
+		"subunit_name_plural": "Fillér"
 	},
 	"IDR": {
-		"name": "Indonesiako rupia",
-		"name_plural": "Indonesiako rupiak",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Indonesiako errupia",
+		"name_plural": "Indonesiako errupiak",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"ILS": {
 		"name": "Israelgo shekel berria",
 		"name_plural": "Israelgo shekel berriak",
-		"subunit_name": "agora",
-		"subunit_name_plural": "agora"
+		"subunit_name": "Agora",
+		"subunit_name_plural": "Agora"
 	},
 	"INR": {
-		"name": "Indiako rupia",
-		"name_plural": "Indiako rupiak",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisa"
+		"name": "Indiako errupia",
+		"name_plural": "Indiako errupiak",
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paisa"
 	},
 	"IQD": {
-		"name": "Irakeko dinarra",
+		"name": "Irakeko dinar",
 		"name_plural": "Irakeko dinarrak",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"IRR": {
-		"name": "Iraneko riala",
-		"name_plural": "Iraneko rialak",
-		"subunit_name": "dinara",
-		"subunit_name_plural": "dinara"
+		"name": "Irango rial",
+		"name_plural": "Irango rialak",
+		"subunit_name": "Dinar",
+		"subunit_name_plural": "Dinar"
 	},
 	"ISK": {
 		"name": "Islandiako koroa",
-		"name_plural": "Islandiako koroak",
-		"subunit_name": "eyrir",
-		"subunit_name_plural": "eyrir"
+		"name_plural": "Islandiako koroa",
+		"subunit_name": "Eyrir",
+		"subunit_name_plural": "Eyrir"
 	},
 	"JMD": {
-		"name": "Jamaikako dolarra",
-		"name_plural": "Jamaikako dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Jamaikako dolar",
+		"name_plural": "Jamaikako dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"JOD": {
-		"name": "Jordaniako dinarra",
+		"name": "Jordaniako dinar",
 		"name_plural": "Jordaniako dinarrak",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"JPY": {
-		"name": "Japoniako yena",
+		"name": "Japoniako yen",
 		"name_plural": "Japoniako yenak",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"KES": {
-		"name": "Kenyako xilina",
-		"name_plural": "Kenyako xilinak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Kenyako txelin",
+		"name_plural": "Kenyako txelinak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"KGS": {
-		"name": "Kirgizistango soma",
+		"name": "Kirgizistango som",
 		"name_plural": "Kirgizistango somak",
-		"subunit_name": "tyiyn",
-		"subunit_name_plural": "tyiyn"
+		"subunit_name": "Tyiyn",
+		"subunit_name_plural": "Tyiyn"
 	},
 	"KHR": {
-		"name": "Kanbodiako riela",
+		"name": "Kanbodiako riel",
 		"name_plural": "Kanbodiako rielak",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"KMF": {
-		"name": "Komoreetako frankoa",
-		"name_plural": "Komoreetako frankoak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Komoreetako libera",
+		"name_plural": "Komoreetako liberak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"KPW": {
-		"name": "Ipar Koreako wona",
+		"name": "Ipar Koreako won",
 		"name_plural": "Ipar Koreako wonak",
-		"subunit_name": "jeon",
-		"subunit_name_plural": "jeon"
+		"subunit_name": "Jeon",
+		"subunit_name_plural": "Jeon"
 	},
 	"KRW": {
-		"name": "Hego Koreako wona",
+		"name": "Hego Koreako won",
 		"name_plural": "Hego Koreako wonak",
-		"subunit_name": "jeon",
-		"subunit_name_plural": "jeon"
+		"subunit_name": "Jeon",
+		"subunit_name_plural": "Jeon"
 	},
 	"KWD": {
-		"name": "Kuwaitar dinarra",
-		"name_plural": "Kuwaitar dinarrak",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Kuwaiteko dinar",
+		"name_plural": "Kuwaiteko dinarrak",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"KYD": {
-		"name": "Kaiman uharteetako dolarra",
-		"name_plural": "Kaiman uharteetako dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Kaiman Uharteetako dolar",
+		"name_plural": "Kaiman Uharteetako dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"KZT": {
-		"name": "Kazakhstango tengea",
+		"name": "Kazakhstango tenge",
 		"name_plural": "Kazakhstango tengeak",
-		"subunit_name": "tiyn",
-		"subunit_name_plural": "tiyn"
+		"subunit_name": "Tiyn",
+		"subunit_name_plural": "Tiyn"
 	},
 	"LAK": {
-		"name": "Laoseko kipa",
+		"name": "Laoseko kip",
 		"name_plural": "Laoseko kipak",
-		"subunit_name": "att",
-		"subunit_name_plural": "att"
+		"subunit_name": "Att",
+		"subunit_name_plural": "Att"
 	},
 	"LBP": {
 		"name": "Libanoko libera",
 		"name_plural": "Libanoko liberak",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastre"
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Piastre"
 	},
 	"LKR": {
-		"name": "Sri Lankako rupia",
-		"name_plural": "Sri Lankako rupiak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Sri Lankako errupia",
+		"name_plural": "Sri Lankako errupiak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"LRD": {
-		"name": "Liberiako dolarra",
-		"name_plural": "Liberiako dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Liberiako dolar",
+		"name_plural": "Liberiako dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"LSL": {
-		"name": "Lesothoko lotia",
+		"name": "Lesothoko loti",
 		"name_plural": "Lesothoko lotiak",
-		"subunit_name": "sente",
-		"subunit_name_plural": "sente"
+		"subunit_name": "Sente",
+		"subunit_name_plural": "Sente"
 	},
 	"LYD": {
-		"name": "Libiako dinarra",
+		"name": "Libiako dinar",
 		"name_plural": "Libiako dinarrak",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirham"
+		"subunit_name": "Dirham",
+		"subunit_name_plural": "Dirham"
 	},
 	"MAD": {
-		"name": "Marokoko dirhama",
+		"name": "Marokoko dirham",
 		"name_plural": "Marokoko dirhamak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"MDL": {
-		"name": "Moldaviako leua",
+		"name": "Moldaviako leu",
 		"name_plural": "Moldaviako leuak",
-		"subunit_name": "ban",
-		"subunit_name_plural": "ban"
+		"subunit_name": "Ban",
+		"subunit_name_plural": "Ban"
 	},
 	"MGA": {
-		"name": "Madagaskarreko ariarya",
+		"name": "Madagaskarreko ariary",
 		"name_plural": "Madagaskarreko ariaryak",
-		"subunit_name": "iraimbilanja",
-		"subunit_name_plural": "iraimbilanja"
+		"subunit_name": "Iraimbilanja",
+		"subunit_name_plural": "Iraimbilanja"
 	},
 	"MKD": {
-		"name": "Mazedoniako denarra",
+		"name": "Mazedoniako denar",
 		"name_plural": "Mazedoniako denarrak",
-		"subunit_name": "deni",
-		"subunit_name_plural": "deni"
+		"subunit_name": "Deni",
+		"subunit_name_plural": "Deni"
 	},
 	"MMK": {
-		"name": "Myanmarko kyata",
-		"name_plural": "Myanmarko kyatak",
-		"subunit_name": "pya",
-		"subunit_name_plural": "pya"
+		"name": "Myanmarreko kyat",
+		"name_plural": "Myanmarreko kyatak",
+		"subunit_name": "Pya",
+		"subunit_name_plural": "Pya"
 	},
 	"MNT": {
-		"name": "Mongoliako tugrika",
+		"name": "Mongoliako tugrik",
 		"name_plural": "Mongoliako tugrikak",
-		"subunit_name": "möngö",
-		"subunit_name_plural": "möngö"
+		"subunit_name": "Möngö",
+		"subunit_name_plural": "Möngö"
 	},
 	"MOP": {
-		"name": "Macauko pataka",
-		"name_plural": "Macauko patakak",
-		"subunit_name": "avo",
-		"subunit_name_plural": "avo"
+		"name": "Macanako pataca",
+		"name_plural": "Macanako patacak",
+		"subunit_name": "Avo",
+		"subunit_name_plural": "Avo"
 	},
 	"MRU": {
 		"name": "Mauritaniako ouguiya",
 		"name_plural": "Mauritaniako ouguiyak",
-		"subunit_name": "khoums",
-		"subunit_name_plural": "khoums"
+		"subunit_name": "Khoums",
+		"subunit_name_plural": "Khoums"
 	},
 	"MUR": {
-		"name": "Maurizioko rupia",
-		"name_plural": "Maurizioko rupiak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Maurizioetako errupia",
+		"name_plural": "Maurizioetako errupiak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"MVR": {
 		"name": "Maldivetako rufiyaa",
 		"name_plural": "Maldivetako rufiyaak",
-		"subunit_name": "laari",
-		"subunit_name_plural": "laari"
+		"subunit_name": "Laari",
+		"subunit_name_plural": "Laari"
 	},
 	"MWK": {
 		"name": "Malawiko kwacha",
 		"name_plural": "Malawiko kwachak",
-		"subunit_name": "tambala",
-		"subunit_name_plural": "tambala"
+		"subunit_name": "Tambala",
+		"subunit_name_plural": "Tambala"
 	},
 	"MXN": {
 		"name": "Mexikoko peso",
 		"name_plural": "Mexikoko pesoak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
+		"subunit_name": "Zentabo",
+		"subunit_name_plural": "Zentaboak"
 	},
 	"MYR": {
-		"name": "Malaysiako ringgita",
+		"name": "Malaysiako ringgit",
 		"name_plural": "Malaysiako ringgitak",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"MZN": {
-		"name": "Mozambikeko metikala",
-		"name_plural": "Mozambikeko metikalak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
+		"name": "Mozambikeko metical",
+		"name_plural": "Mozambikeko meticalak",
+		"subunit_name": "Zentabo",
+		"subunit_name_plural": "Zentaboak"
 	},
 	"NAD": {
-		"name": "Namibiako dolarra",
-		"name_plural": "Namibiako dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Namibiako dolar",
+		"name_plural": "Namibiako dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"NGN": {
 		"name": "Nigeriako naira",
 		"name_plural": "Nigeriako nairak",
-		"subunit_name": "kobo",
-		"subunit_name_plural": "kobo"
+		"subunit_name": "Kobo",
+		"subunit_name_plural": "Kobo"
 	},
 	"NIO": {
-		"name": "Nikaraguako kordoba",
-		"name_plural": "Nikaraguako kordobak",
-		"subunit_name": "zentavo",
-		"subunit_name_plural": "zentavoak"
+		"name": "Nikaraguako córdoba",
+		"name_plural": "Nikaraguako córdobak",
+		"subunit_name": "Zentabo",
+		"subunit_name_plural": "Zentaboak"
 	},
 	"NOK": {
 		"name": "Norvegiako koroa",
-		"name_plural": "Norvegiako koroak",
-		"subunit_name": "øre",
-		"subunit_name_plural": "øre"
+		"name_plural": "Norvegiako koroa",
+		"subunit_name": "Øre",
+		"subunit_name_plural": "Øre"
 	},
 	"NPR": {
-		"name": "Nepalgo rupia",
-		"name_plural": "Nepalgo rupiak",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisa"
+		"name": "Nepalgo errupia",
+		"name_plural": "Nepalgo errupiak",
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paisa"
 	},
 	"NZD": {
-		"name": "Zeelanda Berriko dolarra",
-		"name_plural": "Zeelanda Berriko dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Zeelanda Berriko dolar",
+		"name_plural": "Zeelanda Berriko dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"OMR": {
-		"name": "Omango riala",
+		"name": "Omango rial",
 		"name_plural": "Omango rialak",
-		"subunit_name": "baisa",
-		"subunit_name_plural": "baisa"
+		"subunit_name": "Baisa",
+		"subunit_name_plural": "Baisa"
 	},
 	"PAB": {
 		"name": "Panamako balboa",
 		"name_plural": "Panamako balboak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"subunit_name": "Zentesimo",
+		"subunit_name_plural": "Zentesimoak"
 	},
 	"PEN": {
 		"name": "Peruko sol",
 		"name_plural": "Peruko solak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"PGK": {
 		"name": "Papua Ginea Berriko kina",
 		"name_plural": "Papua Ginea Berriko kinak",
-		"subunit_name": "toea",
-		"subunit_name_plural": "toea"
+		"subunit_name": "Toea",
+		"subunit_name_plural": "Toea"
 	},
 	"PHP": {
 		"name": "Filipinetako peso",
 		"name_plural": "Filipinetako pesoak",
-		"subunit_name": "sentimo",
-		"subunit_name_plural": "sentimoak"
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"PKR": {
-		"name": "Pakistango rupia",
-		"name_plural": "Pakistango rupiak",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisa"
+		"name": "Pakistango errupia",
+		"name_plural": "Pakistango errupiak",
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paisa"
 	},
 	"PLN": {
-		"name": "Poloniako zlotya",
+		"name": "Poloniako zloty",
 		"name_plural": "Poloniako zlotyak",
-		"subunit_name": "grosz",
-		"subunit_name_plural": "grosz"
+		"subunit_name": "Grosz",
+		"subunit_name_plural": "Grosz"
 	},
 	"PYG": {
-		"name": "Paraguaiko guarania",
+		"name": "Paraguaiko guarani",
 		"name_plural": "Paraguaiko guaraniak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"QAR": {
-		"name": "Qatareko riala",
-		"name_plural": "Qatareko rialak",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirham"
+		"name": "Qatarreko rial",
+		"name_plural": "Qatarreko rialak",
+		"subunit_name": "Dirham",
+		"subunit_name_plural": "Dirham"
 	},
 	"RON": {
-		"name": "Errumaniako leua",
+		"name": "Errumaniako leu",
 		"name_plural": "Errumaniako leuak",
-		"subunit_name": "ban",
-		"subunit_name_plural": "ban"
+		"subunit_name": "Ban",
+		"subunit_name_plural": "Ban"
 	},
 	"RSD": {
-		"name": "Serbiako dinarra",
+		"name": "Serbiako dinar",
 		"name_plural": "Serbiako dinarrak",
-		"subunit_name": "para",
-		"subunit_name_plural": "para"
+		"subunit_name": "Para",
+		"subunit_name_plural": "Para"
 	},
 	"RUB": {
-		"name": "Errusiako rubloa",
-		"name_plural": "Errusiako rubloak",
-		"subunit_name": "kopeika",
-		"subunit_name_plural": "kopeika"
+		"name": "Errusiako errublo",
+		"name_plural": "Errusiako errubloak",
+		"subunit_name": "Kopecka",
+		"subunit_name_plural": "Kopecka"
 	},
 	"RWF": {
-		"name": "Ruandako frankoa",
-		"name_plural": "Ruandako frankoak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Ruandako libera",
+		"name_plural": "Ruandako liberak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"SAR": {
-		"name": "Saudi Arabiako riala",
+		"name": "Saudi Arabiako rial",
 		"name_plural": "Saudi Arabiako rialak",
-		"subunit_name": "halala",
-		"subunit_name_plural": "halala"
+		"subunit_name": "Halala",
+		"subunit_name_plural": "Halala"
 	},
 	"SBD": {
-		"name": "Salomon Uharteetako dolarra",
-		"name_plural": "Salomon Uharteetako dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Salomon Uharteetako dolar",
+		"name_plural": "Salomon Uharteetako dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"SCR": {
-		"name": "Seychelleetako rupia",
-		"name_plural": "Seychelleetako rupiak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Seychelleetako errupia",
+		"name_plural": "Seychelleetako errupiak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"SDG": {
 		"name": "Sudango libera",
 		"name_plural": "Sudango liberak",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastre"
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Piastre"
 	},
 	"SEK": {
 		"name": "Suediako koroa",
-		"name_plural": "Suediako koroak",
-		"subunit_name": "öre",
-		"subunit_name_plural": "öre"
+		"name_plural": "Suediako koroa",
+		"subunit_name": "Öre",
+		"subunit_name_plural": "Öre"
 	},
 	"SGD": {
-		"name": "Singapurreko dolarra",
-		"name_plural": "Singapurreko dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Singapurreko dolar",
+		"name_plural": "Singapurreko dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"SHP": {
 		"name": "Santa Helenako libera",
 		"name_plural": "Santa Helenako liberak",
-		"subunit_name": "penny",
-		"subunit_name_plural": "penny"
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Penny"
 	},
-	"SLL": {
-		"name": "Sierra Leonako leonea",
+	"SLE": {
+		"name": "Sierra Leonako leone",
 		"name_plural": "Sierra Leonako leoneak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"SOS": {
-		"name": "Somaliako xilina",
-		"name_plural": "Somaliako xilinak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Somaliko txelin",
+		"name_plural": "Somaliko txelinak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"SRD": {
-		"name": "Surinamgo dolarra",
-		"name_plural": "Surinamgo dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Surinameko dolar",
+		"name_plural": "Surinameko dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"SSP": {
-		"name": "Hego Sudaneko libera",
-		"name_plural": "Hego Sudaneko liberak",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piaster"
+		"name": "Hego Sudango libera",
+		"name_plural": "Hego Sudango liberak",
+		"subunit_name": "Piaster",
+		"subunit_name_plural": "Piaster"
 	},
 	"STN": {
-		"name": "Sao Tome eta Principeko dobra",
-		"name_plural": "Sao Tome eta Principeko dobrak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "São Tomé eta Príncipeko dobra",
+		"name_plural": "São Tomé eta Príncipeko dobrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"SYP": {
 		"name": "Siriako libera",
 		"name_plural": "Siriako liberak",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastre"
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Piastre"
 	},
 	"SZL": {
-		"name": "Swazilandiako lilangenia",
-		"name_plural": "Swazilandiako emalangeniak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Swazilandiako lilangeni",
+		"name_plural": "Swazilandiako emalangeni",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"THB": {
-		"name": "Thailandiako bahta",
-		"name_plural": "Thailandiako bahtak",
-		"subunit_name": "satang",
-		"subunit_name_plural": "satang"
+		"name": "Thailandiako baht",
+		"name_plural": "Thailandiako baht",
+		"subunit_name": "Satang",
+		"subunit_name_plural": "Satang"
 	},
 	"TJS": {
-		"name": "Tajikistango somonia",
+		"name": "Tajikistango somoni",
 		"name_plural": "Tajikistango somoniak",
-		"subunit_name": "diram",
-		"subunit_name_plural": "diram"
+		"subunit_name": "Diram",
+		"subunit_name_plural": "Diram"
 	},
 	"TMT": {
-		"name": "Turkmenistango manata",
+		"name": "Turkmenistango manat",
 		"name_plural": "Turkmenistango manatak",
-		"subunit_name": "tenge",
-		"subunit_name_plural": "tenge"
+		"subunit_name": "Tenge",
+		"subunit_name_plural": "Tenge"
 	},
 	"TND": {
-		"name": "Tunisiako dinarra",
+		"name": "Tunisiako dinar",
 		"name_plural": "Tunisiako dinarrak",
-		"subunit_name": "millime",
-		"subunit_name_plural": "millime"
+		"subunit_name": "Millime",
+		"subunit_name_plural": "Millime"
 	},
 	"TOP": {
 		"name": "Tongako paʻanga",
-		"name_plural": "Tongako paʻangak",
-		"subunit_name": "seniti",
-		"subunit_name_plural": "seniti"
+		"name_plural": "Tongako paʻanga",
+		"subunit_name": "Seniti",
+		"subunit_name_plural": "Seniti"
 	},
 	"TRY": {
 		"name": "Turkiako lira",
 		"name_plural": "Turkiako lirak",
-		"subunit_name": "kuruş",
-		"subunit_name_plural": "kuruş"
+		"subunit_name": "Kuruş",
+		"subunit_name_plural": "Kuruş"
 	},
 	"TTD": {
-		"name": "Trinidad eta Tobagoko dolarra",
-		"name_plural": "Trinidad eta Tobagoko dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Trinidad eta Tobagoko dolar",
+		"name_plural": "Trinidad eta Tobagoko dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"TWD": {
 		"name": "Taiwango dolar berria",
 		"name_plural": "Taiwango dolar berriak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"TZS": {
-		"name": "Tanzaniako xilina",
-		"name_plural": "Tanzaniako xilinak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Tanzaniako txelin",
+		"name_plural": "Tanzaniako txelinak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"UAH": {
-		"name": "Ukrainako grivna",
-		"name_plural": "Ukrainako grivnak",
-		"subunit_name": "kopeika",
-		"subunit_name_plural": "kopeika"
+		"name": "Ukrainako hryvnia",
+		"name_plural": "Ukrainako hryvniak",
+		"subunit_name": "Kopecka",
+		"subunit_name_plural": "Kopecka"
 	},
 	"UGX": {
-		"name": "Ugandako xilina",
-		"name_plural": "Ugandako xilinak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Ugandako txelin",
+		"name_plural": "Ugandako txelinak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"USD": {
-		"name": "Ameriketako Estatu Batuetako dolarra",
-		"name_plural": "Ameriketako Estatu Batuetako dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Estatu Batuetako dolar",
+		"name_plural": "Estatu Batuetako dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"UYU": {
 		"name": "Uruguaiko peso",
 		"name_plural": "Uruguaiko pesoak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"subunit_name": "Zentesimo",
+		"subunit_name_plural": "Zentesimoak"
 	},
 	"UZS": {
-		"name": "Uzbekistango soma",
+		"name": "Uzbekistango som",
 		"name_plural": "Uzbekistango somak",
-		"subunit_name": "tiyin",
-		"subunit_name_plural": "tiyin"
+		"subunit_name": "Tiyin",
+		"subunit_name_plural": "Tiyin"
 	},
-	"VES": {
-		"name": "Venezuelako bolívara",
-		"name_plural": "Venezuelako bolívarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+	"VED": {
+		"name": "Venezuelako bolivar digitala",
+		"name_plural": "Venezuelako bolivar digitalak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"VND": {
-		"name": "Vietnamgo donga",
-		"name_plural": "Vietnamgo dongak",
-		"subunit_name": "hào",
-		"subunit_name_plural": "hào"
+		"name": "Vietnameko dong",
+		"name_plural": "Vietnameko dongak",
+		"subunit_name": "Hào",
+		"subunit_name_plural": "Hào"
 	},
 	"VUV": {
 		"name": "Vanuatuko vatu",
 		"name_plural": "Vanuatuko vatuak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"WST": {
-		"name": "Samoko tala",
-		"name_plural": "Samoko talak",
-		"subunit_name": "sene",
-		"subunit_name_plural": "sene"
+		"name": "Samoako tala",
+		"name_plural": "Samoako talak",
+		"subunit_name": "Sene",
+		"subunit_name_plural": "Sene"
 	},
 	"XAF": {
-		"name": "Afrika Erdiko CFA frankoa",
-		"name_plural": "Afrika Erdiko CFA frankoak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Afrika Erdiko CFA libera",
+		"name_plural": "Afrika Erdiko CFA liberak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"XCD": {
-		"name": "Ekialdeko Karibeko dolarra",
-		"name_plural": "Ekialdeko Karibeko dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Karibe Ekialdeko dolar",
+		"name_plural": "Karibe Ekialdeko dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"XOF": {
-		"name": "Afrika Mendebaldeko CFA frankoa",
-		"name_plural": "Afrika Mendebaldeko CFA frankoak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Afrika Mendebaldeko CFA libera",
+		"name_plural": "Afrika Mendebaldeko CFA liberak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"XPF": {
-		"name": "CFP frankoa",
-		"name_plural": "CFP frankoak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "CFP libera",
+		"name_plural": "CFP liberak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"YER": {
-		"name": "Yemengo riala",
+		"name": "Yemengo rial",
 		"name_plural": "Yemengo rialak",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"ZAR": {
-		"name": "Hegoafrikako randa",
+		"name": "Hegoafrikako rand",
 		"name_plural": "Hegoafrikako randak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	},
 	"ZMW": {
 		"name": "Zambiako kwacha",
 		"name_plural": "Zambiako kwachak",
-		"subunit_name": "ngwee",
-		"subunit_name_plural": "ngwee"
+		"subunit_name": "Ngwee",
+		"subunit_name_plural": "Ngwee"
 	},
 	"ZWL": {
-		"name": "Zimbabweko dolarra",
-		"name_plural": "Zimbabweko dolarak",
-		"subunit_name": "zentimo",
-		"subunit_name_plural": "zentimoak"
+		"name": "Zimbabwego dolar",
+		"name_plural": "Zimbabwego dolarrak",
+		"subunit_name": "Zentimo",
+		"subunit_name_plural": "Zentimoak"
 	}
 }

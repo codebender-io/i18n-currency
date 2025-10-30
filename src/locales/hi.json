@@ -1,43 +1,43 @@
 {
 	"AED": {
-		"name": "संयुक्त अरब अमीरात दिरहम",
-		"name_plural": "संयुक्त अरब अमीरात दिरहम",
-		"subunit_name": "फिल्स",
-		"subunit_name_plural": "फिल्स"
+		"name": "यूएई दिरहम",
+		"name_plural": "यूएई दिरहम",
+		"subunit_name": "फ़िल्स",
+		"subunit_name_plural": "फ़िल्स"
 	},
 	"AFN": {
-		"name": "अफगान अफगानी",
-		"name_plural": "अफगान अफगानी",
+		"name": "अफ़गान अफ़गानी",
+		"name_plural": "अफ़गान अफ़गानी",
 		"subunit_name": "पुल",
 		"subunit_name_plural": "पुल"
 	},
 	"ALL": {
 		"name": "अल्बानियाई लेक",
-		"name_plural": "अल्बानियाई लेक",
-		"subunit_name": "क़िंदर्का",
-		"subunit_name_plural": "क़िंदर्का"
+		"name_plural": "अल्बानियाई लेके",
+		"subunit_name": "क़िंदार्के",
+		"subunit_name_plural": "क़िंदार्के"
 	},
 	"AMD": {
-		"name": "आर्मेनियाई ड्रैम",
-		"name_plural": "आर्मेनियाई ड्रैम",
-		"subunit_name": "लूमा",
-		"subunit_name_plural": "लूमा"
+		"name": "आर्मेनियाई ड्राम",
+		"name_plural": "आर्मेनियाई ड्राम",
+		"subunit_name": "लुमा",
+		"subunit_name_plural": "लुमा"
 	},
 	"ANG": {
-		"name": "नीदरलैंड्स एंटीलियन गिल्डर",
-		"name_plural": "नीदरलैंड्स एंटीलियन गिल्डर",
+		"name": "नीदरलैंड एंटीलियन गिल्डर",
+		"name_plural": "नीदरलैंड एंटीलियन गिल्डर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"AOA": {
-		"name": "अंगोलियाई क्वांजा",
-		"name_plural": "अंगोलियाई क्वांजा",
+		"name": "अंगोलन क्वान्जा",
+		"name_plural": "अंगोलन क्वान्जा",
 		"subunit_name": "सेंटिमो",
 		"subunit_name_plural": "सेंटिमो"
 	},
 	"ARS": {
-		"name": "अर्जेंटीना पेसो",
-		"name_plural": "अर्जेंटीना पेसो",
+		"name": "अर्जेंटीनी पेसो",
+		"name_plural": "अर्जेंटीनी पेसो",
 		"subunit_name": "सेंटावो",
 		"subunit_name_plural": "सेंटावो"
 	},
@@ -56,48 +56,48 @@
 	"AZN": {
 		"name": "अज़रबैजानी मनात",
 		"name_plural": "अज़रबैजानी मनात",
-		"subunit_name": "क़पिक",
-		"subunit_name_plural": "क़पिक"
+		"subunit_name": "क़ेपिक",
+		"subunit_name_plural": "क़ेपिक"
 	},
 	"BAM": {
-		"name": "बोस्निया-हर्ज़ेगोविना परिवर्तनीय मार्क",
-		"name_plural": "बोस्निया-हर्ज़ेगोविना परिवर्तनीय मार्क",
+		"name": "बोस्निया-हर्जेगोविना परिवर्तनीय मार्क",
+		"name_plural": "बोस्निया-हर्जेगोविना परिवर्तनीय मार्क",
 		"subunit_name": "फेनिंग",
 		"subunit_name_plural": "फेनिंग"
 	},
 	"BBD": {
-		"name": "बारबाडियाई डॉलर",
-		"name_plural": "बारबाडियाई डॉलर",
+		"name": "बारबाडियन डॉलर",
+		"name_plural": "बारबाडियन डॉलर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"BDT": {
 		"name": "बांग्लादेशी टका",
 		"name_plural": "बांग्लादेशी टका",
-		"subunit_name": "पॉइशा",
-		"subunit_name_plural": "पॉइशा"
+		"subunit_name": "पोइशा",
+		"subunit_name_plural": "पोइशा"
 	},
 	"BGN": {
 		"name": "बुल्गारियाई लेव",
-		"name_plural": "बुल्गारियाई लेव",
-		"subunit_name": "स्टोतिंका",
-		"subunit_name_plural": "स्टोतिंका"
+		"name_plural": "बुल्गारियाई लेवा",
+		"subunit_name": "स्टोटिंका",
+		"subunit_name_plural": "स्टोटिंकी"
 	},
 	"BHD": {
-		"name": "बहरीनी दीनार",
-		"name_plural": "बहरीनी दीनार",
-		"subunit_name": "फिल्स",
-		"subunit_name_plural": "फिल्स"
+		"name": "बहरीनी दिनार",
+		"name_plural": "बहरीनी दिनार",
+		"subunit_name": "फ़िल्स",
+		"subunit_name_plural": "फ़िल्स"
 	},
 	"BIF": {
-		"name": "बुरुंडी फ्रैंक",
-		"name_plural": "बुरुंडी फ्रैंक",
-		"subunit_name": "सेंटीम",
-		"subunit_name_plural": "सेंटीम"
+		"name": "बुरुंडियन फ़्रैंक",
+		"name_plural": "बुरुंडियन फ़्रैंक",
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"BMD": {
-		"name": "बरमूडियाई डॉलर",
-		"name_plural": "बरमूडियाई डॉलर",
+		"name": "बरमूडा डॉलर",
+		"name_plural": "बरमूडा डॉलर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
@@ -108,32 +108,32 @@
 		"subunit_name_plural": "सेन"
 	},
 	"BOB": {
-		"name": "बोलीवियाई बोलिवियानो",
-		"name_plural": "बोलीवियाई बोलिवियानो",
+		"name": "बोलिवियन बोलिवियानो",
+		"name_plural": "बोलिवियन बोलिवियानो",
 		"subunit_name": "सेंटावो",
 		"subunit_name_plural": "सेंटावो"
 	},
 	"BRL": {
-		"name": "ब्राजीलियाई रियाल",
-		"name_plural": "ब्राजीलियाई रियाल",
+		"name": "ब्राज़ीलियाई रियल",
+		"name_plural": "ब्राज़ीलियाई रियल",
 		"subunit_name": "सेंटावो",
 		"subunit_name_plural": "सेंटावो"
 	},
 	"BSD": {
-		"name": "बहामियाई डॉलर",
-		"name_plural": "बहामियाई डॉलर",
+		"name": "बहामियन डॉलर",
+		"name_plural": "बहामियन डॉलर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"BTN": {
-		"name": "भूटानी न्गुल्ट्रम",
-		"name_plural": "भूटानी न्गुल्ट्रम",
-		"subunit_name": "छेत्रुम",
-		"subunit_name_plural": "छेत्रुम"
+		"name": "भूटानी नगुल्ट्रम",
+		"name_plural": "भूटानी नगुल्ट्रम",
+		"subunit_name": "चेत्रुम",
+		"subunit_name_plural": "चेत्रुम"
 	},
 	"BWP": {
-		"name": "बोत्सवानाई पुला",
-		"name_plural": "बोत्सवानाई पुला",
+		"name": "बोत्सवाना पुला",
+		"name_plural": "बोत्सवाना पुला",
 		"subunit_name": "थेबे",
 		"subunit_name_plural": "थेबे"
 	},
@@ -144,8 +144,8 @@
 		"subunit_name_plural": "कोपेक"
 	},
 	"BZD": {
-		"name": "बेलीज डॉलर",
-		"name_plural": "बेलीज डॉलर",
+		"name": "बेलीज़ डॉलर",
+		"name_plural": "बेलीज़ डॉलर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
@@ -156,16 +156,16 @@
 		"subunit_name_plural": "सेंट"
 	},
 	"CDF": {
-		"name": "कांगोलीज़ फ्रैंक",
-		"name_plural": "कांगोलीज़ फ्रैंक",
-		"subunit_name": "सेंटीम",
-		"subunit_name_plural": "सेंटीम"
+		"name": "कांगोली फ़्रैंक",
+		"name_plural": "कांगोली फ़्रैंक",
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"CHF": {
-		"name": "स्विस फ्रैंक",
-		"name_plural": "स्विस फ्रैंक",
-		"subunit_name": "रैपेन",
-		"subunit_name_plural": "रैपेन"
+		"name": "स्विस फ़्रैंक",
+		"name_plural": "स्विस फ़्रैंक",
+		"subunit_name": "रैपन",
+		"subunit_name_plural": "रैपन"
 	},
 	"CLP": {
 		"name": "चिली पेसो",
@@ -188,14 +188,8 @@
 	"CRC": {
 		"name": "कोस्टा रिकन कोलोन",
 		"name_plural": "कोस्टा रिकन कोलोन",
-		"subunit_name": "सेंटीमो",
-		"subunit_name_plural": "सेंटीमो"
-	},
-	"CUC": {
-		"name": "क्यूबन परिवर्तनीय पेसो",
-		"name_plural": "क्यूबन परिवर्तनीय पेसो",
-		"subunit_name": "सेंटावो",
-		"subunit_name_plural": "सेंटावो"
+		"subunit_name": "सेंटिमो",
+		"subunit_name_plural": "सेंटिमो"
 	},
 	"CUP": {
 		"name": "क्यूबन पेसो",
@@ -204,26 +198,26 @@
 		"subunit_name_plural": "सेंटावो"
 	},
 	"CVE": {
-		"name": "केप वर्डियन एस्कूडो",
-		"name_plural": "केप वर्डियन एस्कूडो",
+		"name": "केप वर्डियन एस्कुडो",
+		"name_plural": "केप वर्डियन एस्कुडो",
 		"subunit_name": "सेंटावो",
 		"subunit_name_plural": "सेंटावो"
 	},
 	"CZK": {
 		"name": "चेक कोरुना",
 		"name_plural": "चेक कोरुना",
-		"subunit_name": "हलेर",
-		"subunit_name_plural": "हलेर"
+		"subunit_name": "हेलर",
+		"subunit_name_plural": "हेलर"
 	},
 	"DJF": {
-		"name": "जिबूती फ्रैंक",
-		"name_plural": "जिबूती फ्रैंक",
-		"subunit_name": "सेंटीम",
-		"subunit_name_plural": "सेंटीम"
+		"name": "जिबूती फ़्रैंक",
+		"name_plural": "जिबूती फ़्रैंक",
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"DKK": {
 		"name": "डेनिश क्रोन",
-		"name_plural": "डेनिश क्रोन",
+		"name_plural": "डेनिश क्रोनर",
 		"subunit_name": "ओरे",
 		"subunit_name_plural": "ओरे"
 	},
@@ -234,28 +228,28 @@
 		"subunit_name_plural": "सेंटावो"
 	},
 	"DZD": {
-		"name": "अल्जीरियाई दीनार",
-		"name_plural": "अल्जीरियाई दीनार",
-		"subunit_name": "सेंटीम",
-		"subunit_name_plural": "सेंटीम"
+		"name": "अल्जीरियाई दिनार",
+		"name_plural": "अल्जीरियाई दिनार",
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"EGP": {
-		"name": "मिस्र का पाउंड",
-		"name_plural": "मिस्र के पाउंड",
-		"subunit_name": "पियास्त्रे",
-		"subunit_name_plural": "पियास्त्रे"
+		"name": "मिस्र पाउंड",
+		"name_plural": "मिस्र पाउंड",
+		"subunit_name": "पियास्टर",
+		"subunit_name_plural": "पियास्टर"
 	},
 	"ERN": {
-		"name": "इरिट्रियाई नक्फा",
-		"name_plural": "इरिट्रियाई नक्फा",
+		"name": "इरिट्रियन नाक्फा",
+		"name_plural": "इरिट्रियन नाक्फा",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"ETB": {
-		"name": "इथियोपियाई बिर",
-		"name_plural": "इथियोपियाई बिर",
-		"subunit_name": "संतिम",
-		"subunit_name_plural": "संतिम"
+		"name": "इथियोपियन बिर्र",
+		"name_plural": "इथियोपियन बिर्र",
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"EUR": {
 		"name": "यूरो",
@@ -264,14 +258,14 @@
 		"subunit_name_plural": "सेंट"
 	},
 	"FJD": {
-		"name": "फ़िजी डॉलर",
-		"name_plural": "फ़िजी डॉलर",
+		"name": "फ़िजियन डॉलर",
+		"name_plural": "फ़िजियन डॉलर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"FKP": {
-		"name": "फ़ॉकलैंड द्वीप समूह पाउंड",
-		"name_plural": "फ़ॉकलैंड द्वीप समूह पाउंड",
+		"name": "फ़ॉकलैंड आइलैंड्स पाउंड",
+		"name_plural": "फ़ॉकलैंड आइलैंड्स पाउंड",
 		"subunit_name": "पेनी",
 		"subunit_name_plural": "पेंस"
 	},
@@ -282,8 +276,8 @@
 		"subunit_name_plural": "पेंस"
 	},
 	"GEL": {
-		"name": "जॉर्जियाई लारी",
-		"name_plural": "जॉर्जियाई लारी",
+		"name": "जॉर्जियन लारी",
+		"name_plural": "जॉर्जियन लारी",
 		"subunit_name": "तेत्री",
 		"subunit_name_plural": "तेत्री"
 	},
@@ -300,26 +294,26 @@
 		"subunit_name_plural": "पेंस"
 	},
 	"GMD": {
-		"name": "गाम्बियाई दलासी",
-		"name_plural": "गाम्बियाई दलासी",
+		"name": "गैंबियन दलासी",
+		"name_plural": "गैंबियन दलासी",
 		"subunit_name": "बुतुत",
 		"subunit_name_plural": "बुतुत"
 	},
 	"GNF": {
-		"name": "गिनी फ्रैंक",
-		"name_plural": "गिनी फ्रैंक",
-		"subunit_name": "सेंटीम",
-		"subunit_name_plural": "सेंटीम"
+		"name": "गिनी फ़्रैंक",
+		"name_plural": "गिनी फ़्रैंक",
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"GTQ": {
-		"name": "ग्वाटेमालाई क्वेत्ज़ल",
-		"name_plural": "ग्वाटेमालाई क्वेत्ज़ल",
+		"name": "ग्वाटेमालन क्वेट्ज़ल",
+		"name_plural": "ग्वाटेमालन क्वेट्ज़ल",
 		"subunit_name": "सेंटावो",
 		"subunit_name_plural": "सेंटावो"
 	},
 	"GYD": {
-		"name": "गुयानीज़ डॉलर",
-		"name_plural": "गुयानीज़ डॉलर",
+		"name": "गयानीज़ डॉलर",
+		"name_plural": "गयानीज़ डॉलर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
@@ -335,23 +329,17 @@
 		"subunit_name": "सेंटावो",
 		"subunit_name_plural": "सेंटावो"
 	},
-	"HRK": {
-		"name": "क्रोएशियाई कुना",
-		"name_plural": "क्रोएशियाई कुना",
-		"subunit_name": "लिपा",
-		"subunit_name_plural": "लिपा"
-	},
 	"HTG": {
-		"name": "हैती गूर्दे",
-		"name_plural": "हैती गूर्दे",
-		"subunit_name": "सेंटीम",
-		"subunit_name_plural": "सेंटीम"
+		"name": "हैतियन गौर्डे",
+		"name_plural": "हैतियन गौर्डे",
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"HUF": {
-		"name": "हंगेरियाई फ़ोरिंट",
-		"name_plural": "हंगेरियाई फ़ोरिंट",
-		"subunit_name": "फिल्लेर",
-		"subunit_name_plural": "फिल्लेर"
+		"name": "हंगेरियन फ़ोरिंट",
+		"name_plural": "हंगेरियन फ़ोरिंट",
+		"subunit_name": "फ़िल्लर",
+		"subunit_name_plural": "फ़िल्लर"
 	},
 	"IDR": {
 		"name": "इंडोनेशियाई रुपिया",
@@ -360,8 +348,8 @@
 		"subunit_name_plural": "सेन"
 	},
 	"ILS": {
-		"name": "इज़राइली न्यू शेकेल",
-		"name_plural": "इज़राइली न्यू शेकेल",
+		"name": "इजराइली न्यू शेकेल",
+		"name_plural": "इजराइली न्यू शेकेल",
 		"subunit_name": "अगोरा",
 		"subunit_name_plural": "अगोरोट"
 	},
@@ -372,21 +360,21 @@
 		"subunit_name_plural": "पैसे"
 	},
 	"IQD": {
-		"name": "इराकी दीनार",
-		"name_plural": "इराकी दीनार",
-		"subunit_name": "फिल्स",
-		"subunit_name_plural": "फिल्स"
+		"name": "इराकी दिनार",
+		"name_plural": "इराकी दिनार",
+		"subunit_name": "फ़िल्स",
+		"subunit_name_plural": "फ़िल्स"
 	},
 	"IRR": {
 		"name": "ईरानी रियाल",
 		"name_plural": "ईरानी रियाल",
-		"subunit_name": "दीनार",
-		"subunit_name_plural": "दीनार"
+		"subunit_name": "दिनार",
+		"subunit_name_plural": "दिनार"
 	},
 	"ISK": {
 		"name": "आइसलैंडिक क्रोना",
-		"name_plural": "आइसलैंडिक क्रोना",
-		"subunit_name": "ऐयरिर",
+		"name_plural": "आइसलैंडिक क्रोनुर",
+		"subunit_name": "एयरर",
 		"subunit_name_plural": "औरार"
 	},
 	"JMD": {
@@ -396,10 +384,10 @@
 		"subunit_name_plural": "सेंट"
 	},
 	"JOD": {
-		"name": "जॉर्डनियाई दीनार",
-		"name_plural": "जॉर्डनियाई दीनार",
-		"subunit_name": "फिल्स",
-		"subunit_name_plural": "फिल्स"
+		"name": "जॉर्डनियन दिनार",
+		"name_plural": "जॉर्डनियन दिनार",
+		"subunit_name": "फ़िल्स",
+		"subunit_name_plural": "फ़िल्स"
 	},
 	"JPY": {
 		"name": "जापानी येन",
@@ -408,70 +396,70 @@
 		"subunit_name_plural": "सेन"
 	},
 	"KES": {
-		"name": "केनियाई शिलिंग",
-		"name_plural": "केनियाई शिलिंग",
+		"name": "केन्याई शिलिंग",
+		"name_plural": "केन्याई शिलिंग",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"KGS": {
-		"name": "किर्गिज़ सोम",
-		"name_plural": "किर्गिज़ सोम",
+		"name": "किर्गिज़स्तानी सोम",
+		"name_plural": "किर्गिज़स्तानी सोम",
 		"subunit_name": "त्यीन",
 		"subunit_name_plural": "त्यीन"
 	},
 	"KHR": {
-		"name": "कम्बोडियाई रियल",
-		"name_plural": "कम्बोडियाई रियल",
+		"name": "कंबोडियन रियल",
+		"name_plural": "कंबोडियन रियल",
 		"subunit_name": "सेन",
 		"subunit_name_plural": "सेन"
 	},
 	"KMF": {
-		"name": "कोमोरियन फ्रैंक",
-		"name_plural": "कोमोरियन फ्रैंक",
-		"subunit_name": "सेंटीम",
-		"subunit_name_plural": "सेंटीम"
+		"name": "कोमोरियन फ़्रैंक",
+		"name_plural": "कोमोरियन फ़्रैंक",
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"KPW": {
 		"name": "उत्तर कोरियाई वॉन",
 		"name_plural": "उत्तर कोरियाई वॉन",
-		"subunit_name": "जियोन",
-		"subunit_name_plural": "जियोन"
+		"subunit_name": "जॉन",
+		"subunit_name_plural": "जॉन"
 	},
 	"KRW": {
 		"name": "दक्षिण कोरियाई वॉन",
 		"name_plural": "दक्षिण कोरियाई वॉन",
-		"subunit_name": "जियोन",
-		"subunit_name_plural": "जियोन"
+		"subunit_name": "जॉन",
+		"subunit_name_plural": "जॉन"
 	},
 	"KWD": {
-		"name": "कुवैती दीनार",
-		"name_plural": "कुवैती दीनार",
-		"subunit_name": "फिल्स",
-		"subunit_name_plural": "फिल्स"
+		"name": "कुवैती दिनार",
+		"name_plural": "कुवैती दिनार",
+		"subunit_name": "फ़िल्स",
+		"subunit_name_plural": "फ़िल्स"
 	},
 	"KYD": {
-		"name": "केमैन द्वीप डॉलर",
-		"name_plural": "केमैन द्वीप डॉलर",
+		"name": "केमैन आइलैंड्स डॉलर",
+		"name_plural": "केमैन आइलैंड्स डॉलर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"KZT": {
-		"name": "कजाखस्तानी तेंगे",
-		"name_plural": "कजाखस्तानी तेंगे",
-		"subunit_name": "तियिन",
-		"subunit_name_plural": "तियिन"
+		"name": "कज़ाखस्तानी टेंगे",
+		"name_plural": "कज़ाखस्तानी टेंगे",
+		"subunit_name": "तीयन",
+		"subunit_name_plural": "तीयन"
 	},
 	"LAK": {
-		"name": "लाओशियाई किप",
-		"name_plural": "लाओशियाई किप",
-		"subunit_name": "एट",
-		"subunit_name_plural": "एट"
+		"name": "लाओशियन किप",
+		"name_plural": "लाओशियन किप",
+		"subunit_name": "अट",
+		"subunit_name_plural": "अट"
 	},
 	"LBP": {
 		"name": "लेबनानी पाउंड",
 		"name_plural": "लेबनानी पाउंड",
-		"subunit_name": "पियास्त्रे",
-		"subunit_name_plural": "पियास्त्रे"
+		"subunit_name": "पियास्टर",
+		"subunit_name_plural": "पियास्टर"
 	},
 	"LKR": {
 		"name": "श्रीलंकाई रुपया",
@@ -480,116 +468,116 @@
 		"subunit_name_plural": "सेंट"
 	},
 	"LRD": {
-		"name": "लाइबेरियाई डॉलर",
-		"name_plural": "लाइबेरियाई डॉलर",
+		"name": "लाइबेरियन डॉलर",
+		"name_plural": "लाइबेरियन डॉलर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"LSL": {
-		"name": "लेसोथो लोती",
-		"name_plural": "लेसोथो लोती",
-		"subunit_name": "सेंटे",
-		"subunit_name_plural": "लिसेंटे"
+		"name": "लेसोथो लोटी",
+		"name_plural": "लेसोथो लोटी",
+		"subunit_name": "सेंट",
+		"subunit_name_plural": "लिसेंट"
 	},
 	"LYD": {
-		"name": "लीबियाई दीनार",
-		"name_plural": "लीबियाई दीनार",
+		"name": "लीबियाई दिनार",
+		"name_plural": "लीबियाई दिनार",
 		"subunit_name": "दिरहम",
 		"subunit_name_plural": "दिरहम"
 	},
 	"MAD": {
 		"name": "मोरक्कन दिरहम",
 		"name_plural": "मोरक्कन दिरहम",
-		"subunit_name": "सेंटीम",
-		"subunit_name_plural": "सेंटीम"
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"MDL": {
 		"name": "मोल्दोवन लेउ",
-		"name_plural": "मोल्दोवन लेउ",
+		"name_plural": "मोल्दोवन लेई",
 		"subunit_name": "बान",
 		"subunit_name_plural": "बानी"
 	},
 	"MGA": {
-		"name": "मेडागास्कर अरियरी",
-		"name_plural": "मेडागास्कर अरियरी",
+		"name": "मालागासी एरियरी",
+		"name_plural": "मालागासी एरियरी",
 		"subunit_name": "इरैम्बिलांजा",
 		"subunit_name_plural": "इरैम्बिलांजा"
 	},
 	"MKD": {
-		"name": "मैसिडोनियाई देनार",
-		"name_plural": "मैसिडोनियाई देनार",
+		"name": "मैसेडोनियन देनार",
+		"name_plural": "मैसेडोनियन देनारी",
 		"subunit_name": "देनी",
 		"subunit_name_plural": "देनी"
 	},
 	"MMK": {
-		"name": "म्यांमार क्यात",
-		"name_plural": "म्यांमार क्यात",
-		"subunit_name": "प्या",
-		"subunit_name_plural": "प्या"
+		"name": "म्यांमार क्याट",
+		"name_plural": "म्यांमार क्याट",
+		"subunit_name": "प्यास",
+		"subunit_name_plural": "प्यास"
 	},
 	"MNT": {
-		"name": "मंगोलियाई तुगरिक",
-		"name_plural": "मंगोलियाई तुगरिक",
+		"name": "मंगोलियन टग्रिक",
+		"name_plural": "मंगोलियन टग्रिक",
 		"subunit_name": "मोंगो",
 		"subunit_name_plural": "मोंगो"
 	},
 	"MOP": {
-		"name": "मकाऊ पाताका",
-		"name_plural": "मकाऊ पाताका",
-		"subunit_name": "आवो",
-		"subunit_name_plural": "आवो"
+		"name": "मकानी पटाका",
+		"name_plural": "मकानी पटाका",
+		"subunit_name": "अवो",
+		"subunit_name_plural": "अवो"
 	},
 	"MRU": {
-		"name": "मॉरिटानियाई ओउगुइया",
-		"name_plural": "मॉरिटानियाई ओउगुइया",
-		"subunit_name": "ख़ौम्स",
-		"subunit_name_plural": "ख़ौम्स"
+		"name": "मॉरिटानियन ओगुइया",
+		"name_plural": "मॉरिटानियन ओगुइया",
+		"subunit_name": "खौम्स",
+		"subunit_name_plural": "खौम्स"
 	},
 	"MUR": {
-		"name": "मॉरीशियस रुपया",
-		"name_plural": "मॉरीशियस रुपये",
+		"name": "मॉरिशस रुपया",
+		"name_plural": "मॉरिशस रुपये",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"MVR": {
-		"name": "मालदीवियाई रुफ़िया",
-		"name_plural": "मालदीवियाई रुफ़िया",
+		"name": "मालदीव रुफिया",
+		"name_plural": "मालदीव रुफिया",
 		"subunit_name": "लारी",
 		"subunit_name_plural": "लारी"
 	},
 	"MWK": {
-		"name": "मलावी क्वाचा",
-		"name_plural": "मलावी क्वाचा",
-		"subunit_name": "तम्बाला",
-		"subunit_name_plural": "तम्बाला"
+		"name": "मलावियन क्वाचा",
+		"name_plural": "मलावियन क्वाचा",
+		"subunit_name": "तंबाला",
+		"subunit_name_plural": "तंबाला"
 	},
 	"MXN": {
-		"name": "मेक्सिकन पेसो",
-		"name_plural": "मेक्सिकन पेसो",
+		"name": "मैक्सिकन पेसो",
+		"name_plural": "मैक्सिकन पेसो",
 		"subunit_name": "सेंटावो",
 		"subunit_name_plural": "सेंटावो"
 	},
 	"MYR": {
-		"name": "मलेशियाई रिंग्गित",
-		"name_plural": "मलेशियाई रिंग्गित",
+		"name": "मलेशियन रिंगगिट",
+		"name_plural": "मलेशियन रिंगगिट",
 		"subunit_name": "सेन",
 		"subunit_name_plural": "सेन"
 	},
 	"MZN": {
-		"name": "मोज़ाम्बिक मेटिकल",
-		"name_plural": "मोज़ाम्बिक मेटिकल",
+		"name": "मोज़ाम्बिकन मेटिकल",
+		"name_plural": "मोज़ाम्बिकन मेटिकल",
 		"subunit_name": "सेंटावो",
 		"subunit_name_plural": "सेंटावो"
 	},
 	"NAD": {
-		"name": "नामीबियाई डॉलर",
-		"name_plural": "नामीबियाई डॉलर",
+		"name": "नामीबियन डॉलर",
+		"name_plural": "नामीबियन डॉलर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"NGN": {
-		"name": "नाइजीरियाई नैरा",
-		"name_plural": "नाइजीरियाई नैरा",
+		"name": "नाइजीरियन नाइरा",
+		"name_plural": "नाइजीरियन नाइरा",
 		"subunit_name": "कोबो",
 		"subunit_name_plural": "कोबो"
 	},
@@ -601,7 +589,7 @@
 	},
 	"NOK": {
 		"name": "नॉर्वेजियन क्रोन",
-		"name_plural": "नॉर्वेजियन क्रोन",
+		"name_plural": "नॉर्वेजियन क्रोनर",
 		"subunit_name": "ओरे",
 		"subunit_name_plural": "ओरे"
 	},
@@ -609,7 +597,7 @@
 		"name": "नेपाली रुपया",
 		"name_plural": "नेपाली रुपये",
 		"subunit_name": "पैसा",
-		"subunit_name_plural": "पैसा"
+		"subunit_name_plural": "पैसे"
 	},
 	"NZD": {
 		"name": "न्यूज़ीलैंड डॉलर",
@@ -624,26 +612,26 @@
 		"subunit_name_plural": "बैसा"
 	},
 	"PAB": {
-		"name": "पनामाई बाल्बोआ",
-		"name_plural": "पनामाई बाल्बोआ",
+		"name": "पनामेनियन बाल्बोआ",
+		"name_plural": "पनामेनियन बाल्बोआ",
 		"subunit_name": "सेंटेसिमो",
 		"subunit_name_plural": "सेंटेसिमो"
 	},
 	"PEN": {
 		"name": "पेरूवियन सोल",
 		"name_plural": "पेरूवियन सोल",
-		"subunit_name": "सेंटीमो",
-		"subunit_name_plural": "सेंटीमो"
+		"subunit_name": "सेंटिमो",
+		"subunit_name_plural": "सेंटिमो"
 	},
 	"PGK": {
-		"name": "पापुआ न्यू गिनी कीना",
-		"name_plural": "पापुआ न्यू गिनी कीना",
-		"subunit_name": "तोए",
-		"subunit_name_plural": "तोए"
+		"name": "पापुआ न्यू गिनी किना",
+		"name_plural": "पापुआ न्यू गिनी किना",
+		"subunit_name": "टोएआ",
+		"subunit_name_plural": "टोएआ"
 	},
 	"PHP": {
-		"name": "फ़िलीपीनो पेसो",
-		"name_plural": "फ़िलीपीनो पेसो",
+		"name": "फिलिपिनो पेसो",
+		"name_plural": "फिलिपिनो पेसो",
 		"subunit_name": "सेंटिमो",
 		"subunit_name_plural": "सेंटिमो"
 	},
@@ -651,7 +639,7 @@
 		"name": "पाकिस्तानी रुपया",
 		"name_plural": "पाकिस्तानी रुपये",
 		"subunit_name": "पैसा",
-		"subunit_name_plural": "पैसा"
+		"subunit_name_plural": "पैसे"
 	},
 	"PLN": {
 		"name": "पोलिश ज़्लॉटी",
@@ -660,10 +648,10 @@
 		"subunit_name_plural": "ग्रोशी"
 	},
 	"PYG": {
-		"name": "पैराग्वे गुआरानी",
-		"name_plural": "पैराग्वे गुआरानी",
-		"subunit_name": "सेंटीमो",
-		"subunit_name_plural": "सेंटीमो"
+		"name": "पैराग्वेयन गुआरानी",
+		"name_plural": "पैराग्वेयन गुआरानी",
+		"subunit_name": "सेंटिमो",
+		"subunit_name_plural": "सेंटिमो"
 	},
 	"QAR": {
 		"name": "कतरी रियाल",
@@ -672,16 +660,16 @@
 		"subunit_name_plural": "दिरहम"
 	},
 	"RON": {
-		"name": "रोमानियाई लेउ",
-		"name_plural": "रोमानियाई लेउ",
+		"name": "रोमानियन लेउ",
+		"name_plural": "रोमानियन लेई",
 		"subunit_name": "बान",
 		"subunit_name_plural": "बानी"
 	},
 	"RSD": {
-		"name": "सर्बियाई दीनार",
-		"name_plural": "सर्बियाई दीनार",
-		"subunit_name": "पारा",
-		"subunit_name_plural": "पारा"
+		"name": "सर्बियन दिनार",
+		"name_plural": "सर्बियन दिनार",
+		"subunit_name": "पैरा",
+		"subunit_name_plural": "पैरा"
 	},
 	"RUB": {
 		"name": "रूसी रूबल",
@@ -690,10 +678,10 @@
 		"subunit_name_plural": "कोपेक"
 	},
 	"RWF": {
-		"name": "रवांडन फ्रैंक",
-		"name_plural": "रवांडन फ्रैंक",
-		"subunit_name": "सेंटीम",
-		"subunit_name_plural": "सेंटीम"
+		"name": "रवांडन फ़्रैंक",
+		"name_plural": "रवांडन फ़्रैंक",
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"SAR": {
 		"name": "सऊदी रियाल",
@@ -702,8 +690,8 @@
 		"subunit_name_plural": "हलाला"
 	},
 	"SBD": {
-		"name": "सोलोमन द्वीप डॉलर",
-		"name_plural": "सोलोमन द्वीप डॉलर",
+		"name": "सोलोमन आइलैंड्स डॉलर",
+		"name_plural": "सोलोमन आइलैंड्स डॉलर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
@@ -716,12 +704,12 @@
 	"SDG": {
 		"name": "सूडानी पाउंड",
 		"name_plural": "सूडानी पाउंड",
-		"subunit_name": "पियास्त्रे",
-		"subunit_name_plural": "पियास्त्रे"
+		"subunit_name": "पियास्टर",
+		"subunit_name_plural": "पियास्टर"
 	},
 	"SEK": {
 		"name": "स्वीडिश क्रोना",
-		"name_plural": "स्वीडिश क्रोना",
+		"name_plural": "स्वीडिश क्रोनोर",
 		"subunit_name": "ओरे",
 		"subunit_name_plural": "ओरे"
 	},
@@ -737,9 +725,9 @@
 		"subunit_name": "पेनी",
 		"subunit_name_plural": "पेंस"
 	},
-	"SLL": {
-		"name": "सिएरा लियोन लियोन",
-		"name_plural": "सिएरा लियोन लियोन",
+	"SLE": {
+		"name": "सिएरा लियोनियन लियोन",
+		"name_plural": "सिएरा लियोनियन लियोन",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
@@ -758,30 +746,30 @@
 	"SSP": {
 		"name": "दक्षिण सूडानी पाउंड",
 		"name_plural": "दक्षिण सूडानी पाउंड",
-		"subunit_name": "पियास्त्रे",
-		"subunit_name_plural": "पियास्त्रे"
+		"subunit_name": "पियास्टर",
+		"subunit_name_plural": "पियास्टर"
 	},
 	"STN": {
-		"name": "साओ तोमे और प्रिंसिपे डोबरा",
-		"name_plural": "साओ तोमे और प्रिंसिपे डोबरा",
-		"subunit_name": "सेंटीमो",
-		"subunit_name_plural": "सेंटीमो"
+		"name": "साओ टोम और प्रिंसिपे डोबरा",
+		"name_plural": "साओ टोम और प्रिंसिपे डोबरा",
+		"subunit_name": "सेंटिमो",
+		"subunit_name_plural": "सेंटिमो"
 	},
 	"SYP": {
-		"name": "सीरियाई पाउंड",
-		"name_plural": "सीरियाई पाउंड",
-		"subunit_name": "पियास्त्रे",
-		"subunit_name_plural": "पियास्त्रे"
+		"name": "सीरियन पाउंड",
+		"name_plural": "सीरियन पाउंड",
+		"subunit_name": "पियास्टर",
+		"subunit_name_plural": "पियास्टर"
 	},
 	"SZL": {
-		"name": "स्वाज़ीलैंड लिलांगेनी",
-		"name_plural": "स्वाज़ीलैंड एमलांगेनी",
+		"name": "स्वाज़ी लिलांगेनी",
+		"name_plural": "स्वाज़ी इमालांगेनी",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"THB": {
-		"name": "थाई बाहत",
-		"name_plural": "थाई बाहत",
+		"name": "थाई बहत",
+		"name_plural": "थाई बहत",
 		"subunit_name": "सतांग",
 		"subunit_name_plural": "सतांग"
 	},
@@ -794,24 +782,24 @@
 	"TMT": {
 		"name": "तुर्कमेनिस्तानी मनात",
 		"name_plural": "तुर्कमेनिस्तानी मनात",
-		"subunit_name": "तेंगे",
-		"subunit_name_plural": "तेंगे"
+		"subunit_name": "तेन्गे",
+		"subunit_name_plural": "तेन्गे"
 	},
 	"TND": {
-		"name": "त्यूनीशियाई दीनार",
-		"name_plural": "त्यूनीशियाई दीनार",
-		"subunit_name": "मिलीम",
-		"subunit_name_plural": "मिलीम"
+		"name": "ट्यूनिशियन दिनार",
+		"name_plural": "ट्यूनिशियन दिनार",
+		"subunit_name": "मिलिम",
+		"subunit_name_plural": "मिलिम"
 	},
 	"TOP": {
-		"name": "टोंगन पाआंगा",
-		"name_plural": "टोंगन पाआंगा",
+		"name": "टोंगन पांगा",
+		"name_plural": "टोंगन पांगा",
 		"subunit_name": "सेनिती",
 		"subunit_name_plural": "सेनिती"
 	},
 	"TRY": {
-		"name": "तुर्की लीरा",
-		"name_plural": "तुर्की लीरा",
+		"name": "तुर्किश लीरा",
+		"name_plural": "तुर्किश लीरा",
 		"subunit_name": "कुरुश",
 		"subunit_name_plural": "कुरुश"
 	},
@@ -822,26 +810,26 @@
 		"subunit_name_plural": "सेंट"
 	},
 	"TWD": {
-		"name": "नया ताइवान डॉलर",
-		"name_plural": "नया ताइवान डॉलर",
+		"name": "न्यू ताइवान डॉलर",
+		"name_plural": "न्यू ताइवान डॉलर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"TZS": {
-		"name": "तंजानियाई शिलिंग",
-		"name_plural": "तंजानियाई शिलिंग",
+		"name": "तंजानियन शिलिंग",
+		"name_plural": "तंजानियन शिलिंग",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"UAH": {
-		"name": "यूक्रेनी ह्रिव्निया",
-		"name_plural": "यूक्रेनी ह्रिव्निया",
+		"name": "यूक्रेनियन ह्रीवनिया",
+		"name_plural": "यूक्रेनियन ह्रीवनिया",
 		"subunit_name": "कोपेक",
 		"subunit_name_plural": "कोपेक"
 	},
 	"UGX": {
-		"name": "युगांडाई शिलिंग",
-		"name_plural": "युगांडाई शिलिंग",
+		"name": "युगांडन शिलिंग",
+		"name_plural": "युगांडन शिलिंग",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
@@ -852,86 +840,86 @@
 		"subunit_name_plural": "सेंट"
 	},
 	"UYU": {
-		"name": "उरुग्वे पेसो",
-		"name_plural": "उरुग्वे पेसो",
+		"name": "उरुग्वेयन पेसो",
+		"name_plural": "उरुग्वेयन पेसो",
 		"subunit_name": "सेंटेसिमो",
 		"subunit_name_plural": "सेंटेसिमो"
 	},
 	"UZS": {
 		"name": "उज़्बेकिस्तानी सोम",
 		"name_plural": "उज़्बेकिस्तानी सोम",
-		"subunit_name": "तियिन",
-		"subunit_name_plural": "तियिन"
+		"subunit_name": "तीयिन",
+		"subunit_name_plural": "तीयिन"
 	},
-	"VES": {
-		"name": "वेनेजुएलाई बोलीवर",
-		"name_plural": "वेनेजुएलाई बोलीवर",
-		"subunit_name": "सेंटीमो",
-		"subunit_name_plural": "सेंटीमो"
+	"VED": {
+		"name": "वेनेज़ुएला डिजिटल बोलिवर",
+		"name_plural": "वेनेज़ुएला डिजिटल बोलिवर",
+		"subunit_name": "सेंटिमो",
+		"subunit_name_plural": "सेंटिमो"
 	},
 	"VND": {
-		"name": "वियतनामी डॉन्ग",
-		"name_plural": "वियतनामी डॉन्ग",
+		"name": "वियतनामी डोंग",
+		"name_plural": "वियतनामी डोंग",
 		"subunit_name": "हाओ",
 		"subunit_name_plural": "हाओ"
 	},
 	"VUV": {
-		"name": "वानुआतु वातु",
-		"name_plural": "वानुआतु वातु",
-		"subunit_name": "सेंटीम",
-		"subunit_name_plural": "सेंटीम"
+		"name": "वनुआतू वातु",
+		"name_plural": "वनुआतू वातु",
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"WST": {
-		"name": "समोआई ताला",
-		"name_plural": "समोआई ताला",
-		"subunit_name": "सेने",
-		"subunit_name_plural": "सेने"
+		"name": "सामोन ताला",
+		"name_plural": "सामोन ताला",
+		"subunit_name": "सेन",
+		"subunit_name_plural": "सेन"
 	},
 	"XAF": {
-		"name": "मध्य अफ्रीकी सीएफए फ्रैंक",
-		"name_plural": "मध्य अफ्रीकी सीएफए फ्रैंक",
-		"subunit_name": "सेंटीम",
-		"subunit_name_plural": "सेंटीम"
+		"name": "मध्य अफ़्रीकी CFA फ़्रैंक",
+		"name_plural": "मध्य अफ़्रीकी CFA फ़्रैंक",
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"XCD": {
-		"name": "पूर्वी कैरेबियाई डॉलर",
-		"name_plural": "पूर्वी कैरेबियाई डॉलर",
+		"name": "ईस्ट कैरिबियन डॉलर",
+		"name_plural": "ईस्ट कैरिबियन डॉलर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"XOF": {
-		"name": "पश्चिमी अफ्रीकी सीएफए फ्रैंक",
-		"name_plural": "पश्चिमी अफ्रीकी सीएफए फ्रैंक",
-		"subunit_name": "सेंटीम",
-		"subunit_name_plural": "सेंटीम"
+		"name": "पश्चिम अफ़्रीकी CFA फ़्रैंक",
+		"name_plural": "पश्चिम अफ़्रीकी CFA फ़्रैंक",
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"XPF": {
-		"name": "सीएफपी फ्रैंक",
-		"name_plural": "सीएफपी फ्रैंक",
-		"subunit_name": "सेंटीम",
-		"subunit_name_plural": "सेंटीम"
+		"name": "CFP फ़्रैंक",
+		"name_plural": "CFP फ़्रैंक",
+		"subunit_name": "सेंटिम",
+		"subunit_name_plural": "सेंटिम"
 	},
 	"YER": {
 		"name": "यमनी रियाल",
 		"name_plural": "यमनी रियाल",
-		"subunit_name": "फिल्स",
-		"subunit_name_plural": "फिल्स"
+		"subunit_name": "फ़िल्स",
+		"subunit_name_plural": "फ़िल्स"
 	},
 	"ZAR": {
-		"name": "दक्षिण अफ्रीकी रैंड",
-		"name_plural": "दक्षिण अफ्रीकी रैंड",
+		"name": "दक्षिण अफ़्रीकी रैंड",
+		"name_plural": "दक्षिण अफ़्रीकी रैंड",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	},
 	"ZMW": {
-		"name": "जाम्बियाई क्वाचा",
-		"name_plural": "जाम्बियाई क्वाचा",
-		"subunit_name": "न्गवी",
-		"subunit_name_plural": "न्गवी"
+		"name": "ज़ाम्बियन क्वाचा",
+		"name_plural": "ज़ाम्बियन क्वाचा",
+		"subunit_name": "एन्गवी",
+		"subunit_name_plural": "एन्गवी"
 	},
 	"ZWL": {
-		"name": "जिम्बाब्वे डॉलर",
-		"name_plural": "जिम्बाब्वे डॉलर",
+		"name": "ज़िम्बाब्वे डॉलर",
+		"name_plural": "ज़िम्बाब्वे डॉलर",
 		"subunit_name": "सेंट",
 		"subunit_name_plural": "सेंट"
 	}

@@ -2,8 +2,8 @@
 	"AED": {
 		"name": "সংযুক্ত আরব আমিরাত দিরহাম",
 		"name_plural": "সংযুক্ত আরব আমিরাত দিরহাম",
-		"subunit_name": "ফিলস",
-		"subunit_name_plural": "ফিলস"
+		"subunit_name": "ফিল্স",
+		"subunit_name_plural": "ফিল্স"
 	},
 	"AFN": {
 		"name": "আফগান আফগানি",
@@ -12,14 +12,14 @@
 		"subunit_name_plural": "পুল"
 	},
 	"ALL": {
-		"name": "আলবেনীয় লেক",
-		"name_plural": "আলবেনীয় লেক",
-		"subunit_name": "কিন্দারকা",
-		"subunit_name_plural": "কিন্দারকা"
+		"name": "আলবেনিয়ান লেক",
+		"name_plural": "আলবেনিয়ান লেক",
+		"subunit_name": "কিন্দারক",
+		"subunit_name_plural": "কিন্দারক"
 	},
 	"AMD": {
-		"name": "আর্মেনীয় ড্রাম",
-		"name_plural": "আর্মেনীয় ড্রাম",
+		"name": "আর্মেনিয়ান ড্রাম",
+		"name_plural": "আর্মেনিয়ান ড্রাম",
 		"subunit_name": "লুমা",
 		"subunit_name_plural": "লুমা"
 	},
@@ -30,20 +30,20 @@
 		"subunit_name_plural": "সেন্ট"
 	},
 	"AOA": {
-		"name": "অ্যাঙ্গোলান কোয়ানজা",
-		"name_plural": "অ্যাঙ্গোলান কোয়ানজা",
+		"name": "অ্যাঙ্গোলান কওয়ানজা",
+		"name_plural": "অ্যাঙ্গোলান কওয়ানজা",
 		"subunit_name": "সেন্টিমো",
 		"subunit_name_plural": "সেন্টিমো"
 	},
 	"ARS": {
-		"name": "আর্জেন্টিনীয় পেসো",
-		"name_plural": "আর্জেন্টিনীয় পেসো",
+		"name": "আর্জেন্টিনা পেসো",
+		"name_plural": "আর্জেন্টিনা পেসো",
 		"subunit_name": "সেন্টাভো",
 		"subunit_name_plural": "সেন্টাভো"
 	},
 	"AUD": {
-		"name": "অস্ট্রেলীয় ডলার",
-		"name_plural": "অস্ট্রেলীয় ডলার",
+		"name": "অস্ট্রেলিয়ান ডলার",
+		"name_plural": "অস্ট্রেলিয়ান ডলার",
 		"subunit_name": "সেন্ট",
 		"subunit_name_plural": "সেন্ট"
 	},
@@ -54,10 +54,10 @@
 		"subunit_name_plural": "সেন্ট"
 	},
 	"AZN": {
-		"name": "আজারবাইজানী মানাত",
-		"name_plural": "আজারবাইজানী মানাত",
-		"subunit_name": "কোপেক",
-		"subunit_name_plural": "কোপেক"
+		"name": "আজারবাইজান মানাত",
+		"name_plural": "আজারবাইজান মানাত",
+		"subunit_name": "কেপিক",
+		"subunit_name_plural": "কেপিক"
 	},
 	"BAM": {
 		"name": "বসনিয়া-হার্জেগোভিনা রূপান্তরযোগ্য মার্ক",
@@ -66,8 +66,8 @@
 		"subunit_name_plural": "ফেনিং"
 	},
 	"BBD": {
-		"name": "বার্বাডীয় ডলার",
-		"name_plural": "বার্বাডীয় ডলার",
+		"name": "বার্বাডিয়ান ডলার",
+		"name_plural": "বার্বাডিয়ান ডলার",
 		"subunit_name": "সেন্ট",
 		"subunit_name_plural": "সেন্ট"
 	},
@@ -78,16 +78,16 @@
 		"subunit_name_plural": "পয়সা"
 	},
 	"BGN": {
-		"name": "বুলগেরীয় লেভ",
-		"name_plural": "বুলগেরীয় লেভ",
-		"subunit_name": "স্তোতিঙ্কি",
-		"subunit_name_plural": "স্তোতিঙ্কি"
+		"name": "বুলগেরিয়ান লেভ",
+		"name_plural": "বুলগেরিয়ান লেভ",
+		"subunit_name": "স্টোটিনকা",
+		"subunit_name_plural": "স্টোটিনকি"
 	},
 	"BHD": {
 		"name": "বাহরাইনি দিনার",
 		"name_plural": "বাহরাইনি দিনার",
-		"subunit_name": "ফিলস",
-		"subunit_name_plural": "ফিলস"
+		"subunit_name": "ফিল্স",
+		"subunit_name_plural": "ফিল্স"
 	},
 	"BIF": {
 		"name": "বুরুন্ডিয়ান ফ্রাঙ্ক",
@@ -96,26 +96,26 @@
 		"subunit_name_plural": "সেন্টিম"
 	},
 	"BMD": {
-		"name": "বারমুডিয়ান ডলার",
-		"name_plural": "বারমুডিয়ান ডলার",
+		"name": "বারমুডান ডলার",
+		"name_plural": "বারমুডান ডলার",
 		"subunit_name": "সেন্ট",
 		"subunit_name_plural": "সেন্ট"
 	},
 	"BND": {
-		"name": "ব্রুনাই ডলার",
-		"name_plural": "ব্রুনাই ডলার",
+		"name": "ব্রুনেই ডলার",
+		"name_plural": "ব্রুনেই ডলার",
 		"subunit_name": "সেন",
 		"subunit_name_plural": "সেন"
 	},
 	"BOB": {
-		"name": "বলিভিয়ান বোলিভিয়ানো",
-		"name_plural": "বলিভিয়ান বোলিভিয়ানো",
+		"name": "বলিভিয়ান বলিভিয়ানো",
+		"name_plural": "বলিভিয়ান বলিভিয়ানো",
 		"subunit_name": "সেন্টাভো",
 		"subunit_name_plural": "সেন্টাভো"
 	},
 	"BRL": {
-		"name": "ব্রাজিলীয় রিয়াল",
-		"name_plural": "ব্রাজিলীয় রিয়াল",
+		"name": "ব্রাজিলিয়ান রিয়াল",
+		"name_plural": "ব্রাজিলিয়ান রিয়াল",
 		"subunit_name": "সেন্টাভো",
 		"subunit_name_plural": "সেন্টাভো"
 	},
@@ -126,10 +126,10 @@
 		"subunit_name_plural": "সেন্ট"
 	},
 	"BTN": {
-		"name": "ভুটানি নগুলট্রুম",
-		"name_plural": "ভুটানি নগুলট্রুম",
-		"subunit_name": "চের্তুম",
-		"subunit_name_plural": "চের্তুম"
+		"name": "ভুটানি এনগুলট্রুম",
+		"name_plural": "ভুটানি এনগুলট্রুম",
+		"subunit_name": "চেরট্রুম",
+		"subunit_name_plural": "চেরট্রুম"
 	},
 	"BWP": {
 		"name": "বতসোয়ানা পুলা",
@@ -138,8 +138,8 @@
 		"subunit_name_plural": "থেবে"
 	},
 	"BYN": {
-		"name": "বেলারুশীয় রুবেল",
-		"name_plural": "বেলারুশীয় রুবেল",
+		"name": "বেলারুশিয়ান রুবেল",
+		"name_plural": "বেলারুশিয়ান রুবেল",
 		"subunit_name": "কোপেক",
 		"subunit_name_plural": "কোপেক"
 	},
@@ -156,8 +156,8 @@
 		"subunit_name_plural": "সেন্ট"
 	},
 	"CDF": {
-		"name": "কঙ্গোলীয় ফ্রাঙ্ক",
-		"name_plural": "কঙ্গোলীয় ফ্রাঙ্ক",
+		"name": "কঙ্গোলিজ ফ্রাঙ্ক",
+		"name_plural": "কঙ্গোলিজ ফ্রাঙ্ক",
 		"subunit_name": "সেন্টিম",
 		"subunit_name_plural": "সেন্টিম"
 	},
@@ -183,19 +183,13 @@
 		"name": "কলম্বিয়ান পেসো",
 		"name_plural": "কলম্বিয়ান পেসো",
 		"subunit_name": "সেন্টাভো",
-		"subunit_name_plural": "সেন্টাভо"
+		"subunit_name_plural": "সেন্টাভো"
 	},
 	"CRC": {
-		"name": "কোস্টা রিকা কোলন",
-		"name_plural": "কোস্টা রিকা কোলন",
+		"name": "কোস্টা রিকান কোলন",
+		"name_plural": "কোস্টা রিকান কোলন",
 		"subunit_name": "সেন্টিমো",
 		"subunit_name_plural": "সেন্টিমো"
-	},
-	"CUC": {
-		"name": "কিউবান রূপান্তরযোগ্য পেসো",
-		"name_plural": "কিউবান রূপান্তরযোগ্য পেসো",
-		"subunit_name": "সেন্টাভো",
-		"subunit_name_plural": "সেন্টাভো"
 	},
 	"CUP": {
 		"name": "কিউবান পেসো",
@@ -204,16 +198,16 @@
 		"subunit_name_plural": "সেন্টাভো"
 	},
 	"CVE": {
-		"name": "কেপ ভার্দে এস্কুডো",
-		"name_plural": "কেপ ভার্দে এস্কুডো",
+		"name": "কেপ ভার্দেন এসকুডো",
+		"name_plural": "কেপ ভার্দেন এসকুডো",
 		"subunit_name": "সেন্টাভো",
 		"subunit_name_plural": "সেন্টাভো"
 	},
 	"CZK": {
 		"name": "চেক কোরুনা",
 		"name_plural": "চেক কোরুনা",
-		"subunit_name": "হেলার",
-		"subunit_name_plural": "হেলার"
+		"subunit_name": "হ্যালার",
+		"subunit_name_plural": "হ্যালার"
 	},
 	"DJF": {
 		"name": "জিবুতিয়ান ফ্রাঙ্ক",
@@ -234,16 +228,16 @@
 		"subunit_name_plural": "সেন্টাভো"
 	},
 	"DZD": {
-		"name": "আলজেরীয় দিনার",
-		"name_plural": "আলজেরীয় দিনার",
+		"name": "আলজেরিয়ান দিনার",
+		"name_plural": "আলজেরিয়ান দিনার",
 		"subunit_name": "সেন্টিম",
 		"subunit_name_plural": "সেন্টিম"
 	},
 	"EGP": {
 		"name": "মিশরীয় পাউন্ড",
 		"name_plural": "মিশরীয় পাউন্ড",
-		"subunit_name": "পিয়াস্ট্র",
-		"subunit_name_plural": "পিয়াস্ট্র"
+		"subunit_name": "পিয়াস্ট্রে",
+		"subunit_name_plural": "পিয়াস্ট্রে"
 	},
 	"ERN": {
 		"name": "ইরিত্রিয়ান নাকফা",
@@ -273,19 +267,19 @@
 		"name": "ফকল্যান্ড দ্বীপপুঞ্জ পাউন্ড",
 		"name_plural": "ফকল্যান্ড দ্বীপপুঞ্জ পাউন্ড",
 		"subunit_name": "পেনি",
-		"subunit_name_plural": "পেনি"
+		"subunit_name_plural": "পেন্স"
 	},
 	"GBP": {
 		"name": "ব্রিটিশ পাউন্ড",
 		"name_plural": "ব্রিটিশ পাউন্ড",
 		"subunit_name": "পেনি",
-		"subunit_name_plural": "পেনি"
+		"subunit_name_plural": "পেন্স"
 	},
 	"GEL": {
 		"name": "জর্জিয়ান লারি",
 		"name_plural": "জর্জিয়ান লারি",
-		"subunit_name": "তেত্রি",
-		"subunit_name_plural": "তেত্রি"
+		"subunit_name": "টেট্রি",
+		"subunit_name_plural": "টেট্রি"
 	},
 	"GHS": {
 		"name": "ঘানার সেডি",
@@ -297,13 +291,13 @@
 		"name": "জিব্রাল্টার পাউন্ড",
 		"name_plural": "জিব্রাল্টার পাউন্ড",
 		"subunit_name": "পেনি",
-		"subunit_name_plural": "পেনি"
+		"subunit_name_plural": "পেন্স"
 	},
 	"GMD": {
-		"name": "গাম্বিয়ান দালাসি",
-		"name_plural": "গাম্বিয়ান দালাসি",
-		"subunit_name": "বুতুট",
-		"subunit_name_plural": "বুতুট"
+		"name": "গাম্বিয়ান ডালাসি",
+		"name_plural": "গাম্বিয়ান ডালাসি",
+		"subunit_name": "বুটুট",
+		"subunit_name_plural": "বুটুট"
 	},
 	"GNF": {
 		"name": "গিনিয়ান ফ্রাঙ্ক",
@@ -335,15 +329,9 @@
 		"subunit_name": "সেন্টাভো",
 		"subunit_name_plural": "সেন্টাভো"
 	},
-	"HRK": {
-		"name": "ক্রোয়েশিয়ান কুনা",
-		"name_plural": "ক্রোয়েশিয়ান কুনা",
-		"subunit_name": "লিপা",
-		"subunit_name_plural": "লিপা"
-	},
 	"HTG": {
-		"name": "হাইতিয়ান গৌর্দে",
-		"name_plural": "হাইতিয়ান গৌর্দে",
+		"name": "হাইতিয়ান গৌর্ডে",
+		"name_plural": "হাইতিয়ান গৌর্ডে",
 		"subunit_name": "সেন্টিম",
 		"subunit_name_plural": "সেন্টিম"
 	},
@@ -363,7 +351,7 @@
 		"name": "ইসরায়েলি নতুন শেকেল",
 		"name_plural": "ইসরায়েলি নতুন শেকেল",
 		"subunit_name": "আগোরা",
-		"subunit_name_plural": "আগোরট"
+		"subunit_name_plural": "আগোরত"
 	},
 	"INR": {
 		"name": "ভারতীয় রুপি",
@@ -374,8 +362,8 @@
 	"IQD": {
 		"name": "ইরাকি দিনার",
 		"name_plural": "ইরাকি দিনার",
-		"subunit_name": "ফিলস",
-		"subunit_name_plural": "ফিলস"
+		"subunit_name": "ফিল্স",
+		"subunit_name_plural": "ফিল্স"
 	},
 	"IRR": {
 		"name": "ইরানিয়ান রিয়াল",
@@ -386,7 +374,7 @@
 	"ISK": {
 		"name": "আইসল্যান্ডিক ক্রোনা",
 		"name_plural": "আইসল্যান্ডিক ক্রোনা",
-		"subunit_name": "এরির",
+		"subunit_name": "আইরার",
 		"subunit_name_plural": "অরার"
 	},
 	"JMD": {
@@ -398,12 +386,12 @@
 	"JOD": {
 		"name": "জর্ডানিয়ান দিনার",
 		"name_plural": "জর্ডানিয়ান দিনার",
-		"subunit_name": "ফিলস",
-		"subunit_name_plural": "ফিলস"
+		"subunit_name": "ফিল্স",
+		"subunit_name_plural": "ফিল্স"
 	},
 	"JPY": {
-		"name": "জাপানি ইয়েন",
-		"name_plural": "জাপানি ইয়েন",
+		"name": "জাপানী ইয়েন",
+		"name_plural": "জাপানী ইয়েন",
 		"subunit_name": "সেন",
 		"subunit_name_plural": "সেন"
 	},
@@ -416,8 +404,8 @@
 	"KGS": {
 		"name": "কিরগিজস্তানি সোম",
 		"name_plural": "কিরগিজস্তানি সোম",
-		"subunit_name": "তিয়িন",
-		"subunit_name_plural": "তিয়িন"
+		"subunit_name": "টিয়িন",
+		"subunit_name_plural": "টিয়িন"
 	},
 	"KHR": {
 		"name": "কম্বোডিয়ান রিয়েল",
@@ -434,20 +422,20 @@
 	"KPW": {
 		"name": "উত্তর কোরিয়ান ওন",
 		"name_plural": "উত্তর কোরিয়ান ওন",
-		"subunit_name": "চন",
-		"subunit_name_plural": "চন"
+		"subunit_name": "জন",
+		"subunit_name_plural": "জন"
 	},
 	"KRW": {
 		"name": "দক্ষিণ কোরিয়ান ওন",
 		"name_plural": "দক্ষিণ কোরিয়ান ওন",
-		"subunit_name": "জিওন",
-		"subunit_name_plural": "জিওন"
+		"subunit_name": "জন",
+		"subunit_name_plural": "জন"
 	},
 	"KWD": {
 		"name": "কুয়েতি দিনার",
 		"name_plural": "কুয়েতি দিনার",
-		"subunit_name": "ফিলস",
-		"subunit_name_plural": "ফিলস"
+		"subunit_name": "ফিল্স",
+		"subunit_name_plural": "ফিল্স"
 	},
 	"KYD": {
 		"name": "কেম্যান দ্বীপপুঞ্জ ডলার",
@@ -456,10 +444,10 @@
 		"subunit_name_plural": "সেন্ট"
 	},
 	"KZT": {
-		"name": "কাজাখস্তানি তেঙ্গে",
-		"name_plural": "কাজাখস্তানি তেঙ্গে",
-		"subunit_name": "তিয়িন",
-		"subunit_name_plural": "তিয়িন"
+		"name": "কাজাখস্তানি টেঙ্গে",
+		"name_plural": "কাজাখস্তানি টেঙ্গে",
+		"subunit_name": "টিয়িন",
+		"subunit_name_plural": "টিয়িন"
 	},
 	"LAK": {
 		"name": "লাওটিয়ান কিপ",
@@ -470,8 +458,8 @@
 	"LBP": {
 		"name": "লেবানিজ পাউন্ড",
 		"name_plural": "লেবানিজ পাউন্ড",
-		"subunit_name": "পিয়াস্ট্র",
-		"subunit_name_plural": "পিয়াস্ট্র"
+		"subunit_name": "পিয়াস্ট্রে",
+		"subunit_name_plural": "পিয়াস্ট্রে"
 	},
 	"LKR": {
 		"name": "শ্রীলঙ্কান রুপি",
@@ -488,8 +476,8 @@
 	"LSL": {
 		"name": "লেসোথো লোটি",
 		"name_plural": "লেসোথো লোটি",
-		"subunit_name": "সেন্ট",
-		"subunit_name_plural": "সেন্ট"
+		"subunit_name": "সেন্টে",
+		"subunit_name_plural": "লিসেন্টে"
 	},
 	"LYD": {
 		"name": "লিবিয়ান দিনার",
@@ -504,40 +492,40 @@
 		"subunit_name_plural": "সেন্টিম"
 	},
 	"MDL": {
-		"name": "মলদোভান লেয়ু",
-		"name_plural": "মলদোভান লেয়ু",
+		"name": "মলদোভান লেউ",
+		"name_plural": "মলদোভান লেউ",
 		"subunit_name": "বান",
-		"subunit_name_plural": "বান"
+		"subunit_name_plural": "বানি"
 	},
 	"MGA": {
-		"name": "মাদাগাস্কার আরিয়ারি",
-		"name_plural": "মাদাগাস্কার আরিয়ারি",
-		"subunit_name": "ইরাইমবিলাঞ্জা",
-		"subunit_name_plural": "ইরাইমবিলাঞ্জা"
+		"name": "মালাগাসি আরিয়ারি",
+		"name_plural": "মালাগাসি আরিয়ারি",
+		"subunit_name": "ইরাইমবিলানজা",
+		"subunit_name_plural": "ইরাইমবিলানজা"
 	},
 	"MKD": {
-		"name": "ম্যাসেডোনিয়ান দেনার",
-		"name_plural": "ম্যাসেডোনিয়ান দেনার",
-		"subunit_name": "দেনি",
-		"subunit_name_plural": "দেনি"
+		"name": "ম্যাসেডোনিয়ান দিনার",
+		"name_plural": "ম্যাসেডোনিয়ান দিনারি",
+		"subunit_name": "ডেনি",
+		"subunit_name_plural": "ডেনি"
 	},
 	"MMK": {
-		"name": "মিয়ানমার কিয়াট",
-		"name_plural": "মিয়ানমার কিয়াট",
-		"subunit_name": "পিয়াস",
-		"subunit_name_plural": "পিয়াস"
+		"name": "মায়ানমার কিয়াট",
+		"name_plural": "মায়ানমার কিয়াট",
+		"subunit_name": "পিয়া",
+		"subunit_name_plural": "পিয়া"
 	},
 	"MNT": {
-		"name": "মঙ্গোলিয়ান তুগরিক",
-		"name_plural": "মঙ্গোলিয়ান তুগরিক",
+		"name": "মঙ্গোলিয়ান টুগরিক",
+		"name_plural": "মঙ্গোলিয়ান টুগরিক",
 		"subunit_name": "মোঙ্গো",
 		"subunit_name_plural": "মোঙ্গো"
 	},
 	"MOP": {
-		"name": "ম্যাকানিজ পাটাকা",
-		"name_plural": "ম্যাকানিজ পাটাকা",
-		"subunit_name": "অভো",
-		"subunit_name_plural": "অভো"
+		"name": "মাকানিজ পাটাকা",
+		"name_plural": "মাকানিজ পাটাকা",
+		"subunit_name": "অ্যাভো",
+		"subunit_name_plural": "অ্যাভোস"
 	},
 	"MRU": {
 		"name": "মৌরিতানিয়ান ওগুইয়া",
@@ -552,14 +540,14 @@
 		"subunit_name_plural": "সেন্ট"
 	},
 	"MVR": {
-		"name": "মালদ্বীপের রুফিয়া",
-		"name_plural": "মালদ্বীপের রুফিয়া",
+		"name": "মালদিভিয়ান রুফিয়া",
+		"name_plural": "মালদিভিয়ান রুফিয়া",
 		"subunit_name": "লারি",
 		"subunit_name_plural": "লারি"
 	},
 	"MWK": {
-		"name": "মালাউইয়ান কোয়াচা",
-		"name_plural": "মালাউইয়ান কোয়াচা",
+		"name": "মালাউইয়ান কওয়াচা",
+		"name_plural": "মালাউইয়ান কওয়াচা",
 		"subunit_name": "তাম্বালা",
 		"subunit_name_plural": "তাম্বালা"
 	},
@@ -588,8 +576,8 @@
 		"subunit_name_plural": "সেন্ট"
 	},
 	"NGN": {
-		"name": "নাইজেরিয়ান নাইরা",
-		"name_plural": "নাইজেরিয়ান নাইরা",
+		"name": "নাইজেরিয়ান নায়রা",
+		"name_plural": "নাইজেরিয়ান নায়রা",
 		"subunit_name": "কোবো",
 		"subunit_name_plural": "কোবো"
 	},
@@ -620,8 +608,8 @@
 	"OMR": {
 		"name": "ওমানি রিয়াল",
 		"name_plural": "ওমানি রিয়াল",
-		"subunit_name": "বাইজা",
-		"subunit_name_plural": "বাইজা"
+		"subunit_name": "বাইসা",
+		"subunit_name_plural": "বাইসা"
 	},
 	"PAB": {
 		"name": "পানামানিয়ান বালবোয়া",
@@ -636,8 +624,8 @@
 		"subunit_name_plural": "সেন্টিমো"
 	},
 	"PGK": {
-		"name": "পাপুয়া নিউ গিনি কিনা",
-		"name_plural": "পাপুয়া নিউ গিনি কিনা",
+		"name": "পাপুয়া নিউ গিনিয়ান কিনা",
+		"name_plural": "পাপুয়া নিউ গিনিয়ান কিনা",
 		"subunit_name": "টোয়া",
 		"subunit_name_plural": "টোয়া"
 	},
@@ -656,12 +644,12 @@
 	"PLN": {
 		"name": "পোলিশ জ্লটি",
 		"name_plural": "পোলিশ জ্লটি",
-		"subunit_name": "গ্রোশ",
-		"subunit_name_plural": "গ্রোশ"
+		"subunit_name": "গ্রসজ",
+		"subunit_name_plural": "গ্রসজি"
 	},
 	"PYG": {
-		"name": "প্যারাগুয়েয়ান গুয়ারানি",
-		"name_plural": "প্যারাগুয়েয়ান গুয়ারানি",
+		"name": "প্যারাগুয়েন গুয়ারানি",
+		"name_plural": "প্যারাগুয়েন গুয়ারানি",
 		"subunit_name": "সেন্টিমো",
 		"subunit_name_plural": "সেন্টিমো"
 	},
@@ -672,10 +660,10 @@
 		"subunit_name_plural": "দিরহাম"
 	},
 	"RON": {
-		"name": "রোমানিয়ান লেয়ু",
-		"name_plural": "রোমানিয়ান লেয়ু",
+		"name": "রোমানিয়ান লেউ",
+		"name_plural": "রোমানিয়ান লেউ",
 		"subunit_name": "বান",
-		"subunit_name_plural": "বান"
+		"subunit_name_plural": "বানি"
 	},
 	"RSD": {
 		"name": "সার্বিয়ান দিনার",
@@ -716,8 +704,8 @@
 	"SDG": {
 		"name": "সুদানিজ পাউন্ড",
 		"name_plural": "সুদানিজ পাউন্ড",
-		"subunit_name": "পিয়াস্ট্র",
-		"subunit_name_plural": "পিয়াস্ট্র"
+		"subunit_name": "পিয়াস্ট্রে",
+		"subunit_name_plural": "পিয়াস্ট্রে"
 	},
 	"SEK": {
 		"name": "সুইডিশ ক্রোনা",
@@ -735,11 +723,11 @@
 		"name": "সেন্ট হেলেনা পাউন্ড",
 		"name_plural": "সেন্ট হেলেনা পাউন্ড",
 		"subunit_name": "পেনি",
-		"subunit_name_plural": "পেনি"
+		"subunit_name_plural": "পেন্স"
 	},
-	"SLL": {
-		"name": "সিয়েরা লিয়ন লিয়ন",
-		"name_plural": "সিয়েরা লিয়ন লিয়ন",
+	"SLE": {
+		"name": "সিয়েরা লিয়ন লিওন",
+		"name_plural": "সিয়েরা লিয়ন লিওন",
 		"subunit_name": "সেন্ট",
 		"subunit_name_plural": "সেন্ট"
 	},
@@ -750,16 +738,16 @@
 		"subunit_name_plural": "সেন্ট"
 	},
 	"SRD": {
-		"name": "সুরিনাম ডলার",
-		"name_plural": "সুরিনাম ডলার",
+		"name": "সুরিনামিজ ডলার",
+		"name_plural": "সুরিনামিজ ডলার",
 		"subunit_name": "সেন্ট",
 		"subunit_name_plural": "সেন্ট"
 	},
 	"SSP": {
 		"name": "দক্ষিণ সুদানিজ পাউন্ড",
 		"name_plural": "দক্ষিণ সুদানিজ পাউন্ড",
-		"subunit_name": "পিয়াস্ট্র",
-		"subunit_name_plural": "পিয়াস্ট্র"
+		"subunit_name": "পিয়াস্টার",
+		"subunit_name_plural": "পিয়াস্টার"
 	},
 	"STN": {
 		"name": "সাও টোমে এবং প্রিন্সিপে ডোবরা",
@@ -770,12 +758,12 @@
 	"SYP": {
 		"name": "সিরিয়ান পাউন্ড",
 		"name_plural": "সিরিয়ান পাউন্ড",
-		"subunit_name": "পিয়াস্ট্র",
-		"subunit_name_plural": "পিয়াস্ট্র"
+		"subunit_name": "পিয়াস্ট্রে",
+		"subunit_name_plural": "পিয়াস্ট্রে"
 	},
 	"SZL": {
 		"name": "সোয়াজি লিলাঙ্গেনি",
-		"name_plural": "সোয়াজি এমালাঙ্গেনি",
+		"name_plural": "সোয়াজি লিলাঙ্গেনি",
 		"subunit_name": "সেন্ট",
 		"subunit_name_plural": "সেন্ট"
 	},
@@ -794,8 +782,8 @@
 	"TMT": {
 		"name": "তুর্কমেনিস্তানি মানাত",
 		"name_plural": "তুর্কমেনিস্তানি মানাত",
-		"subunit_name": "তেনগে",
-		"subunit_name_plural": "তেনগে"
+		"subunit_name": "টেনজ",
+		"subunit_name_plural": "টেনজ"
 	},
 	"TND": {
 		"name": "তিউনিসিয়ান দিনার",
@@ -804,20 +792,20 @@
 		"subunit_name_plural": "মিলিম"
 	},
 	"TOP": {
-		"name": "টোঙ্গান পা'আঙ্গা",
-		"name_plural": "টোঙ্গান পা'আঙ্গা",
-		"subunit_name": "সেনিতি",
-		"subunit_name_plural": "সেনিতি"
+		"name": "টঙ্গান পা'আঙ্গা",
+		"name_plural": "টঙ্গান পা'আঙ্গা",
+		"subunit_name": "সেনিটি",
+		"subunit_name_plural": "সেনিটি"
 	},
 	"TRY": {
-		"name": "তুর্কি লিরা",
-		"name_plural": "তুর্কি লিরা",
+		"name": "তুর্কিশ লিরা",
+		"name_plural": "তুর্কিশ লিরা",
 		"subunit_name": "কুরুশ",
 		"subunit_name_plural": "কুরুশ"
 	},
 	"TTD": {
-		"name": "ত্রিনিদাদ ও টোবাগো ডলার",
-		"name_plural": "ত্রিনিদাদ ও টোবাগো ডলার",
+		"name": "ত্রিনিদাদ এবং টোবাগো ডলার",
+		"name_plural": "ত্রিনিদাদ এবং টোবাগো ডলার",
 		"subunit_name": "সেন্ট",
 		"subunit_name_plural": "সেন্ট"
 	},
@@ -834,10 +822,10 @@
 		"subunit_name_plural": "সেন্ট"
 	},
 	"UAH": {
-		"name": "ইউক্রেনীয় হৃভনিয়া",
-		"name_plural": "ইউক্রেনীয় হৃভনিয়া",
-		"subunit_name": "কোপিয়েক",
-		"subunit_name_plural": "কোপিয়েক"
+		"name": "ইউক্রেনীয় হ্রিভনিয়া",
+		"name_plural": "ইউক্রেনীয় হ্রিভনিয়া",
+		"subunit_name": "কোপেক",
+		"subunit_name_plural": "কোপেক"
 	},
 	"UGX": {
 		"name": "উগান্ডান শিলিং",
@@ -863,9 +851,9 @@
 		"subunit_name": "তিয়িন",
 		"subunit_name_plural": "তিয়িন"
 	},
-	"VES": {
-		"name": "ভেনেজুয়েলীয় বলিভার",
-		"name_plural": "ভেনেজুয়েলীয় বলিভার",
+	"VED": {
+		"name": "ভেনিজুয়েলা বলিভার ডিজিটাল",
+		"name_plural": "ভেনিজুয়েলা বলিভার ডিজিটাল",
 		"subunit_name": "সেন্টিমো",
 		"subunit_name_plural": "সেন্টিমো"
 	},
@@ -876,16 +864,16 @@
 		"subunit_name_plural": "হাও"
 	},
 	"VUV": {
-		"name": "ভানুয়াটু ভাতু",
-		"name_plural": "ভানুয়াটু ভাতু",
+		"name": "ভানুয়াতু ভাটু",
+		"name_plural": "ভানুয়াতু ভাটু",
 		"subunit_name": "সেন্টিম",
 		"subunit_name_plural": "সেন্টিম"
 	},
 	"WST": {
-		"name": "সামোয়ান তালা",
-		"name_plural": "সামোয়ান তালা",
-		"subunit_name": "সেন",
-		"subunit_name_plural": "সেন"
+		"name": "সামোয়ান টালা",
+		"name_plural": "সামোয়ান টালা",
+		"subunit_name": "সেনে",
+		"subunit_name_plural": "সেনে"
 	},
 	"XAF": {
 		"name": "মধ্য আফ্রিকান সিএফএ ফ্রাঙ্ক",
@@ -914,8 +902,8 @@
 	"YER": {
 		"name": "ইয়েমেনি রিয়াল",
 		"name_plural": "ইয়েমেনি রিয়াল",
-		"subunit_name": "ফিলস",
-		"subunit_name_plural": "ফিলস"
+		"subunit_name": "ফিল্স",
+		"subunit_name_plural": "ফিল্স"
 	},
 	"ZAR": {
 		"name": "দক্ষিণ আফ্রিকান র্যান্ড",
@@ -924,14 +912,14 @@
 		"subunit_name_plural": "সেন্ট"
 	},
 	"ZMW": {
-		"name": "জাম্বিয়ান কোয়াচা",
-		"name_plural": "জাম্বিয়ান কোয়াচা",
-		"subunit_name": "এঙ্গোয়ে",
-		"subunit_name_plural": "এঙ্গোয়ে"
+		"name": "জাম্বিয়ান কওয়াচা",
+		"name_plural": "জাম্বিয়ান কওয়াচা",
+		"subunit_name": "এনজুই",
+		"subunit_name_plural": "এনজুই"
 	},
 	"ZWL": {
-		"name": "জিম্বাবুয়ে ডলার",
-		"name_plural": "জিম্বাবুয়ে ডলার",
+		"name": "জিম্বাবুয়েন ডলার",
+		"name_plural": "জিম্বাবুয়েন ডলার",
 		"subunit_name": "সেন্ট",
 		"subunit_name_plural": "সেন্ট"
 	}
