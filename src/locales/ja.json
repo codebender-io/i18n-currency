@@ -6,170 +6,170 @@
 		"subunit_name_plural": "フィルス"
 	},
 	"AFN": {
-		"name": "アフガニ",
-		"name_plural": "アフガニ",
+		"name": "アフガニスタンアフガニ",
+		"name_plural": "アフガニスタンアフガニ",
 		"subunit_name": "プル",
 		"subunit_name_plural": "プル"
 	},
 	"ALL": {
-		"name": "アルバニア・レク",
-		"name_plural": "アルバニア・レク",
+		"name": "アルバニアレク",
+		"name_plural": "アルバニアレク",
 		"subunit_name": "キンダルカ",
 		"subunit_name_plural": "キンダルカ"
 	},
 	"AMD": {
-		"name": "アルメニア・ドラム",
-		"name_plural": "アルメニア・ドラム",
+		"name": "アルメニアドラム",
+		"name_plural": "アルメニアドラム",
 		"subunit_name": "ルマ",
 		"subunit_name_plural": "ルマ"
 	},
 	"ANG": {
-		"name": "オランダ領アンティル・ギルダー",
-		"name_plural": "オランダ領アンティル・ギルダー",
+		"name": "オランダ領アンティルギルダー",
+		"name_plural": "オランダ領アンティルギルダー",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"AOA": {
-		"name": "アンゴラ・クワンザ",
-		"name_plural": "アンゴラ・クワンザ",
+		"name": "アンゴラクワンザ",
+		"name_plural": "アンゴラクワンザ",
 		"subunit_name": "センティモ",
 		"subunit_name_plural": "センティモ"
 	},
 	"ARS": {
-		"name": "アルゼンチン・ペソ",
-		"name_plural": "アルゼンチン・ペソ",
+		"name": "アルゼンチンペソ",
+		"name_plural": "アルゼンチンペソ",
 		"subunit_name": "センタボ",
 		"subunit_name_plural": "センタボ"
 	},
 	"AUD": {
-		"name": "オーストラリア・ドル",
-		"name_plural": "オーストラリア・ドル",
+		"name": "オーストラリアドル",
+		"name_plural": "オーストラリアドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"AWG": {
-		"name": "アルバ・フロリン",
-		"name_plural": "アルバ・フロリン",
+		"name": "アルバフロリン",
+		"name_plural": "アルバフロリン",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"AZN": {
-		"name": "アゼルバイジャン・マナト",
-		"name_plural": "アゼルバイジャン・マナト",
-		"subunit_name": "ゲピク",
-		"subunit_name_plural": "ゲピク"
+		"name": "アゼルバイジャンマナト",
+		"name_plural": "アゼルバイジャンマナト",
+		"subunit_name": "ケピック",
+		"subunit_name_plural": "ケピック"
 	},
 	"BAM": {
-		"name": "ボスニア・ヘルツェゴビナ・兌換マルク",
-		"name_plural": "ボスニア・ヘルツェゴビナ・兌換マルク",
+		"name": "ボスニア・ヘルツェゴビナ兌換マルク",
+		"name_plural": "ボスニア・ヘルツェゴビナ兌換マルク",
 		"subunit_name": "フェニヒ",
 		"subunit_name_plural": "フェニヒ"
 	},
 	"BBD": {
-		"name": "バルバドス・ドル",
-		"name_plural": "バルバドス・ドル",
+		"name": "バルバドスドル",
+		"name_plural": "バルバドスドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"BDT": {
-		"name": "バングラデシュ・タカ",
-		"name_plural": "バングラデシュ・タカ",
+		"name": "バングラデシュタカ",
+		"name_plural": "バングラデシュタカ",
 		"subunit_name": "ポイシャ",
 		"subunit_name_plural": "ポイシャ"
 	},
 	"BGN": {
-		"name": "ブルガリア・レフ",
-		"name_plural": "ブルガリア・レフ",
+		"name": "ブルガリアレフ",
+		"name_plural": "ブルガリアレフ",
 		"subunit_name": "ストティンカ",
 		"subunit_name_plural": "ストティンキ"
 	},
 	"BHD": {
-		"name": "バーレーン・ディナール",
-		"name_plural": "バーレーン・ディナール",
+		"name": "バーレーンディナール",
+		"name_plural": "バーレーンディナール",
 		"subunit_name": "フィルス",
 		"subunit_name_plural": "フィルス"
 	},
 	"BIF": {
-		"name": "ブルンジ・フラン",
-		"name_plural": "ブルンジ・フラン",
+		"name": "ブルンジフラン",
+		"name_plural": "ブルンジフラン",
 		"subunit_name": "サンチーム",
 		"subunit_name_plural": "サンチーム"
 	},
 	"BMD": {
-		"name": "バミューダ・ドル",
-		"name_plural": "バミューダ・ドル",
+		"name": "バミューダドル",
+		"name_plural": "バミューダドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"BND": {
-		"name": "ブルネイ・ドル",
-		"name_plural": "ブルネイ・ドル",
+		"name": "ブルネイドル",
+		"name_plural": "ブルネイドル",
 		"subunit_name": "セン",
 		"subunit_name_plural": "セン"
 	},
 	"BOB": {
-		"name": "ボリビア・ボリビアーノ",
-		"name_plural": "ボリビア・ボリビアーノ",
+		"name": "ボリビアボリビアーノ",
+		"name_plural": "ボリビアボリビアーノ",
 		"subunit_name": "センタボ",
 		"subunit_name_plural": "センタボ"
 	},
 	"BRL": {
-		"name": "ブラジル・レアル",
-		"name_plural": "ブラジル・レアル",
+		"name": "ブラジルレアル",
+		"name_plural": "ブラジルレアル",
 		"subunit_name": "センタボ",
 		"subunit_name_plural": "センタボ"
 	},
 	"BSD": {
-		"name": "バハマ・ドル",
-		"name_plural": "バハマ・ドル",
+		"name": "バハマドル",
+		"name_plural": "バハマドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"BTN": {
-		"name": "ブータン・ヌルタム",
-		"name_plural": "ブータン・ヌルタム",
-		"subunit_name": "チェルタム",
-		"subunit_name_plural": "チェルタム"
+		"name": "ブータンヌルタム",
+		"name_plural": "ブータンヌルタム",
+		"subunit_name": "チェルトラム",
+		"subunit_name_plural": "チェルトラム"
 	},
 	"BWP": {
-		"name": "ボツワナ・プラ",
-		"name_plural": "ボツワナ・プラ",
+		"name": "ボツワナプラ",
+		"name_plural": "ボツワナプラ",
 		"subunit_name": "テベ",
 		"subunit_name_plural": "テベ"
 	},
 	"BYN": {
-		"name": "ベラルーシ・ルーブル",
-		"name_plural": "ベラルーシ・ルーブル",
-		"subunit_name": "カペイカ",
-		"subunit_name_plural": "カペイカ"
+		"name": "ベラルーシルーブル",
+		"name_plural": "ベラルーシルーブル",
+		"subunit_name": "コペイカ",
+		"subunit_name_plural": "コペイカ"
 	},
 	"BZD": {
-		"name": "ベリーズ・ドル",
-		"name_plural": "ベリーズ・ドル",
+		"name": "ベリーズドル",
+		"name_plural": "ベリーズドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"CAD": {
-		"name": "カナダ・ドル",
-		"name_plural": "カナダ・ドル",
+		"name": "カナダドル",
+		"name_plural": "カナダドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"CDF": {
-		"name": "コンゴ・フラン",
-		"name_plural": "コンゴ・フラン",
+		"name": "コンゴフラン",
+		"name_plural": "コンゴフラン",
 		"subunit_name": "サンチーム",
 		"subunit_name_plural": "サンチーム"
 	},
 	"CHF": {
-		"name": "スイス・フラン",
-		"name_plural": "スイス・フラン",
+		"name": "スイスフラン",
+		"name_plural": "スイスフラン",
 		"subunit_name": "ラッペン",
 		"subunit_name_plural": "ラッペン"
 	},
 	"CLP": {
-		"name": "チリ・ペソ",
-		"name_plural": "チリ・ペソ",
+		"name": "チリペソ",
+		"name_plural": "チリペソ",
 		"subunit_name": "センタボ",
 		"subunit_name_plural": "センタボ"
 	},
@@ -180,80 +180,74 @@
 		"subunit_name_plural": "分"
 	},
 	"COP": {
-		"name": "コロンビア・ペソ",
-		"name_plural": "コロンビア・ペソ",
+		"name": "コロンビアペソ",
+		"name_plural": "コロンビアペソ",
 		"subunit_name": "センタボ",
 		"subunit_name_plural": "センタボ"
 	},
 	"CRC": {
-		"name": "コスタリカ・コロン",
-		"name_plural": "コスタリカ・コロン",
+		"name": "コスタリカコロン",
+		"name_plural": "コスタリカコロン",
 		"subunit_name": "センティモ",
 		"subunit_name_plural": "センティモ"
 	},
-	"CUC": {
-		"name": "キューバ兌換ペソ",
-		"name_plural": "キューバ兌換ペソ",
-		"subunit_name": "センタボ",
-		"subunit_name_plural": "センタボ"
-	},
 	"CUP": {
-		"name": "キューバ・ペソ",
-		"name_plural": "キューバ・ペソ",
+		"name": "キューバペソ",
+		"name_plural": "キューバペソ",
 		"subunit_name": "センタボ",
 		"subunit_name_plural": "センタボ"
 	},
 	"CVE": {
-		"name": "カーボベルデ・エスクード",
-		"name_plural": "カーボベルデ・エスクード",
+		"name": "カーボベルデエスクード",
+		"name_plural": "カーボベルデエスクード",
 		"subunit_name": "センタボ",
 		"subunit_name_plural": "センタボ"
 	},
 	"CZK": {
-		"name": "チェコ・コルナ",
-		"name_plural": "チェコ・コルナ",
-		"subunit_name": "ハレル",
-		"subunit_name_plural": "ハレル"
+		"name": "チェココルナ",
+		"name_plural": "チェココルナ",
+		"subunit_name": "ハレール",
+		"subunit_name_plural": "ハレール"
 	},
 	"DJF": {
-		"name": "ジブチ・フラン",
-		"name_plural": "ジブチ・フラン",
+		"name": "ジブチフラン",
+		"name_plural": "ジブチフラン",
 		"subunit_name": "サンチーム",
 		"subunit_name_plural": "サンチーム"
 	},
 	"DKK": {
-		"name": "デンマーク・クローネ",
-		"name_plural": "デンマーク・クローネ",
-		"subunit_name": "エーレ",
-		"subunit_name_plural": "エーレ"
+		"name": "デンマーククローネ",
+		"name_plural": "デンマーククローネ",
+		"subunit_name": "オーレ",
+		"subunit_name_plural": "オーレ"
 	},
 	"DOP": {
-		"name": "ドミニカ共和国ペソ",
-		"name_plural": "ドミニカ共和国ペソ",
+		"name": "ドミニカペソ",
+		"name_plural": "ドミニカペソ",
 		"subunit_name": "センタボ",
 		"subunit_name_plural": "センタボ"
 	},
 	"DZD": {
-		"name": "アルジェリア・ディナール",
-		"name_plural": "アルジェリア・ディナール",
+		"name": "アルジェリアディナール",
+		"name_plural": "アルジェリアディナール",
 		"subunit_name": "サンチーム",
 		"subunit_name_plural": "サンチーム"
 	},
 	"EGP": {
-		"name": "エジプト・ポンド",
-		"name_plural": "エジプト・ポンド",
+		"name": "エジプトポンド",
+		"name_plural": "エジプトポンド",
 		"subunit_name": "ピアストル",
 		"subunit_name_plural": "ピアストル"
 	},
 	"ERN": {
-		"name": "エリトリア・ナクファ",
-		"name_plural": "エリトリア・ナクファ",
+		"name": "エリトリアナクファ",
+		"name_plural": "エリトリアナクファ",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"ETB": {
-		"name": "エチオピア・ブル",
-		"name_plural": "エチオピア・ブル",
+		"name": "エチオピアブル",
+		"name_plural": "エチオピアブル",
 		"subunit_name": "サンティム",
 		"subunit_name_plural": "サンティム"
 	},
@@ -264,8 +258,8 @@
 		"subunit_name_plural": "セント"
 	},
 	"FJD": {
-		"name": "フィジー・ドル",
-		"name_plural": "フィジー・ドル",
+		"name": "フィジードル",
+		"name_plural": "フィジードル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
@@ -276,50 +270,50 @@
 		"subunit_name_plural": "ペンス"
 	},
 	"GBP": {
-		"name": "英国ポンド",
-		"name_plural": "英国ポンド",
+		"name": "英ポンド",
+		"name_plural": "英ポンド",
 		"subunit_name": "ペニー",
 		"subunit_name_plural": "ペンス"
 	},
 	"GEL": {
-		"name": "ジョージア・ラリ",
-		"name_plural": "ジョージア・ラリ",
+		"name": "ジョージアラリ",
+		"name_plural": "ジョージアラリ",
 		"subunit_name": "テトリ",
 		"subunit_name_plural": "テトリ"
 	},
 	"GHS": {
-		"name": "ガーナ・セディ",
-		"name_plural": "ガーナ・セディ",
+		"name": "ガーナセディ",
+		"name_plural": "ガーナセディ",
 		"subunit_name": "ペセワ",
 		"subunit_name_plural": "ペセワ"
 	},
 	"GIP": {
-		"name": "ジブラルタル・ポンド",
-		"name_plural": "ジブラルタル・ポンド",
+		"name": "ジブラルタルポンド",
+		"name_plural": "ジブラルタルポンド",
 		"subunit_name": "ペニー",
 		"subunit_name_plural": "ペンス"
 	},
 	"GMD": {
-		"name": "ガンビア・ダラシ",
-		"name_plural": "ガンビア・ダラシ",
+		"name": "ガンビアダラシ",
+		"name_plural": "ガンビアダラシ",
 		"subunit_name": "ブトゥト",
 		"subunit_name_plural": "ブトゥト"
 	},
 	"GNF": {
-		"name": "ギニア・フラン",
-		"name_plural": "ギニア・フラン",
+		"name": "ギニアフラン",
+		"name_plural": "ギニアフラン",
 		"subunit_name": "サンチーム",
 		"subunit_name_plural": "サンチーム"
 	},
 	"GTQ": {
-		"name": "グアテマラ・ケツァル",
-		"name_plural": "グアテマラ・ケツァル",
+		"name": "グアテマラケツァル",
+		"name_plural": "グアテマラケツァル",
 		"subunit_name": "センタボ",
 		"subunit_name_plural": "センタボ"
 	},
 	"GYD": {
-		"name": "ガイアナ・ドル",
-		"name_plural": "ガイアナ・ドル",
+		"name": "ガイアナドル",
+		"name_plural": "ガイアナドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
@@ -330,32 +324,26 @@
 		"subunit_name_plural": "セント"
 	},
 	"HNL": {
-		"name": "ホンジュラス・レンピラ",
-		"name_plural": "ホンジュラス・レンピラ",
+		"name": "ホンジュラスレンピラ",
+		"name_plural": "ホンジュラスレンピラ",
 		"subunit_name": "センタボ",
 		"subunit_name_plural": "センタボ"
 	},
-	"HRK": {
-		"name": "クロアチア・クーナ",
-		"name_plural": "クロアチア・クーナ",
-		"subunit_name": "リパ",
-		"subunit_name_plural": "リパ"
-	},
 	"HTG": {
-		"name": "ハイチ・グールド",
-		"name_plural": "ハイチ・グールド",
+		"name": "ハイチグールド",
+		"name_plural": "ハイチグールド",
 		"subunit_name": "サンチーム",
 		"subunit_name_plural": "サンチーム"
 	},
 	"HUF": {
-		"name": "ハンガリー・フォリント",
-		"name_plural": "ハンガリー・フォリント",
+		"name": "ハンガリーフォリント",
+		"name_plural": "ハンガリーフォリント",
 		"subunit_name": "フィレール",
 		"subunit_name_plural": "フィレール"
 	},
 	"IDR": {
-		"name": "インドネシア・ルピア",
-		"name_plural": "インドネシア・ルピア",
+		"name": "インドネシアルピア",
+		"name_plural": "インドネシアルピア",
 		"subunit_name": "セン",
 		"subunit_name_plural": "セン"
 	},
@@ -366,38 +354,38 @@
 		"subunit_name_plural": "アゴロット"
 	},
 	"INR": {
-		"name": "インド・ルピー",
-		"name_plural": "インド・ルピー",
+		"name": "インドルピー",
+		"name_plural": "インドルピー",
 		"subunit_name": "パイサ",
-		"subunit_name_plural": "パイサ"
+		"subunit_name_plural": "パイセ"
 	},
 	"IQD": {
-		"name": "イラク・ディナール",
-		"name_plural": "イラク・ディナール",
+		"name": "イラクディナール",
+		"name_plural": "イラクディナール",
 		"subunit_name": "フィルス",
 		"subunit_name_plural": "フィルス"
 	},
 	"IRR": {
-		"name": "イラン・リアル",
-		"name_plural": "イラン・リアル",
+		"name": "イランリアル",
+		"name_plural": "イランリアル",
 		"subunit_name": "ディナール",
 		"subunit_name_plural": "ディナール"
 	},
 	"ISK": {
-		"name": "アイスランド・クローナ",
-		"name_plural": "アイスランド・クローナ",
+		"name": "アイスランドクローナ",
+		"name_plural": "アイスランドクローナ",
 		"subunit_name": "エイレ",
-		"subunit_name_plural": "エイレ"
+		"subunit_name_plural": "アウラル"
 	},
 	"JMD": {
-		"name": "ジャマイカ・ドル",
-		"name_plural": "ジャマイカ・ドル",
+		"name": "ジャマイカドル",
+		"name_plural": "ジャマイカドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"JOD": {
-		"name": "ヨルダン・ディナール",
-		"name_plural": "ヨルダン・ディナール",
+		"name": "ヨルダンディナール",
+		"name_plural": "ヨルダンディナール",
 		"subunit_name": "フィルス",
 		"subunit_name_plural": "フィルス"
 	},
@@ -408,26 +396,26 @@
 		"subunit_name_plural": "銭"
 	},
 	"KES": {
-		"name": "ケニア・シリング",
-		"name_plural": "ケニア・シリング",
+		"name": "ケニアシリング",
+		"name_plural": "ケニアシリング",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"KGS": {
-		"name": "キルギス・ソム",
-		"name_plural": "キルギス・ソ姆",
+		"name": "キルギスソム",
+		"name_plural": "キルギスソム",
 		"subunit_name": "ティイン",
 		"subunit_name_plural": "ティイン"
 	},
 	"KHR": {
-		"name": "カンボジア・リエル",
-		"name_plural": "カンボジア・リエル",
+		"name": "カンボジアリエル",
+		"name_plural": "カンボジアリエル",
 		"subunit_name": "セン",
 		"subunit_name_plural": "セン"
 	},
 	"KMF": {
-		"name": "コモロ・フラン",
-		"name_plural": "コモロ・フラン",
+		"name": "コモロフラン",
+		"name_plural": "コモロフラン",
 		"subunit_name": "サンチーム",
 		"subunit_name_plural": "サンチーム"
 	},
@@ -444,8 +432,8 @@
 		"subunit_name_plural": "ジョン"
 	},
 	"KWD": {
-		"name": "クウェート・ディナール",
-		"name_plural": "クウェート・ディナール",
+		"name": "クウェートディナール",
+		"name_plural": "クウェートディナール",
 		"subunit_name": "フィルス",
 		"subunit_name_plural": "フィルス"
 	},
@@ -456,248 +444,248 @@
 		"subunit_name_plural": "セント"
 	},
 	"KZT": {
-		"name": "カザフスタン・テンゲ",
-		"name_plural": "カザフスタン・テンゲ",
+		"name": "カザフスタンテンゲ",
+		"name_plural": "カザフスタンテンゲ",
 		"subunit_name": "ティイン",
 		"subunit_name_plural": "ティイン"
 	},
 	"LAK": {
-		"name": "ラオス・キープ",
-		"name_plural": "ラオス・キープ",
+		"name": "ラオスキープ",
+		"name_plural": "ラオスキープ",
 		"subunit_name": "アット",
 		"subunit_name_plural": "アット"
 	},
 	"LBP": {
-		"name": "レバノン・ポンド",
-		"name_plural": "レバノン・ポンド",
+		"name": "レバノンポンド",
+		"name_plural": "レバノンポンド",
 		"subunit_name": "ピアストル",
 		"subunit_name_plural": "ピアストル"
 	},
 	"LKR": {
-		"name": "スリランカ・ルピー",
-		"name_plural": "スリランカ・ルピー",
+		"name": "スリランカルピー",
+		"name_plural": "スリランカルピー",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"LRD": {
-		"name": "リベリア・ドル",
-		"name_plural": "リベリア・ドル",
+		"name": "リベリアドル",
+		"name_plural": "リベリアドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"LSL": {
-		"name": "レソト・ロティ",
-		"name_plural": "レソト・ロティ",
+		"name": "レソトロティ",
+		"name_plural": "レソトロティ",
 		"subunit_name": "センテ",
 		"subunit_name_plural": "リセンテ"
 	},
 	"LYD": {
-		"name": "リビア・ディナール",
-		"name_plural": "リビア・ディナール",
+		"name": "リビアディナール",
+		"name_plural": "リビアディナール",
 		"subunit_name": "ディルハム",
 		"subunit_name_plural": "ディルハム"
 	},
 	"MAD": {
-		"name": "モロッコ・ディルハム",
-		"name_plural": "モロッコ・ディルハム",
+		"name": "モロッコディルハム",
+		"name_plural": "モロッコディルハム",
 		"subunit_name": "サンチーム",
 		"subunit_name_plural": "サンチーム"
 	},
 	"MDL": {
-		"name": "モルドバ・レウ",
-		"name_plural": "モルドバ・レイ",
+		"name": "モルドバレイ",
+		"name_plural": "モルドバレイ",
 		"subunit_name": "バン",
 		"subunit_name_plural": "バニ"
 	},
 	"MGA": {
-		"name": "マダガスカル・アリアリ",
-		"name_plural": "マダガスカル・アリアリ",
+		"name": "マダガスカルアリアリ",
+		"name_plural": "マダガスカルアリアリ",
 		"subunit_name": "イラインビランジャ",
 		"subunit_name_plural": "イラインビランジャ"
 	},
 	"MKD": {
-		"name": "北マケドニア・デナル",
-		"name_plural": "北マケドニア・デナル",
+		"name": "マケドニアデナル",
+		"name_plural": "マケドニアデナル",
 		"subunit_name": "デニ",
 		"subunit_name_plural": "デニ"
 	},
 	"MMK": {
-		"name": "ミャンマー・チャット",
-		"name_plural": "ミャンマー・チャット",
+		"name": "ミャンマーキャット",
+		"name_plural": "ミャンマーキャット",
 		"subunit_name": "ピャー",
 		"subunit_name_plural": "ピャー"
 	},
 	"MNT": {
-		"name": "モンゴル・トゥグルグ",
-		"name_plural": "モンゴル・トゥグルグ",
+		"name": "モンゴルトグログ",
+		"name_plural": "モンゴルトグログ",
 		"subunit_name": "ムング",
 		"subunit_name_plural": "ムング"
 	},
 	"MOP": {
-		"name": "マカオ・パタカ",
-		"name_plural": "マカオ・パタカ",
+		"name": "マカオパタカ",
+		"name_plural": "マカオパタカ",
 		"subunit_name": "アヴォ",
 		"subunit_name_plural": "アヴォ"
 	},
 	"MRU": {
-		"name": "モーリタニア・ウギア",
-		"name_plural": "モーリタニア・ウギア",
+		"name": "モーリタニアウギア",
+		"name_plural": "モーリタニアウギア",
 		"subunit_name": "クーム",
 		"subunit_name_plural": "クーム"
 	},
 	"MUR": {
-		"name": "モーリシャス・ルピー",
-		"name_plural": "モーリシャス・ルピー",
+		"name": "モーリシャスルピー",
+		"name_plural": "モーリシャスルピー",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"MVR": {
-		"name": "モルディブ・ルフィア",
-		"name_plural": "モルディブ・ルフィア",
-		"subunit_name": "ラリ",
-		"subunit_name_plural": "ラリ"
+		"name": "モルディブルフィヤ",
+		"name_plural": "モルディブルフィヤ",
+		"subunit_name": "ラーリ",
+		"subunit_name_plural": "ラーリ"
 	},
 	"MWK": {
-		"name": "マラウイ・クワチャ",
-		"name_plural": "マラウイ・クワチャ",
+		"name": "マラウィクワチャ",
+		"name_plural": "マラウィクワチャ",
 		"subunit_name": "タンバラ",
 		"subunit_name_plural": "タンバラ"
 	},
 	"MXN": {
-		"name": "メキシコ・ペソ",
-		"name_plural": "メキシコ・ペソ",
+		"name": "メキシコペソ",
+		"name_plural": "メキシコペソ",
 		"subunit_name": "センタボ",
 		"subunit_name_plural": "センタボ"
 	},
 	"MYR": {
-		"name": "マレーシア・リンギット",
-		"name_plural": "マレーシア・リンギット",
+		"name": "マレーシアリンギット",
+		"name_plural": "マレーシアリンギット",
 		"subunit_name": "セン",
 		"subunit_name_plural": "セン"
 	},
 	"MZN": {
-		"name": "モザンビーク・メティカル",
-		"name_plural": "モザンビーク・メティカル",
+		"name": "モザンビークメティカル",
+		"name_plural": "モザンビークメティカル",
 		"subunit_name": "センタボ",
 		"subunit_name_plural": "センタボ"
 	},
 	"NAD": {
-		"name": "ナミビア・ドル",
-		"name_plural": "ナミビア・ドル",
+		"name": "ナミビアドル",
+		"name_plural": "ナミビアドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"NGN": {
-		"name": "ナイジェリア・ナイラ",
-		"name_plural": "ナイジェリア・ナイラ",
+		"name": "ナイジェリアナイラ",
+		"name_plural": "ナイジェリアナイラ",
 		"subunit_name": "コボ",
 		"subunit_name_plural": "コボ"
 	},
 	"NIO": {
-		"name": "ニカラグア・コルドバ",
-		"name_plural": "ニカラグア・コルドバ",
+		"name": "ニカラグアコルドバ",
+		"name_plural": "ニカラグアコルドバ",
 		"subunit_name": "センタボ",
 		"subunit_name_plural": "センタボ"
 	},
 	"NOK": {
-		"name": "ノルウェー・クローネ",
-		"name_plural": "ノルウェー・クローネ",
-		"subunit_name": "エーレ",
-		"subunit_name_plural": "エーレ"
+		"name": "ノルウェークローネ",
+		"name_plural": "ノルウェークローネ",
+		"subunit_name": "オーレ",
+		"subunit_name_plural": "オーレ"
 	},
 	"NPR": {
-		"name": "ネパール・ルピー",
-		"name_plural": "ネパール・ルピー",
+		"name": "ネパールルピー",
+		"name_plural": "ネパールルピー",
 		"subunit_name": "パイサ",
-		"subunit_name_plural": "パイサ"
+		"subunit_name_plural": "パイセ"
 	},
 	"NZD": {
-		"name": "ニュージーランド・ドル",
-		"name_plural": "ニュージーランド・ドル",
+		"name": "ニュージーランドドル",
+		"name_plural": "ニュージーランドドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"OMR": {
-		"name": "オマーン・リアル",
-		"name_plural": "オマーン・リアル",
-		"subunit_name": "バイザ",
-		"subunit_name_plural": "バイザ"
+		"name": "オマーンリアル",
+		"name_plural": "オマーンリアル",
+		"subunit_name": "バイサ",
+		"subunit_name_plural": "バイサ"
 	},
 	"PAB": {
-		"name": "パナマ・バルボア",
-		"name_plural": "パナマ・バルボア",
+		"name": "パナマバルボア",
+		"name_plural": "パナマバルボア",
 		"subunit_name": "センテシモ",
 		"subunit_name_plural": "センテシモ"
 	},
 	"PEN": {
-		"name": "ペルー・ソル",
-		"name_plural": "ペルー・ソル",
+		"name": "ペルーソル",
+		"name_plural": "ペルーソル",
 		"subunit_name": "センティモ",
 		"subunit_name_plural": "センティモ"
 	},
 	"PGK": {
-		"name": "パプアニューギニア・キナ",
-		"name_plural": "パプアニューギニア・キナ",
+		"name": "パプアニューギニアキナ",
+		"name_plural": "パプアニューギニアキナ",
 		"subunit_name": "トエア",
 		"subunit_name_plural": "トエア"
 	},
 	"PHP": {
-		"name": "フィリピン・ペソ",
-		"name_plural": "フィリピン・ペソ",
-		"subunit_name": "センタボ",
-		"subunit_name_plural": "センタボ"
+		"name": "フィリピンペソ",
+		"name_plural": "フィリピンペソ",
+		"subunit_name": "センティモ",
+		"subunit_name_plural": "センティモ"
 	},
 	"PKR": {
-		"name": "パキスタン・ルピー",
-		"name_plural": "パキスタン・ルピー",
+		"name": "パキスタンルピー",
+		"name_plural": "パキスタンルピー",
 		"subunit_name": "パイサ",
-		"subunit_name_plural": "パイサ"
+		"subunit_name_plural": "パイセ"
 	},
 	"PLN": {
-		"name": "ポーランド・ズウォティ",
-		"name_plural": "ポーランド・ズウォティ",
+		"name": "ポーランドズウォティ",
+		"name_plural": "ポーランドズウォティ",
 		"subunit_name": "グロシュ",
 		"subunit_name_plural": "グロシ"
 	},
 	"PYG": {
-		"name": "パラグアイ・グアラニ",
-		"name_plural": "パラグアイ・グアラニ",
+		"name": "パラグアイグアラニ",
+		"name_plural": "パラグアイグアラニ",
 		"subunit_name": "センティモ",
 		"subunit_name_plural": "センティモ"
 	},
 	"QAR": {
-		"name": "カタール・リヤル",
-		"name_plural": "カタール・リヤル",
+		"name": "カタールリアル",
+		"name_plural": "カタールリアル",
 		"subunit_name": "ディルハム",
 		"subunit_name_plural": "ディルハム"
 	},
 	"RON": {
-		"name": "ルーマニア・レウ",
-		"name_plural": "ルーマニア・レイ",
+		"name": "ルーマニアレウ",
+		"name_plural": "ルーマニアレウ",
 		"subunit_name": "バン",
 		"subunit_name_plural": "バニ"
 	},
 	"RSD": {
-		"name": "セルビア・ディナール",
-		"name_plural": "セルビア・ディナール",
+		"name": "セルビアディナール",
+		"name_plural": "セルビアディナール",
 		"subunit_name": "パラ",
 		"subunit_name_plural": "パラ"
 	},
 	"RUB": {
-		"name": "ロシア・ルーブル",
-		"name_plural": "ロシア・ルーブル",
+		"name": "ロシアルーブル",
+		"name_plural": "ロシアルーブル",
 		"subunit_name": "コペイカ",
 		"subunit_name_plural": "コペイカ"
 	},
 	"RWF": {
-		"name": "ルワンダ・フラン",
-		"name_plural": "ルワンダ・フラン",
+		"name": "ルワンダフラン",
+		"name_plural": "ルワンダフラン",
 		"subunit_name": "サンチーム",
 		"subunit_name_plural": "サンチーム"
 	},
 	"SAR": {
-		"name": "サウジアラビア・リヤル",
-		"name_plural": "サウジアラビア・リヤル",
+		"name": "サウジアラビアリヤル",
+		"name_plural": "サウジアラビアリヤル",
 		"subunit_name": "ハララ",
 		"subunit_name_plural": "ハララ"
 	},
@@ -708,116 +696,116 @@
 		"subunit_name_plural": "セント"
 	},
 	"SCR": {
-		"name": "セーシェル・ルピー",
-		"name_plural": "セーシェル・ルピー",
+		"name": "セーシェルルピー",
+		"name_plural": "セーシェルルピー",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"SDG": {
-		"name": "スーダン・ポンド",
-		"name_plural": "スーダン・ポンド",
+		"name": "スーダンポンド",
+		"name_plural": "スーダンポンド",
 		"subunit_name": "ピアストル",
 		"subunit_name_plural": "ピアストル"
 	},
 	"SEK": {
-		"name": "スウェーデン・クローナ",
-		"name_plural": "スウェーデン・クローナ",
-		"subunit_name": "エーレ",
-		"subunit_name_plural": "エーレ"
+		"name": "スウェーデンクローナ",
+		"name_plural": "スウェーデンクローナ",
+		"subunit_name": "オーレ",
+		"subunit_name_plural": "オーレ"
 	},
 	"SGD": {
-		"name": "シンガポール・ドル",
-		"name_plural": "シンガポール・ドル",
+		"name": "シンガポールドル",
+		"name_plural": "シンガポールドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"SHP": {
-		"name": "セントヘレナ・ポンド",
-		"name_plural": "セントヘレナ・ポンド",
+		"name": "セントヘレナポンド",
+		"name_plural": "セントヘレナポンド",
 		"subunit_name": "ペニー",
 		"subunit_name_plural": "ペンス"
 	},
-	"SLL": {
-		"name": "シエラレオネ・レオン",
-		"name_plural": "シエラレオネ・レオン",
+	"SLE": {
+		"name": "シエラレオネレオン",
+		"name_plural": "シエラレオネレオン",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"SOS": {
-		"name": "ソマリア・シリング",
-		"name_plural": "ソマリア・シリング",
+		"name": "ソマリシリング",
+		"name_plural": "ソマリシリング",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"SRD": {
-		"name": "スリナム・ドル",
-		"name_plural": "スリナム・ドル",
+		"name": "スリナムドル",
+		"name_plural": "スリナムドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"SSP": {
-		"name": "南スーダン・ポンド",
-		"name_plural": "南スーダン・ポンド",
+		"name": "南スーダンポンド",
+		"name_plural": "南スーダンポンド",
 		"subunit_name": "ピアストル",
 		"subunit_name_plural": "ピアストル"
 	},
 	"STN": {
-		"name": "サントメ・プリンシペ・ドブラ",
-		"name_plural": "サントメ・プリンシペ・ドブラ",
+		"name": "サントメ・プリンシペドブラ",
+		"name_plural": "サントメ・プリンシペドブラ",
 		"subunit_name": "センティモ",
 		"subunit_name_plural": "センティモ"
 	},
 	"SYP": {
-		"name": "シリア・ポンド",
-		"name_plural": "シリア・ポンド",
+		"name": "シリアポンド",
+		"name_plural": "シリアポンド",
 		"subunit_name": "ピアストル",
 		"subunit_name_plural": "ピアストル"
 	},
 	"SZL": {
-		"name": "エスワティニ・リランゲニ",
-		"name_plural": "エスワティニ・エマランゲニ",
+		"name": "エスワティニリランゲニ",
+		"name_plural": "エスワティニリランゲニ",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"THB": {
-		"name": "タイ・バーツ",
-		"name_plural": "タイ・バーツ",
+		"name": "タイバーツ",
+		"name_plural": "タイバーツ",
 		"subunit_name": "サタン",
 		"subunit_name_plural": "サタン"
 	},
 	"TJS": {
-		"name": "タジキスタン・ソモニ",
-		"name_plural": "タジキスタン・ソモニ",
+		"name": "タジキスタンソモニ",
+		"name_plural": "タジキスタンソモニ",
 		"subunit_name": "ディラム",
 		"subunit_name_plural": "ディラム"
 	},
 	"TMT": {
-		"name": "トルクメニスタン・マナト",
-		"name_plural": "トルクメニスタン・マナト",
+		"name": "トルクメニスタンマナト",
+		"name_plural": "トルクメニスタンマナト",
 		"subunit_name": "テンゲ",
 		"subunit_name_plural": "テンゲ"
 	},
 	"TND": {
-		"name": "チュニジア・ディナール",
-		"name_plural": "チュニジア・ディナール",
+		"name": "チュニジアディナール",
+		"name_plural": "チュニジアディナール",
 		"subunit_name": "ミリム",
 		"subunit_name_plural": "ミリム"
 	},
 	"TOP": {
-		"name": "トンガ・パアンガ",
-		"name_plural": "トンガ・パアンガ",
+		"name": "トンガパ・アンガ",
+		"name_plural": "トンガパ・アンガ",
 		"subunit_name": "セニティ",
 		"subunit_name_plural": "セニティ"
 	},
 	"TRY": {
-		"name": "トルコ・リラ",
-		"name_plural": "トルコ・リラ",
+		"name": "トルコリラ",
+		"name_plural": "トルコリラ",
 		"subunit_name": "クルシュ",
 		"subunit_name_plural": "クルシュ"
 	},
 	"TTD": {
-		"name": "トリニダード・トバゴ・ドル",
-		"name_plural": "トリニダード・トバゴ・ドル",
+		"name": "トリニダード・トバゴドル",
+		"name_plural": "トリニダード・トバゴドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
@@ -828,20 +816,20 @@
 		"subunit_name_plural": "銭"
 	},
 	"TZS": {
-		"name": "タンザニア・シリング",
-		"name_plural": "タンザニア・シリング",
+		"name": "タンザニアシリング",
+		"name_plural": "タンザニアシリング",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"UAH": {
-		"name": "ウクライナ・フリヴニャ",
-		"name_plural": "ウクライナ・フリヴニャ",
-		"subunit_name": "コピーカ",
-		"subunit_name_plural": "コピーカ"
+		"name": "ウクライナグリブナ",
+		"name_plural": "ウクライナグリブナ",
+		"subunit_name": "コペイカ",
+		"subunit_name_plural": "コペイカ"
 	},
 	"UGX": {
-		"name": "ウガンダ・シリング",
-		"name_plural": "ウガンダ・シリング",
+		"name": "ウガンダシリング",
+		"name_plural": "ウガンダシリング",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
@@ -852,38 +840,38 @@
 		"subunit_name_plural": "セント"
 	},
 	"UYU": {
-		"name": "ウルグアイ・ペソ",
-		"name_plural": "ウルグアイ・ペソ",
+		"name": "ウルグアイペソ",
+		"name_plural": "ウルグアイペソ",
 		"subunit_name": "センテシモ",
 		"subunit_name_plural": "センテシモ"
 	},
 	"UZS": {
-		"name": "ウズベキスタン・スム",
-		"name_plural": "ウズベキスタン・スム",
+		"name": "ウズベキスタンスム",
+		"name_plural": "ウズベキスタンスム",
 		"subunit_name": "ティイン",
 		"subunit_name_plural": "ティイン"
 	},
-	"VES": {
-		"name": "ベネズエラ・ボリバル",
-		"name_plural": "ベネズエラ・ボリバル",
+	"VED": {
+		"name": "ベネズエラデジタルボリバル",
+		"name_plural": "ベネズエラデジタルボリバル",
 		"subunit_name": "センティモ",
 		"subunit_name_plural": "センティモ"
 	},
 	"VND": {
-		"name": "ベトナム・ドン",
-		"name_plural": "ベトナム・ドン",
+		"name": "ベトナムドン",
+		"name_plural": "ベトナムドン",
 		"subunit_name": "ハオ",
 		"subunit_name_plural": "ハオ"
 	},
 	"VUV": {
-		"name": "バヌアツ・バツ",
-		"name_plural": "バヌアツ・バツ",
+		"name": "バヌアツバツ",
+		"name_plural": "バヌアツバツ",
 		"subunit_name": "サンチーム",
 		"subunit_name_plural": "サンチーム"
 	},
 	"WST": {
-		"name": "サモア・タラ",
-		"name_plural": "サモア・タラ",
+		"name": "サモアタラ",
+		"name_plural": "サモアタラ",
 		"subunit_name": "セネ",
 		"subunit_name_plural": "セネ"
 	},
@@ -894,8 +882,8 @@
 		"subunit_name_plural": "サンチーム"
 	},
 	"XCD": {
-		"name": "東カリブ・ドル",
-		"name_plural": "東カリブ・ドル",
+		"name": "東カリブドル",
+		"name_plural": "東カリブドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
@@ -912,26 +900,26 @@
 		"subunit_name_plural": "サンチーム"
 	},
 	"YER": {
-		"name": "イエメン・リアル",
-		"name_plural": "イエメン・リアル",
+		"name": "イエメンリアル",
+		"name_plural": "イエメンリアル",
 		"subunit_name": "フィルス",
 		"subunit_name_plural": "フィルス"
 	},
 	"ZAR": {
-		"name": "南アフリカ・ランド",
-		"name_plural": "南アフリカ・ランド",
+		"name": "南アフリカランド",
+		"name_plural": "南アフリカランド",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	},
 	"ZMW": {
-		"name": "ザンビア・クワチャ",
-		"name_plural": "ザンビア・クワチャ",
-		"subunit_name": "ングウェ",
-		"subunit_name_plural": "ングウェ"
+		"name": "ザンビアクワチャ",
+		"name_plural": "ザンビアクワチャ",
+		"subunit_name": "ングェ",
+		"subunit_name_plural": "ングェ"
 	},
 	"ZWL": {
-		"name": "ジンバブエ・ドル",
-		"name_plural": "ジンバブエ・ドル",
+		"name": "ジンバブエドル",
+		"name_plural": "ジンバブエドル",
 		"subunit_name": "セント",
 		"subunit_name_plural": "セント"
 	}

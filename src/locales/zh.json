@@ -80,8 +80,8 @@
 	"BGN": {
 		"name": "保加利亚列弗",
 		"name_plural": "保加利亚列弗",
-		"subunit_name": "斯托廷基",
-		"subunit_name_plural": "斯托廷基"
+		"subunit_name": "斯托延基",
+		"subunit_name_plural": "斯托延基"
 	},
 	"BHD": {
 		"name": "巴林第纳尔",
@@ -126,16 +126,16 @@
 		"subunit_name_plural": "分"
 	},
 	"BTN": {
-		"name": "不丹努尔特鲁姆",
-		"name_plural": "不丹努尔特鲁姆",
+		"name": "不丹努扎姆",
+		"name_plural": "不丹努扎姆",
 		"subunit_name": "切特鲁姆",
 		"subunit_name_plural": "切特鲁姆"
 	},
 	"BWP": {
 		"name": "博茨瓦纳普拉",
 		"name_plural": "博茨瓦纳普拉",
-		"subunit_name": "西比",
-		"subunit_name_plural": "西比"
+		"subunit_name": "特贝",
+		"subunit_name_plural": "特贝"
 	},
 	"BYN": {
 		"name": "白俄罗斯卢布",
@@ -188,12 +188,6 @@
 	"CRC": {
 		"name": "哥斯达黎加科朗",
 		"name_plural": "哥斯达黎加科朗",
-		"subunit_name": "分",
-		"subunit_name_plural": "分"
-	},
-	"CUC": {
-		"name": "古巴可兑换比索",
-		"name_plural": "古巴可兑换比索",
 		"subunit_name": "分",
 		"subunit_name_plural": "分"
 	},
@@ -284,8 +278,8 @@
 	"GEL": {
 		"name": "格鲁吉亚拉里",
 		"name_plural": "格鲁吉亚拉里",
-		"subunit_name": "特特里",
-		"subunit_name_plural": "特特里"
+		"subunit_name": "特瑞",
+		"subunit_name_plural": "特瑞"
 	},
 	"GHS": {
 		"name": "加纳塞地",
@@ -335,12 +329,6 @@
 		"subunit_name": "分",
 		"subunit_name_plural": "分"
 	},
-	"HRK": {
-		"name": "克罗地亚库纳",
-		"name_plural": "克罗地亚库纳",
-		"subunit_name": "利帕",
-		"subunit_name_plural": "利帕"
-	},
 	"HTG": {
 		"name": "海地古德",
 		"name_plural": "海地古德",
@@ -354,8 +342,8 @@
 		"subunit_name_plural": "菲勒"
 	},
 	"IDR": {
-		"name": "印度尼西亚卢比",
-		"name_plural": "印度尼西亚卢比",
+		"name": "印尼卢比",
+		"name_plural": "印尼卢比",
 		"subunit_name": "仙",
 		"subunit_name_plural": "仙"
 	},
@@ -386,8 +374,8 @@
 	"ISK": {
 		"name": "冰岛克朗",
 		"name_plural": "冰岛克朗",
-		"subunit_name": "埃依尔",
-		"subunit_name_plural": "埃依尔"
+		"subunit_name": "奥拉",
+		"subunit_name_plural": "奥拉"
 	},
 	"JMD": {
 		"name": "牙买加元",
@@ -516,16 +504,16 @@
 		"subunit_name_plural": "伊莱姆比拉贾"
 	},
 	"MKD": {
-		"name": "马其顿第纳尔",
-		"name_plural": "马其顿第纳尔",
+		"name": "北马其顿第纳尔",
+		"name_plural": "北马其顿第纳尔",
 		"subunit_name": "德尼",
 		"subunit_name_plural": "德尼"
 	},
 	"MMK": {
 		"name": "缅甸缅元",
 		"name_plural": "缅甸缅元",
-		"subunit_name": "比亚",
-		"subunit_name_plural": "比亚"
+		"subunit_name": "皮亚",
+		"subunit_name_plural": "皮亚"
 	},
 	"MNT": {
 		"name": "蒙古图格里克",
@@ -536,8 +524,8 @@
 	"MOP": {
 		"name": "澳门元",
 		"name_plural": "澳门元",
-		"subunit_name": "仙",
-		"subunit_name_plural": "仙"
+		"subunit_name": "分",
+		"subunit_name_plural": "分"
 	},
 	"MRU": {
 		"name": "毛里塔尼亚乌吉亚",
@@ -572,8 +560,8 @@
 	"MYR": {
 		"name": "马来西亚令吉",
 		"name_plural": "马来西亚令吉",
-		"subunit_name": "仙",
-		"subunit_name_plural": "仙"
+		"subunit_name": "分",
+		"subunit_name_plural": "分"
 	},
 	"MZN": {
 		"name": "莫桑比克梅蒂卡尔",
@@ -590,8 +578,8 @@
 	"NGN": {
 		"name": "尼日利亚奈拉",
 		"name_plural": "尼日利亚奈拉",
-		"subunit_name": "考包",
-		"subunit_name_plural": "考包"
+		"subunit_name": "考博",
+		"subunit_name_plural": "考博"
 	},
 	"NIO": {
 		"name": "尼加拉瓜科多巴",
@@ -737,7 +725,7 @@
 		"subunit_name": "便士",
 		"subunit_name_plural": "便士"
 	},
-	"SLL": {
+	"SLE": {
 		"name": "塞拉利昂利昂",
 		"name_plural": "塞拉利昂利昂",
 		"subunit_name": "分",
@@ -794,8 +782,8 @@
 	"TMT": {
 		"name": "土库曼斯坦马纳特",
 		"name_plural": "土库曼斯坦马纳特",
-		"subunit_name": "坚戈",
-		"subunit_name_plural": "坚戈"
+		"subunit_name": "特涅",
+		"subunit_name_plural": "特涅"
 	},
 	"TND": {
 		"name": "突尼斯第纳尔",
@@ -863,9 +851,9 @@
 		"subunit_name": "特因",
 		"subunit_name_plural": "特因"
 	},
-	"VES": {
-		"name": "委内瑞拉玻利瓦尔",
-		"name_plural": "委内瑞拉玻利瓦尔",
+	"VED": {
+		"name": "委内瑞拉数字玻利瓦尔",
+		"name_plural": "委内瑞拉数字玻利瓦尔",
 		"subunit_name": "分",
 		"subunit_name_plural": "分"
 	},
@@ -888,8 +876,8 @@
 		"subunit_name_plural": "分"
 	},
 	"XAF": {
-		"name": "中非法郎",
-		"name_plural": "中非法郎",
+		"name": "中非金融合作法郎",
+		"name_plural": "中非金融合作法郎",
 		"subunit_name": "分",
 		"subunit_name_plural": "分"
 	},
@@ -900,8 +888,8 @@
 		"subunit_name_plural": "分"
 	},
 	"XOF": {
-		"name": "西非法郎",
-		"name_plural": "西非法郎",
+		"name": "西非金融合作法郎",
+		"name_plural": "西非金融合作法郎",
 		"subunit_name": "分",
 		"subunit_name_plural": "分"
 	},

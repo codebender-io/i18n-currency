@@ -3,19 +3,19 @@
 		"name": "درهم إماراتي",
 		"name_plural": "دراهم إماراتية",
 		"subunit_name": "فلس",
-		"subunit_name_plural": "فلسات"
+		"subunit_name_plural": "فلس"
 	},
 	"AFN": {
 		"name": "أفغاني أفغاني",
 		"name_plural": "أفغانيات أفغانية",
 		"subunit_name": "بول",
-		"subunit_name_plural": "بولات"
+		"subunit_name_plural": "بول"
 	},
 	"ALL": {
 		"name": "ليك ألباني",
 		"name_plural": "ليكات ألبانية",
-		"subunit_name": "كندارك",
-		"subunit_name_plural": "كنداركا"
+		"subunit_name": "قندارك",
+		"subunit_name_plural": "قندارك"
 	},
 	"AMD": {
 		"name": "درام أرميني",
@@ -24,8 +24,8 @@
 		"subunit_name_plural": "لومات"
 	},
 	"ANG": {
-		"name": "غيلدر هولندي أنتيلي",
-		"name_plural": "غيلدرات هولندية أنتيليزية",
+		"name": "جلدر هولندي",
+		"name_plural": "جلدرات هولندية",
 		"subunit_name": "سنت",
 		"subunit_name_plural": "سنتات"
 	},
@@ -103,9 +103,9 @@
 	},
 	"BND": {
 		"name": "دولار بروناي",
-		"name_plural": "دولارات بروناية",
+		"name_plural": "دولارات بروناي",
 		"subunit_name": "سن",
-		"subunit_name_plural": "سن"
+		"subunit_name_plural": "سنات"
 	},
 	"BOB": {
 		"name": "بوليفيانو بوليفي",
@@ -177,7 +177,7 @@
 		"name": "يوان صيني",
 		"name_plural": "يوانات صينية",
 		"subunit_name": "فن",
-		"subunit_name_plural": "فن"
+		"subunit_name_plural": "فنات"
 	},
 	"COP": {
 		"name": "بيزو كولومبي",
@@ -191,12 +191,6 @@
 		"subunit_name": "سنتيمو",
 		"subunit_name_plural": "سنتيموات"
 	},
-	"CUC": {
-		"name": "بيزو كوبي قابل للتحويل",
-		"name_plural": "بيزوات كوبية قابلة للتحويل",
-		"subunit_name": "سنتافو",
-		"subunit_name_plural": "سنتافوات"
-	},
 	"CUP": {
 		"name": "بيزو كوبي",
 		"name_plural": "بيزوات كوبية",
@@ -205,7 +199,7 @@
 	},
 	"CVE": {
 		"name": "إسكودو الرأس الأخضر",
-		"name_plural": "إسكودو الرأس الأخضر",
+		"name_plural": "إسكودوات الرأس الأخضر",
 		"subunit_name": "سنتافو",
 		"subunit_name_plural": "سنتافوات"
 	},
@@ -224,8 +218,8 @@
 	"DKK": {
 		"name": "كرونة دنماركية",
 		"name_plural": "كرونات دنماركية",
-		"subunit_name": "أوره",
-		"subunit_name_plural": "أوره"
+		"subunit_name": "أوريه",
+		"subunit_name_plural": "أوريه"
 	},
 	"DOP": {
 		"name": "بيزو دومينيكاني",
@@ -247,7 +241,7 @@
 	},
 	"ERN": {
 		"name": "ناكفا إريتري",
-		"name_plural": "ناكفات إريترية",
+		"name_plural": "ناكفا إريترية",
 		"subunit_name": "سنت",
 		"subunit_name_plural": "سنتات"
 	},
@@ -265,7 +259,7 @@
 	},
 	"FJD": {
 		"name": "دولار فيجي",
-		"name_plural": "دولارات فيجية",
+		"name_plural": "دولارات فيجي",
 		"subunit_name": "سنت",
 		"subunit_name_plural": "سنتات"
 	},
@@ -284,8 +278,8 @@
 	"GEL": {
 		"name": "لاري جورجي",
 		"name_plural": "لاري جورجية",
-		"subunit_name": "تيتري",
-		"subunit_name_plural": "تيتري"
+		"subunit_name": "تتري",
+		"subunit_name_plural": "تتري"
 	},
 	"GHS": {
 		"name": "سيدي غاني",
@@ -319,7 +313,7 @@
 	},
 	"GYD": {
 		"name": "دولار غيانا",
-		"name_plural": "دولارات غيانية",
+		"name_plural": "دولارات غيانا",
 		"subunit_name": "سنت",
 		"subunit_name_plural": "سنتات"
 	},
@@ -330,16 +324,10 @@
 		"subunit_name_plural": "سنتات"
 	},
 	"HNL": {
-		"name": "لمبيرا هندوري",
-		"name_plural": "لمبيرا هندورية",
+		"name": "ليمبيرا هندوراسي",
+		"name_plural": "ليمبيرا هندوراسية",
 		"subunit_name": "سنتافو",
 		"subunit_name_plural": "سنتافوات"
-	},
-	"HRK": {
-		"name": "كونا كرواتي",
-		"name_plural": "كونا كرواتية",
-		"subunit_name": "ليبا",
-		"subunit_name_plural": "ليبا"
 	},
 	"HTG": {
 		"name": "جورد هايتي",
@@ -357,19 +345,19 @@
 		"name": "روبية إندونيسية",
 		"name_plural": "روبيات إندونيسية",
 		"subunit_name": "سن",
-		"subunit_name_plural": "سن"
+		"subunit_name_plural": "سنات"
 	},
 	"ILS": {
 		"name": "شيكل إسرائيلي جديد",
 		"name_plural": "شيكلات إسرائيلية جديدة",
 		"subunit_name": "أغورة",
-		"subunit_name_plural": "أغورات"
+		"subunit_name_plural": "أغوروت"
 	},
 	"INR": {
-		"name": "روبية هندية",
+		"name": "روبية هندي",
 		"name_plural": "روبيات هندية",
 		"subunit_name": "بايسة",
-		"subunit_name_plural": "بايس"
+		"subunit_name_plural": "بايسات"
 	},
 	"IQD": {
 		"name": "دينار عراقي",
@@ -386,7 +374,7 @@
 	"ISK": {
 		"name": "كرونة آيسلندية",
 		"name_plural": "كرونات آيسلندية",
-		"subunit_name": "إيرير",
+		"subunit_name": "أيرير",
 		"subunit_name_plural": "أورار"
 	},
 	"JMD": {
@@ -403,27 +391,27 @@
 	},
 	"JPY": {
 		"name": "ين ياباني",
-		"name_plural": "ين يابانية",
+		"name_plural": "ينات يابانية",
 		"subunit_name": "سن",
-		"subunit_name_plural": "سن"
+		"subunit_name_plural": "سنات"
 	},
 	"KES": {
 		"name": "شلن كيني",
-		"name_plural": "شلن كينية",
+		"name_plural": "شلنات كينية",
 		"subunit_name": "سنت",
 		"subunit_name_plural": "سنتات"
 	},
 	"KGS": {
-		"name": "سوم قيرغيزي",
-		"name_plural": "سوم قيرغيزية",
-		"subunit_name": "تياين",
-		"subunit_name_plural": "تياين"
+		"name": "سوم قيرغيزستاني",
+		"name_plural": "سومات قيرغيزستانية",
+		"subunit_name": "تيلين",
+		"subunit_name_plural": "تيلين"
 	},
 	"KHR": {
 		"name": "ريال كمبودي",
 		"name_plural": "ريالات كمبودية",
 		"subunit_name": "سن",
-		"subunit_name_plural": "سن"
+		"subunit_name_plural": "سنات"
 	},
 	"KMF": {
 		"name": "فرنك جزر القمر",
@@ -433,15 +421,15 @@
 	},
 	"KPW": {
 		"name": "وون كوري شمالي",
-		"name_plural": "وون كورية شمالية",
-		"subunit_name": "شون",
-		"subunit_name_plural": "شون"
+		"name_plural": "وونات كورية شمالية",
+		"subunit_name": "جون",
+		"subunit_name_plural": "جون"
 	},
 	"KRW": {
 		"name": "وون كوري جنوبي",
-		"name_plural": "وون كورية جنوبية",
-		"subunit_name": "شون",
-		"subunit_name_plural": "شون"
+		"name_plural": "وونات كورية جنوبية",
+		"subunit_name": "جون",
+		"subunit_name_plural": "جون"
 	},
 	"KWD": {
 		"name": "دينار كويتي",
@@ -457,7 +445,7 @@
 	},
 	"KZT": {
 		"name": "تينغ كازاخستاني",
-		"name_plural": "تينغ كازاخستانية",
+		"name_plural": "تينغات كازاخستانية",
 		"subunit_name": "تين",
 		"subunit_name_plural": "تين"
 	},
@@ -468,8 +456,8 @@
 		"subunit_name_plural": "أت"
 	},
 	"LBP": {
-		"name": "ليرة لبنانية",
-		"name_plural": "ليرات لبنانية",
+		"name": "جنيه لبناني",
+		"name_plural": "جنيهات لبنانية",
 		"subunit_name": "قرش",
 		"subunit_name_plural": "قروش"
 	},
@@ -488,8 +476,8 @@
 	"LSL": {
 		"name": "لوتي ليسوتو",
 		"name_plural": "لوتي ليسوتو",
-		"subunit_name": "سنتي",
-		"subunit_name_plural": "سنتي"
+		"subunit_name": "سينتي",
+		"subunit_name_plural": "ليسنتي"
 	},
 	"LYD": {
 		"name": "دينار ليبي",
@@ -512,8 +500,8 @@
 	"MGA": {
 		"name": "أرياري مدغشقر",
 		"name_plural": "أرياري مدغشقر",
-		"subunit_name": "ايريمبيلانجا",
-		"subunit_name_plural": "ايريمبيلانجا"
+		"subunit_name": "إيريمبيلانجا",
+		"subunit_name_plural": "إيريمبيلانجا"
 	},
 	"MKD": {
 		"name": "دينار مقدوني",
@@ -522,8 +510,8 @@
 		"subunit_name_plural": "ديني"
 	},
 	"MMK": {
-		"name": "كيات ميانماري",
-		"name_plural": "كيات ميانمارية",
+		"name": "كيات ميانمار",
+		"name_plural": "كيات ميانمار",
 		"subunit_name": "بيا",
 		"subunit_name_plural": "بيا"
 	},
@@ -534,7 +522,7 @@
 		"subunit_name_plural": "مونغو"
 	},
 	"MOP": {
-		"name": "باتاكا ماكاوية",
+		"name": "باتاكا ماكاوي",
 		"name_plural": "باتاكا ماكاوية",
 		"subunit_name": "أفو",
 		"subunit_name_plural": "أفوس"
@@ -542,8 +530,8 @@
 	"MRU": {
 		"name": "أوقية موريتانية",
 		"name_plural": "أوقيات موريتانية",
-		"subunit_name": "خمس",
-		"subunit_name_plural": "خمس"
+		"subunit_name": "خومس",
+		"subunit_name_plural": "خومس"
 	},
 	"MUR": {
 		"name": "روبية موريشيوسية",
@@ -552,8 +540,8 @@
 		"subunit_name_plural": "سنتات"
 	},
 	"MVR": {
-		"name": "روفيا جزر المالديف",
-		"name_plural": "روفيا جزر المالديف",
+		"name": "روفية مالديفية",
+		"name_plural": "روفيات مالديفية",
 		"subunit_name": "لاري",
 		"subunit_name_plural": "لاري"
 	},
@@ -573,7 +561,7 @@
 		"name": "رينغيت ماليزي",
 		"name_plural": "رينغيت ماليزية",
 		"subunit_name": "سن",
-		"subunit_name_plural": "سن"
+		"subunit_name_plural": "سنات"
 	},
 	"MZN": {
 		"name": "متيكال موزمبيقي",
@@ -594,22 +582,22 @@
 		"subunit_name_plural": "كوبو"
 	},
 	"NIO": {
-		"name": "كوردوبة نيكاراغوا",
-		"name_plural": "كوردوبة نيكاراغوية",
+		"name": "كوردوبا نيكاراغوا",
+		"name_plural": "كوردوبا نيكاراغوا",
 		"subunit_name": "سنتافو",
 		"subunit_name_plural": "سنتافوات"
 	},
 	"NOK": {
 		"name": "كرونة نرويجية",
 		"name_plural": "كرونات نرويجية",
-		"subunit_name": "أوره",
-		"subunit_name_plural": "أوره"
+		"subunit_name": "أوريه",
+		"subunit_name_plural": "أوريه"
 	},
 	"NPR": {
 		"name": "روبية نيبالية",
 		"name_plural": "روبيات نيبالية",
 		"subunit_name": "بايسة",
-		"subunit_name_plural": "بايسة"
+		"subunit_name_plural": "بايسات"
 	},
 	"NZD": {
 		"name": "دولار نيوزيلندي",
@@ -621,7 +609,7 @@
 		"name": "ريال عماني",
 		"name_plural": "ريالات عمانية",
 		"subunit_name": "بايسة",
-		"subunit_name_plural": "بايسة"
+		"subunit_name_plural": "بايسات"
 	},
 	"PAB": {
 		"name": "بالبوا بنمي",
@@ -631,7 +619,7 @@
 	},
 	"PEN": {
 		"name": "سول بيروفي",
-		"name_plural": "سوليس بيروفية",
+		"name_plural": "سول بيروفية",
 		"subunit_name": "سنتيمو",
 		"subunit_name_plural": "سنتيموس"
 	},
@@ -651,13 +639,13 @@
 		"name": "روبية باكستانية",
 		"name_plural": "روبيات باكستانية",
 		"subunit_name": "بايسة",
-		"subunit_name_plural": "بايسة"
+		"subunit_name_plural": "بايسات"
 	},
 	"PLN": {
 		"name": "زلوتي بولندي",
 		"name_plural": "زلوتي بولندية",
-		"subunit_name": "غروش",
-		"subunit_name_plural": "غروش"
+		"subunit_name": "غروسز",
+		"subunit_name_plural": "غروسزي"
 	},
 	"PYG": {
 		"name": "غواراني باراغواي",
@@ -708,8 +696,8 @@
 		"subunit_name_plural": "سنتات"
 	},
 	"SCR": {
-		"name": "روبية سيشلية",
-		"name_plural": "روبيات سيشلية",
+		"name": "روبية سيشيلية",
+		"name_plural": "روبيات سيشيلية",
 		"subunit_name": "سنت",
 		"subunit_name_plural": "سنتات"
 	},
@@ -722,8 +710,8 @@
 	"SEK": {
 		"name": "كرونة سويدية",
 		"name_plural": "كرونات سويدية",
-		"subunit_name": "أوره",
-		"subunit_name_plural": "أوره"
+		"subunit_name": "أوريه",
+		"subunit_name_plural": "أوريه"
 	},
 	"SGD": {
 		"name": "دولار سنغافوري",
@@ -732,20 +720,20 @@
 		"subunit_name_plural": "سنتات"
 	},
 	"SHP": {
-		"name": "جنيه سانت هيلين",
-		"name_plural": "جنيهات سانت هيلين",
+		"name": "جنيه سانت هيلينا",
+		"name_plural": "جنيهات سانت هيلينا",
 		"subunit_name": "بنس",
 		"subunit_name_plural": "بنس"
 	},
-	"SLL": {
+	"SLE": {
 		"name": "ليون سيراليوني",
-		"name_plural": "ليون سيراليونية",
+		"name_plural": "ليونات سيراليونية",
 		"subunit_name": "سنت",
 		"subunit_name_plural": "سنتات"
 	},
 	"SOS": {
 		"name": "شلن صومالي",
-		"name_plural": "شلن صومالية",
+		"name_plural": "شلنات صومالية",
 		"subunit_name": "سنت",
 		"subunit_name_plural": "سنتات"
 	},
@@ -768,26 +756,26 @@
 		"subunit_name_plural": "سنتيموس"
 	},
 	"SYP": {
-		"name": "ليرة سورية",
-		"name_plural": "ليرات سورية",
+		"name": "جنيه سوري",
+		"name_plural": "جنيهات سورية",
 		"subunit_name": "قرش",
 		"subunit_name_plural": "قروش"
 	},
 	"SZL": {
-		"name": "ليلانجيني سوازيلند",
-		"name_plural": "إمالانجيني سوازيلند",
+		"name": "ليلانجيني سوازي",
+		"name_plural": "إمالانجيني سوازي",
 		"subunit_name": "سنت",
 		"subunit_name_plural": "سنتات"
 	},
 	"THB": {
 		"name": "باخت تايلاندي",
-		"name_plural": "باخت تايلاندية",
+		"name_plural": "باختات تايلاندية",
 		"subunit_name": "ساتانغ",
 		"subunit_name_plural": "ساتانغ"
 	},
 	"TJS": {
-		"name": "سوموني طاجيكي",
-		"name_plural": "سوموني طاجيكية",
+		"name": "سوموني طاجيكستاني",
+		"name_plural": "سوموني طاجيكستانية",
 		"subunit_name": "درام",
 		"subunit_name_plural": "درامات"
 	},
@@ -829,19 +817,19 @@
 	},
 	"TZS": {
 		"name": "شلن تنزاني",
-		"name_plural": "شلن تنزانية",
+		"name_plural": "شلنات تنزانية",
 		"subunit_name": "سنت",
 		"subunit_name_plural": "سنتات"
 	},
 	"UAH": {
 		"name": "هريفنيا أوكرانية",
-		"name_plural": "هريفنيا أوكرانية",
+		"name_plural": "هريفنيات أوكرانية",
 		"subunit_name": "كوبيك",
 		"subunit_name_plural": "كوبيكات"
 	},
 	"UGX": {
 		"name": "شلن أوغندي",
-		"name_plural": "شلن أوغندية",
+		"name_plural": "شلنات أوغندية",
 		"subunit_name": "سنت",
 		"subunit_name_plural": "سنتات"
 	},
@@ -858,20 +846,20 @@
 		"subunit_name_plural": "سنتيسيموس"
 	},
 	"UZS": {
-		"name": "سوم أوزبكي",
-		"name_plural": "سوم أوزبكية",
-		"subunit_name": "تين",
-		"subunit_name_plural": "تين"
+		"name": "سوم أوزبكستاني",
+		"name_plural": "سومات أوزبكستانية",
+		"subunit_name": "تيين",
+		"subunit_name_plural": "تيين"
 	},
-	"VES": {
-		"name": "بوليفار فنزويلي",
-		"name_plural": "بوليفار فنزويلية",
+	"VED": {
+		"name": "بوليفار فنزويلي رقمي",
+		"name_plural": "بوليفارات فنزويلية رقمية",
 		"subunit_name": "سنتيمو",
 		"subunit_name_plural": "سنتيموس"
 	},
 	"VND": {
 		"name": "دونغ فيتنامي",
-		"name_plural": "دونغ فيتنامية",
+		"name_plural": "دونغات فيتنامية",
 		"subunit_name": "هاو",
 		"subunit_name_plural": "هاو"
 	},
@@ -919,7 +907,7 @@
 	},
 	"ZAR": {
 		"name": "راند جنوب أفريقي",
-		"name_plural": "راند جنوب أفريقية",
+		"name_plural": "راندات جنوب أفريقية",
 		"subunit_name": "سنت",
 		"subunit_name_plural": "سنتات"
 	},

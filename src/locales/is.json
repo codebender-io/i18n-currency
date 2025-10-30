@@ -1,938 +1,926 @@
 {
 	"AED": {
-		"name": "Sameinuðu arabísku furstadæmana dírham",
-		"name_plural": "Sameinuðu arabísku furstadæmana dírham",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Arababandalagsdírham",
+		"name_plural": "Arababandalagsdírham",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"AFN": {
-		"name": "Afgani",
-		"name_plural": "Afganar",
-		"subunit_name": "pul",
-		"subunit_name_plural": "pul"
+		"name": "Afganistani afgani",
+		"name_plural": "Afganistani afgani",
+		"subunit_name": "Pul",
+		"subunit_name_plural": "Pul"
 	},
 	"ALL": {
-		"name": "Albanskt lek",
+		"name": "Albönsk lek",
 		"name_plural": "Albönsk lek",
-		"subunit_name": "qindarkë",
-		"subunit_name_plural": "qindarkë"
+		"subunit_name": "Qindarkë",
+		"subunit_name_plural": "Qindarkë"
 	},
 	"AMD": {
-		"name": "Armenskt dram",
-		"name_plural": "Armensk dram",
-		"subunit_name": "luma",
-		"subunit_name_plural": "lumur"
+		"name": "Armenskt dramm",
+		"name_plural": "Armensk dramm",
+		"subunit_name": "Luma",
+		"subunit_name_plural": "Luma"
 	},
 	"ANG": {
-		"name": "Hollenskur Antillugildi",
-		"name_plural": "Hollenskir Antillugildar",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Hollenskt Antillugyllini",
+		"name_plural": "Hollensk Antillugyllini",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"AOA": {
-		"name": "Angólsk kvansa",
-		"name_plural": "Angólskar kvansur",
-		"subunit_name": "cêntimo",
-		"subunit_name_plural": "cêntimos"
+		"name": "Angólsk kwanza",
+		"name_plural": "Angólskar kwanza",
+		"subunit_name": "Cêntimo",
+		"subunit_name_plural": "Cêntimos"
 	},
 	"ARS": {
 		"name": "Argentínskur pesi",
 		"name_plural": "Argentínskir pesar",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"AUD": {
 		"name": "Ástralskur dalur",
 		"name_plural": "Ástralskir dalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"AWG": {
-		"name": "Arúbönskur flórínni",
-		"name_plural": "Arúbönskir flórínar",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Arübönsk flórína",
+		"name_plural": "Arübanskar flórínur",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"AZN": {
-		"name": "Aserbaídsjanskt manat",
-		"name_plural": "Aserbaídsjönsk manöt",
-		"subunit_name": "qəpik",
-		"subunit_name_plural": "qəpik"
+		"name": "Aserbaísjanskt manat",
+		"name_plural": "Aserbaísjönsk manöt",
+		"subunit_name": "Qəpik",
+		"subunit_name_plural": "Qəpiks"
 	},
 	"BAM": {
-		"name": "Bosníu og Hersegóvínu breytanlegi markurinn",
-		"name_plural": "Bosníu og Hersegóvínu breytanlegir markar",
-		"subunit_name": "feningur",
-		"subunit_name_plural": "feningar"
+		"name": "Skiptanlegur marki Bosníu og Hersegóvínu",
+		"name_plural": "Skiptanlegir markar Bosníu og Hersegóvínu",
+		"subunit_name": "Fening",
+		"subunit_name_plural": "Feningar"
 	},
 	"BBD": {
-		"name": "Barbadosdalur",
-		"name_plural": "Barbadosdalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Barbadoskur dalur",
+		"name_plural": "Barbadoskir dalir",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"BDT": {
 		"name": "Bangladessk taka",
 		"name_plural": "Bangladesskar tökur",
-		"subunit_name": "poisha",
-		"subunit_name_plural": "poisha"
+		"subunit_name": "Poisha",
+		"subunit_name_plural": "Poisha"
 	},
 	"BGN": {
 		"name": "Búlgarskt lef",
 		"name_plural": "Búlgörsk lef",
-		"subunit_name": "stotinka",
-		"subunit_name_plural": "stotinki"
+		"subunit_name": "Stotinka",
+		"subunit_name_plural": "Stotinki"
 	},
 	"BHD": {
-		"name": "Bareinskt dínar",
-		"name_plural": "Bareinsk dínör",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Bareinskur denari",
+		"name_plural": "Bareinskir denarar",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"BIF": {
 		"name": "Búrúndískur franki",
 		"name_plural": "Búrúndískir frankar",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name": "Sentími",
+		"subunit_name_plural": "Sentímar"
 	},
 	"BMD": {
 		"name": "Bermúdadalur",
 		"name_plural": "Bermúdadalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"BND": {
 		"name": "Brúneiskur dalur",
 		"name_plural": "Brúneiskir dalir",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"BOB": {
-		"name": "Bólivíanskur boliviano",
-		"name_plural": "Bólivíanskir bolivianos",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Bólivíanskur bólivíani",
+		"name_plural": "Bólivíanskir bólivíanar",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"BRL": {
-		"name": "Brasilískur real",
-		"name_plural": "Brasilískir realar",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Brasilískt real",
+		"name_plural": "Brasilísk real",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"BSD": {
 		"name": "Bahamadalur",
 		"name_plural": "Bahamadalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"BTN": {
 		"name": "Bútanskt ngultrum",
 		"name_plural": "Bútönsk ngultrum",
-		"subunit_name": "chetrum",
-		"subunit_name_plural": "chetrum"
+		"subunit_name": "Chetrum",
+		"subunit_name_plural": "Chetrum"
 	},
 	"BWP": {
-		"name": "Botsvönsk púla",
-		"name_plural": "Botsvenskar púlur",
-		"subunit_name": "thebe",
-		"subunit_name_plural": "thebe"
+		"name": "Botsvansk púla",
+		"name_plural": "Botsvanskar púlur",
+		"subunit_name": "Thebe",
+		"subunit_name_plural": "Thebe"
 	},
 	"BYN": {
-		"name": "Hvítrússnesk rúbla",
-		"name_plural": "Hvítrússneskar rúblur",
-		"subunit_name": "kópæk",
-		"subunit_name_plural": "kópækar"
+		"name": "Hvítarússnesk rúbla",
+		"name_plural": "Hvítarússneskar rúblur",
+		"subunit_name": "Kopekka",
+		"subunit_name_plural": "Kopekkur"
 	},
 	"BZD": {
-		"name": "Belísdalur",
-		"name_plural": "Belísdalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Belískur dalur",
+		"name_plural": "Belískir dalir",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"CAD": {
 		"name": "Kanadískur dalur",
 		"name_plural": "Kanadískir dalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"CDF": {
 		"name": "Kongóskur franki",
 		"name_plural": "Kongóskir frankar",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name": "Sentím",
+		"subunit_name_plural": "Sentím"
 	},
 	"CHF": {
 		"name": "Svissneskur franki",
 		"name_plural": "Svissneskir frankar",
-		"subunit_name": "rappen",
-		"subunit_name_plural": "rappen"
+		"subunit_name": "Rappen",
+		"subunit_name_plural": "Rappen"
 	},
 	"CLP": {
 		"name": "Síleskur pesi",
 		"name_plural": "Síleskir pesar",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"CNY": {
 		"name": "Kínverskt júan",
 		"name_plural": "Kínversk júan",
-		"subunit_name": "fen",
-		"subunit_name_plural": "fen"
+		"subunit_name": "Fen",
+		"subunit_name_plural": "Fen"
 	},
 	"COP": {
 		"name": "Kólumbískur pesi",
 		"name_plural": "Kólumbískir pesar",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"CRC": {
-		"name": "Kostarískskur colón",
-		"name_plural": "Kostarískir colónar",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
-	},
-	"CUC": {
-		"name": "Kúbverskur breytanlegur pesi",
-		"name_plural": "Kúbverskir breytanlegir pesar",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Kostarískt kólon",
+		"name_plural": "Kostarísk kólon",
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Céntimos"
 	},
 	"CUP": {
 		"name": "Kúbverskur pesi",
 		"name_plural": "Kúbverskir pesar",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"CVE": {
-		"name": "Grænhöfðeyskur skúðó",
-		"name_plural": "Grænhöfðeyskir skúðóar",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Grænhöfðeyskur skútó",
+		"name_plural": "Grænhöfðeyskir skútóar",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"CZK": {
 		"name": "Tékknesk króna",
 		"name_plural": "Tékkneskar krónur",
-		"subunit_name": "haléř",
-		"subunit_name_plural": "haléře"
+		"subunit_name": "Haléř",
+		"subunit_name_plural": "Haléře"
 	},
 	"DJF": {
 		"name": "Djíbútískur franki",
 		"name_plural": "Djíbútískir frankar",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name": "Sentím",
+		"subunit_name_plural": "Sentím"
 	},
 	"DKK": {
 		"name": "Dönsk króna",
 		"name_plural": "Danskar krónur",
-		"subunit_name": "eyrir",
-		"subunit_name_plural": "aurar"
+		"subunit_name": "Eyrir",
+		"subunit_name_plural": "Aurar"
 	},
 	"DOP": {
 		"name": "Dóminískur pesi",
 		"name_plural": "Dóminískir pesar",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"DZD": {
-		"name": "Alsírskur dínar",
-		"name_plural": "Alsírskir dínarar",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Alsírskur denari",
+		"name_plural": "Alsírskir denarar",
+		"subunit_name": "Sentím",
+		"subunit_name_plural": "Sentím"
 	},
 	"EGP": {
 		"name": "Egypskt pund",
 		"name_plural": "Egypsk pund",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piaster"
+		"subunit_name": "Piaster",
+		"subunit_name_plural": "Piastrar"
 	},
 	"ERN": {
 		"name": "Erítresk nakfa",
-		"name_plural": "Erítreskar nakfur",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name_plural": "Erítreskar nökfur",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"ETB": {
 		"name": "Eþíópískt birr",
 		"name_plural": "Eþíópísk birr",
-		"subunit_name": "santim",
-		"subunit_name_plural": "santim"
+		"subunit_name": "Santim",
+		"subunit_name_plural": "Santim"
 	},
 	"EUR": {
 		"name": "Evra",
 		"name_plural": "Evrur",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"FJD": {
-		"name": "Fídjídalur",
-		"name_plural": "Fídjídalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Fídjeyskur dalur",
+		"name_plural": "Fídjeyskir dalir",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"FKP": {
 		"name": "Falklandseyjapund",
 		"name_plural": "Falklandseyjapund",
-		"subunit_name": "penni",
-		"subunit_name_plural": "peningar"
+		"subunit_name": "Penningur",
+		"subunit_name_plural": "Penningar"
 	},
 	"GBP": {
 		"name": "Breskt pund",
 		"name_plural": "Bresk pund",
-		"subunit_name": "penni",
-		"subunit_name_plural": "peningar"
+		"subunit_name": "Penningur",
+		"subunit_name_plural": "Penningar"
 	},
 	"GEL": {
 		"name": "Georgískt lari",
 		"name_plural": "Georgísk lari",
-		"subunit_name": "tetri",
-		"subunit_name_plural": "tetri"
+		"subunit_name": "Tetri",
+		"subunit_name_plural": "Tetri"
 	},
 	"GHS": {
-		"name": "Ganverskur sedi",
-		"name_plural": "Ganverskir sedar",
-		"subunit_name": "pesewa",
-		"subunit_name_plural": "pesewa"
+		"name": "Ganverskt sedi",
+		"name_plural": "Ganversk sedi",
+		"subunit_name": "Pesewa",
+		"subunit_name_plural": "Pesewa"
 	},
 	"GIP": {
-		"name": "Gíbraltarpund",
-		"name_plural": "Gíbraltarpund",
-		"subunit_name": "penni",
-		"subunit_name_plural": "peningar"
+		"name": "Gíbraltarspund",
+		"name_plural": "Gíbraltarspund",
+		"subunit_name": "Penningur",
+		"subunit_name_plural": "Penningar"
 	},
 	"GMD": {
-		"name": "Gambískur dalasi",
-		"name_plural": "Gambískir dalasar",
-		"subunit_name": "butut",
-		"subunit_name_plural": "butut"
+		"name": "Gambísk dalasi",
+		"name_plural": "Gambísk dalasi",
+		"subunit_name": "Butut",
+		"subunit_name_plural": "Butut"
 	},
 	"GNF": {
-		"name": "Gíneufranki",
-		"name_plural": "Gíneufrankar",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Gíneuskur franki",
+		"name_plural": "Gíneuskir frankar",
+		"subunit_name": "Sentími",
+		"subunit_name_plural": "Sentímar"
 	},
 	"GTQ": {
-		"name": "Gvatemalskt quetzal",
-		"name_plural": "Gvatemölsk quetzal",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Gvatemalskt ketzal",
+		"name_plural": "Gvatemölsk ketzöl",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"GYD": {
-		"name": "Gvæjanadalur",
-		"name_plural": "Gvæjanadalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Gvæjanskur dalur",
+		"name_plural": "Gvæjanskir dalir",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"HKD": {
-		"name": "Hong Kong-dalur",
-		"name_plural": "Hong Kong-dalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Hong Kong dalur",
+		"name_plural": "Hong Kong dalir",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"HNL": {
-		"name": "Hondúrsk lempíra",
-		"name_plural": "Hondúrskar lempírur",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
-	},
-	"HRK": {
-		"name": "Króatísk kúna",
-		"name_plural": "Króatískar kúnur",
-		"subunit_name": "lípa",
-		"subunit_name_plural": "lípur"
+		"name": "Hondúrask lempíra",
+		"name_plural": "Hondúraskar lempírur",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"HTG": {
-		"name": "Haítískur gúrdi",
-		"name_plural": "Haítískir gúrdar",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Haítisk gúrda",
+		"name_plural": "Haítiskar gúrdur",
+		"subunit_name": "Sentím",
+		"subunit_name_plural": "Sentím"
 	},
 	"HUF": {
-		"name": "Ungverskt forint",
-		"name_plural": "Ungversk forint",
-		"subunit_name": "fillér",
-		"subunit_name_plural": "fillér"
+		"name": "Ungversk fórinta",
+		"name_plural": "Ungverskar fórintur",
+		"subunit_name": "Fillér",
+		"subunit_name_plural": "Fillér"
 	},
 	"IDR": {
 		"name": "Indónesísk rúpía",
 		"name_plural": "Indónesískar rúpíur",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"ILS": {
-		"name": "Ísraelskt nýtt sekel",
-		"name_plural": "Ísraelsk ný sekel",
-		"subunit_name": "agora",
-		"subunit_name_plural": "agorot"
+		"name": "Ísraelskt nýtt sikill",
+		"name_plural": "Ísraelsk ný sikill",
+		"subunit_name": "Agora",
+		"subunit_name_plural": "Agorot"
 	},
 	"INR": {
 		"name": "Indversk rúpía",
 		"name_plural": "Indverskar rúpíur",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paise"
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paise"
 	},
 	"IQD": {
-		"name": "Írakskt dínar",
-		"name_plural": "Írösk dínör",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Írakskur denari",
+		"name_plural": "Írakskir denarar",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"IRR": {
 		"name": "Íranskt ríal",
-		"name_plural": "Írönsk ríöl",
-		"subunit_name": "dínar",
-		"subunit_name_plural": "dínar"
+		"name_plural": "Íransk ríal",
+		"subunit_name": "Dínar",
+		"subunit_name_plural": "Dínar"
 	},
 	"ISK": {
 		"name": "Íslensk króna",
 		"name_plural": "Íslenskar krónur",
-		"subunit_name": "eyrir",
-		"subunit_name_plural": "aurar"
+		"subunit_name": "Eyrir",
+		"subunit_name_plural": "Aurar"
 	},
 	"JMD": {
-		"name": "Jamaíkudalur",
-		"name_plural": "Jamaíkudalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Jamaískur dalur",
+		"name_plural": "Jamaískir dalir",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"JOD": {
-		"name": "Jórdanskt dínar",
-		"name_plural": "Jórdönsk dínör",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Jórdanskur denari",
+		"name_plural": "Jórdanskir denarar",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"JPY": {
 		"name": "Japanskt jen",
 		"name_plural": "Japönsk jen",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"KES": {
 		"name": "Kenískur skildingur",
 		"name_plural": "Kenískir skildingar",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"KGS": {
-		"name": "Kirgiskt som",
+		"name": "Kirgisk som",
 		"name_plural": "Kirgisk som",
-		"subunit_name": "tyiyn",
-		"subunit_name_plural": "tyiyn"
+		"subunit_name": "Tyiyn",
+		"subunit_name_plural": "Tyiyn"
 	},
 	"KHR": {
-		"name": "Kambódískt ríel",
-		"name_plural": "Kambódísk ríel",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Kambódískt ríal",
+		"name_plural": "Kambódísk ríal",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"KMF": {
-		"name": "Kómoreyjafranki",
-		"name_plural": "Kómoreyjafrankar",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Kómórskur franki",
+		"name_plural": "Kómórskir frankar",
+		"subunit_name": "Sentím",
+		"subunit_name_plural": "Sentím"
 	},
 	"KPW": {
 		"name": "Norðurkóreskt von",
 		"name_plural": "Norðurkóresk von",
-		"subunit_name": "chon",
-		"subunit_name_plural": "chon"
+		"subunit_name": "Jeon",
+		"subunit_name_plural": "Jeon"
 	},
 	"KRW": {
 		"name": "Suðurkóreskt von",
 		"name_plural": "Suðurkóresk von",
-		"subunit_name": "jeon",
-		"subunit_name_plural": "jeon"
+		"subunit_name": "Jeon",
+		"subunit_name_plural": "Jeon"
 	},
 	"KWD": {
-		"name": "Kúveitdínar",
-		"name_plural": "Kúveitdínarar",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Kúveiskur denari",
+		"name_plural": "Kúveiskir denarar",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"KYD": {
-		"name": "Caymaneyjadalur",
-		"name_plural": "Caymaneyjadalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Caymaneyskur dalur",
+		"name_plural": "Caymaneyskir dalir",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"KZT": {
 		"name": "Kasakstenskt tengi",
 		"name_plural": "Kasakstensk tengi",
-		"subunit_name": "tiın",
-		"subunit_name_plural": "tiın"
+		"subunit_name": "Tiyn",
+		"subunit_name_plural": "Tiyn"
 	},
 	"LAK": {
 		"name": "Laoskt kip",
 		"name_plural": "Laosk kip",
-		"subunit_name": "att",
-		"subunit_name_plural": "att"
+		"subunit_name": "Att",
+		"subunit_name_plural": "Att"
 	},
 	"LBP": {
 		"name": "Líbanskt pund",
-		"name_plural": "Líbonsk pund",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piaster"
+		"name_plural": "Líbank pund",
+		"subunit_name": "Píaster",
+		"subunit_name_plural": "Píastrar"
 	},
 	"LKR": {
-		"name": "Srílensk rúpía",
-		"name_plural": "Srílenskar rúpíur",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Srílönsk rúpía",
+		"name_plural": "Srílanskar rúpíur",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"LRD": {
-		"name": "Líberíudalur",
-		"name_plural": "Líberíudalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Líberískur dalur",
+		"name_plural": "Líberískir dalir",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"LSL": {
-		"name": "Lesótólótí",
-		"name_plural": "Lesótólótí",
-		"subunit_name": "sente",
-		"subunit_name_plural": "lisente"
+		"name": "Lesótó loti",
+		"name_plural": "Lesótó loti",
+		"subunit_name": "Sente",
+		"subunit_name_plural": "Lisente"
 	},
 	"LYD": {
-		"name": "Líbískt dínar",
-		"name_plural": "Líbísk dínör",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirham"
+		"name": "Líbískur denari",
+		"name_plural": "Líbískir denarar",
+		"subunit_name": "Dirham",
+		"subunit_name_plural": "Dirham"
 	},
 	"MAD": {
 		"name": "Marokkóskt dírham",
 		"name_plural": "Marokkósk dírham",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name": "Sentím",
+		"subunit_name_plural": "Sentím"
 	},
 	"MDL": {
-		"name": "Moldóvskt leu",
-		"name_plural": "Moldóvsk leu",
-		"subunit_name": "ban",
-		"subunit_name_plural": "bani"
+		"name": "Moldóvskt lei",
+		"name_plural": "Moldóvsk lei",
+		"subunit_name": "Ban",
+		"subunit_name_plural": "Bani"
 	},
 	"MGA": {
 		"name": "Madagaskararjari",
 		"name_plural": "Madagaskararjarar",
-		"subunit_name": "iraimbilanja",
-		"subunit_name_plural": "iraimbilanja"
+		"subunit_name": "Iraimbilanja",
+		"subunit_name_plural": "Iraimbilanja"
 	},
 	"MKD": {
-		"name": "Makedónskt denar",
-		"name_plural": "Makedónsk denör",
-		"subunit_name": "deni",
-		"subunit_name_plural": "deni"
+		"name": "Makedónskur denari",
+		"name_plural": "Makedónskir denarar",
+		"subunit_name": "Deni",
+		"subunit_name_plural": "Deni"
 	},
 	"MMK": {
 		"name": "Mjanmarskt kjat",
-		"name_plural": "Mjanmarsk kjat",
-		"subunit_name": "pya",
-		"subunit_name_plural": "pya"
+		"name_plural": "Mjanmarsk kjöt",
+		"subunit_name": "Pya",
+		"subunit_name_plural": "Pya"
 	},
 	"MNT": {
-		"name": "Mongólskur túgrík",
-		"name_plural": "Mongólskir túgríkar",
-		"subunit_name": "möngö",
-		"subunit_name_plural": "möngö"
+		"name": "Mongólskur túgrik",
+		"name_plural": "Mongólskir túgrikar",
+		"subunit_name": "Möngö",
+		"subunit_name_plural": "Möngö"
 	},
 	"MOP": {
-		"name": "Makaópataka",
-		"name_plural": "Makaópatökur",
-		"subunit_name": "avo",
-		"subunit_name_plural": "avos"
+		"name": "Makaó pataka",
+		"name_plural": "Makaó patökur",
+		"subunit_name": "Avo",
+		"subunit_name_plural": "Avo"
 	},
 	"MRU": {
-		"name": "Máritanísk úgía",
-		"name_plural": "Máritanískar úgíur",
-		"subunit_name": "khoums",
-		"subunit_name_plural": "khoums"
+		"name": "Máritönsk úgía",
+		"name_plural": "Máritanskar úgíur",
+		"subunit_name": "Khoums",
+		"subunit_name_plural": "Khoums"
 	},
 	"MUR": {
-		"name": "Máritíusarúpía",
-		"name_plural": "Máritíusarúpíur",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Máritísk rúpía",
+		"name_plural": "Máritískar rúpíur",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"MVR": {
-		"name": "Maldíveyjarúfía",
-		"name_plural": "Maldíveyjarúfíur",
-		"subunit_name": "laari",
-		"subunit_name_plural": "laari"
+		"name": "Maldíveysk rúfía",
+		"name_plural": "Maldíveyskar rúfíur",
+		"subunit_name": "Laari",
+		"subunit_name_plural": "Laari"
 	},
 	"MWK": {
-		"name": "Malavísk kvaša",
-		"name_plural": "Malavískar kvašur",
-		"subunit_name": "tambala",
-		"subunit_name_plural": "tambala"
+		"name": "Malavísk kvasja",
+		"name_plural": "Malavískar kvasjur",
+		"subunit_name": "Tambala",
+		"subunit_name_plural": "Tambala"
 	},
 	"MXN": {
 		"name": "Mexíkóskur pesi",
 		"name_plural": "Mexíkóskir pesar",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"MYR": {
-		"name": "Malasískt ringgit",
-		"name_plural": "Malasísk ringgit",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Malasískt ringit",
+		"name_plural": "Malasísk ringit",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"MZN": {
-		"name": "Mósambíkmetikal",
-		"name_plural": "Mósambíkmetikal",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Mósambískt metikal",
+		"name_plural": "Mósambísk metiköl",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"NAD": {
-		"name": "Namibíudalur",
-		"name_plural": "Namibíudalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Namibískur dalur",
+		"name_plural": "Namibískir dalir",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"NGN": {
-		"name": "Nígeríunaira",
-		"name_plural": "Nígeríunairur",
-		"subunit_name": "kobo",
-		"subunit_name_plural": "kobo"
+		"name": "Nígerísk naira",
+		"name_plural": "Nígerískar nairur",
+		"subunit_name": "Kobo",
+		"subunit_name_plural": "Kobo"
 	},
 	"NIO": {
-		"name": "Níkaragvakórdóba",
-		"name_plural": "Níkaragvakórdóbur",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Níkarögsk kórdóba",
+		"name_plural": "Níkarögskar kórdóbur",
+		"subunit_name": "Centavo",
+		"subunit_name_plural": "Centavos"
 	},
 	"NOK": {
 		"name": "Norsk króna",
 		"name_plural": "Norskar krónur",
-		"subunit_name": "eyrir",
-		"subunit_name_plural": "aurar"
+		"subunit_name": "Eyrir",
+		"subunit_name_plural": "Aurar"
 	},
 	"NPR": {
-		"name": "Nepalsk rúpía",
+		"name": "Nepölsk rúpía",
 		"name_plural": "Nepalskar rúpíur",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisa"
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paisa"
 	},
 	"NZD": {
 		"name": "Nýsjálenskur dalur",
 		"name_plural": "Nýsjálenskir dalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"OMR": {
 		"name": "Ómanskt ríal",
-		"name_plural": "Ómönsk ríöl",
-		"subunit_name": "baisa",
-		"subunit_name_plural": "baisa"
+		"name_plural": "Ómönsk ríal",
+		"subunit_name": "Baisa",
+		"subunit_name_plural": "Baisa"
 	},
 	"PAB": {
-		"name": "Panamabalbóa",
-		"name_plural": "Panamabalbóar",
-		"subunit_name": "centésimo",
-		"subunit_name_plural": "centésimos"
+		"name": "Panamsk balbóa",
+		"name_plural": "Panamskar balbóur",
+		"subunit_name": "Centésimo",
+		"subunit_name_plural": "Centésimos"
 	},
 	"PEN": {
 		"name": "Perúskt sól",
 		"name_plural": "Perúsk sól",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Céntimos"
 	},
 	"PGK": {
 		"name": "Papúsk kína",
 		"name_plural": "Papúskar kínur",
-		"subunit_name": "toea",
-		"subunit_name_plural": "toea"
+		"subunit_name": "Toea",
+		"subunit_name_plural": "Toea"
 	},
 	"PHP": {
-		"name": "Filippseyjapesi",
-		"name_plural": "Filippseyjapesar",
-		"subunit_name": "sentimo",
-		"subunit_name_plural": "sentimos"
+		"name": "Filippseyskur pesi",
+		"name_plural": "Filippseyskir pesar",
+		"subunit_name": "Sentimo",
+		"subunit_name_plural": "Sentimos"
 	},
 	"PKR": {
-		"name": "Pakistansk rúpía",
+		"name": "Pakistönsk rúpía",
 		"name_plural": "Pakistanskar rúpíur",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisa"
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paisa"
 	},
 	"PLN": {
-		"name": "Pólskt slot",
-		"name_plural": "Pólsk slot",
-		"subunit_name": "grósz",
-		"subunit_name_plural": "grósz"
+		"name": "Pólskur slot",
+		"name_plural": "Pólskir slotar",
+		"subunit_name": "Grosz",
+		"subunit_name_plural": "Groszy"
 	},
 	"PYG": {
-		"name": "Paragvæskur gvaraní",
-		"name_plural": "Paragvæskir gvaraníar",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
+		"name": "Paragvæskt gvaraní",
+		"name_plural": "Paragvæsk gvaraní",
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Céntimos"
 	},
 	"QAR": {
-		"name": "Katararíal",
-		"name_plural": "Katararíal",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirham"
+		"name": "Katarskt ríal",
+		"name_plural": "Katörsk ríal",
+		"subunit_name": "Dirham",
+		"subunit_name_plural": "Dirham"
 	},
 	"RON": {
-		"name": "Rúmenskt leu",
-		"name_plural": "Rúmensk leu",
-		"subunit_name": "ban",
-		"subunit_name_plural": "bani"
+		"name": "Rúmenskt lei",
+		"name_plural": "Rúmensk lei",
+		"subunit_name": "Ban",
+		"subunit_name_plural": "Bani"
 	},
 	"RSD": {
-		"name": "Serbneskt dínar",
-		"name_plural": "Serbnesk dínör",
-		"subunit_name": "para",
-		"subunit_name_plural": "para"
+		"name": "Serbneskur denari",
+		"name_plural": "Serbneskir denarar",
+		"subunit_name": "Para",
+		"subunit_name_plural": "Para"
 	},
 	"RUB": {
 		"name": "Rússnesk rúbla",
 		"name_plural": "Rússneskar rúblur",
-		"subunit_name": "kópæk",
-		"subunit_name_plural": "kópækar"
+		"subunit_name": "Kopekka",
+		"subunit_name_plural": "Kopekkur"
 	},
 	"RWF": {
-		"name": "Rúandafranki",
-		"name_plural": "Rúandafrankar",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Rúandskur franki",
+		"name_plural": "Rúandskir frankar",
+		"subunit_name": "Sentími",
+		"subunit_name_plural": "Sentímar"
 	},
 	"SAR": {
-		"name": "Sádiarabískt ríal",
-		"name_plural": "Sádiarabísk ríöl",
-		"subunit_name": "halala",
-		"subunit_name_plural": "halala"
+		"name": "Sádíarabískt ríal",
+		"name_plural": "Sádíarabísk ríal",
+		"subunit_name": "Halala",
+		"subunit_name_plural": "Halala"
 	},
 	"SBD": {
 		"name": "Salómonseyjadalur",
 		"name_plural": "Salómonseyjadalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"SCR": {
 		"name": "Seychellesrúpía",
 		"name_plural": "Seychellesrúpíur",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"SDG": {
 		"name": "Súdanskt pund",
 		"name_plural": "Súdönsk pund",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piaster"
+		"subunit_name": "Píaster",
+		"subunit_name_plural": "Píastrar"
 	},
 	"SEK": {
 		"name": "Sænsk króna",
 		"name_plural": "Sænskar krónur",
-		"subunit_name": "eyrir",
-		"subunit_name_plural": "aurar"
+		"subunit_name": "Eyrir",
+		"subunit_name_plural": "Aurar"
 	},
 	"SGD": {
-		"name": "Singapúrdalur",
-		"name_plural": "Singapúrdalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Singapúrskur dalur",
+		"name_plural": "Singapúrskir dalir",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"SHP": {
-		"name": "Sankti Helenupund",
-		"name_plural": "Sankti Helenupund",
-		"subunit_name": "penni",
-		"subunit_name_plural": "peningar"
+		"name": "Helena pund",
+		"name_plural": "Helena pund",
+		"subunit_name": "Penningur",
+		"subunit_name_plural": "Penningar"
 	},
-	"SLL": {
-		"name": "Síerraleóneskur leóni",
-		"name_plural": "Síerraleóneskir leónar",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+	"SLE": {
+		"name": "Síerraleónsk leóna",
+		"name_plural": "Síerraleónskar leónur",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"SOS": {
 		"name": "Sómalískur skildingur",
 		"name_plural": "Sómalískir skildingar",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"SRD": {
 		"name": "Súrínamdalur",
 		"name_plural": "Súrínamdalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"SSP": {
 		"name": "Suðursúdanskt pund",
 		"name_plural": "Suðursúdönsk pund",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piaster"
+		"subunit_name": "Piaster",
+		"subunit_name_plural": "Piastrar"
 	},
 	"STN": {
-		"name": "Saó Tóme og Prinsípedóbra",
-		"name_plural": "Saó Tóme og Prinsípedóbrur",
-		"subunit_name": "cêntimo",
-		"subunit_name_plural": "cêntimos"
+		"name": "Saó Tóme og Prinsípe dóbra",
+		"name_plural": "Saó Tóme og Prinsípe dóbrur",
+		"subunit_name": "Cêntimo",
+		"subunit_name_plural": "Cêntimos"
 	},
 	"SYP": {
 		"name": "Sýrlenskt pund",
 		"name_plural": "Sýrlensk pund",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piaster"
+		"subunit_name": "Píaster",
+		"subunit_name_plural": "Píastrar"
 	},
 	"SZL": {
 		"name": "Svasílenskt lilangeni",
 		"name_plural": "Svasílensk lilangeni",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"THB": {
-		"name": "Tælenskt bat",
-		"name_plural": "Tælensk bat",
-		"subunit_name": "satang",
-		"subunit_name_plural": "satang"
+		"name": "Taílenskt bat",
+		"name_plural": "Taílensk bat",
+		"subunit_name": "Satang",
+		"subunit_name_plural": "Satang"
 	},
 	"TJS": {
-		"name": "Tadsjikískt somoní",
-		"name_plural": "Tadsjikísk somoní",
-		"subunit_name": "diram",
-		"subunit_name_plural": "diram"
+		"name": "Tadsjikistanskt somóni",
+		"name_plural": "Tadsjikistansk somóni",
+		"subunit_name": "Diram",
+		"subunit_name_plural": "Diram"
 	},
 	"TMT": {
 		"name": "Túrkmenskt manat",
 		"name_plural": "Túrkmensk manat",
-		"subunit_name": "tenge",
-		"subunit_name_plural": "tenge"
+		"subunit_name": "Tenge",
+		"subunit_name_plural": "Tenge"
 	},
 	"TND": {
-		"name": "Túnisískt dínar",
-		"name_plural": "Túnisísk dínör",
-		"subunit_name": "millime",
-		"subunit_name_plural": "millime"
+		"name": "Túnískur denari",
+		"name_plural": "Túnískir denarar",
+		"subunit_name": "Millime",
+		"subunit_name_plural": "Millime"
 	},
 	"TOP": {
 		"name": "Tongversk paʻanga",
 		"name_plural": "Tongverskar paʻangur",
-		"subunit_name": "seniti",
-		"subunit_name_plural": "seniti"
+		"subunit_name": "Seniti",
+		"subunit_name_plural": "Seniti"
 	},
 	"TRY": {
 		"name": "Tyrknesk líra",
 		"name_plural": "Tyrkneskar lírur",
-		"subunit_name": "kuruş",
-		"subunit_name_plural": "kuruş"
+		"subunit_name": "Kuruş",
+		"subunit_name_plural": "Kuruş"
 	},
 	"TTD": {
-		"name": "Trínidad og Tóbagódalur",
-		"name_plural": "Trínidad og Tóbagódalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Trínidad og Tóbagó dalur",
+		"name_plural": "Trínidad og Tóbagó dalir",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"TWD": {
 		"name": "Taívanskur dalur",
 		"name_plural": "Taívanskir dalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"TZS": {
 		"name": "Tansanískur skildingur",
 		"name_plural": "Tansanískir skildingar",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"UAH": {
-		"name": "Úkraínsk hryvnia",
-		"name_plural": "Úkraínskar hryvníur",
-		"subunit_name": "kopiyka",
-		"subunit_name_plural": "kopiykur"
+		"name": "Úkraínsk hrinja",
+		"name_plural": "Úkraínskar hrinjur",
+		"subunit_name": "Kopekka",
+		"subunit_name_plural": "Kopekkur"
 	},
 	"UGX": {
-		"name": "Úgandískur skildingur",
-		"name_plural": "Úgandískir skildingar",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Úgandskur skildingur",
+		"name_plural": "Úgandskir skildingar",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"USD": {
 		"name": "Bandaríkjadalur",
 		"name_plural": "Bandaríkjadalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"UYU": {
 		"name": "Úrúgvæskur pesi",
 		"name_plural": "Úrúgvæskir pesar",
-		"subunit_name": "centésimo",
-		"subunit_name_plural": "centésimos"
+		"subunit_name": "Centésimo",
+		"subunit_name_plural": "Centésimos"
 	},
 	"UZS": {
-		"name": "Úsbekskt sum",
-		"name_plural": "Úsbeksk sum",
-		"subunit_name": "tiyin",
-		"subunit_name_plural": "tiyin"
+		"name": "Úsbekskt som",
+		"name_plural": "Úsbeksk som",
+		"subunit_name": "Tiyin",
+		"subunit_name_plural": "Tiyin"
 	},
-	"VES": {
+	"VED": {
 		"name": "Venesúelskt bolívar",
 		"name_plural": "Venesúelsk bolívar",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
+		"subunit_name": "Céntimo",
+		"subunit_name_plural": "Céntimos"
 	},
 	"VND": {
 		"name": "Víetnamskt dong",
-		"name_plural": "Víetnamsk dong",
-		"subunit_name": "hào",
-		"subunit_name_plural": "hào"
+		"name_plural": "Víetnömsk dong",
+		"subunit_name": "Hào",
+		"subunit_name_plural": "Hào"
 	},
 	"VUV": {
-		"name": "Vanúatúvatú",
-		"name_plural": "Vanúatúvatú",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Vanúatúskt vatú",
+		"name_plural": "Vanúatúsk vatú",
+		"subunit_name": "Sentími",
+		"subunit_name_plural": "Sentímar"
 	},
 	"WST": {
-		"name": "Samóatala",
-		"name_plural": "Samóatölur",
-		"subunit_name": "sene",
-		"subunit_name_plural": "sene"
+		"name": "Samóskt tala",
+		"name_plural": "Samósk tala",
+		"subunit_name": "Sene",
+		"subunit_name_plural": "Sene"
 	},
 	"XAF": {
-		"name": "Miðafrískur CFA-franki",
-		"name_plural": "Miðafrískir CFA-frankar",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Miðafrískur CFA franki",
+		"name_plural": "Miðafrískir CFA frankar",
+		"subunit_name": "Sentími",
+		"subunit_name_plural": "Sentímar"
 	},
 	"XCD": {
-		"name": "Austurkarabískur dalur",
-		"name_plural": "Austurkarabískir dalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Austur-Karíbahafsdalur",
+		"name_plural": "Austur-Karíbahafsdalir",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"XOF": {
-		"name": "Vesturafrískur CFA-franki",
-		"name_plural": "Vesturafrískir CFA-frankar",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Vesturafrískur CFA franki",
+		"name_plural": "Vesturafrískir CFA frankar",
+		"subunit_name": "Sentími",
+		"subunit_name_plural": "Sentímar"
 	},
 	"XPF": {
-		"name": "CFP-franki",
-		"name_plural": "CFP-frankar",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "CFP franki",
+		"name_plural": "CFP frankar",
+		"subunit_name": "Sentími",
+		"subunit_name_plural": "Sentímar"
 	},
 	"YER": {
-		"name": "Jemenríal",
-		"name_plural": "Jemenríal",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Jemenskt ríal",
+		"name_plural": "Jemensk ríal",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"ZAR": {
 		"name": "Suðurafrískt rand",
 		"name_plural": "Suðurafrísk rand",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	},
 	"ZMW": {
-		"name": "Sambísk kvaša",
-		"name_plural": "Sambískar kvašur",
-		"subunit_name": "ngwee",
-		"subunit_name_plural": "ngwee"
+		"name": "Sambísk kvasja",
+		"name_plural": "Sambískar kvasjur",
+		"subunit_name": "Ngwee",
+		"subunit_name_plural": "Ngwee"
 	},
 	"ZWL": {
-		"name": "Simbabvedalur",
-		"name_plural": "Simbabvedalir",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Simbabveskur dalur",
+		"name_plural": "Simbabveskir dalir",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sent"
 	}
 }

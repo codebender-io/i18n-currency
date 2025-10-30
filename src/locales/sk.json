@@ -1,937 +1,925 @@
 {
 	"AED": {
-		"name": "Emirátsky dirham",
-		"name_plural": "emirátske dirhamy",
+		"name": "SAE dirham",
+		"name_plural": "SAE dirhamy",
 		"subunit_name": "fils",
 		"subunit_name_plural": "filsy"
 	},
 	"AFN": {
-		"name": "Afganský afghani",
-		"name_plural": "afganské afghani",
+		"name": "afganský afgání",
+		"name_plural": "afganské afgání",
 		"subunit_name": "pul",
 		"subunit_name_plural": "puly"
 	},
 	"ALL": {
-		"name": "Albánsky lek",
+		"name": "albánsky lek",
 		"name_plural": "albánske leky",
 		"subunit_name": "qindarkë",
 		"subunit_name_plural": "qindarkë"
 	},
 	"AMD": {
-		"name": "Arménsky dram",
+		"name": "arménsky dram",
 		"name_plural": "arménske dramy",
 		"subunit_name": "luma",
 		"subunit_name_plural": "lumy"
 	},
 	"ANG": {
-		"name": "Antilský gulden",
+		"name": "antilský gulden",
 		"name_plural": "antilské guldeny",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"AOA": {
-		"name": "Angolská kwanza",
+		"name": "angolská kwanza",
 		"name_plural": "angolské kwanzy",
 		"subunit_name": "cêntimo",
 		"subunit_name_plural": "cêntimos"
 	},
 	"ARS": {
-		"name": "Argentínske peso",
+		"name": "argentínske peso",
 		"name_plural": "argentínske pesos",
 		"subunit_name": "centavo",
 		"subunit_name_plural": "centavos"
 	},
 	"AUD": {
-		"name": "Austrálsky dolár",
+		"name": "austrálsky dolár",
 		"name_plural": "austrálske doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"AWG": {
-		"name": "Arubský florín",
-		"name_plural": "arubské floríny",
+		"name": "arubský florin",
+		"name_plural": "arubské floriny",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"AZN": {
-		"name": "Azerbajdžanský manat",
+		"name": "azerbajdžanský manat",
 		"name_plural": "azerbajdžanské manaty",
 		"subunit_name": "qəpik",
 		"subunit_name_plural": "qəpiky"
 	},
 	"BAM": {
-		"name": "Konvertibilná marka Bosny a Hercegoviny",
-		"name_plural": "konvertibilné marky Bosny a Hercegoviny",
+		"name": "konvertibilná marka",
+		"name_plural": "konvertibilné marky",
 		"subunit_name": "fening",
 		"subunit_name_plural": "feningy"
 	},
 	"BBD": {
-		"name": "Barbadoský dolár",
+		"name": "barbadoský dolár",
 		"name_plural": "barbadoské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"BDT": {
-		"name": "Bangladéšska taka",
+		"name": "bangladéšska taka",
 		"name_plural": "bangladéšske taky",
 		"subunit_name": "poisha",
 		"subunit_name_plural": "poishy"
 	},
 	"BGN": {
-		"name": "Bulharský lev",
+		"name": "bulharský lev",
 		"name_plural": "bulharské levy",
 		"subunit_name": "stotinka",
 		"subunit_name_plural": "stotinky"
 	},
 	"BHD": {
-		"name": "Bahrajnský dinár",
-		"name_plural": "bahrajnské dináre",
+		"name": "bahrajnský dinár",
+		"name_plural": "bahrajnské dináry",
 		"subunit_name": "fils",
 		"subunit_name_plural": "filsy"
 	},
 	"BIF": {
-		"name": "Burundský frank",
+		"name": "burundský frank",
 		"name_plural": "burundské franky",
 		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name_plural": "centimy"
 	},
 	"BMD": {
-		"name": "Bermudský dolár",
+		"name": "bermudský dolár",
 		"name_plural": "bermudské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"BND": {
-		"name": "Brunejský dolár",
+		"name": "brunejský dolár",
 		"name_plural": "brunejské doláre",
 		"subunit_name": "sen",
 		"subunit_name_plural": "seny"
 	},
 	"BOB": {
-		"name": "Bolívijské boliviano",
+		"name": "bolívijské boliviano",
 		"name_plural": "bolívijské bolivianos",
 		"subunit_name": "centavo",
 		"subunit_name_plural": "centavos"
 	},
 	"BRL": {
-		"name": "Brazílsky real",
+		"name": "brazílsky real",
 		"name_plural": "brazílske realy",
 		"subunit_name": "centavo",
 		"subunit_name_plural": "centavos"
 	},
 	"BSD": {
-		"name": "Bahamský dolár",
+		"name": "bahamský dolár",
 		"name_plural": "bahamské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"BTN": {
-		"name": "Bhutánsky ngultrum",
+		"name": "bhutánsky ngultrum",
 		"name_plural": "bhutánske ngultrumy",
 		"subunit_name": "chetrum",
 		"subunit_name_plural": "chetrumy"
 	},
 	"BWP": {
-		"name": "Botswanská pula",
+		"name": "botswanská pula",
 		"name_plural": "botswanské puly",
 		"subunit_name": "thebe",
 		"subunit_name_plural": "thebe"
 	},
 	"BYN": {
-		"name": "Bieloruský rubeľ",
+		"name": "bieloruský rubeľ",
 		"name_plural": "bieloruské ruble",
 		"subunit_name": "kopejka",
 		"subunit_name_plural": "kopejky"
 	},
 	"BZD": {
-		"name": "Belizejský dolár",
-		"name_plural": "belizejské doláre",
+		"name": "belizský dolár",
+		"name_plural": "belizské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"CAD": {
-		"name": "Kanadský dolár",
+		"name": "kanadský dolár",
 		"name_plural": "kanadské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"CDF": {
-		"name": "Konžský frank",
+		"name": "konžský frank",
 		"name_plural": "konžské franky",
 		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name_plural": "centimy"
 	},
 	"CHF": {
-		"name": "Švajčiarsky frank",
+		"name": "švajčiarsky frank",
 		"name_plural": "švajčiarske franky",
 		"subunit_name": "rappen",
-		"subunit_name_plural": "rappen"
+		"subunit_name_plural": "rappeny"
 	},
 	"CLP": {
-		"name": "Čílske peso",
-		"name_plural": "čílske pesos",
+		"name": "čilské peso",
+		"name_plural": "čilské pesos",
 		"subunit_name": "centavo",
 		"subunit_name_plural": "centavos"
 	},
 	"CNY": {
-		"name": "Čínsky jüan",
-		"name_plural": "čínske jüany",
+		"name": "čínsky jüan",
+		"name_plural": "čínské jüany",
 		"subunit_name": "fen",
 		"subunit_name_plural": "feny"
 	},
 	"COP": {
-		"name": "Kolumbijské peso",
+		"name": "kolumbijské peso",
 		"name_plural": "kolumbijské pesos",
 		"subunit_name": "centavo",
 		"subunit_name_plural": "centavos"
 	},
 	"CRC": {
-		"name": "Kostarický colón",
+		"name": "kostarický colón",
 		"name_plural": "kostarické colóny",
 		"subunit_name": "céntimo",
 		"subunit_name_plural": "céntimos"
 	},
-	"CUC": {
-		"name": "Kubánske konvertibilné peso",
-		"name_plural": "kubánske konvertibilné pesos",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
-	},
 	"CUP": {
-		"name": "Kubánske peso",
+		"name": "kubánske peso",
 		"name_plural": "kubánske pesos",
 		"subunit_name": "centavo",
 		"subunit_name_plural": "centavos"
 	},
 	"CVE": {
-		"name": "Kapverdské escudo",
+		"name": "kapverdské escudo",
 		"name_plural": "kapverdské escudos",
 		"subunit_name": "centavo",
 		"subunit_name_plural": "centavos"
 	},
 	"CZK": {
-		"name": "Česká koruna",
+		"name": "česká koruna",
 		"name_plural": "české koruny",
 		"subunit_name": "halier",
 		"subunit_name_plural": "haliere"
 	},
 	"DJF": {
-		"name": "Džibutský frank",
+		"name": "džibutský frank",
 		"name_plural": "džibutské franky",
 		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name_plural": "centimy"
 	},
 	"DKK": {
-		"name": "Dánska koruna",
+		"name": "dánska koruna",
 		"name_plural": "dánske koruny",
 		"subunit_name": "øre",
 		"subunit_name_plural": "øre"
 	},
 	"DOP": {
-		"name": "Dominikánske peso",
+		"name": "dominikánske peso",
 		"name_plural": "dominikánske pesos",
 		"subunit_name": "centavo",
 		"subunit_name_plural": "centavos"
 	},
 	"DZD": {
-		"name": "Alžírsky dinár",
-		"name_plural": "alžírske dináre",
+		"name": "alžírsky dinár",
+		"name_plural": "alžírske dináry",
 		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name_plural": "centimy"
 	},
 	"EGP": {
-		"name": "Egyptská libra",
+		"name": "egyptská libra",
 		"name_plural": "egyptské libry",
 		"subunit_name": "piastra",
 		"subunit_name_plural": "piastry"
 	},
 	"ERN": {
-		"name": "Eritrejská nakfa",
+		"name": "eritrejská nakfa",
 		"name_plural": "eritrejské nakfy",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"ETB": {
-		"name": "Etiópsky birr",
+		"name": "etiópsky birr",
 		"name_plural": "etiópske birry",
 		"subunit_name": "santim",
 		"subunit_name_plural": "santimy"
 	},
 	"EUR": {
-		"name": "Euro",
+		"name": "euro",
 		"name_plural": "eurá",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"FJD": {
-		"name": "Fidžijský dolár",
+		"name": "fidžijský dolár",
 		"name_plural": "fidžijské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"FKP": {
-		"name": "Falklandská libra",
+		"name": "falklandská libra",
 		"name_plural": "falklandské libry",
 		"subunit_name": "penny",
 		"subunit_name_plural": "pence"
 	},
 	"GBP": {
-		"name": "Britská libra",
+		"name": "britská libra",
 		"name_plural": "britské libry",
 		"subunit_name": "penny",
 		"subunit_name_plural": "pence"
 	},
 	"GEL": {
-		"name": "Gruzínske lari",
+		"name": "gruzínske lari",
 		"name_plural": "gruzínske lari",
 		"subunit_name": "tetri",
 		"subunit_name_plural": "tetri"
 	},
 	"GHS": {
-		"name": "Ghanské cedi",
+		"name": "ghanské cedi",
 		"name_plural": "ghanské cedi",
 		"subunit_name": "pesewa",
 		"subunit_name_plural": "pesewy"
 	},
 	"GIP": {
-		"name": "Gibraltárska libra",
+		"name": "gibraltárska libra",
 		"name_plural": "gibraltárske libry",
 		"subunit_name": "penny",
 		"subunit_name_plural": "pence"
 	},
 	"GMD": {
-		"name": "Gambijský dalasi",
+		"name": "gambijské dalasi",
 		"name_plural": "gambijské dalasi",
 		"subunit_name": "butut",
 		"subunit_name_plural": "bututy"
 	},
 	"GNF": {
-		"name": "Guinejský frank",
+		"name": "guinejský frank",
 		"name_plural": "guinejské franky",
 		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name_plural": "centimy"
 	},
 	"GTQ": {
-		"name": "Guatemalský quetzal",
+		"name": "guatemalský quetzal",
 		"name_plural": "guatemalské quetzaly",
 		"subunit_name": "centavo",
 		"subunit_name_plural": "centavos"
 	},
 	"GYD": {
-		"name": "Guyanský dolár",
+		"name": "guyanský dolár",
 		"name_plural": "guyanské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"HKD": {
-		"name": "Hongkonský dolár",
+		"name": "hongkonský dolár",
 		"name_plural": "hongkonské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"HNL": {
-		"name": "Honduraská lempira",
+		"name": "honduraská lempira",
 		"name_plural": "honduraské lempiry",
 		"subunit_name": "centavo",
 		"subunit_name_plural": "centavos"
 	},
-	"HRK": {
-		"name": "Chorvátska kuna",
-		"name_plural": "chorvátske kuny",
-		"subunit_name": "lipa",
-		"subunit_name_plural": "lipy"
-	},
 	"HTG": {
-		"name": "Haitské gourde",
+		"name": "haitské gourde",
 		"name_plural": "haitské gourdes",
 		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name_plural": "centimy"
 	},
 	"HUF": {
-		"name": "Maďarský forint",
+		"name": "maďarský forint",
 		"name_plural": "maďarské forinty",
 		"subunit_name": "fillér",
 		"subunit_name_plural": "filléry"
 	},
 	"IDR": {
-		"name": "Indonézska rupia",
+		"name": "indonézska rupia",
 		"name_plural": "indonézske rupie",
 		"subunit_name": "sen",
 		"subunit_name_plural": "seny"
 	},
 	"ILS": {
-		"name": "Izraelský šekel",
+		"name": "izraelský šekel",
 		"name_plural": "izraelské šekely",
 		"subunit_name": "agora",
 		"subunit_name_plural": "agorot"
 	},
 	"INR": {
-		"name": "Indická rupia",
+		"name": "indická rupia",
 		"name_plural": "indické rupie",
 		"subunit_name": "paisa",
 		"subunit_name_plural": "paise"
 	},
 	"IQD": {
-		"name": "Iracký dinár",
-		"name_plural": "iracké dináre",
+		"name": "iracký dinár",
+		"name_plural": "iracké dináry",
 		"subunit_name": "fils",
 		"subunit_name_plural": "filsy"
 	},
 	"IRR": {
-		"name": "Iránsky riál",
-		"name_plural": "iránske riály",
-		"subunit_name": "dinar",
-		"subunit_name_plural": "dináre"
+		"name": "iránsky rial",
+		"name_plural": "iránske rialy",
+		"subunit_name": "dinár",
+		"subunit_name_plural": "dináry"
 	},
 	"ISK": {
-		"name": "Islandská koruna",
+		"name": "islandská koruna",
 		"name_plural": "islandské koruny",
 		"subunit_name": "eyrir",
 		"subunit_name_plural": "aurar"
 	},
 	"JMD": {
-		"name": "Jamajský dolár",
+		"name": "jamajský dolár",
 		"name_plural": "jamajské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"JOD": {
-		"name": "Jordánsky dinár",
-		"name_plural": "jordánske dináre",
+		"name": "jordánsky dinár",
+		"name_plural": "jordánske dináry",
 		"subunit_name": "fils",
 		"subunit_name_plural": "filsy"
 	},
 	"JPY": {
-		"name": "Japonský jen",
+		"name": "japonský jen",
 		"name_plural": "japonské jeny",
 		"subunit_name": "sen",
 		"subunit_name_plural": "seny"
 	},
 	"KES": {
-		"name": "Kenský šiling",
+		"name": "kenský šiling",
 		"name_plural": "kenské šilingy",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"KGS": {
-		"name": "Kirgizský som",
+		"name": "kirgizský som",
 		"name_plural": "kirgizské somy",
 		"subunit_name": "tyiyn",
 		"subunit_name_plural": "tyiyny"
 	},
 	"KHR": {
-		"name": "Kambodžský riel",
+		"name": "kambodžský riel",
 		"name_plural": "kambodžské riely",
 		"subunit_name": "sen",
 		"subunit_name_plural": "seny"
 	},
 	"KMF": {
-		"name": "Komorský frank",
+		"name": "komorský frank",
 		"name_plural": "komorské franky",
 		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name_plural": "centimy"
 	},
 	"KPW": {
-		"name": "Severokórejský won",
+		"name": "severokórejský won",
 		"name_plural": "severokórejské wony",
-		"subunit_name": "čon",
-		"subunit_name_plural": "čony"
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeony"
 	},
 	"KRW": {
-		"name": "Juhokórejský won",
+		"name": "juhokórejský won",
 		"name_plural": "juhokórejské wony",
-		"subunit_name": "čon",
-		"subunit_name_plural": "čony"
+		"subunit_name": "jeon",
+		"subunit_name_plural": "jeony"
 	},
 	"KWD": {
-		"name": "Kuvajtský dinár",
-		"name_plural": "kuvajtské dináre",
+		"name": "kuvajtský dinár",
+		"name_plural": "kuvajtské dináry",
 		"subunit_name": "fils",
 		"subunit_name_plural": "filsy"
 	},
 	"KYD": {
-		"name": "Kajmanský dolár",
+		"name": "kajmanský dolár",
 		"name_plural": "kajmanské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"KZT": {
-		"name": "Kazašské tenge",
+		"name": "kazašské tenge",
 		"name_plural": "kazašské tenge",
-		"subunit_name": "tïın",
-		"subunit_name_plural": "tïıny"
+		"subunit_name": "tiyn",
+		"subunit_name_plural": "tiyny"
 	},
 	"LAK": {
-		"name": "Laoský kip",
+		"name": "laoský kip",
 		"name_plural": "laoské kipy",
 		"subunit_name": "att",
 		"subunit_name_plural": "atty"
 	},
 	"LBP": {
-		"name": "Libanonská libra",
+		"name": "libanonská libra",
 		"name_plural": "libanonské libry",
 		"subunit_name": "piastra",
 		"subunit_name_plural": "piastry"
 	},
 	"LKR": {
-		"name": "Srílanská rupia",
+		"name": "srílanská rupia",
 		"name_plural": "srílanské rupie",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"LRD": {
-		"name": "Libérijský dolár",
+		"name": "libérijský dolár",
 		"name_plural": "libérijské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"LSL": {
-		"name": "Lesothský loti",
+		"name": "lesothský loti",
 		"name_plural": "lesothské loti",
 		"subunit_name": "sente",
 		"subunit_name_plural": "lisente"
 	},
 	"LYD": {
-		"name": "Líbyjský dinár",
-		"name_plural": "líbyjské dináre",
+		"name": "líbyjský dinár",
+		"name_plural": "líbyjské dináry",
 		"subunit_name": "dirham",
 		"subunit_name_plural": "dirhamy"
 	},
 	"MAD": {
-		"name": "Marocký dirham",
+		"name": "marocký dirham",
 		"name_plural": "marocké dirhamy",
 		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name_plural": "centimy"
 	},
 	"MDL": {
-		"name": "Moldavské leu",
+		"name": "moldavský leu",
 		"name_plural": "moldavské lei",
 		"subunit_name": "ban",
 		"subunit_name_plural": "bani"
 	},
 	"MGA": {
-		"name": "Madagaskarský ariary",
-		"name_plural": "madagaskarské ariary",
+		"name": "malgašský ariary",
+		"name_plural": "malgašské ariary",
 		"subunit_name": "iraimbilanja",
 		"subunit_name_plural": "iraimbilanja"
 	},
 	"MKD": {
-		"name": "Macedónsky denár",
+		"name": "macedónsky denár",
 		"name_plural": "macedónske denáre",
 		"subunit_name": "deni",
 		"subunit_name_plural": "deni"
 	},
 	"MMK": {
-		"name": "Mjanmarský kyat",
+		"name": "mjanmarský kyat",
 		"name_plural": "mjanmarské kyaty",
 		"subunit_name": "pya",
 		"subunit_name_plural": "pya"
 	},
 	"MNT": {
-		"name": "Mongolský tugrik",
+		"name": "mongolský tugrik",
 		"name_plural": "mongolské tugriky",
 		"subunit_name": "möngö",
 		"subunit_name_plural": "möngö"
 	},
 	"MOP": {
-		"name": "Macajská pataca",
+		"name": "macajská pataca",
 		"name_plural": "macajské patacy",
 		"subunit_name": "avo",
 		"subunit_name_plural": "avos"
 	},
 	"MRU": {
-		"name": "Mauritánska ouguiya",
+		"name": "mauritánska ouguiya",
 		"name_plural": "mauritánske ouguiya",
 		"subunit_name": "khoums",
 		"subunit_name_plural": "khoums"
 	},
 	"MUR": {
-		"name": "Maurícijská rupia",
+		"name": "maurícijská rupia",
 		"name_plural": "maurícijské rupie",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"MVR": {
-		"name": "Maldivská rufiyaa",
+		"name": "maldivská rufiyaa",
 		"name_plural": "maldivské rufiyaa",
 		"subunit_name": "laari",
 		"subunit_name_plural": "laari"
 	},
 	"MWK": {
-		"name": "Malawijská kwacha",
+		"name": "malawijská kwacha",
 		"name_plural": "malawijské kwachy",
 		"subunit_name": "tambala",
-		"subunit_name_plural": "tambaly"
+		"subunit_name_plural": "tambala"
 	},
 	"MXN": {
-		"name": "Mexické peso",
+		"name": "mexické peso",
 		"name_plural": "mexické pesos",
 		"subunit_name": "centavo",
 		"subunit_name_plural": "centavos"
 	},
 	"MYR": {
-		"name": "Malajzijský ringgit",
+		"name": "malajzijský ringgit",
 		"name_plural": "malajzijské ringgity",
 		"subunit_name": "sen",
 		"subunit_name_plural": "seny"
 	},
 	"MZN": {
-		"name": "Mozambický metical",
+		"name": "mozambický metical",
 		"name_plural": "mozambické meticaly",
 		"subunit_name": "centavo",
 		"subunit_name_plural": "centavos"
 	},
 	"NAD": {
-		"name": "Namíbijský dolár",
+		"name": "namíbijský dolár",
 		"name_plural": "namíbijské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"NGN": {
-		"name": "Nigérijská naira",
+		"name": "nigérijská naira",
 		"name_plural": "nigérijské nairy",
 		"subunit_name": "kobo",
 		"subunit_name_plural": "kobo"
 	},
 	"NIO": {
-		"name": "Nikaragujská córdoba",
+		"name": "nikaragujská córdoba",
 		"name_plural": "nikaragujské córdoby",
 		"subunit_name": "centavo",
 		"subunit_name_plural": "centavos"
 	},
 	"NOK": {
-		"name": "Nórska koruna",
+		"name": "nórska koruna",
 		"name_plural": "nórske koruny",
 		"subunit_name": "øre",
 		"subunit_name_plural": "øre"
 	},
 	"NPR": {
-		"name": "Nepálska rupia",
+		"name": "nepálska rupia",
 		"name_plural": "nepálske rupie",
 		"subunit_name": "paisa",
 		"subunit_name_plural": "paisa"
 	},
 	"NZD": {
-		"name": "Novozélandský dolár",
+		"name": "novozélandský dolár",
 		"name_plural": "novozélandské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"OMR": {
-		"name": "Ománsky riál",
-		"name_plural": "ománske riály",
+		"name": "ománsky rial",
+		"name_plural": "ománske rialy",
 		"subunit_name": "baisa",
 		"subunit_name_plural": "baisa"
 	},
 	"PAB": {
-		"name": "Panamská balboa",
-		"name_plural": "panamské balboasy",
+		"name": "panamská balboa",
+		"name_plural": "panamské balboy",
 		"subunit_name": "centésimo",
 		"subunit_name_plural": "centésimos"
 	},
 	"PEN": {
-		"name": "Peruánsky sol",
-		"name_plural": "peruánske soles",
+		"name": "peruánsky sol",
+		"name_plural": "peruánske soly",
 		"subunit_name": "céntimo",
 		"subunit_name_plural": "céntimos"
 	},
 	"PGK": {
-		"name": "Papuánska kina",
+		"name": "papuánska kina",
 		"name_plural": "papuánske kiny",
 		"subunit_name": "toea",
 		"subunit_name_plural": "toea"
 	},
 	"PHP": {
-		"name": "Filipínske peso",
+		"name": "filipínske peso",
 		"name_plural": "filipínske pesos",
 		"subunit_name": "sentimo",
 		"subunit_name_plural": "sentimos"
 	},
 	"PKR": {
-		"name": "Pakistanská rupia",
+		"name": "pakistanská rupia",
 		"name_plural": "pakistanské rupie",
 		"subunit_name": "paisa",
 		"subunit_name_plural": "paisa"
 	},
 	"PLN": {
-		"name": "Poľský zlotý",
+		"name": "poľský zlotý",
 		"name_plural": "poľské zloté",
 		"subunit_name": "grosz",
-		"subunit_name_plural": "grosze"
+		"subunit_name_plural": "groszy"
 	},
 	"PYG": {
-		"name": "Paraguajské guaraní",
+		"name": "paraguajské guaraní",
 		"name_plural": "paraguajské guaraní",
 		"subunit_name": "céntimo",
 		"subunit_name_plural": "céntimos"
 	},
 	"QAR": {
-		"name": "Katarský riál",
-		"name_plural": "katarské riály",
+		"name": "katarský rial",
+		"name_plural": "katarské rialy",
 		"subunit_name": "dirham",
 		"subunit_name_plural": "dirhamy"
 	},
 	"RON": {
-		"name": "Rumunské leu",
+		"name": "rumunský leu",
 		"name_plural": "rumunské lei",
 		"subunit_name": "ban",
 		"subunit_name_plural": "bani"
 	},
 	"RSD": {
-		"name": "Srbský dinár",
+		"name": "srbský dinár",
 		"name_plural": "srbské dináre",
 		"subunit_name": "para",
 		"subunit_name_plural": "para"
 	},
 	"RUB": {
-		"name": "Ruský rubeľ",
+		"name": "ruský rubeľ",
 		"name_plural": "ruské ruble",
 		"subunit_name": "kopejka",
 		"subunit_name_plural": "kopejky"
 	},
 	"RWF": {
-		"name": "Rwandský frank",
+		"name": "rwandský frank",
 		"name_plural": "rwandské franky",
 		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name_plural": "centimy"
 	},
 	"SAR": {
-		"name": "Saudskoarabský riál",
-		"name_plural": "saudskoarabské riály",
+		"name": "saudský rial",
+		"name_plural": "saudské rialy",
 		"subunit_name": "halala",
 		"subunit_name_plural": "halaly"
 	},
 	"SBD": {
-		"name": "Šalamúnsky dolár",
+		"name": "šalamúnsky dolár",
 		"name_plural": "šalamúnske doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"SCR": {
-		"name": "Seychelská rupia",
+		"name": "seychelská rupia",
 		"name_plural": "seychelské rupie",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"SDG": {
-		"name": "Sudánska libra",
+		"name": "sudánska libra",
 		"name_plural": "sudánske libry",
 		"subunit_name": "piastra",
 		"subunit_name_plural": "piastry"
 	},
 	"SEK": {
-		"name": "Švédska koruna",
+		"name": "švédska koruna",
 		"name_plural": "švédske koruny",
 		"subunit_name": "öre",
 		"subunit_name_plural": "öre"
 	},
 	"SGD": {
-		"name": "Singapurský dolár",
+		"name": "singapurský dolár",
 		"name_plural": "singapurské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"SHP": {
-		"name": "Svätohelenská libra",
+		"name": "svätohelenská libra",
 		"name_plural": "svätohelenské libry",
 		"subunit_name": "penny",
 		"subunit_name_plural": "pence"
 	},
-	"SLL": {
-		"name": "Sierraleonské leone",
+	"SLE": {
+		"name": "sierraleonský leone",
 		"name_plural": "sierraleonské leone",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"SOS": {
-		"name": "Somálsky šiling",
+		"name": "somálsky šiling",
 		"name_plural": "somálske šilingy",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"SRD": {
-		"name": "Surinamský dolár",
+		"name": "surinamský dolár",
 		"name_plural": "surinamské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"SSP": {
-		"name": "Juhosudánska libra",
+		"name": "juhosudánska libra",
 		"name_plural": "juhosudánske libry",
 		"subunit_name": "piaster",
 		"subunit_name_plural": "piastre"
 	},
 	"STN": {
-		"name": "Svätotomášska dobra",
-		"name_plural": "svätotomášske dobry",
+		"name": "svätotomášska dobra",
+		"name_plural": "svätotomášské dobry",
 		"subunit_name": "cêntimo",
 		"subunit_name_plural": "cêntimos"
 	},
 	"SYP": {
-		"name": "Sýrska libra",
+		"name": "sýrska libra",
 		"name_plural": "sýrske libry",
 		"subunit_name": "piastra",
 		"subunit_name_plural": "piastry"
 	},
 	"SZL": {
-		"name": "Svazijský lilangeni",
+		"name": "svazijské lilangeni",
 		"name_plural": "svazijské emalangeni",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"THB": {
-		"name": "Thajský baht",
+		"name": "thajský baht",
 		"name_plural": "thajské bahty",
 		"subunit_name": "satang",
 		"subunit_name_plural": "satangy"
 	},
 	"TJS": {
-		"name": "Tadžický somoni",
+		"name": "tadžické somoni",
 		"name_plural": "tadžické somoni",
 		"subunit_name": "diram",
 		"subunit_name_plural": "diramy"
 	},
 	"TMT": {
-		"name": "Turkménsky manat",
+		"name": "turkménsky manat",
 		"name_plural": "turkménske manaty",
 		"subunit_name": "tenge",
 		"subunit_name_plural": "tenge"
 	},
 	"TND": {
-		"name": "Tuniský dinár",
-		"name_plural": "tuniské dináre",
+		"name": "tuniský dinár",
+		"name_plural": "tuniské dináry",
 		"subunit_name": "millime",
-		"subunit_name_plural": "millimes"
+		"subunit_name_plural": "millimy"
 	},
 	"TOP": {
-		"name": "Tongská paʻanga",
+		"name": "tongská paʻanga",
 		"name_plural": "tongské paʻanga",
 		"subunit_name": "seniti",
 		"subunit_name_plural": "seniti"
 	},
 	"TRY": {
-		"name": "Turecká líra",
+		"name": "turecká líra",
 		"name_plural": "turecké líry",
 		"subunit_name": "kuruş",
-		"subunit_name_plural": "kuruş"
+		"subunit_name_plural": "kuruşy"
 	},
 	"TTD": {
-		"name": "Trinidadsko-tobažský dolár",
+		"name": "trinidadsko-tobažský dolár",
 		"name_plural": "trinidadsko-tobažské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"TWD": {
-		"name": "Taiwanský dolár",
-		"name_plural": "taiwanské doláre",
+		"name": "nový taiwanský dolár",
+		"name_plural": "nové taiwanské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"TZS": {
-		"name": "Tanzánsky šiling",
+		"name": "tanzánsky šiling",
 		"name_plural": "tanzánske šilingy",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"UAH": {
-		"name": "Ukrajinská hryvna",
-		"name_plural": "ukrajinské hryvny",
+		"name": "ukrajinská hrivna",
+		"name_plural": "ukrajinské hrivny",
 		"subunit_name": "kopijka",
 		"subunit_name_plural": "kopijky"
 	},
 	"UGX": {
-		"name": "Ugandský šiling",
+		"name": "ugandský šiling",
 		"name_plural": "ugandské šilingy",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"USD": {
-		"name": "Americký dolár",
+		"name": "americký dolár",
 		"name_plural": "americké doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"UYU": {
-		"name": "Uruguajské peso",
+		"name": "uruguajské peso",
 		"name_plural": "uruguajské pesos",
 		"subunit_name": "centésimo",
 		"subunit_name_plural": "centésimos"
 	},
 	"UZS": {
-		"name": "Uzbecký som",
+		"name": "uzbecký som",
 		"name_plural": "uzbecké somy",
 		"subunit_name": "tiyin",
 		"subunit_name_plural": "tiyiny"
 	},
-	"VES": {
-		"name": "Venezuelský bolívar",
-		"name_plural": "venezuelské bolívares",
+	"VED": {
+		"name": "venezuelský bolívar digital",
+		"name_plural": "venezuelské bolívary digitales",
 		"subunit_name": "céntimo",
 		"subunit_name_plural": "céntimos"
 	},
 	"VND": {
-		"name": "Vietnamský dong",
+		"name": "vietnamský dong",
 		"name_plural": "vietnamské dongy",
 		"subunit_name": "hào",
 		"subunit_name_plural": "hào"
 	},
 	"VUV": {
-		"name": "Vanuatský vatu",
+		"name": "vanuatské vatu",
 		"name_plural": "vanuatské vatu",
 		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name_plural": "centimy"
 	},
 	"WST": {
-		"name": "Samojská tala",
+		"name": "samojská tala",
 		"name_plural": "samojské taly",
 		"subunit_name": "sene",
 		"subunit_name_plural": "sene"
 	},
 	"XAF": {
-		"name": "Stredoafrický CFA frank",
-		"name_plural": "stredoafrické CFA franky",
+		"name": "stredoafrický frank",
+		"name_plural": "stredoafrické franky",
 		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name_plural": "centimy"
 	},
 	"XCD": {
-		"name": "Východokaribský dolár",
+		"name": "východokaribský dolár",
 		"name_plural": "východokaribské doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"XOF": {
-		"name": "Západoafrický CFA frank",
-		"name_plural": "západoafrické CFA franky",
+		"name": "západoafrický frank",
+		"name_plural": "západoafrické franky",
 		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name_plural": "centimy"
 	},
 	"XPF": {
 		"name": "CFP frank",
 		"name_plural": "CFP franky",
 		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"subunit_name_plural": "centimy"
 	},
 	"YER": {
-		"name": "Jemenský riál",
-		"name_plural": "jemenské riály",
+		"name": "jemenský rial",
+		"name_plural": "jemenské rialy",
 		"subunit_name": "fils",
 		"subunit_name_plural": "filsy"
 	},
 	"ZAR": {
-		"name": "Juhoafrický rand",
+		"name": "juhoafrický rand",
 		"name_plural": "juhoafrické randy",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	},
 	"ZMW": {
-		"name": "Zambijská kwacha",
+		"name": "zambijská kwacha",
 		"name_plural": "zambijské kwachy",
 		"subunit_name": "ngwee",
 		"subunit_name_plural": "ngwee"
 	},
 	"ZWL": {
-		"name": "Zimbabwský dolár",
-		"name_plural": "zimbabwské doláre",
+		"name": "zimbabwiansky dolár",
+		"name_plural": "zimbabwianske doláre",
 		"subunit_name": "cent",
 		"subunit_name_plural": "centy"
 	}

@@ -1,938 +1,926 @@
 {
 	"AED": {
-		"name": "Dirham y'Emirati",
-		"name_plural": "Dirham z'Emirati",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Idiramu ry'Abarabu Barenga",
+		"name_plural": "Amadiramu y'Abarabu Barenga",
+		"subunit_name": "Ifaranga",
+		"subunit_name_plural": "Amafaranga"
 	},
 	"AFN": {
-		"name": "Afghani y'Afuganisitani",
-		"name_plural": "Afghani z'Afuganisitani",
-		"subunit_name": "pul",
-		"subunit_name_plural": "puls"
+		"name": "Ifaranga ry'Afuganisitani",
+		"name_plural": "Amafaranga y'Afuganisitani",
+		"subunit_name": "Ipuli",
+		"subunit_name_plural": "Amapuli"
 	},
 	"ALL": {
-		"name": "Lek y'Alubaniya",
-		"name_plural": "Lek z'Alubaniya",
-		"subunit_name": "qindarkë",
-		"subunit_name_plural": "qindarkë"
+		"name": "Ileki ry'Alubaniya",
+		"name_plural": "Amaleki y'Alubaniya",
+		"subunit_name": "Ikindarika",
+		"subunit_name_plural": "Ibindarika"
 	},
 	"AMD": {
-		"name": "Dram y'Arumeniya",
-		"name_plural": "Dram z'Arumeniya",
-		"subunit_name": "luma",
-		"subunit_name_plural": "lumas"
+		"name": "Idiramu ry'Arumeniya",
+		"name_plural": "Amadiramu y'Arumeniya",
+		"subunit_name": "Iluma",
+		"subunit_name_plural": "Amaluma"
 	},
 	"ANG": {
-		"name": "Guilder y'Antile za Holandi",
-		"name_plural": "Guilder z'Antile za Holandi",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Igelideri ry'Abaholandi",
+		"name_plural": "Amagelideri y'Abaholandi",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"AOA": {
-		"name": "Kwanza y'Angola",
-		"name_plural": "Kwanza z'Angola",
-		"subunit_name": "cêntimo",
-		"subunit_name_plural": "cêntimos"
+		"name": "Ikwanza ry'Angola",
+		"name_plural": "Amakwanza y'Angola",
+		"subunit_name": "Isentimo",
+		"subunit_name_plural": "Amasentimo"
 	},
 	"ARS": {
-		"name": "Peso y'Arijantine",
-		"name_plural": "Peso z'Arijantine",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Ipeso ry'Arijantine",
+		"name_plural": "Amapeso y'Arijantine",
+		"subunit_name": "Isentavo",
+		"subunit_name_plural": "Amasentavo"
 	},
 	"AUD": {
-		"name": "Dolari y'Ositaraliya",
-		"name_plural": "Dolari z'Ositaraliya",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Ositaraliya",
+		"name_plural": "Amadori y'Ositaraliya",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"AWG": {
-		"name": "Florin y'Aruba",
-		"name_plural": "Florin z'Aruba",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Iforolini ry'Aruba",
+		"name_plural": "Amaforolini y'Aruba",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"AZN": {
-		"name": "Manat y'Azerubayijani",
-		"name_plural": "Manat z'Azerubayijani",
-		"subunit_name": "qəpik",
-		"subunit_name_plural": "qəpiks"
+		"name": "Imanati ry'Azeribayijani",
+		"name_plural": "Amanati y'Azeribayijani",
+		"subunit_name": "Igapiki",
+		"subunit_name_plural": "Amapiki"
 	},
 	"BAM": {
-		"name": "Marki y'ibipimo bya Bosiniya na Herusigovine",
-		"name_plural": "Marki z'ibipimo bya Bosiniya na Herusigovine",
-		"subunit_name": "fening",
-		"subunit_name_plural": "fenings"
+		"name": "Imariki ry'Bosiniya na Herizegovina",
+		"name_plural": "Amariki y'Bosiniya na Herizegovina",
+		"subunit_name": "Ifeningi",
+		"subunit_name_plural": "Amafeningi"
 	},
 	"BBD": {
-		"name": "Dolari y'Barubade",
-		"name_plural": "Dolari z'Barubade",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Barubadosi",
+		"name_plural": "Amadori y'Barubadosi",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"BDT": {
-		"name": "Taka y'Bangladeshi",
-		"name_plural": "Taka z'Bangladeshi",
-		"subunit_name": "poisha",
-		"subunit_name_plural": "poishas"
+		"name": "Itaka ry'Bangaladeshi",
+		"name_plural": "Amataka y'Bangaladeshi",
+		"subunit_name": "Ipoyisha",
+		"subunit_name_plural": "Amapoyisha"
 	},
 	"BGN": {
-		"name": "Lev y'Buligariya",
-		"name_plural": "Lev z'Buligariya",
-		"subunit_name": "stotinka",
-		"subunit_name_plural": "stotinki"
+		"name": "Ilevi ry'Buligariya",
+		"name_plural": "Amalevi y'Buligariya",
+		"subunit_name": "Isitotinka",
+		"subunit_name_plural": "Amasitotinka"
 	},
 	"BHD": {
-		"name": "Dinari y'Bahareni",
-		"name_plural": "Dinari z'Bahareni",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Idinari ry'Bahireyini",
+		"name_plural": "Amadinari y'Bahireyini",
+		"subunit_name": "Ifaranga",
+		"subunit_name_plural": "Amafaranga"
 	},
 	"BIF": {
-		"name": "Faranga y'Burundi",
-		"name_plural": "Faranga z'Burundi",
-		"subunit_name": "santime",
-		"subunit_name_plural": "santime"
+		"name": "Ifaranga ry'Uburundi",
+		"name_plural": "Amafaranga y'Uburundi",
+		"subunit_name": "Isentime",
+		"subunit_name_plural": "Amasentime"
 	},
 	"BMD": {
-		"name": "Dolari y'Bermuda",
-		"name_plural": "Dolari z'Bermuda",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Berimuda",
+		"name_plural": "Amadori y'Berimuda",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"BND": {
-		"name": "Dolari y'Brunei",
-		"name_plural": "Dolari z'Brunei",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Idolari ry'Buruneyi",
+		"name_plural": "Amadori y'Buruneyi",
+		"subunit_name": "Iseni",
+		"subunit_name_plural": "Amaseni"
 	},
 	"BOB": {
-		"name": "Boliviano y'Boliviya",
-		"name_plural": "Boliviano z'Boliviya",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Iboliviyano ry'Boliviya",
+		"name_plural": "Amaboliviyano y'Boliviya",
+		"subunit_name": "Isentavo",
+		"subunit_name_plural": "Amasentavo"
 	},
 	"BRL": {
-		"name": "Real y'Burezili",
-		"name_plural": "Real z'Burezili",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Ireyali ry'Burezili",
+		"name_plural": "Amareyali y'Burezili",
+		"subunit_name": "Isentavo",
+		"subunit_name_plural": "Amasentavo"
 	},
 	"BSD": {
-		"name": "Dolari y'Bahamas",
-		"name_plural": "Dolari z'Bahamas",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Bahamasi",
+		"name_plural": "Amadori y'Bahamasi",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"BTN": {
-		"name": "Ngultrum y'Bhutani",
-		"name_plural": "Ngultrum z'Bhutani",
-		"subunit_name": "chetrum",
-		"subunit_name_plural": "chetrums"
+		"name": "Inguritumu ry'Butani",
+		"name_plural": "Inguritumu y'Butani",
+		"subunit_name": "Ichetirumu",
+		"subunit_name_plural": "Amachetirumu"
 	},
 	"BWP": {
-		"name": "Pula y'Botswana",
-		"name_plural": "Pula z'Botswana",
-		"subunit_name": "thebe",
-		"subunit_name_plural": "thebe"
+		"name": "Ipula ry'Botswana",
+		"name_plural": "Amapula y'Botswana",
+		"subunit_name": "Itebe",
+		"subunit_name_plural": "Amatete"
 	},
 	"BYN": {
-		"name": "Rubili y'Ubelarusi",
-		"name_plural": "Rubili z'Ubelarusi",
-		"subunit_name": "kopeck",
-		"subunit_name_plural": "kopecks"
+		"name": "Irubeli ry'Belarusi",
+		"name_plural": "Amalubeli y'Belarusi",
+		"subunit_name": "Ikopeki",
+		"subunit_name_plural": "Amakopeki"
 	},
 	"BZD": {
-		"name": "Dolari y'Belize",
-		"name_plural": "Dolari z'Belize",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Belize",
+		"name_plural": "Amadori y'Belize",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"CAD": {
-		"name": "Dolari y'Ukanada",
-		"name_plural": "Dolari z'Ukanada",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Kanada",
+		"name_plural": "Amadori y'Kanada",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"CDF": {
-		"name": "Faranga y'Ukongo",
-		"name_plural": "Faranga z'Ukongo",
-		"subunit_name": "santime",
-		"subunit_name_plural": "santime"
+		"name": "Ifaranga ry'Kongo",
+		"name_plural": "Amafaranga y'Kongo",
+		"subunit_name": "Isentime",
+		"subunit_name_plural": "Amasentime"
 	},
 	"CHF": {
-		"name": "Faranga y'Suwisi",
-		"name_plural": "Faranga z'Suwisi",
-		"subunit_name": "rappen",
-		"subunit_name_plural": "rappen"
+		"name": "Ifaranga ry'Ubusuwisi",
+		"name_plural": "Amafaranga y'Ubusuwisi",
+		"subunit_name": "Irapeni",
+		"subunit_name_plural": "Amarapeni"
 	},
 	"CLP": {
-		"name": "Peso y'Chile",
-		"name_plural": "Peso z'Chile",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Ipeso ry'Shili",
+		"name_plural": "Amapeso y'Shili",
+		"subunit_name": "Isentavo",
+		"subunit_name_plural": "Amasentavo"
 	},
 	"CNY": {
-		"name": "Yuan y'Ushinwa",
-		"name_plural": "Yuan z'Ushinwa",
-		"subunit_name": "fen",
-		"subunit_name_plural": "fen"
+		"name": "Iyuwani ry'Ubushinwa",
+		"name_plural": "Amayuwani y'Ubushinwa",
+		"subunit_name": "Ifeni",
+		"subunit_name_plural": "Amafeni"
 	},
 	"COP": {
-		"name": "Peso y'Kolombiya",
-		"name_plural": "Peso z'Kolombiya",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Ipeso ry'Kolombiya",
+		"name_plural": "Amapeso y'Kolombiya",
+		"subunit_name": "Isentavo",
+		"subunit_name_plural": "Amasentavo"
 	},
 	"CRC": {
-		"name": "Colón y'Kosta Rika",
-		"name_plural": "Colón z'Kosta Rika",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
-	},
-	"CUC": {
-		"name": "Peso y'ibipimo bya Kuba",
-		"name_plural": "Peso z'ibipimo bya Kuba",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Ikoloni ry'Kositarika",
+		"name_plural": "Amakoloni y'Kositarika",
+		"subunit_name": "Isentimo",
+		"subunit_name_plural": "Amasentimo"
 	},
 	"CUP": {
-		"name": "Peso y'Kuba",
-		"name_plural": "Peso z'Kuba",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Ipeso ry'Kiba",
+		"name_plural": "Amapeso y'Kiba",
+		"subunit_name": "Isentavo",
+		"subunit_name_plural": "Amasentavo"
 	},
 	"CVE": {
-		"name": "Escudo y'Cape Verde",
-		"name_plural": "Escudo z'Cape Verde",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Ikesukudo ry'Kapu Veri",
+		"name_plural": "Amakesukudo y'Kapu Veri",
+		"subunit_name": "Isentavo",
+		"subunit_name_plural": "Amasentavo"
 	},
 	"CZK": {
-		"name": "Koruna y'Utshekiya",
-		"name_plural": "Koruna z'Utshekiya",
-		"subunit_name": "haléř",
-		"subunit_name_plural": "haléře"
+		"name": "Ikoruna ry'Repubulika ya Ceke",
+		"name_plural": "Amakoruna y'Repubulika ya Ceke",
+		"subunit_name": "Ihaleri",
+		"subunit_name_plural": "Amahaleri"
 	},
 	"DJF": {
-		"name": "Faranga y'Jibuti",
-		"name_plural": "Faranga z'Jibuti",
-		"subunit_name": "santime",
-		"subunit_name_plural": "santime"
+		"name": "Ifaranga ry'Jibuti",
+		"name_plural": "Amafaranga y'Jibuti",
+		"subunit_name": "Isentime",
+		"subunit_name_plural": "Amasentime"
 	},
 	"DKK": {
-		"name": "Krone y'Udanemarki",
-		"name_plural": "Krone z'Udanemarki",
-		"subunit_name": "øre",
-		"subunit_name_plural": "øre"
+		"name": "Ikorona ry'Danimarike",
+		"name_plural": "Amakorona y'Danimarike",
+		"subunit_name": "Iore",
+		"subunit_name_plural": "Amore"
 	},
 	"DOP": {
-		"name": "Peso y'Udominika",
-		"name_plural": "Peso z'Udominika",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Ipeso ry'Repubulika ya Dominika",
+		"name_plural": "Amapeso y'Repubulika ya Dominika",
+		"subunit_name": "Isentavo",
+		"subunit_name_plural": "Amasentavo"
 	},
 	"DZD": {
-		"name": "Dinari y'Aljeriya",
-		"name_plural": "Dinari z'Aljeriya",
-		"subunit_name": "santime",
-		"subunit_name_plural": "santime"
+		"name": "Idinari ry'Alijeriya",
+		"name_plural": "Amadinari y'Alijeriya",
+		"subunit_name": "Isentime",
+		"subunit_name_plural": "Amasentime"
 	},
 	"EGP": {
-		"name": "Pound y'Ijipute",
-		"name_plural": "Pound z'Ijipute",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastre"
+		"name": "Ipawundi ry'Misiri",
+		"name_plural": "Amapawundi y'Misiri",
+		"subunit_name": "Ipiyasteri",
+		"subunit_name_plural": "Amapiyasteri"
 	},
 	"ERN": {
-		"name": "Nakfa y'Eriterea",
-		"name_plural": "Nakfa z'Eriterea",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Inakifa ry'Eriteriya",
+		"name_plural": "Inakifa y'Eriteriya",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"ETB": {
-		"name": "Birr y'Etiyopiya",
-		"name_plural": "Birr z'Etiyopiya",
-		"subunit_name": "santim",
-		"subunit_name_plural": "santims"
+		"name": "Ibiri ry'Etiyopiya",
+		"name_plural": "Amabiri y'Etiyopiya",
+		"subunit_name": "Isantimu",
+		"subunit_name_plural": "Amasantimu"
 	},
 	"EUR": {
-		"name": "Euro",
-		"name_plural": "Euro",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Iyero",
+		"name_plural": "Amayero",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"FJD": {
-		"name": "Dolari y'Fiji",
-		"name_plural": "Dolari z'Fiji",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Fiji",
+		"name_plural": "Amadori y'Fiji",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"FKP": {
-		"name": "Pound y'Ibirwa bya Falkland",
-		"name_plural": "Pound z'Ibirwa bya Falkland",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"name": "Ipawundi ry'Izinga rya Falkland",
+		"name_plural": "Amapawundi y'Izinga rya Falkland",
+		"subunit_name": "Ipeni",
+		"subunit_name_plural": "Amapeni"
 	},
 	"GBP": {
-		"name": "Pound y'Ubwongereza",
-		"name_plural": "Pound z'Ubwongereza",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"name": "Ipawundi ry'Ubwongereza",
+		"name_plural": "Amapawundi y'Ubwongereza",
+		"subunit_name": "Ipeni",
+		"subunit_name_plural": "Amapeni"
 	},
 	"GEL": {
-		"name": "Lari y'Jorijiya",
-		"name_plural": "Lari z'Jorijiya",
-		"subunit_name": "tetri",
-		"subunit_name_plural": "tetri"
+		"name": "Ilari ry'Jeworujiya",
+		"name_plural": "Amalari y'Jeworujiya",
+		"subunit_name": "Itetri",
+		"subunit_name_plural": "Amatetri"
 	},
 	"GHS": {
-		"name": "Cedi y'Ghana",
-		"name_plural": "Cedi z'Ghana",
-		"subunit_name": "pesewa",
-		"subunit_name_plural": "pesewas"
+		"name": "Iseti ry'Gana",
+		"name_plural": "Amaseti y'Gana",
+		"subunit_name": "Ipesewa",
+		"subunit_name_plural": "Amapesewa"
 	},
 	"GIP": {
-		"name": "Pound y'Gibraltar",
-		"name_plural": "Pound z'Gibraltar",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"name": "Ipawundi ry'Giburalitari",
+		"name_plural": "Amapawundi y'Giburalitari",
+		"subunit_name": "Ipeni",
+		"subunit_name_plural": "Amapeni"
 	},
 	"GMD": {
-		"name": "Dalasi y'Gambia",
-		"name_plural": "Dalasi z'Gambia",
-		"subunit_name": "butut",
-		"subunit_name_plural": "bututs"
+		"name": "Idalasi ry'Gambiya",
+		"name_plural": "Amadalasi y'Gambiya",
+		"subunit_name": "Ibututi",
+		"subunit_name_plural": "Amabututi"
 	},
 	"GNF": {
-		"name": "Faranga y'Gine",
-		"name_plural": "Faranga z'Gine",
-		"subunit_name": "santime",
-		"subunit_name_plural": "santime"
+		"name": "Ifaranga ry'Gineya",
+		"name_plural": "Amafaranga y'Gineya",
+		"subunit_name": "Isentime",
+		"subunit_name_plural": "Amasentime"
 	},
 	"GTQ": {
-		"name": "Quetzal y'Guatemala",
-		"name_plural": "Quetzal z'Guatemala",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Ikesetali ry'Gwatemala",
+		"name_plural": "Amakesetali y'Gwatemala",
+		"subunit_name": "Isentavo",
+		"subunit_name_plural": "Amasentavo"
 	},
 	"GYD": {
-		"name": "Dolari y'Guyana",
-		"name_plural": "Dolari z'Guyana",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Guyana",
+		"name_plural": "Amadori y'Guyana",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"HKD": {
-		"name": "Dolari y'Hong Kong",
-		"name_plural": "Dolari z'Hong Kong",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Hong Kong",
+		"name_plural": "Amadori y'Hong Kong",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"HNL": {
-		"name": "Lempira y'Ondurasi",
-		"name_plural": "Lempira z'Ondurasi",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
-	},
-	"HRK": {
-		"name": "Kuna y'Ukroashiya",
-		"name_plural": "Kuna z'Ukroashiya",
-		"subunit_name": "lipa",
-		"subunit_name_plural": "lipa"
+		"name": "Ilempira ry'Hondurasi",
+		"name_plural": "Amalempira y'Hondurasi",
+		"subunit_name": "Isentavo",
+		"subunit_name_plural": "Amasentavo"
 	},
 	"HTG": {
-		"name": "Gourde y'Ayiti",
-		"name_plural": "Gourde z'Ayiti",
-		"subunit_name": "santime",
-		"subunit_name_plural": "santime"
+		"name": "Iguride ry'Hayiti",
+		"name_plural": "Amaguride y'Hayiti",
+		"subunit_name": "Isentime",
+		"subunit_name_plural": "Amasentime"
 	},
 	"HUF": {
-		"name": "Forint y'Ungariya",
-		"name_plural": "Forint z'Ungariya",
-		"subunit_name": "fillér",
-		"subunit_name_plural": "fillér"
+		"name": "Iforinti ry'Hongiriya",
+		"name_plural": "Amaforinti y'Hongiriya",
+		"subunit_name": "Ifileri",
+		"subunit_name_plural": "Amafileri"
 	},
 	"IDR": {
-		"name": "Rupiah y'Indoneziya",
-		"name_plural": "Rupiah z'Indoneziya",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Irupiya ry'Indoneziya",
+		"name_plural": "Amarupiya y'Indoneziya",
+		"subunit_name": "Iseni",
+		"subunit_name_plural": "Amaseni"
 	},
 	"ILS": {
-		"name": "Shekel y'Isirayeli",
-		"name_plural": "Shekel z'Isirayeli",
-		"subunit_name": "agora",
-		"subunit_name_plural": "agorot"
+		"name": "Ishekeri rishya ry'Isiraheli",
+		"name_plural": "Amashekeri mashya y'Isiraheli",
+		"subunit_name": "Iagora",
+		"subunit_name_plural": "Amaagora"
 	},
 	"INR": {
-		"name": "Rupee y'Inde",
-		"name_plural": "Rupee z'Inde",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paise"
+		"name": "Irupya ry'Ubuhindi",
+		"name_plural": "Amarupya y'Ubuhindi",
+		"subunit_name": "Ipaysa",
+		"subunit_name_plural": "Amapaysa"
 	},
 	"IQD": {
-		"name": "Dinari y'Iraki",
-		"name_plural": "Dinari z'Iraki",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Idinari ry'Irake",
+		"name_plural": "Amadinari y'Irake",
+		"subunit_name": "Ifaranga",
+		"subunit_name_plural": "Amafaranga"
 	},
 	"IRR": {
-		"name": "Rial y'Irani",
-		"name_plural": "Rial z'Irani",
-		"subunit_name": "dinar",
-		"subunit_name_plural": "dinars"
+		"name": "Iriyali ry'Irani",
+		"name_plural": "Amariyali y'Irani",
+		"subunit_name": "Idinari",
+		"subunit_name_plural": "Amadinari"
 	},
 	"ISK": {
-		"name": "Króna y'Isilande",
-		"name_plural": "Króna z'Isilande",
-		"subunit_name": "eyrir",
-		"subunit_name_plural": "aurar"
+		"name": "Ikorona ry'Isilande",
+		"name_plural": "Amakorona y'Isilande",
+		"subunit_name": "Iyeri",
+		"subunit_name_plural": "Amayeri"
 	},
 	"JMD": {
-		"name": "Dolari y'Jamayika",
-		"name_plural": "Dolari z'Jamayika",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Jamayika",
+		"name_plural": "Amadori y'Jamayika",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"JOD": {
-		"name": "Dinari y'Yorodaniya",
-		"name_plural": "Dinari z'Yorodaniya",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Idinari ry'Yorudani",
+		"name_plural": "Amadinari y'Yorudani",
+		"subunit_name": "Ifaranga",
+		"subunit_name_plural": "Amafaranga"
 	},
 	"JPY": {
-		"name": "Yen y'Ujapani",
-		"name_plural": "Yen z'Ujapani",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Iyeni ry'Ubuyapani",
+		"name_plural": "Amayeni y'Ubuyapani",
+		"subunit_name": "Iseni",
+		"subunit_name_plural": "Amaseni"
 	},
 	"KES": {
-		"name": "Shilingi y'Ukenya",
-		"name_plural": "Shilingi z'Ukenya",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Ishilingi ry'Kenya",
+		"name_plural": "Amashilingi y'Kenya",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"KGS": {
-		"name": "Som y'Kirigizisitani",
-		"name_plural": "Som z'Kirigizisitani",
-		"subunit_name": "tyiyn",
-		"subunit_name_plural": "tyiyn"
+		"name": "Isomu ry'Kirigizisitani",
+		"name_plural": "Isomu y'Kirigizisitani",
+		"subunit_name": "Itiyini",
+		"subunit_name_plural": "Itiyini"
 	},
 	"KHR": {
-		"name": "Riel y'Ukambodza",
-		"name_plural": "Riel z'Ukambodza",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Iriyeli ry'Kamboje",
+		"name_plural": "Amariyeli y'Kamboje",
+		"subunit_name": "Iseni",
+		"subunit_name_plural": "Amaseni"
 	},
 	"KMF": {
-		"name": "Faranga y'Ukomore",
-		"name_plural": "Faranga z'Ukomore",
-		"subunit_name": "santime",
-		"subunit_name_plural": "santime"
+		"name": "Ifaranga ry'Izinga rya Komore",
+		"name_plural": "Amafaranga y'Izinga rya Komore",
+		"subunit_name": "Isentime",
+		"subunit_name_plural": "Amasentime"
 	},
 	"KPW": {
-		"name": "Won y'Ukoreya y'amajyaruguru",
-		"name_plural": "Won z'Ukoreya y'amajyaruguru",
-		"subunit_name": "jeon",
-		"subunit_name_plural": "jeon"
+		"name": "Iwoni ry'Koreya y'Amajyaruguru",
+		"name_plural": "Iwoni y'Koreya y'Amajyaruguru",
+		"subunit_name": "Ijeoni",
+		"subunit_name_plural": "Ijeoni"
 	},
 	"KRW": {
-		"name": "Won y'Ukoreya y'amanota",
-		"name_plural": "Won z'Ukoreya y'amanota",
-		"subunit_name": "jeon",
-		"subunit_name_plural": "jeon"
+		"name": "Iwoni ry'Koreya y'Amajyepfo",
+		"name_plural": "Iwoni y'Koreya y'Amajyepfo",
+		"subunit_name": "Ijeoni",
+		"subunit_name_plural": "Ijeoni"
 	},
 	"KWD": {
-		"name": "Dinari y'Ukoweiti",
-		"name_plural": "Dinari z'Ukoweiti",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Idinari ry'Koweti",
+		"name_plural": "Amadinari y'Koweti",
+		"subunit_name": "Ifaranga",
+		"subunit_name_plural": "Amafaranga"
 	},
 	"KYD": {
-		"name": "Dolari y'Ibirwa bya Kayman",
-		"name_plural": "Dolari z'Ibirwa bya Kayman",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Izinga rya Kayimani",
+		"name_plural": "Amadori y'Izinga rya Kayimani",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"KZT": {
-		"name": "Tenge y'Ukasakisitani",
-		"name_plural": "Tenge z'Ukasakisitani",
-		"subunit_name": "tiyn",
-		"subunit_name_plural": "tiyn"
+		"name": "Itenge ry'Kazakisitani",
+		"name_plural": "Amatenge y'Kazakisitani",
+		"subunit_name": "Itiyini",
+		"subunit_name_plural": "Itiyini"
 	},
 	"LAK": {
-		"name": "Kip y'Ulaosi",
-		"name_plural": "Kip z'Ulaosi",
-		"subunit_name": "att",
-		"subunit_name_plural": "att"
+		"name": "Ikipi ry'Layosi",
+		"name_plural": "Ibikipi by'Layosi",
+		"subunit_name": "Ihati",
+		"subunit_name_plural": "Ihati"
 	},
 	"LBP": {
-		"name": "Pound y'Ulibani",
-		"name_plural": "Pound z'Ulibani",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastre"
+		"name": "Ipawundi ry'Libani",
+		"name_plural": "Amapawundi y'Libani",
+		"subunit_name": "Ipiyasteri",
+		"subunit_name_plural": "Amapiyasteri"
 	},
 	"LKR": {
-		"name": "Rupee y'Siri Lanka",
-		"name_plural": "Rupee z'Siri Lanka",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Irupya ry'Sirilanka",
+		"name_plural": "Amarupya y'Sirilanka",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"LRD": {
-		"name": "Dolari y'Uliberiya",
-		"name_plural": "Dolari z'Uliberiya",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Liberiya",
+		"name_plural": "Amadori y'Liberiya",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"LSL": {
-		"name": "Loti y'Ulesoto",
-		"name_plural": "Loti z'Ulesoto",
-		"subunit_name": "sente",
-		"subunit_name_plural": "lisente"
+		"name": "Iloti ry'Lesoto",
+		"name_plural": "Iloti y'Lesoto",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"LYD": {
-		"name": "Dinari y'Ulibiya",
-		"name_plural": "Dinari z'Ulibiya",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirhams"
+		"name": "Idinari ry'Libiya",
+		"name_plural": "Amadinari y'Libiya",
+		"subunit_name": "Idiramu",
+		"subunit_name_plural": "Amadiramu"
 	},
 	"MAD": {
-		"name": "Dirham y'Umaroke",
-		"name_plural": "Dirham z'Umaroke",
-		"subunit_name": "santime",
-		"subunit_name_plural": "santime"
+		"name": "Idiramu ry'Maroke",
+		"name_plural": "Amadiramu y'Maroke",
+		"subunit_name": "Isentime",
+		"subunit_name_plural": "Amasentime"
 	},
 	"MDL": {
-		"name": "Leu y'Umolodavi",
-		"name_plural": "Leu z'Umolodavi",
-		"subunit_name": "ban",
-		"subunit_name_plural": "bani"
+		"name": "Ileyu ry'Moludavi",
+		"name_plural": "Amalayu y'Moludavi",
+		"subunit_name": "Ibani",
+		"subunit_name_plural": "Amabani"
 	},
 	"MGA": {
-		"name": "Ariary y'Umadagasikari",
-		"name_plural": "Ariary z'Umadagasikari",
-		"subunit_name": "iraimbilanja",
-		"subunit_name_plural": "iraimbilanja"
+		"name": "Iriyari ry'Madagasikari",
+		"name_plural": "Amariyari y'Madagasikari",
+		"subunit_name": "Irayimbiranija",
+		"subunit_name_plural": "Irayimbiranija"
 	},
 	"MKD": {
-		"name": "Denar y'Umake-done",
-		"name_plural": "Denar z'Umake-done",
-		"subunit_name": "deni",
-		"subunit_name_plural": "deni"
+		"name": "Idinari ry'Masedoniya",
+		"name_plural": "Amadinari y'Masedoniya",
+		"subunit_name": "Ideni",
+		"subunit_name_plural": "Ideni"
 	},
 	"MMK": {
-		"name": "Kyat y'Umyanima",
-		"name_plural": "Kyat z'Umyanima",
-		"subunit_name": "pya",
-		"subunit_name_plural": "pya"
+		"name": "Ikiyati ry'Birimaniya",
+		"name_plural": "Ibikiyati by'Birimaniya",
+		"subunit_name": "Ipiya",
+		"subunit_name_plural": "Ipiya"
 	},
 	"MNT": {
-		"name": "Tugrik y'Umongoliya",
-		"name_plural": "Tugrik z'Umongoliya",
-		"subunit_name": "möngö",
-		"subunit_name_plural": "möngö"
+		"name": "Ituguriki ry'Mongoliya",
+		"name_plural": "Ituguriki y'Mongoliya",
+		"subunit_name": "Imongo",
+		"subunit_name_plural": "Imongo"
 	},
 	"MOP": {
-		"name": "Pataca y'Umakaw",
-		"name_plural": "Pataca z'Umakaw",
-		"subunit_name": "avo",
-		"subunit_name_plural": "avos"
+		"name": "Ipataka ry'Makawu",
+		"name_plural": "Amatapaka y'Makawu",
+		"subunit_name": "Iavo",
+		"subunit_name_plural": "Amaavo"
 	},
 	"MRU": {
-		"name": "Ouguiya y'Umoritaniya",
-		"name_plural": "Ouguiya z'Umoritaniya",
-		"subunit_name": "khoums",
-		"subunit_name_plural": "khoums"
+		"name": "Iugwiya ry'Moritaniya",
+		"name_plural": "Iugwiya y'Moritaniya",
+		"subunit_name": "Ikhumu",
+		"subunit_name_plural": "Ikhumu"
 	},
 	"MUR": {
-		"name": "Rupee y'Umorise",
-		"name_plural": "Rupee z'Umorise",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Irupya ry'Izinga rya Morise",
+		"name_plural": "Amarupya y'Izinga rya Morise",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"MVR": {
-		"name": "Rufiyaa y'Umalidive",
-		"name_plural": "Rufiyaa z'Umalidive",
-		"subunit_name": "laari",
-		"subunit_name_plural": "laari"
+		"name": "Irufiya ry'Maludive",
+		"name_plural": "Amarufiya y'Maludive",
+		"subunit_name": "Ilari",
+		"subunit_name_plural": "Ilari"
 	},
 	"MWK": {
-		"name": "Kwacha y'Umalawi",
-		"name_plural": "Kwacha z'Umalawi",
-		"subunit_name": "tambala",
-		"subunit_name_plural": "tambala"
+		"name": "Ikwaca ry'Malawi",
+		"name_plural": "Amakwaca y'Malawi",
+		"subunit_name": "Itambala",
+		"subunit_name_plural": "Itambala"
 	},
 	"MXN": {
-		"name": "Peso y'Umeksike",
-		"name_plural": "Peso z'Umeksike",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Ipeso ry'Megizike",
+		"name_plural": "Amapeso y'Megizike",
+		"subunit_name": "Isentavo",
+		"subunit_name_plural": "Amasentavo"
 	},
 	"MYR": {
-		"name": "Ringgit y'Umalayisiya",
-		"name_plural": "Ringgit z'Umalayisiya",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Iringiti ry'Maleziya",
+		"name_plural": "Amaringiti y'Maleziya",
+		"subunit_name": "Iseni",
+		"subunit_name_plural": "Amaseni"
 	},
 	"MZN": {
-		"name": "Metical y'Umusambiji",
-		"name_plural": "Metical z'Umusambiji",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Imetikali ry'Mozambike",
+		"name_plural": "Ametikali y'Mozambike",
+		"subunit_name": "Isentavo",
+		"subunit_name_plural": "Amasentavo"
 	},
 	"NAD": {
-		"name": "Dolari y'Unamibiya",
-		"name_plural": "Dolari z'Unamibiya",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Namibiya",
+		"name_plural": "Amadori y'Namibiya",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"NGN": {
-		"name": "Naira y'Unijeriya",
-		"name_plural": "Naira z'Unijeriya",
-		"subunit_name": "kobo",
-		"subunit_name_plural": "kobo"
+		"name": "Inayira ry'Nijeriya",
+		"name_plural": "Inayira y'Nijeriya",
+		"subunit_name": "Ikobo",
+		"subunit_name_plural": "Ikobo"
 	},
 	"NIO": {
-		"name": "Córdoba y'Unikaragwa",
-		"name_plural": "Córdoba z'Unikaragwa",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavos"
+		"name": "Ikordoba ry'Nikaragwa",
+		"name_plural": "Amakordoba y'Nikaragwa",
+		"subunit_name": "Isentavo",
+		"subunit_name_plural": "Amasentavo"
 	},
 	"NOK": {
-		"name": "Krone y'Unorwege",
-		"name_plural": "Krone z'Unorwege",
-		"subunit_name": "øre",
-		"subunit_name_plural": "øre"
+		"name": "Ikorona ry'Noruveji",
+		"name_plural": "Amakorona y'Noruveji",
+		"subunit_name": "Iore",
+		"subunit_name_plural": "Amore"
 	},
 	"NPR": {
-		"name": "Rupee y'Unebari",
-		"name_plural": "Rupee z'Unebari",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisa"
+		"name": "Irupya ry'Nepali",
+		"name_plural": "Amarupya y'Nepali",
+		"subunit_name": "Ipaysa",
+		"subunit_name_plural": "Ipaysa"
 	},
 	"NZD": {
-		"name": "Dolari y'Uzelandi Mpuzamahanga",
-		"name_plural": "Dolari z'Uzelandi Mpuzamahanga",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Nuveli Zelande",
+		"name_plural": "Amadori y'Nuveli Zelande",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"OMR": {
-		"name": "Rial y'Umani",
-		"name_plural": "Rial z'Umani",
-		"subunit_name": "baisa",
-		"subunit_name_plural": "baisa"
+		"name": "Iriyali ry'Omani",
+		"name_plural": "Amariyali y'Omani",
+		"subunit_name": "Ibayiza",
+		"subunit_name_plural": "Ibayiza"
 	},
 	"PAB": {
-		"name": "Balboa y'Upanama",
-		"name_plural": "Balboa z'Upanama",
-		"subunit_name": "centésimo",
-		"subunit_name_plural": "centésimos"
+		"name": "Ibaliboa ry'Panama",
+		"name_plural": "Amabaliboa y'Panama",
+		"subunit_name": "Isentesimo",
+		"subunit_name_plural": "Amasentesimo"
 	},
 	"PEN": {
-		"name": "Sol y'Uperu",
-		"name_plural": "Sol z'Uperu",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
+		"name": "Isoli ry'Peru",
+		"name_plural": "Amasoli y'Peru",
+		"subunit_name": "Isentimo",
+		"subunit_name_plural": "Amasentimo"
 	},
 	"PGK": {
-		"name": "Kina y'Papua New Guinea",
-		"name_plural": "Kina z'Papua New Guinea",
-		"subunit_name": "toea",
-		"subunit_name_plural": "toea"
+		"name": "Ikina ry'Papuwasi",
+		"name_plural": "Ikina y'Papuwasi",
+		"subunit_name": "Itowea",
+		"subunit_name_plural": "Itowea"
 	},
 	"PHP": {
-		"name": "Peso y'Ufilipine",
-		"name_plural": "Peso z'Ufilipine",
-		"subunit_name": "sentimo",
-		"subunit_name_plural": "sentimos"
+		"name": "Ipeso ry'Filipine",
+		"name_plural": "Amapeso y'Filipine",
+		"subunit_name": "Isentimo",
+		"subunit_name_plural": "Amasentimo"
 	},
 	"PKR": {
-		"name": "Rupee y'Upakistani",
-		"name_plural": "Rupee z'Upakistani",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisa"
+		"name": "Irupya ry'Pakisitani",
+		"name_plural": "Amarupya y'Pakisitani",
+		"subunit_name": "Ipaysa",
+		"subunit_name_plural": "Ipaysa"
 	},
 	"PLN": {
-		"name": "Zloty y'Ubolande",
-		"name_plural": "Zloty z'Ubolande",
-		"subunit_name": "grosz",
-		"subunit_name_plural": "groszy"
+		"name": "Iziloti ry'Polonye",
+		"name_plural": "Amaziloti y'Polonye",
+		"subunit_name": "Igirosi",
+		"subunit_name_plural": "Amagirosi"
 	},
 	"PYG": {
-		"name": "Guarani y'Uparagwe",
-		"name_plural": "Guarani z'Uparagwe",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
+		"name": "Igarani ry'Paragwe",
+		"name_plural": "Amagarani y'Paragwe",
+		"subunit_name": "Isentimo",
+		"subunit_name_plural": "Amasentimo"
 	},
 	"QAR": {
-		"name": "Rial y'Ukatari",
-		"name_plural": "Rial z'Ukatari",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirhams"
+		"name": "Iriyali ry'Katari",
+		"name_plural": "Amariyali y'Katari",
+		"subunit_name": "Idiramu",
+		"subunit_name_plural": "Amadiramu"
 	},
 	"RON": {
-		"name": "Leu y'Uromaniya",
-		"name_plural": "Leu z'Uromaniya",
-		"subunit_name": "ban",
-		"subunit_name_plural": "bani"
+		"name": "Ileyu ry'Rumaniya",
+		"name_plural": "Amalayu y'Rumaniya",
+		"subunit_name": "Ibani",
+		"subunit_name_plural": "Amabani"
 	},
 	"RSD": {
-		"name": "Dinari y'Userubiya",
-		"name_plural": "Dinari z'Userubiya",
-		"subunit_name": "para",
-		"subunit_name_plural": "para"
+		"name": "Idinari ry'Seribiya",
+		"name_plural": "Amadinari y'Seribiya",
+		"subunit_name": "Ipari",
+		"subunit_name_plural": "Ipari"
 	},
 	"RUB": {
-		"name": "Rubili y'Urusiya",
-		"name_plural": "Rubili z'Urusiya",
-		"subunit_name": "kopeck",
-		"subunit_name_plural": "kopecks"
+		"name": "Irubeli ry'Uburusiya",
+		"name_plural": "Amalubeli y'Uburusiya",
+		"subunit_name": "Ikopeki",
+		"subunit_name_plural": "Amakopeki"
 	},
 	"RWF": {
-		"name": "Faranga y'Urwanda",
-		"name_plural": "Faranga z'Urwanda",
-		"subunit_name": "santime",
-		"subunit_name_plural": "santime"
+		"name": "Ifaranga ry'u Rwanda",
+		"name_plural": "Amafaranga y'u Rwanda",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"SAR": {
-		"name": "Riyal y'Uarabu Sawdite",
-		"name_plural": "Riyal z'Uarabu Sawdite",
-		"subunit_name": "halala",
-		"subunit_name_plural": "halalas"
+		"name": "Iriyali ry'Arabiya Sawudite",
+		"name_plural": "Amariyali y'Arabiya Sawudite",
+		"subunit_name": "Ihalala",
+		"subunit_name_plural": "Amahalala"
 	},
 	"SBD": {
-		"name": "Dolari y'Ibirwa bya Solomon",
-		"name_plural": "Dolari z'Ibirwa bya Solomon",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Izinga rya Solomon",
+		"name_plural": "Amadori y'Izinga rya Solomon",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"SCR": {
-		"name": "Rupee y'Iseychelle",
-		"name_plural": "Rupee z'Iseychelle",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Irupya ry'Seyisheli",
+		"name_plural": "Amarupya y'Seyisheli",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"SDG": {
-		"name": "Pound y'Usudani",
-		"name_plural": "Pound z'Usudani",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastre"
+		"name": "Ipawundi ry'Sudani",
+		"name_plural": "Amapawundi y'Sudani",
+		"subunit_name": "Ipiyasteri",
+		"subunit_name_plural": "Amapiyasteri"
 	},
 	"SEK": {
-		"name": "Krona y'Uswede",
-		"name_plural": "Krona z'Uswede",
-		"subunit_name": "öre",
-		"subunit_name_plural": "öre"
+		"name": "Ikorona ry'Suwedi",
+		"name_plural": "Amakorona y'Suwedi",
+		"subunit_name": "Iore",
+		"subunit_name_plural": "Amore"
 	},
 	"SGD": {
-		"name": "Dolari y'Usingapure",
-		"name_plural": "Dolari z'Usingapure",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Singapuru",
+		"name_plural": "Amadori y'Singapuru",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"SHP": {
-		"name": "Pound y'St. Helena",
-		"name_plural": "Pound z'St. Helena",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"name": "Ipawundi ry'Santa Helena",
+		"name_plural": "Amapawundi y'Santa Helena",
+		"subunit_name": "Ipeni",
+		"subunit_name_plural": "Amapeni"
 	},
-	"SLL": {
-		"name": "Leone y'Usiera Leone",
-		"name_plural": "Leone z'Usiera Leone",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+	"SLE": {
+		"name": "Ileone ry'Siyera Lewone",
+		"name_plural": "Amaleone y'Siyera Lewone",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"SOS": {
-		"name": "Shilingi y'Usomali",
-		"name_plural": "Shilingi z'Usomali",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Ishilingi ry'Somaliya",
+		"name_plural": "Amashilingi y'Somaliya",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"SRD": {
-		"name": "Dolari y'Usuriname",
-		"name_plural": "Dolari z'Usuriname",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Suriname",
+		"name_plural": "Amadori y'Suriname",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"SSP": {
-		"name": "Pound y'Usudani rwa Kusini",
-		"name_plural": "Pound z'Usudani rwa Kusini",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piasters"
+		"name": "Ipawundi ry'Sudani y'Amajyepfo",
+		"name_plural": "Amapawundi y'Sudani y'Amajyepfo",
+		"subunit_name": "Ipiyasteri",
+		"subunit_name_plural": "Amapiyasteri"
 	},
 	"STN": {
-		"name": "Dobra y'São Tomé na Príncipe",
-		"name_plural": "Dobra z'São Tomé na Príncipe",
-		"subunit_name": "cêntimo",
-		"subunit_name_plural": "cêntimos"
+		"name": "Idobura ry'Sawu Tome na Prinsipe",
+		"name_plural": "Amadobura y'Sawu Tome na Prinsipe",
+		"subunit_name": "Isentimo",
+		"subunit_name_plural": "Amasentimo"
 	},
 	"SYP": {
-		"name": "Pound y'Usiriya",
-		"name_plural": "Pound z'Usiriya",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastre"
+		"name": "Ipawundi ry'Siriya",
+		"name_plural": "Amapawundi y'Siriya",
+		"subunit_name": "Ipiyasteri",
+		"subunit_name_plural": "Amapiyasteri"
 	},
 	"SZL": {
-		"name": "Lilangeni y'Uswazilandi",
-		"name_plural": "Emalangeni z'Uswazilandi",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Ililangeni ry'Suwazilande",
+		"name_plural": "Emalangeni y'Suwazilande",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"THB": {
-		"name": "Baht y'Utayilandi",
-		"name_plural": "Baht z'Utayilandi",
-		"subunit_name": "satang",
-		"subunit_name_plural": "satang"
+		"name": "Ibati ry'Tayilande",
+		"name_plural": "Ibati y'Tayilande",
+		"subunit_name": "Isatangi",
+		"subunit_name_plural": "Isatangi"
 	},
 	"TJS": {
-		"name": "Somoni y'Tajikisitani",
-		"name_plural": "Somoni z'Tajikisitani",
-		"subunit_name": "diram",
-		"subunit_name_plural": "dirams"
+		"name": "Isomoni ry'Tajikisitani",
+		"name_plural": "Isomoni y'Tajikisitani",
+		"subunit_name": "Idiramu",
+		"subunit_name_plural": "Amadiramu"
 	},
 	"TMT": {
-		"name": "Manat y'Turekimenisitani",
-		"name_plural": "Manat z'Turekimenisitani",
-		"subunit_name": "tenge",
-		"subunit_name_plural": "tenge"
+		"name": "Imanati ry'Turukimenisitani",
+		"name_plural": "Amanati y'Turukimenisitani",
+		"subunit_name": "Itenge",
+		"subunit_name_plural": "Itenge"
 	},
 	"TND": {
-		"name": "Dinari y'Utunisiya",
-		"name_plural": "Dinari z'Utunisiya",
-		"subunit_name": "millime",
-		"subunit_name_plural": "millimes"
+		"name": "Idinari ry'Tuniziya",
+		"name_plural": "Amadinari y'Tuniziya",
+		"subunit_name": "Imilime",
+		"subunit_name_plural": "Imilime"
 	},
 	"TOP": {
-		"name": "Paʻanga y'Tonga",
-		"name_plural": "Paʻanga z'Tonga",
-		"subunit_name": "seniti",
-		"subunit_name_plural": "seniti"
+		"name": "Ipanga ry'Tonga",
+		"name_plural": "Ipanga y'Tonga",
+		"subunit_name": "Iseniti",
+		"subunit_name_plural": "Iseniti"
 	},
 	"TRY": {
-		"name": "Lira y'Tureki",
-		"name_plural": "Lira z'Tureki",
-		"subunit_name": "kuruş",
-		"subunit_name_plural": "kuruş"
+		"name": "Ilira ry'Turukiya",
+		"name_plural": "Ilira y'Turukiya",
+		"subunit_name": "Ikurushi",
+		"subunit_name_plural": "Ikurushi"
 	},
 	"TTD": {
-		"name": "Dolari y'Tirinidadi na Tobago",
-		"name_plural": "Dolari z'Tirinidadi na Tobago",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Trinidad na Tobago",
+		"name_plural": "Amadori y'Trinidad na Tobago",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"TWD": {
-		"name": "Dolari y'Utayiwani",
-		"name_plural": "Dolari z'Utayiwani",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari rishya ry'Tayiwani",
+		"name_plural": "Amadori mashya y'Tayiwani",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"TZS": {
-		"name": "Shilingi y'Utanzaniya",
-		"name_plural": "Shilingi z'Utanzaniya",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Ishilingi ry'Tanzaniya",
+		"name_plural": "Amashilingi y'Tanzaniya",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"UAH": {
-		"name": "Hryvnia y'Ukerene",
-		"name_plural": "Hryvnia z'Ukerene",
-		"subunit_name": "kopeck",
-		"subunit_name_plural": "kopecks"
+		"name": "Ihirivunya ry'Ukrayini",
+		"name_plural": "Amahirivunya y'Ukrayini",
+		"subunit_name": "Ikopeki",
+		"subunit_name_plural": "Amakopeki"
 	},
 	"UGX": {
-		"name": "Shilingi y'Uganda",
-		"name_plural": "Shilingi z'Uganda",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Ishilingi ry'Uganda",
+		"name_plural": "Amashilingi y'Uganda",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"USD": {
-		"name": "Dolari y'Etazini",
-		"name_plural": "Dolari z'Etazini",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Amerika",
+		"name_plural": "Amadori y'Amerika",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"UYU": {
-		"name": "Peso y'Urugwayeri",
-		"name_plural": "Peso z'Urugwayeri",
-		"subunit_name": "centésimo",
-		"subunit_name_plural": "centésimos"
+		"name": "Ipeso ry'Irigwe",
+		"name_plural": "Amapeso y'Irigwe",
+		"subunit_name": "Isentesimo",
+		"subunit_name_plural": "Amasentesimo"
 	},
 	"UZS": {
-		"name": "Som y'Uzibekisitani",
-		"name_plural": "Som z'Uzibekisitani",
-		"subunit_name": "tiyin",
-		"subunit_name_plural": "tiyin"
+		"name": "Isomu ry'Uzubekisitani",
+		"name_plural": "Isomu y'Uzubekisitani",
+		"subunit_name": "Itiyini",
+		"subunit_name_plural": "Itiyini"
 	},
-	"VES": {
-		"name": "Bolívar y'Uvenezuela",
-		"name_plural": "Bolívares z'Uvenezuela",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimos"
+	"VED": {
+		"name": "Ibolivari ry'Venezwela",
+		"name_plural": "Amabolivari y'Venezwela",
+		"subunit_name": "Isentimo",
+		"subunit_name_plural": "Amasentimo"
 	},
 	"VND": {
-		"name": "Dong y'Uvietinamu",
-		"name_plural": "Dong z'Uvietinamu",
-		"subunit_name": "hào",
-		"subunit_name_plural": "hào"
+		"name": "Idongi ry'Viyetinamu",
+		"name_plural": "Idongi y'Viyetinamu",
+		"subunit_name": "Ihao",
+		"subunit_name_plural": "Ihao"
 	},
 	"VUV": {
-		"name": "Vatu y'Vanuatu",
-		"name_plural": "Vatu z'Vanuatu",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centimes"
+		"name": "Ivatu ry'Vanuwatu",
+		"name_plural": "Ivatu y'Vanuwatu",
+		"subunit_name": "Isentime",
+		"subunit_name_plural": "Amasentime"
 	},
 	"WST": {
-		"name": "Tala y'Usamoa",
-		"name_plural": "Tala z'Usamoa",
-		"subunit_name": "sene",
-		"subunit_name_plural": "sene"
+		"name": "Itala ry'Samowa",
+		"name_plural": "Itala y'Samowa",
+		"subunit_name": "Isene",
+		"subunit_name_plural": "Isene"
 	},
 	"XAF": {
-		"name": "Faranga y'Afrika y'Uburenganzira",
-		"name_plural": "Faranga z'Afrika y'Uburenganzira",
-		"subunit_name": "santime",
-		"subunit_name_plural": "santime"
+		"name": "Ifaranga ry'CFA ya Afurika yo Hagati",
+		"name_plural": "Amafaranga y'CFA ya Afurika yo Hagati",
+		"subunit_name": "Isentime",
+		"subunit_name_plural": "Amasentime"
 	},
 	"XCD": {
-		"name": "Dolari y'Uburengerazuba bwa Karabu",
-		"name_plural": "Dolari z'Uburengerazuba bwa Karabu",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Karibe y'Iburasirazuba",
+		"name_plural": "Amadori y'Karibe y'Iburasirazuba",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"XOF": {
-		"name": "Faranga y'Afrika y'Uburengerazuba",
-		"name_plural": "Faranga z'Afrika y'Uburengerazuba",
-		"subunit_name": "santime",
-		"subunit_name_plural": "santime"
+		"name": "Ifaranga ry'CFA ya Afurika y'Iburengerazuba",
+		"name_plural": "Amafaranga y'CFA ya Afurika y'Iburengerazuba",
+		"subunit_name": "Isentime",
+		"subunit_name_plural": "Amasentime"
 	},
 	"XPF": {
-		"name": "Faranga y'CFP",
-		"name_plural": "Faranga z'CFP",
-		"subunit_name": "santime",
-		"subunit_name_plural": "santime"
+		"name": "Ifaranga ry'CFP",
+		"name_plural": "Amafaranga y'CFP",
+		"subunit_name": "Isentime",
+		"subunit_name_plural": "Amasentime"
 	},
 	"YER": {
-		"name": "Rial y'Yemeni",
-		"name_plural": "Rial z'Yemeni",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Iriyali ry'Yemeni",
+		"name_plural": "Amariyali y'Yemeni",
+		"subunit_name": "Ifaranga",
+		"subunit_name_plural": "Amafaranga"
 	},
 	"ZAR": {
-		"name": "Rand y'Afrika y'Epfo",
-		"name_plural": "Rand z'Afrika y'Epfo",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Irandi ry'Afurika y'Epfo",
+		"name_plural": "Irandi y'Afurika y'Epfo",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	},
 	"ZMW": {
-		"name": "Kwacha y'Uzambiya",
-		"name_plural": "Kwacha z'Uzambiya",
-		"subunit_name": "ngwee",
-		"subunit_name_plural": "ngwee"
+		"name": "Ikwaca ry'Zambiya",
+		"name_plural": "Amakwaca y'Zambiya",
+		"subunit_name": "Ingwee",
+		"subunit_name_plural": "Ingwee"
 	},
 	"ZWL": {
-		"name": "Dolari y'Uzimbabwe",
-		"name_plural": "Dolari z'Uzimbabwe",
-		"subunit_name": "santi",
-		"subunit_name_plural": "santi"
+		"name": "Idolari ry'Zimbabwe",
+		"name_plural": "Amadori y'Zimbabwe",
+		"subunit_name": "Isenti",
+		"subunit_name_plural": "Amasenti"
 	}
 }

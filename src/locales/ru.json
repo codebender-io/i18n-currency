@@ -2,937 +2,925 @@
 	"AED": {
 		"name": "Дирхам ОАЭ",
 		"name_plural": "Дирхамы ОАЭ",
-		"subunit_name": "фильс",
-		"subunit_name_plural": "фильсы"
+		"subunit_name": "Филс",
+		"subunit_name_plural": "Филсы"
 	},
 	"AFN": {
-		"name": "Афгани",
-		"name_plural": "Афгани",
-		"subunit_name": "пул",
-		"subunit_name_plural": "пулы"
+		"name": "Афганский афгани",
+		"name_plural": "Афганских афгани",
+		"subunit_name": "Пул",
+		"subunit_name_plural": "Пулы"
 	},
 	"ALL": {
 		"name": "Албанский лек",
-		"name_plural": "Албанские леки",
-		"subunit_name": "киндарка",
-		"subunit_name_plural": "киндарки"
+		"name_plural": "Албанских леков",
+		"subunit_name": "Киндарка",
+		"subunit_name_plural": "Киндарки"
 	},
 	"AMD": {
 		"name": "Армянский драм",
-		"name_plural": "Армянские драмы",
-		"subunit_name": "лума",
-		"subunit_name_plural": "лумы"
+		"name_plural": "Армянских драмов",
+		"subunit_name": "Лума",
+		"subunit_name_plural": "Лумы"
 	},
 	"ANG": {
 		"name": "Нидерландский антильский гульден",
-		"name_plural": "Нидерландские антильские гульдены",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Нидерландских антильских гульденов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"AOA": {
 		"name": "Ангольская кванза",
-		"name_plural": "Ангольские кванзы",
-		"subunit_name": "сентимо",
-		"subunit_name_plural": "сентимо"
+		"name_plural": "Ангольских кванз",
+		"subunit_name": "Сентимо",
+		"subunit_name_plural": "Сентимо"
 	},
 	"ARS": {
-		"name": "Аргентинское песо",
-		"name_plural": "Аргентинские песо",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
+		"name": "Аргентинский песо",
+		"name_plural": "Аргентинских песо",
+		"subunit_name": "Сентаво",
+		"subunit_name_plural": "Сентаво"
 	},
 	"AUD": {
 		"name": "Австралийский доллар",
-		"name_plural": "Австралийские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Австралийских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"AWG": {
 		"name": "Арубанский флорин",
-		"name_plural": "Арубанские флорины",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Арубанских флоринов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"AZN": {
 		"name": "Азербайджанский манат",
-		"name_plural": "Азербайджанские манаты",
-		"subunit_name": "гяпик",
-		"subunit_name_plural": "гяпики"
+		"name_plural": "Азербайджанских манатов",
+		"subunit_name": "Гяпик",
+		"subunit_name_plural": "Гяпики"
 	},
 	"BAM": {
 		"name": "Конвертируемая марка Боснии и Герцеговины",
-		"name_plural": "Конвертируемые марки Боснии и Герцеговины",
-		"subunit_name": "фенинг",
-		"subunit_name_plural": "фенинги"
+		"name_plural": "Конвертируемых марок Боснии и Герцеговины",
+		"subunit_name": "Фенинг",
+		"subunit_name_plural": "Фенинги"
 	},
 	"BBD": {
 		"name": "Барбадосский доллар",
-		"name_plural": "Барбадосские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Барбадосских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"BDT": {
 		"name": "Бангладешская така",
-		"name_plural": "Бангладешские таки",
-		"subunit_name": "пойша",
-		"subunit_name_plural": "пойши"
+		"name_plural": "Бангладешских так",
+		"subunit_name": "Поиша",
+		"subunit_name_plural": "Поиши"
 	},
 	"BGN": {
 		"name": "Болгарский лев",
-		"name_plural": "Болгарские левы",
-		"subunit_name": "стотинка",
-		"subunit_name_plural": "стотинки"
+		"name_plural": "Болгарских левов",
+		"subunit_name": "Стотинка",
+		"subunit_name_plural": "Стотинки"
 	},
 	"BHD": {
 		"name": "Бахрейнский динар",
-		"name_plural": "Бахрейнские динары",
-		"subunit_name": "фильс",
-		"subunit_name_plural": "фильсы"
+		"name_plural": "Бахрейнских динаров",
+		"subunit_name": "Филс",
+		"subunit_name_plural": "Филсы"
 	},
 	"BIF": {
 		"name": "Бурундийский франк",
-		"name_plural": "Бурундийские франки",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name_plural": "Бурундийских франков",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"BMD": {
 		"name": "Бермудский доллар",
-		"name_plural": "Бермудские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Бермудских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"BND": {
 		"name": "Брунейский доллар",
-		"name_plural": "Брунейские доллары",
-		"subunit_name": "сен",
-		"subunit_name_plural": "сены"
+		"name_plural": "Брунейских долларов",
+		"subunit_name": "Сен",
+		"subunit_name_plural": "Сены"
 	},
 	"BOB": {
 		"name": "Боливийский боливиано",
-		"name_plural": "Боливийские боливиано",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
+		"name_plural": "Боливийских боливиано",
+		"subunit_name": "Сентаво",
+		"subunit_name_plural": "Сентаво"
 	},
 	"BRL": {
 		"name": "Бразильский реал",
-		"name_plural": "Бразильские реалы",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
+		"name_plural": "Бразильских реалов",
+		"subunit_name": "Сентаво",
+		"subunit_name_plural": "Сентаво"
 	},
 	"BSD": {
 		"name": "Багамский доллар",
-		"name_plural": "Багамские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Багамских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"BTN": {
 		"name": "Бутанский нгултрум",
-		"name_plural": "Бутанские нгултрумы",
-		"subunit_name": "четрум",
-		"subunit_name_plural": "четрумы"
+		"name_plural": "Бутанских нгултрумов",
+		"subunit_name": "Четрум",
+		"subunit_name_plural": "Четрумы"
 	},
 	"BWP": {
 		"name": "Ботсванская пула",
-		"name_plural": "Ботсванские пулы",
-		"subunit_name": "тебе",
-		"subunit_name_plural": "тебе"
+		"name_plural": "Ботсванских пул",
+		"subunit_name": "Тхебе",
+		"subunit_name_plural": "Тхебе"
 	},
 	"BYN": {
 		"name": "Белорусский рубль",
-		"name_plural": "Белорусские рубли",
-		"subunit_name": "копейка",
-		"subunit_name_plural": "копейки"
+		"name_plural": "Белорусских рублей",
+		"subunit_name": "Копейка",
+		"subunit_name_plural": "Копеек"
 	},
 	"BZD": {
 		"name": "Белизский доллар",
-		"name_plural": "Белизские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Белизских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"CAD": {
 		"name": "Канадский доллар",
-		"name_plural": "Канадские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Канадских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"CDF": {
 		"name": "Конголезский франк",
-		"name_plural": "Конголезские франки",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name_plural": "Конголезских франков",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"CHF": {
 		"name": "Швейцарский франк",
-		"name_plural": "Швейцарские франки",
-		"subunit_name": "раппен",
-		"subunit_name_plural": "раппены"
+		"name_plural": "Швейцарских франков",
+		"subunit_name": "Раппен",
+		"subunit_name_plural": "Раппены"
 	},
 	"CLP": {
-		"name": "Чилийское песо",
-		"name_plural": "Чилийские песо",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
+		"name": "Чилийский песо",
+		"name_plural": "Чилийских песо",
+		"subunit_name": "Сентаво",
+		"subunit_name_plural": "Сентаво"
 	},
 	"CNY": {
 		"name": "Китайский юань",
-		"name_plural": "Китайские юани",
-		"subunit_name": "фэнь",
-		"subunit_name_plural": "фэни"
+		"name_plural": "Китайских юаней",
+		"subunit_name": "Фынь",
+		"subunit_name_plural": "Фыни"
 	},
 	"COP": {
-		"name": "Колумбийское песо",
-		"name_plural": "Колумбийские песо",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
+		"name": "Колумбийский песо",
+		"name_plural": "Колумбийских песо",
+		"subunit_name": "Сентаво",
+		"subunit_name_plural": "Сентаво"
 	},
 	"CRC": {
-		"name": "Коста-риканский колон",
-		"name_plural": "Коста-риканские колоны",
-		"subunit_name": "сентимо",
-		"subunit_name_plural": "сентимо"
-	},
-	"CUC": {
-		"name": "Кубинское конвертируемое песо",
-		"name_plural": "Кубинские конвертируемые песо",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
+		"name": "Костариканский колон",
+		"name_plural": "Костариканских колонов",
+		"subunit_name": "Сентимо",
+		"subunit_name_plural": "Сентимо"
 	},
 	"CUP": {
-		"name": "Кубинское песо",
-		"name_plural": "Кубинские песо",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
+		"name": "Кубинский песо",
+		"name_plural": "Кубинских песо",
+		"subunit_name": "Сентаво",
+		"subunit_name_plural": "Сентаво"
 	},
 	"CVE": {
 		"name": "Эскудо Кабо-Верде",
 		"name_plural": "Эскудо Кабо-Верде",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
+		"subunit_name": "Сентаво",
+		"subunit_name_plural": "Сентаво"
 	},
 	"CZK": {
 		"name": "Чешская крона",
-		"name_plural": "Чешские кроны",
-		"subunit_name": "геллер",
-		"subunit_name_plural": "геллеры"
+		"name_plural": "Чешских крон",
+		"subunit_name": "Геллер",
+		"subunit_name_plural": "Геллеры"
 	},
 	"DJF": {
 		"name": "Джибутийский франк",
-		"name_plural": "Джибутийские франки",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name_plural": "Джибутийских франков",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"DKK": {
 		"name": "Датская крона",
-		"name_plural": "Датские кроны",
-		"subunit_name": "эре",
-		"subunit_name_plural": "эре"
+		"name_plural": "Датских крон",
+		"subunit_name": "Эре",
+		"subunit_name_plural": "Эре"
 	},
 	"DOP": {
-		"name": "Доминиканское песо",
-		"name_plural": "Доминиканские песо",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
+		"name": "Доминиканский песо",
+		"name_plural": "Доминиканских песо",
+		"subunit_name": "Сентаво",
+		"subunit_name_plural": "Сентаво"
 	},
 	"DZD": {
 		"name": "Алжирский динар",
-		"name_plural": "Алжирские динары",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name_plural": "Алжирских динаров",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"EGP": {
 		"name": "Египетский фунт",
-		"name_plural": "Египетские фунты",
-		"subunit_name": "пиастр",
-		"subunit_name_plural": "пиастры"
+		"name_plural": "Египетских фунтов",
+		"subunit_name": "Пиастр",
+		"subunit_name_plural": "Пиастры"
 	},
 	"ERN": {
 		"name": "Эритрейская накфа",
-		"name_plural": "Эритрейские накфы",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Эритрейских накф",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"ETB": {
 		"name": "Эфиопский быр",
-		"name_plural": "Эфиопские быры",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name_plural": "Эфиопских быров",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"EUR": {
 		"name": "Евро",
 		"name_plural": "Евро",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"subunit_name": "Евроцент",
+		"subunit_name_plural": "Евроцентов"
 	},
 	"FJD": {
 		"name": "Фиджийский доллар",
-		"name_plural": "Фиджийские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Фиджийских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"FKP": {
 		"name": "Фунт Фолклендских островов",
-		"name_plural": "Фунты Фолклендских островов",
-		"subunit_name": "пенни",
-		"subunit_name_plural": "пенни"
+		"name_plural": "Фунтов Фолклендских островов",
+		"subunit_name": "Пенни",
+		"subunit_name_plural": "Пенни"
 	},
 	"GBP": {
 		"name": "Британский фунт стерлингов",
-		"name_plural": "Британские фунты стерлингов",
-		"subunit_name": "пенни",
-		"subunit_name_plural": "пенни"
+		"name_plural": "Британских фунтов стерлингов",
+		"subunit_name": "Пенни",
+		"subunit_name_plural": "Пенни"
 	},
 	"GEL": {
 		"name": "Грузинский лари",
-		"name_plural": "Грузинские лари",
-		"subunit_name": "тетри",
-		"subunit_name_plural": "тетри"
+		"name_plural": "Грузинских лари",
+		"subunit_name": "Тетри",
+		"subunit_name_plural": "Тетри"
 	},
 	"GHS": {
 		"name": "Ганский седи",
-		"name_plural": "Ганские седи",
-		"subunit_name": "песева",
-		"subunit_name_plural": "песевы"
+		"name_plural": "Ганских седи",
+		"subunit_name": "Песева",
+		"subunit_name_plural": "Песевы"
 	},
 	"GIP": {
 		"name": "Гибралтарский фунт",
-		"name_plural": "Гибралтарские фунты",
-		"subunit_name": "пенни",
-		"subunit_name_plural": "пенни"
+		"name_plural": "Гибралтарских фунтов",
+		"subunit_name": "Пенни",
+		"subunit_name_plural": "Пенни"
 	},
 	"GMD": {
 		"name": "Гамбийский даласи",
-		"name_plural": "Гамбийские даласи",
-		"subunit_name": "бутут",
-		"subunit_name_plural": "бутуты"
+		"name_plural": "Гамбийских даласи",
+		"subunit_name": "Бутут",
+		"subunit_name_plural": "Бутуты"
 	},
 	"GNF": {
 		"name": "Гвинейский франк",
-		"name_plural": "Гвинейские франки",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name_plural": "Гвинейских франков",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"GTQ": {
 		"name": "Гватемальский кетсаль",
-		"name_plural": "Гватемальские кетсали",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
+		"name_plural": "Гватемальских кетсалей",
+		"subunit_name": "Сентаво",
+		"subunit_name_plural": "Сентаво"
 	},
 	"GYD": {
 		"name": "Гайанский доллар",
-		"name_plural": "Гайанские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Гайанских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"HKD": {
 		"name": "Гонконгский доллар",
-		"name_plural": "Гонконгские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Гонконгских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"HNL": {
 		"name": "Гондурасская лемпира",
-		"name_plural": "Гондурасские лемпиры",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
-	},
-	"HRK": {
-		"name": "Хорватская куна",
-		"name_plural": "Хорватские куны",
-		"subunit_name": "липа",
-		"subunit_name_plural": "липы"
+		"name_plural": "Гондурасских лемпир",
+		"subunit_name": "Сентаво",
+		"subunit_name_plural": "Сентаво"
 	},
 	"HTG": {
 		"name": "Гаитянский гурд",
-		"name_plural": "Гаитянские гурды",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name_plural": "Гаитянских гурдов",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"HUF": {
 		"name": "Венгерский форинт",
-		"name_plural": "Венгерские форинты",
-		"subunit_name": "филлер",
-		"subunit_name_plural": "филлеры"
+		"name_plural": "Венгерских форинтов",
+		"subunit_name": "Филлер",
+		"subunit_name_plural": "Филлеры"
 	},
 	"IDR": {
 		"name": "Индонезийская рупия",
-		"name_plural": "Индонезийские рупии",
-		"subunit_name": "сен",
-		"subunit_name_plural": "сены"
+		"name_plural": "Индонезийских рупий",
+		"subunit_name": "Сен",
+		"subunit_name_plural": "Сены"
 	},
 	"ILS": {
-		"name": "Новый израильский шекель",
-		"name_plural": "Новые израильские шекели",
-		"subunit_name": "агора",
-		"subunit_name_plural": "агоры"
+		"name": "Израильский новый шекель",
+		"name_plural": "Израильских новых шекелей",
+		"subunit_name": "Агора",
+		"subunit_name_plural": "Агоры"
 	},
 	"INR": {
 		"name": "Индийская рупия",
-		"name_plural": "Индийские рупии",
-		"subunit_name": "пайса",
-		"subunit_name_plural": "пайсы"
+		"name_plural": "Индийских рупий",
+		"subunit_name": "Пайса",
+		"subunit_name_plural": "Пайсы"
 	},
 	"IQD": {
 		"name": "Иракский динар",
-		"name_plural": "Иракские динары",
-		"subunit_name": "фильс",
-		"subunit_name_plural": "фильсы"
+		"name_plural": "Иракских динаров",
+		"subunit_name": "Филс",
+		"subunit_name_plural": "Филсы"
 	},
 	"IRR": {
 		"name": "Иранский риал",
-		"name_plural": "Иранские риалы",
-		"subunit_name": "динар",
-		"subunit_name_plural": "динары"
+		"name_plural": "Иранских риалов",
+		"subunit_name": "Динар",
+		"subunit_name_plural": "Динаров"
 	},
 	"ISK": {
 		"name": "Исландская крона",
-		"name_plural": "Исландские кроны",
-		"subunit_name": "эйрир",
-		"subunit_name_plural": "эйриры"
+		"name_plural": "Исландских крон",
+		"subunit_name": "Эйре",
+		"subunit_name_plural": "Эйре"
 	},
 	"JMD": {
 		"name": "Ямайский доллар",
-		"name_plural": "Ямайские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Ямайских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"JOD": {
 		"name": "Иорданский динар",
-		"name_plural": "Иорданские динары",
-		"subunit_name": "фильс",
-		"subunit_name_plural": "фильсы"
+		"name_plural": "Иорданских динаров",
+		"subunit_name": "Филс",
+		"subunit_name_plural": "Филсы"
 	},
 	"JPY": {
 		"name": "Японская иена",
-		"name_plural": "Японские иены",
-		"subunit_name": "сен",
-		"subunit_name_plural": "сены"
+		"name_plural": "Японских иен",
+		"subunit_name": "Сен",
+		"subunit_name_plural": "Сены"
 	},
 	"KES": {
 		"name": "Кенийский шиллинг",
-		"name_plural": "Кенийские шиллинги",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Кенийских шиллингов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"KGS": {
 		"name": "Киргизский сом",
-		"name_plural": "Киргизские сомы",
-		"subunit_name": "тыйын",
-		"subunit_name_plural": "тыйыны"
+		"name_plural": "Киргизских сомов",
+		"subunit_name": "Тыйын",
+		"subunit_name_plural": "Тыйыны"
 	},
 	"KHR": {
 		"name": "Камбоджийский риель",
-		"name_plural": "Камбоджийские риели",
-		"subunit_name": "сен",
-		"subunit_name_plural": "сены"
+		"name_plural": "Камбоджийских риелей",
+		"subunit_name": "Сен",
+		"subunit_name_plural": "Сены"
 	},
 	"KMF": {
 		"name": "Коморский франк",
-		"name_plural": "Коморские франки",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name_plural": "Коморских франков",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"KPW": {
 		"name": "Северокорейская вона",
-		"name_plural": "Северокорейские воны",
-		"subunit_name": "чон",
-		"subunit_name_plural": "чоны"
+		"name_plural": "Северокорейских вон",
+		"subunit_name": "Чон",
+		"subunit_name_plural": "Чоны"
 	},
 	"KRW": {
 		"name": "Южнокорейская вона",
-		"name_plural": "Южнокорейские воны",
-		"subunit_name": "чон",
-		"subunit_name_plural": "чоны"
+		"name_plural": "Южнокорейских вон",
+		"subunit_name": "Чон",
+		"subunit_name_plural": "Чоны"
 	},
 	"KWD": {
 		"name": "Кувейтский динар",
-		"name_plural": "Кувейтские динары",
-		"subunit_name": "фильс",
-		"subunit_name_plural": "фильсы"
+		"name_plural": "Кувейтских динаров",
+		"subunit_name": "Филс",
+		"subunit_name_plural": "Филсы"
 	},
 	"KYD": {
 		"name": "Доллар Каймановых островов",
-		"name_plural": "Доллары Каймановых островов",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Долларов Каймановых островов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"KZT": {
 		"name": "Казахстанский тенге",
-		"name_plural": "Казахстанские тенге",
-		"subunit_name": "тиын",
-		"subunit_name_plural": "тиыны"
+		"name_plural": "Казахстанских тенге",
+		"subunit_name": "Тыйын",
+		"subunit_name_plural": "Тыйыны"
 	},
 	"LAK": {
 		"name": "Лаосский кип",
-		"name_plural": "Лаосские кипы",
-		"subunit_name": "ат",
-		"subunit_name_plural": "аты"
+		"name_plural": "Лаосских кипов",
+		"subunit_name": "Ат",
+		"subunit_name_plural": "Аты"
 	},
 	"LBP": {
 		"name": "Ливанский фунт",
-		"name_plural": "Ливанские фунты",
-		"subunit_name": "пиастр",
-		"subunit_name_plural": "пиастры"
+		"name_plural": "Ливанских фунтов",
+		"subunit_name": "Пиастр",
+		"subunit_name_plural": "Пиастры"
 	},
 	"LKR": {
 		"name": "Шри-ланкийская рупия",
-		"name_plural": "Шри-ланкийские рупии",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Шри-ланкийских рупий",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"LRD": {
 		"name": "Либерийский доллар",
-		"name_plural": "Либерийские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Либерийских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"LSL": {
 		"name": "Лоти Лесото",
-		"name_plural": "Малоти Лесото",
-		"subunit_name": "сенте",
-		"subunit_name_plural": "лисенте"
+		"name_plural": "Лоти Лесото",
+		"subunit_name": "Сенте",
+		"subunit_name_plural": "Лисенте"
 	},
 	"LYD": {
 		"name": "Ливийский динар",
-		"name_plural": "Ливийские динары",
-		"subunit_name": "дирхам",
-		"subunit_name_plural": "дирхамы"
+		"name_plural": "Ливийских динаров",
+		"subunit_name": "Дирхам",
+		"subunit_name_plural": "Дирхамы"
 	},
 	"MAD": {
 		"name": "Марокканский дирхам",
-		"name_plural": "Марокканские дирхамы",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name_plural": "Марокканских дирхамов",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"MDL": {
 		"name": "Молдавский лей",
-		"name_plural": "Молдавские леи",
-		"subunit_name": "бань",
-		"subunit_name_plural": "бани"
+		"name_plural": "Молдавских леев",
+		"subunit_name": "Бан",
+		"subunit_name_plural": "Баны"
 	},
 	"MGA": {
 		"name": "Малагасийский ариари",
-		"name_plural": "Малагасийские ариари",
-		"subunit_name": "ираймбиланья",
-		"subunit_name_plural": "ираймбиланья"
+		"name_plural": "Малагасийских ариари",
+		"subunit_name": "Ираимбиланья",
+		"subunit_name_plural": "Ираимбиланья"
 	},
 	"MKD": {
 		"name": "Македонский денар",
-		"name_plural": "Македонские денары",
-		"subunit_name": "дени",
-		"subunit_name_plural": "дени"
+		"name_plural": "Македонских денаров",
+		"subunit_name": "Дени",
+		"subunit_name_plural": "Дени"
 	},
 	"MMK": {
 		"name": "Мьянманский кьят",
-		"name_plural": "Мьянманские кьяты",
-		"subunit_name": "пья",
-		"subunit_name_plural": "пья"
+		"name_plural": "Мьянманских кьятов",
+		"subunit_name": "Пья",
+		"subunit_name_plural": "Пья"
 	},
 	"MNT": {
 		"name": "Монгольский тугрик",
-		"name_plural": "Монгольские тугрики",
-		"subunit_name": "мөнгө",
-		"subunit_name_plural": "мөнгө"
+		"name_plural": "Монгольских тугриков",
+		"subunit_name": "Мунгу",
+		"subunit_name_plural": "Мунгу"
 	},
 	"MOP": {
 		"name": "Патака Макао",
-		"name_plural": "Патаки Макао",
-		"subunit_name": "аво",
-		"subunit_name_plural": "аво"
+		"name_plural": "Патак Макао",
+		"subunit_name": "Аво",
+		"subunit_name_plural": "Аво"
 	},
 	"MRU": {
 		"name": "Мавританская угия",
-		"name_plural": "Мавританские угии",
-		"subunit_name": "хумс",
-		"subunit_name_plural": "хумсы"
+		"name_plural": "Мавританских угий",
+		"subunit_name": "Хумс",
+		"subunit_name_plural": "Хумсы"
 	},
 	"MUR": {
 		"name": "Маврикийская рупия",
-		"name_plural": "Маврикийские рупии",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Маврикийских рупий",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"MVR": {
 		"name": "Мальдивская руфия",
-		"name_plural": "Мальдивские руфии",
-		"subunit_name": "лаари",
-		"subunit_name_plural": "лаари"
+		"name_plural": "Мальдивских руфий",
+		"subunit_name": "Лари",
+		"subunit_name_plural": "Лари"
 	},
 	"MWK": {
 		"name": "Малавийская квача",
-		"name_plural": "Малавийские квачи",
-		"subunit_name": "тамбала",
-		"subunit_name_plural": "тамбалы"
+		"name_plural": "Малавийских квач",
+		"subunit_name": "Тамбала",
+		"subunit_name_plural": "Тамбалы"
 	},
 	"MXN": {
-		"name": "Мексиканское песо",
-		"name_plural": "Мексиканские песо",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
+		"name": "Мексиканский песо",
+		"name_plural": "Мексиканских песо",
+		"subunit_name": "Сентаво",
+		"subunit_name_plural": "Сентаво"
 	},
 	"MYR": {
 		"name": "Малайзийский ринггит",
-		"name_plural": "Малайзийские ринггиты",
-		"subunit_name": "сен",
-		"subunit_name_plural": "сены"
+		"name_plural": "Малайзийских ринггитов",
+		"subunit_name": "Сен",
+		"subunit_name_plural": "Сены"
 	},
 	"MZN": {
 		"name": "Мозамбикский метикал",
-		"name_plural": "Мозамбикские метикалы",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
+		"name_plural": "Мозамбикских метикалов",
+		"subunit_name": "Сентаво",
+		"subunit_name_plural": "Сентаво"
 	},
 	"NAD": {
 		"name": "Намибийский доллар",
-		"name_plural": "Намибийские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Намибийских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"NGN": {
 		"name": "Нигерийская найра",
-		"name_plural": "Нигерийские найры",
-		"subunit_name": "кобо",
-		"subunit_name_plural": "кобо"
+		"name_plural": "Нигерийских найр",
+		"subunit_name": "Кобо",
+		"subunit_name_plural": "Кобо"
 	},
 	"NIO": {
 		"name": "Никарагуанская кордоба",
-		"name_plural": "Никарагуанские кордобы",
-		"subunit_name": "сентаво",
-		"subunit_name_plural": "сентаво"
+		"name_plural": "Никарагуанских кордоб",
+		"subunit_name": "Сентаво",
+		"subunit_name_plural": "Сентаво"
 	},
 	"NOK": {
 		"name": "Норвежская крона",
-		"name_plural": "Норвежские кроны",
-		"subunit_name": "эре",
-		"subunit_name_plural": "эре"
+		"name_plural": "Норвежских крон",
+		"subunit_name": "Эре",
+		"subunit_name_plural": "Эре"
 	},
 	"NPR": {
 		"name": "Непальская рупия",
-		"name_plural": "Непальские рупии",
-		"subunit_name": "пайса",
-		"subunit_name_plural": "пайсы"
+		"name_plural": "Непальских рупий",
+		"subunit_name": "Пайса",
+		"subunit_name_plural": "Пайсы"
 	},
 	"NZD": {
 		"name": "Новозеландский доллар",
-		"name_plural": "Новозеландские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Новозеландских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"OMR": {
 		"name": "Оманский риал",
-		"name_plural": "Оманские риалы",
-		"subunit_name": "байза",
-		"subunit_name_plural": "байзы"
+		"name_plural": "Оманских риалов",
+		"subunit_name": "Байза",
+		"subunit_name_plural": "Байза"
 	},
 	"PAB": {
 		"name": "Панамский бальбоа",
-		"name_plural": "Панамские бальбоа",
-		"subunit_name": "сентисимо",
-		"subunit_name_plural": "сентисимо"
+		"name_plural": "Панамских бальбоа",
+		"subunit_name": "Сентесимо",
+		"subunit_name_plural": "Сентесимо"
 	},
 	"PEN": {
 		"name": "Перуанский соль",
-		"name_plural": "Перуанские соли",
-		"subunit_name": "сентимо",
-		"subunit_name_plural": "сентимо"
+		"name_plural": "Перуанских солей",
+		"subunit_name": "Сентимо",
+		"subunit_name_plural": "Сентимо"
 	},
 	"PGK": {
-		"name": "Кина Папуа — Новой Гвинеи",
-		"name_plural": "Кины Папуа — Новой Гвинеи",
-		"subunit_name": "тойя",
-		"subunit_name_plural": "тойи"
+		"name": "Папуа-новогвинейская кина",
+		"name_plural": "Папуа-новогвинейских кин",
+		"subunit_name": "Тоэа",
+		"subunit_name_plural": "Тоэа"
 	},
 	"PHP": {
-		"name": "Филиппинское песо",
-		"name_plural": "Филиппинские песо",
-		"subunit_name": "сентимо",
-		"subunit_name_plural": "сентимо"
+		"name": "Филиппинский песо",
+		"name_plural": "Филиппинских песо",
+		"subunit_name": "Сентимо",
+		"subunit_name_plural": "Сентимо"
 	},
 	"PKR": {
 		"name": "Пакистанская рупия",
-		"name_plural": "Пакистанские рупии",
-		"subunit_name": "пайса",
-		"subunit_name_plural": "пайсы"
+		"name_plural": "Пакистанских рупий",
+		"subunit_name": "Пайса",
+		"subunit_name_plural": "Пайсы"
 	},
 	"PLN": {
 		"name": "Польский злотый",
-		"name_plural": "Польские злотые",
-		"subunit_name": "грош",
-		"subunit_name_plural": "гроши"
+		"name_plural": "Польских злотых",
+		"subunit_name": "Грош",
+		"subunit_name_plural": "Гроши"
 	},
 	"PYG": {
 		"name": "Парагвайский гуарани",
-		"name_plural": "Парагвайские гуарани",
-		"subunit_name": "сентимо",
-		"subunit_name_plural": "сентимо"
+		"name_plural": "Парагвайских гуарани",
+		"subunit_name": "Сентимо",
+		"subunit_name_plural": "Сентимо"
 	},
 	"QAR": {
 		"name": "Катарский риал",
-		"name_plural": "Катарские риалы",
-		"subunit_name": "дирхам",
-		"subunit_name_plural": "дирхамы"
+		"name_plural": "Катарских риалов",
+		"subunit_name": "Дирхам",
+		"subunit_name_plural": "Дирхамы"
 	},
 	"RON": {
 		"name": "Румынский лей",
-		"name_plural": "Румынские леи",
-		"subunit_name": "бань",
-		"subunit_name_plural": "бани"
+		"name_plural": "Румынских леев",
+		"subunit_name": "Бан",
+		"subunit_name_plural": "Баны"
 	},
 	"RSD": {
 		"name": "Сербский динар",
-		"name_plural": "Сербские динары",
-		"subunit_name": "пара",
-		"subunit_name_plural": "пары"
+		"name_plural": "Сербских динаров",
+		"subunit_name": "Пара",
+		"subunit_name_plural": "Пары"
 	},
 	"RUB": {
 		"name": "Российский рубль",
-		"name_plural": "Российские рубли",
-		"subunit_name": "копейка",
-		"subunit_name_plural": "копейки"
+		"name_plural": "Российских рублей",
+		"subunit_name": "Копейка",
+		"subunit_name_plural": "Копеек"
 	},
 	"RWF": {
 		"name": "Руандийский франк",
-		"name_plural": "Руандийские франки",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name_plural": "Руандийских франков",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"SAR": {
-		"name": "Саудовский риал",
-		"name_plural": "Саудовские риалы",
-		"subunit_name": "халал",
-		"subunit_name_plural": "халалы"
+		"name": "Саудовский риял",
+		"name_plural": "Саудовских риялов",
+		"subunit_name": "Халала",
+		"subunit_name_plural": "Халалы"
 	},
 	"SBD": {
 		"name": "Доллар Соломоновых Островов",
-		"name_plural": "Доллары Соломоновых Островов",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Долларов Соломоновых Островов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"SCR": {
 		"name": "Сейшельская рупия",
-		"name_plural": "Сейшельские рупии",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Сейшельских рупий",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"SDG": {
 		"name": "Суданский фунт",
-		"name_plural": "Суданские фунты",
-		"subunit_name": "пиастр",
-		"subunit_name_plural": "пиастры"
+		"name_plural": "Суданских фунтов",
+		"subunit_name": "Пиастр",
+		"subunit_name_plural": "Пиастры"
 	},
 	"SEK": {
 		"name": "Шведская крона",
-		"name_plural": "Шведские кроны",
-		"subunit_name": "эре",
-		"subunit_name_plural": "эре"
+		"name_plural": "Шведских крон",
+		"subunit_name": "Эре",
+		"subunit_name_plural": "Эре"
 	},
 	"SGD": {
 		"name": "Сингапурский доллар",
-		"name_plural": "Сингапурские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Сингапурских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"SHP": {
 		"name": "Фунт острова Святой Елены",
-		"name_plural": "Фунты острова Святой Елены",
-		"subunit_name": "пенни",
-		"subunit_name_plural": "пенни"
+		"name_plural": "Фунтов острова Святой Елены",
+		"subunit_name": "Пенни",
+		"subunit_name_plural": "Пенни"
 	},
-	"SLL": {
+	"SLE": {
 		"name": "Сьерра-леонский леоне",
-		"name_plural": "Сьерра-леонские леоне",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Сьерра-леонских леоне",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"SOS": {
 		"name": "Сомалийский шиллинг",
-		"name_plural": "Сомалийские шиллинги",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Сомалийских шиллингов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"SRD": {
 		"name": "Суринамский доллар",
-		"name_plural": "Суринамские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Суринамских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"SSP": {
 		"name": "Южносуданский фунт",
-		"name_plural": "Южносуданские фунты",
-		"subunit_name": "пиастр",
-		"subunit_name_plural": "пиастры"
+		"name_plural": "Южносуданских фунтов",
+		"subunit_name": "Пиастр",
+		"subunit_name_plural": "Пиастры"
 	},
 	"STN": {
 		"name": "Добра Сан-Томе и Принсипи",
-		"name_plural": "Добры Сан-Томе и Принсипи",
-		"subunit_name": "сентимо",
-		"subunit_name_plural": "сентимо"
+		"name_plural": "Добр Сан-Томе и Принсипи",
+		"subunit_name": "Сентимо",
+		"subunit_name_plural": "Сентимо"
 	},
 	"SYP": {
 		"name": "Сирийский фунт",
-		"name_plural": "Сирийские фунты",
-		"subunit_name": "пиастр",
-		"subunit_name_plural": "пиастры"
+		"name_plural": "Сирийских фунтов",
+		"subunit_name": "Пиастр",
+		"subunit_name_plural": "Пиастры"
 	},
 	"SZL": {
 		"name": "Свазилендский лилангени",
-		"name_plural": "Свазилендские лилангени",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Свазилендских лилангени",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"THB": {
-		"name": "Тайский бат",
-		"name_plural": "Тайские баты",
-		"subunit_name": "сатанг",
-		"subunit_name_plural": "сатанги"
+		"name": "Таиландский бат",
+		"name_plural": "Таиландских батов",
+		"subunit_name": "Сатанг",
+		"subunit_name_plural": "Сатанги"
 	},
 	"TJS": {
 		"name": "Таджикский сомони",
-		"name_plural": "Таджикские сомони",
-		"subunit_name": "дирам",
-		"subunit_name_plural": "дирамы"
+		"name_plural": "Таджикских сомони",
+		"subunit_name": "Дирам",
+		"subunit_name_plural": "Дирамы"
 	},
 	"TMT": {
 		"name": "Туркменский манат",
-		"name_plural": "Туркменские манаты",
-		"subunit_name": "тенге",
-		"subunit_name_plural": "тенге"
+		"name_plural": "Туркменских манатов",
+		"subunit_name": "Тенге",
+		"subunit_name_plural": "Тенге"
 	},
 	"TND": {
 		"name": "Тунисский динар",
-		"name_plural": "Тунисские динары",
-		"subunit_name": "миллим",
-		"subunit_name_plural": "миллимы"
+		"name_plural": "Тунисских динаров",
+		"subunit_name": "Милим",
+		"subunit_name_plural": "Милимы"
 	},
 	"TOP": {
 		"name": "Тонганская паанга",
-		"name_plural": "Тонганские паанги",
-		"subunit_name": "сенити",
-		"subunit_name_plural": "сенити"
+		"name_plural": "Тонганских паанг",
+		"subunit_name": "Сенити",
+		"subunit_name_plural": "Сенити"
 	},
 	"TRY": {
 		"name": "Турецкая лира",
-		"name_plural": "Турецкие лиры",
-		"subunit_name": "куруш",
-		"subunit_name_plural": "куруши"
+		"name_plural": "Турецких лир",
+		"subunit_name": "Куруш",
+		"subunit_name_plural": "Куруши"
 	},
 	"TTD": {
 		"name": "Доллар Тринидада и Тобаго",
-		"name_plural": "Доллары Тринидада и Тобаго",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Долларов Тринидада и Тобаго",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"TWD": {
 		"name": "Новый тайваньский доллар",
-		"name_plural": "Новые тайваньские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Новых тайваньских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"TZS": {
 		"name": "Танзанийский шиллинг",
-		"name_plural": "Танзанийские шиллинги",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Танзанийских шиллингов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"UAH": {
 		"name": "Украинская гривна",
-		"name_plural": "Украинские гривны",
-		"subunit_name": "копейка",
-		"subunit_name_plural": "копейки"
+		"name_plural": "Украинских гривен",
+		"subunit_name": "Копейка",
+		"subunit_name_plural": "Копеек"
 	},
 	"UGX": {
 		"name": "Угандийский шиллинг",
-		"name_plural": "Угандийские шиллинги",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Угандийских шиллингов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"USD": {
 		"name": "Доллар США",
-		"name_plural": "Доллары США",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Долларов США",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"UYU": {
-		"name": "Уругвайское песо",
-		"name_plural": "Уругвайские песо",
-		"subunit_name": "сентесимо",
-		"subunit_name_plural": "сентесимо"
+		"name": "Уругвайский песо",
+		"name_plural": "Уругвайских песо",
+		"subunit_name": "Сентесимо",
+		"subunit_name_plural": "Сентесимо"
 	},
 	"UZS": {
 		"name": "Узбекский сум",
-		"name_plural": "Узбекские сумы",
-		"subunit_name": "тийин",
-		"subunit_name_plural": "тийины"
+		"name_plural": "Узбекских сумов",
+		"subunit_name": "Тийин",
+		"subunit_name_plural": "Тийины"
 	},
-	"VES": {
-		"name": "Венесуэльский боливар",
-		"name_plural": "Венесуэльские боливары",
-		"subunit_name": "сентимо",
-		"subunit_name_plural": "сентимо"
+	"VED": {
+		"name": "Венесуэльский цифровой боливар",
+		"name_plural": "Венесуэльских цифровых боливаров",
+		"subunit_name": "Сентимо",
+		"subunit_name_plural": "Сентимо"
 	},
 	"VND": {
 		"name": "Вьетнамский донг",
-		"name_plural": "Вьетнамские донги",
-		"subunit_name": "хао",
-		"subunit_name_plural": "хао"
+		"name_plural": "Вьетнамских донгов",
+		"subunit_name": "Хао",
+		"subunit_name_plural": "Хао"
 	},
 	"VUV": {
-		"name": "Вату Вануату",
-		"name_plural": "Вату Вануату",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name": "Вануатский вату",
+		"name_plural": "Вануатских вату",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"WST": {
 		"name": "Самоанская тала",
-		"name_plural": "Самоанские талы",
-		"subunit_name": "сене",
-		"subunit_name_plural": "сене"
+		"name_plural": "Самоанских тал",
+		"subunit_name": "Сене",
+		"subunit_name_plural": "Сене"
 	},
 	"XAF": {
 		"name": "Франк КФА BEAC",
-		"name_plural": "Франки КФА BEAC",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name_plural": "Франков КФА BEAC",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"XCD": {
 		"name": "Восточно-карибский доллар",
-		"name_plural": "Восточно-карибские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Восточно-карибских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"XOF": {
 		"name": "Франк КФА BCEAO",
-		"name_plural": "Франки КФА BCEAO",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name_plural": "Франков КФА BCEAO",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"XPF": {
 		"name": "Франк КФП",
-		"name_plural": "Франки КФП",
-		"subunit_name": "сантим",
-		"subunit_name_plural": "сантимы"
+		"name_plural": "Франков КФП",
+		"subunit_name": "Сантим",
+		"subunit_name_plural": "Сантимы"
 	},
 	"YER": {
 		"name": "Йеменский риал",
-		"name_plural": "Йеменские риалы",
-		"subunit_name": "фильс",
-		"subunit_name_plural": "фильсы"
+		"name_plural": "Йеменских риалов",
+		"subunit_name": "Филс",
+		"subunit_name_plural": "Филсы"
 	},
 	"ZAR": {
 		"name": "Южноафриканский рэнд",
-		"name_plural": "Южноафриканские рэнды",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Южноафриканских рэндов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	},
 	"ZMW": {
 		"name": "Замбийская квача",
-		"name_plural": "Замбийские квачи",
-		"subunit_name": "нгве",
-		"subunit_name_plural": "нгве"
+		"name_plural": "Замбийских квач",
+		"subunit_name": "Нгве",
+		"subunit_name_plural": "Нгве"
 	},
 	"ZWL": {
 		"name": "Зимбабвийский доллар",
-		"name_plural": "Зимбабвийские доллары",
-		"subunit_name": "цент",
-		"subunit_name_plural": "центы"
+		"name_plural": "Зимбабвийских долларов",
+		"subunit_name": "Цент",
+		"subunit_name_plural": "Центов"
 	}
 }

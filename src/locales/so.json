@@ -1,938 +1,926 @@
 {
 	"AED": {
-		"name": "Dirhamka Emiraadka",
-		"name_plural": "Dirhamyada Emiraadka",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Dirhamka Imaaraatka",
+		"name_plural": "Dirhamada Imaaraatka",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"AFN": {
-		"name": "Afghani",
-		"name_plural": "Afghaniyada",
-		"subunit_name": "pul",
-		"subunit_name_plural": "pul"
+		"name": "Afgaanida Afgaanistan",
+		"name_plural": "Afgaanidaha Afgaanistan",
+		"subunit_name": "Pul",
+		"subunit_name_plural": "Puls"
 	},
 	"ALL": {
-		"name": "Lekka Albaani",
-		"name_plural": "Lekyada Albaani",
-		"subunit_name": "qindarkë",
-		"subunit_name_plural": "qindarkë"
+		"name": "Lekta Albaniya",
+		"name_plural": "Lektada Albaniya",
+		"subunit_name": "Qindarkë",
+		"subunit_name_plural": "Qindarkë"
 	},
 	"AMD": {
-		"name": "Dramka Armeeni",
-		"name_plural": "Dramyada Armeeni",
-		"subunit_name": "luma",
-		"subunit_name_plural": "luma"
+		"name": "Dramka Armeeniya",
+		"name_plural": "Dramada Armeeniya",
+		"subunit_name": "Luma",
+		"subunit_name_plural": "Lumas"
 	},
 	"ANG": {
-		"name": "Guilderka Antiliyada Holaandiga",
-		"name_plural": "Guilderyada Antiliyada Holaandiga",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Gildarka Antiliya Hollandays",
+		"name_plural": "Gildarada Antiliya Hollandays",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"AOA": {
-		"name": "Kwanza",
-		"name_plural": "Kwanza",
-		"subunit_name": "cêntimo",
-		"subunit_name_plural": "cêntimo"
+		"name": "Kawansada Angola",
+		"name_plural": "Kawansadaha Angola",
+		"subunit_name": "Sentimo",
+		"subunit_name_plural": "Sentimos"
 	},
 	"ARS": {
-		"name": "Peso Argentina",
-		"name_plural": "Pesooyinka Argentina",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
+		"name": "Besada Arjentiina",
+		"name_plural": "Besadaha Arjentiina",
+		"subunit_name": "Sentafo",
+		"subunit_name_plural": "Sentafos"
 	},
 	"AUD": {
-		"name": "Dollarka Awstaraaliya",
-		"name_plural": "Dollarada Awstaraaliya",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Australia",
+		"name_plural": "Doolarada Australia",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"AWG": {
-		"name": "Florin Aruba",
+		"name": "Florinka Aruba",
 		"name_plural": "Florinada Aruba",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"AZN": {
-		"name": "Manatka Azerbaijan",
-		"name_plural": "Manatyada Azerbaijan",
-		"subunit_name": "qəpik",
-		"subunit_name_plural": "qəpik"
+		"name": "Manaatka Asarbeyjan",
+		"name_plural": "Manaatada Asarbeyjan",
+		"subunit_name": "Qəpik",
+		"subunit_name_plural": "Qəpiks"
 	},
 	"BAM": {
-		"name": "Marka Bosnia-Herzegovina",
-		"name_plural": "Markyada Bosnia-Herzegovina",
-		"subunit_name": "fening",
-		"subunit_name_plural": "fening"
+		"name": "Markka Bosnia-Herzegovina",
+		"name_plural": "Markadka Bosnia-Herzegovina",
+		"subunit_name": "Fening",
+		"subunit_name_plural": "Fenings"
 	},
 	"BBD": {
-		"name": "Dollarka Barbados",
-		"name_plural": "Dollarada Barbados",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Barbaadiyanka",
+		"name_plural": "Doolarada Barbaadiyanka",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"BDT": {
-		"name": "Taka Bangladesh",
-		"name_plural": "Takada Bangladesh",
-		"subunit_name": "poisha",
-		"subunit_name_plural": "poisha"
+		"name": "Takada Bangledesh",
+		"name_plural": "Takadaha Bangledesh",
+		"subunit_name": "Poisha",
+		"subunit_name_plural": "Poishas"
 	},
 	"BGN": {
-		"name": "Levka Bulgaariya",
-		"name_plural": "Levyada Bulgaariya",
-		"subunit_name": "stotinka",
-		"subunit_name_plural": "stotinki"
+		"name": "Lefta Bulgeeriya",
+		"name_plural": "Leftada Bulgeeriya",
+		"subunit_name": "Stotinka",
+		"subunit_name_plural": "Stotinki"
 	},
 	"BHD": {
-		"name": "Dinaarka Bahrain",
-		"name_plural": "Dinaarka Bahrain",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Diinarka Baxreyn",
+		"name_plural": "Diinarada Baxreyn",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"BIF": {
 		"name": "Faranka Burundi",
-		"name_plural": "Farankada Burundi",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentime"
+		"name_plural": "Faranada Burundi",
+		"subunit_name": "Sentim",
+		"subunit_name_plural": "Sentims"
 	},
 	"BMD": {
-		"name": "Dollarka Bermuda",
-		"name_plural": "Dollarada Bermuda",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Barmuuda",
+		"name_plural": "Doolarada Barmuuda",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"BND": {
-		"name": "Dollarka Brunei",
-		"name_plural": "Dollarada Brunei",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Doolarka Buruney",
+		"name_plural": "Doolarada Buruney",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"BOB": {
-		"name": "Boliviano Bolivia",
-		"name_plural": "Bolivianoyinka Bolivia",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
+		"name": "Bolifiyanada Bolivia",
+		"name_plural": "Bolifiyanadaha Bolivia",
+		"subunit_name": "Sentafo",
+		"subunit_name_plural": "Sentafos"
 	},
 	"BRL": {
-		"name": "Real Brazil",
-		"name_plural": "Realyada Brazil",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
+		"name": "Realka Barasiil",
+		"name_plural": "Realka Barasiil",
+		"subunit_name": "Sentafo",
+		"subunit_name_plural": "Sentafos"
 	},
 	"BSD": {
-		"name": "Dollarka Bahamas",
-		"name_plural": "Dollarada Bahamas",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Bahamaas",
+		"name_plural": "Doolarada Bahamaas",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"BTN": {
-		"name": "Ngultrum Bhutan",
-		"name_plural": "Ngultrumyada Bhutan",
-		"subunit_name": "chetrum",
-		"subunit_name_plural": "chetrum"
+		"name": "Ngultrumka Butan",
+		"name_plural": "Ngultrumada Butan",
+		"subunit_name": "Chetrum",
+		"subunit_name_plural": "Chetrums"
 	},
 	"BWP": {
-		"name": "Pula Botswana",
-		"name_plural": "Pulada Botswana",
-		"subunit_name": "thebe",
-		"subunit_name_plural": "thebe"
+		"name": "Bulada Botswana",
+		"name_plural": "Buladaha Botswana",
+		"subunit_name": "Thebe",
+		"subunit_name_plural": "Thebe"
 	},
 	"BYN": {
-		"name": "Ruble Belarus",
-		"name_plural": "Rubleyada Belarus",
-		"subunit_name": "kopeck",
-		"subunit_name_plural": "kopeck"
+		"name": "Rublka Belarus",
+		"name_plural": "Rublada Belarus",
+		"subunit_name": "Kopeck",
+		"subunit_name_plural": "Kopecks"
 	},
 	"BZD": {
-		"name": "Dollarka Belize",
-		"name_plural": "Dollarada Belize",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Beelise",
+		"name_plural": "Doolarada Beelise",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"CAD": {
-		"name": "Dollarka Kanada",
-		"name_plural": "Dollarada Kanada",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Kanada",
+		"name_plural": "Doolarada Kanada",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"CDF": {
 		"name": "Faranka Kongo",
-		"name_plural": "Farankada Kongo",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentime"
+		"name_plural": "Faranada Kongo",
+		"subunit_name": "Sentim",
+		"subunit_name_plural": "Sentims"
 	},
 	"CHF": {
-		"name": "Faranka Suwiis",
-		"name_plural": "Farankada Suwiis",
-		"subunit_name": "rappen",
-		"subunit_name_plural": "rappen"
+		"name": "Faranka Iswisarland",
+		"name_plural": "Faranada Iswisarland",
+		"subunit_name": "Rappen",
+		"subunit_name_plural": "Rappen"
 	},
 	"CLP": {
-		"name": "Peso Chile",
-		"name_plural": "Pesooyinka Chile",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
+		"name": "Besada Jili",
+		"name_plural": "Besadaha Jili",
+		"subunit_name": "Sentafo",
+		"subunit_name_plural": "Sentafos"
 	},
 	"CNY": {
-		"name": "Yuan Shina",
-		"name_plural": "Yuanada Shina",
-		"subunit_name": "fen",
-		"subunit_name_plural": "fen"
+		"name": "Yuanta Shiinaha",
+		"name_plural": "Yuantada Shiinaha",
+		"subunit_name": "Fen",
+		"subunit_name_plural": "Fen"
 	},
 	"COP": {
-		"name": "Peso Colombia",
-		"name_plural": "Pesooyinka Colombia",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
+		"name": "Besada Kolombiya",
+		"name_plural": "Besadaha Kolombiya",
+		"subunit_name": "Sentafo",
+		"subunit_name_plural": "Sentafos"
 	},
 	"CRC": {
-		"name": "Colón Costa Rica",
-		"name_plural": "Colónyada Costa Rica",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimo"
-	},
-	"CUC": {
-		"name": "Peso Cuba (Isku-dhafan)",
-		"name_plural": "Pesooyinka Cuba (Isku-dhafan)",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
+		"name": "Kolónka Kosta Riika",
+		"name_plural": "Kolónada Kosta Riika",
+		"subunit_name": "Sentimo",
+		"subunit_name_plural": "Sentimos"
 	},
 	"CUP": {
-		"name": "Peso Cuba",
-		"name_plural": "Pesooyinka Cuba",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
+		"name": "Besada Kuuba",
+		"name_plural": "Besadaha Kuuba",
+		"subunit_name": "Sentafo",
+		"subunit_name_plural": "Sentafos"
 	},
 	"CVE": {
-		"name": "Escudo Cape Verde",
-		"name_plural": "Escudoyinka Cape Verde",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
+		"name": "Eskudooda Cape Verde",
+		"name_plural": "Eskudoodaha Cape Verde",
+		"subunit_name": "Sentafo",
+		"subunit_name_plural": "Sentafos"
 	},
 	"CZK": {
-		"name": "Koruna Jek",
-		"name_plural": "Korunyada Jek",
-		"subunit_name": "haléř",
-		"subunit_name_plural": "haléř"
+		"name": "Korunada Jeek",
+		"name_plural": "Korunadaha Jeek",
+		"subunit_name": "Haléř",
+		"subunit_name_plural": "Haléře"
 	},
 	"DJF": {
-		"name": "Faranka Jibuti",
-		"name_plural": "Farankada Jibuti",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentime"
+		"name": "Faranka Jabuuti",
+		"name_plural": "Faranada Jabuuti",
+		"subunit_name": "Sentim",
+		"subunit_name_plural": "Sentims"
 	},
 	"DKK": {
-		"name": "Krone Denmark",
-		"name_plural": "Kroner Denmark",
-		"subunit_name": "øre",
-		"subunit_name_plural": "øre"
+		"name": "Kronada Denmark",
+		"name_plural": "Kronadaha Denmark",
+		"subunit_name": "Øre",
+		"subunit_name_plural": "Øre"
 	},
 	"DOP": {
-		"name": "Peso Domini",
-		"name_plural": "Pesooyinka Domini",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
+		"name": "Besada Dominiika",
+		"name_plural": "Besadaha Dominiika",
+		"subunit_name": "Sentafo",
+		"subunit_name_plural": "Sentafos"
 	},
 	"DZD": {
-		"name": "Dinaarka Aljeeriya",
-		"name_plural": "Dinaarka Aljeeriya",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentime"
+		"name": "Dinaarka Aljeriya",
+		"name_plural": "Dinaarada Aljeriya",
+		"subunit_name": "Sentim",
+		"subunit_name_plural": "Sentims"
 	},
 	"EGP": {
-		"name": "Shilin Masar",
-		"name_plural": "Shilinada Masar",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastre"
+		"name": "Bowndka Masar",
+		"name_plural": "Bowndada Masar",
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Piastres"
 	},
 	"ERN": {
-		"name": "Nakfa Eritrea",
-		"name_plural": "Nakfada Eritrea",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Nakfada Eritriya",
+		"name_plural": "Nakfadaha Eritriya",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"ETB": {
-		"name": "Birr Itoobiya",
-		"name_plural": "Birrada Itoobiya",
-		"subunit_name": "santim",
-		"subunit_name_plural": "santim"
+		"name": "Birta Itoobiya",
+		"name_plural": "Birtada Itoobiya",
+		"subunit_name": "Santim",
+		"subunit_name_plural": "Santims"
 	},
 	"EUR": {
-		"name": "Yuuro",
-		"name_plural": "Yuuro",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Yuro",
+		"name_plural": "Yuros",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"FJD": {
-		"name": "Dollarka Fiji",
-		"name_plural": "Dollarada Fiji",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Fiji",
+		"name_plural": "Doolarada Fiji",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"FKP": {
-		"name": "Shilin Falkland",
-		"name_plural": "Shilinada Falkland",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"name": "Bowndka Jasiiradaha Fooklaan",
+		"name_plural": "Bowndada Jasiiradaha Fooklaan",
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Pence"
 	},
 	"GBP": {
-		"name": "Shilin Ingiriis",
-		"name_plural": "Shilinada Ingiriis",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"name": "Bowndka Biritish",
+		"name_plural": "Bowndada Biritish",
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Pence"
 	},
 	"GEL": {
-		"name": "Lari Georgia",
-		"name_plural": "Lariyada Georgia",
-		"subunit_name": "tetri",
-		"subunit_name_plural": "tetri"
+		"name": "Lariga Joorjiya",
+		"name_plural": "Larigada Joorjiya",
+		"subunit_name": "Tetri",
+		"subunit_name_plural": "Tetri"
 	},
 	"GHS": {
-		"name": "Cedi Ghana",
-		"name_plural": "Cediyada Ghana",
-		"subunit_name": "pesewa",
-		"subunit_name_plural": "pesewa"
+		"name": "Sedida Gaana",
+		"name_plural": "Sedidaha Gaana",
+		"subunit_name": "Pesewa",
+		"subunit_name_plural": "Pesewas"
 	},
 	"GIP": {
-		"name": "Shilin Gibraltar",
-		"name_plural": "Shilinada Gibraltar",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"name": "Bowndka Gibraltar",
+		"name_plural": "Bowndada Gibraltar",
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Pence"
 	},
 	"GMD": {
-		"name": "Dalasi Gambia",
-		"name_plural": "Dalasiyada Gambia",
-		"subunit_name": "butut",
-		"subunit_name_plural": "butut"
+		"name": "Dalasida Gambiya",
+		"name_plural": "Dalasidaha Gambiya",
+		"subunit_name": "Butut",
+		"subunit_name_plural": "Bututs"
 	},
 	"GNF": {
 		"name": "Faranka Gini",
-		"name_plural": "Farankada Gini",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentime"
+		"name_plural": "Faranada Gini",
+		"subunit_name": "Sentim",
+		"subunit_name_plural": "Sentims"
 	},
 	"GTQ": {
-		"name": "Quetzal Guatemala",
-		"name_plural": "Quetzalyada Guatemala",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
+		"name": "Quetzalka Guatemala",
+		"name_plural": "Quetzalada Guatemala",
+		"subunit_name": "Sentafo",
+		"subunit_name_plural": "Sentafos"
 	},
 	"GYD": {
-		"name": "Dollarka Guyana",
-		"name_plural": "Dollarada Guyana",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Guyana",
+		"name_plural": "Doolarada Guyana",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"HKD": {
-		"name": "Dollarka Hong Kong",
-		"name_plural": "Dollarada Hong Kong",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Hong Kong",
+		"name_plural": "Doolarada Hong Kong",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"HNL": {
-		"name": "Lempira Honduras",
-		"name_plural": "Lempirada Honduras",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
-	},
-	"HRK": {
-		"name": "Kuna Kroeshiya",
-		"name_plural": "Kunada Kroeshiya",
-		"subunit_name": "lipa",
-		"subunit_name_plural": "lipa"
+		"name": "Lembirada Honduras",
+		"name_plural": "Lembiradaha Honduras",
+		"subunit_name": "Sentafo",
+		"subunit_name_plural": "Sentafos"
 	},
 	"HTG": {
-		"name": "Gourde Haiti",
-		"name_plural": "Gourdeyada Haiti",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentime"
+		"name": "Gourdka Haiti",
+		"name_plural": "Gourdada Haiti",
+		"subunit_name": "Sentim",
+		"subunit_name_plural": "Sentims"
 	},
 	"HUF": {
-		"name": "Forint Hungary",
-		"name_plural": "Forintyada Hungary",
-		"subunit_name": "fillér",
-		"subunit_name_plural": "fillér"
+		"name": "Forintiska Hangari",
+		"name_plural": "Forintiskada Hangari",
+		"subunit_name": "Fillér",
+		"subunit_name_plural": "Fillér"
 	},
 	"IDR": {
-		"name": "Rupiah Indonesia",
-		"name_plural": "Rupiahyada Indonesia",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Rupiahda Indonesia",
+		"name_plural": "Rupiahdaha Indonesia",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"ILS": {
-		"name": "Shekel Israa'iil",
-		"name_plural": "Shekelyada Israa'iil",
-		"subunit_name": "agora",
-		"subunit_name_plural": "agorot"
+		"name": "Shekelka Israaiil",
+		"name_plural": "Shekelada Israaiil",
+		"subunit_name": "Agora",
+		"subunit_name_plural": "Agorot"
 	},
 	"INR": {
-		"name": "Rupee Hindiya",
-		"name_plural": "Rupee Hindiya",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paise"
+		"name": "Rupiyada Hindiya",
+		"name_plural": "Rupiyadaha Hindiya",
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paise"
 	},
 	"IQD": {
-		"name": "Dinaarka Ciraag",
-		"name_plural": "Dinaarka Ciraag",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Dinaarka Ciraaq",
+		"name_plural": "Dinaarada Ciraaq",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"IRR": {
-		"name": "Rial Iran",
-		"name_plural": "Rialyada Iran",
-		"subunit_name": "dinar",
-		"subunit_name_plural": "dinar"
+		"name": "Riyaalka Iran",
+		"name_plural": "Riyaalka Iran",
+		"subunit_name": "Dinaar",
+		"subunit_name_plural": "Dinaarad"
 	},
 	"ISK": {
-		"name": "Króna Iceland",
-		"name_plural": "Krónur Iceland",
-		"subunit_name": "eyrir",
-		"subunit_name_plural": "aurar"
+		"name": "Kronada Aysland",
+		"name_plural": "Kronadaha Aysland",
+		"subunit_name": "Eyrir",
+		"subunit_name_plural": "Aurar"
 	},
 	"JMD": {
-		"name": "Dollarka Jamaica",
-		"name_plural": "Dollarada Jamaica",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Jamaaika",
+		"name_plural": "Doolarada Jamaaika",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"JOD": {
 		"name": "Dinaarka Urdun",
-		"name_plural": "Dinaarka Urdun",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name_plural": "Dinaarada Urdun",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"JPY": {
-		"name": "Yen Japan",
-		"name_plural": "Yen Japan",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Yenta Jaban",
+		"name_plural": "Yentada Jaban",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"KES": {
-		"name": "Shilin Kenya",
-		"name_plural": "Shilinada Kenya",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Shilingka Kenya",
+		"name_plural": "Shilingada Kenya",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"KGS": {
-		"name": "Som Kyrgyzstan",
+		"name": "Somka Kyrgyzstan",
 		"name_plural": "Somada Kyrgyzstan",
-		"subunit_name": "tyiyn",
-		"subunit_name_plural": "tyiyn"
+		"subunit_name": "Tyiyn",
+		"subunit_name_plural": "Tyiyn"
 	},
 	"KHR": {
-		"name": "Riel Cambodia",
-		"name_plural": "Rielada Cambodia",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Rielka Kamboodiya",
+		"name_plural": "Rielada Kamboodiya",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"KMF": {
-		"name": "Faranka Komoro",
-		"name_plural": "Farankada Komoro",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentime"
+		"name": "Faranka Komoros",
+		"name_plural": "Faranada Komoros",
+		"subunit_name": "Sentim",
+		"subunit_name_plural": "Sentims"
 	},
 	"KPW": {
-		"name": "Won Korea Waqooyi",
-		"name_plural": "Wonada Korea Waqooyi",
-		"subunit_name": "jeon",
-		"subunit_name_plural": "jeon"
+		"name": "Wonka Waqooyiga Kuuriya",
+		"name_plural": "Wonada Waqooyiga Kuuriya",
+		"subunit_name": "Jeon",
+		"subunit_name_plural": "Jeon"
 	},
 	"KRW": {
-		"name": "Won Korea Koonfureed",
-		"name_plural": "Wonada Korea Koonfureed",
-		"subunit_name": "jeon",
-		"subunit_name_plural": "jeon"
+		"name": "Wonka Koonfurta Kuuriya",
+		"name_plural": "Wonada Koonfurta Kuuriya",
+		"subunit_name": "Jeon",
+		"subunit_name_plural": "Jeon"
 	},
 	"KWD": {
 		"name": "Dinaarka Kuweyt",
-		"name_plural": "Dinaarka Kuweyt",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name_plural": "Dinaarada Kuweyt",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"KYD": {
-		"name": "Dollarka Jasiiradda Cayman",
-		"name_plural": "Dollarada Jasiiradda Cayman",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Jasiiradaha Kayman",
+		"name_plural": "Doolarada Jasiiradaha Kayman",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"KZT": {
-		"name": "Tenge Kazakhstan",
-		"name_plural": "Tengeyada Kazakhstan",
-		"subunit_name": "tiyn",
-		"subunit_name_plural": "tiyn"
+		"name": "Tengeda Kasaakhistaan",
+		"name_plural": "Tengedaha Kasaakhistaan",
+		"subunit_name": "Tiyn",
+		"subunit_name_plural": "Tiyn"
 	},
 	"LAK": {
-		"name": "Kip Laos",
-		"name_plural": "Kipada Laos",
-		"subunit_name": "att",
-		"subunit_name_plural": "att"
+		"name": "Kibka Laos",
+		"name_plural": "Kibada Laos",
+		"subunit_name": "Att",
+		"subunit_name_plural": "Att"
 	},
 	"LBP": {
-		"name": "Shilin Lubnaan",
-		"name_plural": "Shilinada Lubnaan",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastre"
+		"name": "Bowndka Lubnaan",
+		"name_plural": "Bowndada Lubnaan",
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Piastres"
 	},
 	"LKR": {
-		"name": "Rupee Sri Lanka",
-		"name_plural": "Rupee Sri Lanka",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Rupiyada Sri Lanka",
+		"name_plural": "Rupiyadaha Sri Lanka",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"LRD": {
-		"name": "Dollarka Liberia",
-		"name_plural": "Dollarada Liberia",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Laybeeriya",
+		"name_plural": "Doolarada Laybeeriya",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"LSL": {
-		"name": "Loti Lesotho",
-		"name_plural": "Lotiga Lesotho",
-		"subunit_name": "sente",
-		"subunit_name_plural": "lisente"
+		"name": "Lotiga Lesotho",
+		"name_plural": "Lotigada Lesotho",
+		"subunit_name": "Sente",
+		"subunit_name_plural": "Lisente"
 	},
 	"LYD": {
-		"name": "Dinaarka Liibya",
-		"name_plural": "Dinaarka Liibya",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirham"
+		"name": "Dinaarka Libya",
+		"name_plural": "Dinaarada Libya",
+		"subunit_name": "Dirham",
+		"subunit_name_plural": "Dirhams"
 	},
 	"MAD": {
-		"name": "Dirhamka Morocco",
-		"name_plural": "Dirhamyada Morocco",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentime"
+		"name": "Dirhamka Moroko",
+		"name_plural": "Dirhamada Moroko",
+		"subunit_name": "Sentim",
+		"subunit_name_plural": "Sentims"
 	},
 	"MDL": {
-		"name": "Leu Moldova",
-		"name_plural": "Leuga Moldova",
-		"subunit_name": "ban",
-		"subunit_name_plural": "bani"
+		"name": "Leuga Moldova",
+		"name_plural": "Leugada Moldova",
+		"subunit_name": "Ban",
+		"subunit_name_plural": "Bani"
 	},
 	"MGA": {
-		"name": "Ariary Madagaskar",
-		"name_plural": "Ariarygii Madagaskar",
-		"subunit_name": "iraimbilanja",
-		"subunit_name_plural": "iraimbilanja"
+		"name": "Ariariga Madagaskar",
+		"name_plural": "Ariarigada Madagaskar",
+		"subunit_name": "Iraimbilanja",
+		"subunit_name_plural": "Iraimbilanja"
 	},
 	"MKD": {
-		"name": "Denar Macedonia",
-		"name_plural": "Denariyada Macedonia",
-		"subunit_name": "deni",
-		"subunit_name_plural": "deni"
+		"name": "Denaarka Masedoniya",
+		"name_plural": "Denaarkada Masedoniya",
+		"subunit_name": "Deni",
+		"subunit_name_plural": "Deni"
 	},
 	"MMK": {
-		"name": "Kyat Myanmar",
-		"name_plural": "Kyatada Myanmar",
-		"subunit_name": "pya",
-		"subunit_name_plural": "pya"
+		"name": "Kyaatka Myanmar",
+		"name_plural": "Kyaatada Myanmar",
+		"subunit_name": "Pya",
+		"subunit_name_plural": "Pya"
 	},
 	"MNT": {
-		"name": "Tugrik Mongolia",
-		"name_plural": "Tugrikyada Mongolia",
-		"subunit_name": "möngö",
-		"subunit_name_plural": "möngö"
+		"name": "Tugrugka Mongolia",
+		"name_plural": "Tugrugada Mongolia",
+		"subunit_name": "Möngö",
+		"subunit_name_plural": "Möngö"
 	},
 	"MOP": {
-		"name": "Pataca Macau",
-		"name_plural": "Patacada Macau",
-		"subunit_name": "avo",
-		"subunit_name_plural": "avo"
+		"name": "Patacada Macau",
+		"name_plural": "Patacadaha Macau",
+		"subunit_name": "Avo",
+		"subunit_name_plural": "Avos"
 	},
 	"MRU": {
-		"name": "Ouguiya Mauritania",
-		"name_plural": "Ouguiyada Mauritania",
-		"subunit_name": "khoums",
-		"subunit_name_plural": "khoums"
+		"name": "Ouguiyada Mauritania",
+		"name_plural": "Ouguiyadaha Mauritania",
+		"subunit_name": "Khoums",
+		"subunit_name_plural": "Khoums"
 	},
 	"MUR": {
-		"name": "Rupee Morishius",
-		"name_plural": "Rupee Morishius",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Rupiyada Mauritius",
+		"name_plural": "Rupiyadaha Mauritius",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"MVR": {
-		"name": "Rufiyaa Maldives",
-		"name_plural": "Rufiyaada Maldives",
-		"subunit_name": "laari",
-		"subunit_name_plural": "laari"
+		"name": "Rufiyaada Maldives",
+		"name_plural": "Rufiyaadaha Maldives",
+		"subunit_name": "Laari",
+		"subunit_name_plural": "Laari"
 	},
 	"MWK": {
-		"name": "Kwacha Malawi",
-		"name_plural": "Kwachada Malawi",
-		"subunit_name": "tambala",
-		"subunit_name_plural": "tambala"
+		"name": "Kwachada Malawi",
+		"name_plural": "Kwachadaha Malawi",
+		"subunit_name": "Tambala",
+		"subunit_name_plural": "Tambala"
 	},
 	"MXN": {
-		"name": "Peso Mexico",
-		"name_plural": "Pesooyinka Mexico",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
+		"name": "Besada Meksiko",
+		"name_plural": "Besadaha Meksiko",
+		"subunit_name": "Sentafo",
+		"subunit_name_plural": "Sentafos"
 	},
 	"MYR": {
-		"name": "Ringgit Malaysia",
-		"name_plural": "Ringgityada Malaysia",
-		"subunit_name": "sen",
-		"subunit_name_plural": "sen"
+		"name": "Ringgitka Malaysia",
+		"name_plural": "Ringgitada Malaysia",
+		"subunit_name": "Sen",
+		"subunit_name_plural": "Sen"
 	},
 	"MZN": {
-		"name": "Metical Mozambique",
-		"name_plural": "Meticalyada Mozambique",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
+		"name": "Metikalka Mosambik",
+		"name_plural": "Metikalka Mosambik",
+		"subunit_name": "Sentimo",
+		"subunit_name_plural": "Sentimos"
 	},
 	"NAD": {
-		"name": "Dollarka Namibya",
-		"name_plural": "Dollarada Namibya",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Namibia",
+		"name_plural": "Doolarada Namibia",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"NGN": {
-		"name": "Naira Najeriya",
-		"name_plural": "Nairada Najeriya",
-		"subunit_name": "kobo",
-		"subunit_name_plural": "kobo"
+		"name": "Nairada Neyjeeriya",
+		"name_plural": "Nairadaha Neyjeeriya",
+		"subunit_name": "Kobo",
+		"subunit_name_plural": "Kobo"
 	},
 	"NIO": {
-		"name": "Córdoba Nicaragua",
-		"name_plural": "Córdobada Nicaragua",
-		"subunit_name": "centavo",
-		"subunit_name_plural": "centavo"
+		"name": "Kordobada Nikaraaguwa",
+		"name_plural": "Kordobadaha Nikaraaguwa",
+		"subunit_name": "Sentafo",
+		"subunit_name_plural": "Sentafos"
 	},
 	"NOK": {
-		"name": "Krone Norway",
-		"name_plural": "Kroner Norway",
-		"subunit_name": "øre",
-		"subunit_name_plural": "øre"
+		"name": "Kronada Norway",
+		"name_plural": "Kronadaha Norway",
+		"subunit_name": "Øre",
+		"subunit_name_plural": "Øre"
 	},
 	"NPR": {
-		"name": "Rupee Nepal",
-		"name_plural": "Rupee Nepal",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisa"
+		"name": "Rupiyada Nepal",
+		"name_plural": "Rupiyadaha Nepal",
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paisa"
 	},
 	"NZD": {
-		"name": "Dollarka Niyu Zilaan",
-		"name_plural": "Dollarada Niyu Zilaan",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Niyuu Siyaalaand",
+		"name_plural": "Doolarada Niyuu Siyaalaand",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"OMR": {
-		"name": "Rial Oman",
-		"name_plural": "Rialyada Oman",
-		"subunit_name": "baisa",
-		"subunit_name_plural": "baisa"
+		"name": "Riyaalka Cumaan",
+		"name_plural": "Riyaalka Cumaan",
+		"subunit_name": "Baisa",
+		"subunit_name_plural": "Baisa"
 	},
 	"PAB": {
-		"name": "Balboa Panama",
-		"name_plural": "Balboada Panama",
-		"subunit_name": "centésimo",
-		"subunit_name_plural": "centésimo"
+		"name": "Balboada Panama",
+		"name_plural": "Balboadaha Panama",
+		"subunit_name": "Sentésimo",
+		"subunit_name_plural": "Sentésimos"
 	},
 	"PEN": {
-		"name": "Sol Peru",
+		"name": "Solka Peru",
 		"name_plural": "Solada Peru",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimo"
+		"subunit_name": "Sentimo",
+		"subunit_name_plural": "Sentimos"
 	},
 	"PGK": {
-		"name": "Kina Papua New Guinea",
-		"name_plural": "Kinada Papua New Guinea",
-		"subunit_name": "toea",
-		"subunit_name_plural": "toea"
+		"name": "Kinada Papua Niyuu Gini",
+		"name_plural": "Kinadaha Papua Niyuu Gini",
+		"subunit_name": "Toea",
+		"subunit_name_plural": "Toea"
 	},
 	"PHP": {
-		"name": "Peso Filibiin",
-		"name_plural": "Pesooyinka Filibiin",
-		"subunit_name": "sentimo",
-		"subunit_name_plural": "sentimo"
+		"name": "Besada Filibiin",
+		"name_plural": "Besadaha Filibiin",
+		"subunit_name": "Sentimo",
+		"subunit_name_plural": "Sentimos"
 	},
 	"PKR": {
-		"name": "Rupee Pakistan",
-		"name_plural": "Rupee Pakistan",
-		"subunit_name": "paisa",
-		"subunit_name_plural": "paisa"
+		"name": "Rupiyada Bakistaan",
+		"name_plural": "Rupiyadaha Bakistaan",
+		"subunit_name": "Paisa",
+		"subunit_name_plural": "Paisa"
 	},
 	"PLN": {
-		"name": "Zloty Poland",
-		"name_plural": "Zlotyada Poland",
-		"subunit_name": "grosz",
-		"subunit_name_plural": "groszy"
+		"name": "Zlotiga Boland",
+		"name_plural": "Zlotigada Boland",
+		"subunit_name": "Grosz",
+		"subunit_name_plural": "Groszy"
 	},
 	"PYG": {
-		"name": "Guarani Paraguay",
-		"name_plural": "Guaraniga Paraguay",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimo"
+		"name": "Guaraniiga Paraguay",
+		"name_plural": "Guaraniigada Paraguay",
+		"subunit_name": "Sentimo",
+		"subunit_name_plural": "Sentimos"
 	},
 	"QAR": {
-		"name": "Rial Qatar",
-		"name_plural": "Rialyada Qatar",
-		"subunit_name": "dirham",
-		"subunit_name_plural": "dirham"
+		"name": "Riyaalka Qadar",
+		"name_plural": "Riyaalka Qadar",
+		"subunit_name": "Dirham",
+		"subunit_name_plural": "Dirhams"
 	},
 	"RON": {
-		"name": "Leu Romania",
-		"name_plural": "Leuga Romania",
-		"subunit_name": "ban",
-		"subunit_name_plural": "bani"
+		"name": "Leuga Romaniya",
+		"name_plural": "Leugada Romaniya",
+		"subunit_name": "Ban",
+		"subunit_name_plural": "Bani"
 	},
 	"RSD": {
-		"name": "Dinaarka Serbia",
-		"name_plural": "Dinaarka Serbia",
-		"subunit_name": "para",
-		"subunit_name_plural": "para"
+		"name": "Dinaarka Seerbiya",
+		"name_plural": "Dinaarada Seerbiya",
+		"subunit_name": "Para",
+		"subunit_name_plural": "Para"
 	},
 	"RUB": {
-		"name": "Ruble Ruush",
-		"name_plural": "Rubleyada Ruush",
-		"subunit_name": "kopeck",
-		"subunit_name_plural": "kopeck"
+		"name": "Rublka Ruushka",
+		"name_plural": "Rublada Ruushka",
+		"subunit_name": "Kopeck",
+		"subunit_name_plural": "Kopecks"
 	},
 	"RWF": {
-		"name": "Faranka Rwanda",
-		"name_plural": "Farankada Rwanda",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentime"
+		"name": "Faranka Ruwanda",
+		"name_plural": "Faranada Ruwanda",
+		"subunit_name": "Sentim",
+		"subunit_name_plural": "Sentims"
 	},
 	"SAR": {
-		"name": "Riyal Sacuudi",
-		"name_plural": "Riyalyada Sacuudi",
-		"subunit_name": "halala",
-		"subunit_name_plural": "halala"
+		"name": "Riyaalka Sacuudiga",
+		"name_plural": "Riyaalka Sacuudiga",
+		"subunit_name": "Halala",
+		"subunit_name_plural": "Halalas"
 	},
 	"SBD": {
-		"name": "Dollarka Jasiiradda Solomon",
-		"name_plural": "Dollarada Jasiiradda Solomon",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Jasiiradaha Solomon",
+		"name_plural": "Doolarada Jasiiradaha Solomon",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"SCR": {
-		"name": "Rupee Seychelles",
-		"name_plural": "Rupee Seychelles",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Rupiyada Seychelles",
+		"name_plural": "Rupiyadaha Seychelles",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"SDG": {
-		"name": "Shilin Suudaan",
-		"name_plural": "Shilinada Suudaan",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastre"
+		"name": "Bowndka Suudaan",
+		"name_plural": "Bowndada Suudaan",
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Piastres"
 	},
 	"SEK": {
-		"name": "Krona Sweden",
-		"name_plural": "Kronor Sweden",
-		"subunit_name": "öre",
-		"subunit_name_plural": "öre"
+		"name": "Kronada Iswiidhan",
+		"name_plural": "Kronadaha Iswiidhan",
+		"subunit_name": "Öre",
+		"subunit_name_plural": "Öre"
 	},
 	"SGD": {
-		"name": "Dollarka Singapore",
-		"name_plural": "Dollarada Singapore",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Singabuur",
+		"name_plural": "Doolarada Singabuur",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"SHP": {
-		"name": "Shilin St. Helena",
-		"name_plural": "Shilinada St. Helena",
-		"subunit_name": "penny",
-		"subunit_name_plural": "pence"
+		"name": "Bowndka Saint Helena",
+		"name_plural": "Bowndada Saint Helena",
+		"subunit_name": "Penny",
+		"subunit_name_plural": "Pence"
 	},
-	"SLL": {
-		"name": "Leone Sierra Leone",
-		"name_plural": "Leone Sierra Leone",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+	"SLE": {
+		"name": "Leoneada Siraaliyoon",
+		"name_plural": "Leoneadaha Siraaliyoon",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"SOS": {
-		"name": "Shilin Soomaaliya",
-		"name_plural": "Shilinada Soomaaliya",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Shilingka Soomaaliya",
+		"name_plural": "Shilingada Soomaaliya",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Senti"
 	},
 	"SRD": {
-		"name": "Dollarka Suriname",
-		"name_plural": "Dollarada Suriname",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Suriname",
+		"name_plural": "Doolarada Suriname",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"SSP": {
-		"name": "Shilin Koonfur Suudaan",
-		"name_plural": "Shilinada Koonfur Suudaan",
-		"subunit_name": "piaster",
-		"subunit_name_plural": "piaster"
+		"name": "Bowndka Koonfurta Suudaan",
+		"name_plural": "Bowndada Koonfurta Suudaan",
+		"subunit_name": "Piaster",
+		"subunit_name_plural": "Piasters"
 	},
 	"STN": {
-		"name": "Dobra São Tomé & Príncipe",
-		"name_plural": "Dobrada São Tomé & Príncipe",
-		"subunit_name": "cêntimo",
-		"subunit_name_plural": "cêntimo"
+		"name": "Dobrada São Tomé and Príncipe",
+		"name_plural": "Dobradaha São Tomé and Príncipe",
+		"subunit_name": "Sentimo",
+		"subunit_name_plural": "Sentimos"
 	},
 	"SYP": {
-		"name": "Shilin Syria",
-		"name_plural": "Shilinada Syria",
-		"subunit_name": "piastre",
-		"subunit_name_plural": "piastre"
+		"name": "Bowndka Suuriya",
+		"name_plural": "Bowndada Suuriya",
+		"subunit_name": "Piastre",
+		"subunit_name_plural": "Piastres"
 	},
 	"SZL": {
-		"name": "Lilangeni Eswatini",
-		"name_plural": "Emalangeni Eswatini",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Lilangenida Eswatini",
+		"name_plural": "Lilangenidaha Eswatini",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"THB": {
-		"name": "Baht Thailand",
-		"name_plural": "Baht Thailand",
-		"subunit_name": "satang",
-		"subunit_name_plural": "satang"
+		"name": "Bahtka Taylaand",
+		"name_plural": "Bahtada Taylaand",
+		"subunit_name": "Satang",
+		"subunit_name_plural": "Satang"
 	},
 	"TJS": {
-		"name": "Somoni Tajikistan",
-		"name_plural": "Somoni Tajikistan",
-		"subunit_name": "diram",
-		"subunit_name_plural": "diram"
+		"name": "Somonida Tajikistan",
+		"name_plural": "Somonidaha Tajikistan",
+		"subunit_name": "Diram",
+		"subunit_name_plural": "Dirams"
 	},
 	"TMT": {
-		"name": "Manat Turkmenistan",
-		"name_plural": "Manat Turkmenistan",
-		"subunit_name": "tenge",
-		"subunit_name_plural": "tenge"
+		"name": "Manaatka Turkmenistan",
+		"name_plural": "Manaatada Turkmenistan",
+		"subunit_name": "Tenge",
+		"subunit_name_plural": "Tenge"
 	},
 	"TND": {
-		"name": "Dinaarka Tunisia",
-		"name_plural": "Dinaarka Tunisia",
-		"subunit_name": "millime",
-		"subunit_name_plural": "millime"
+		"name": "Dinaarka Tunisiya",
+		"name_plural": "Dinaarada Tunisiya",
+		"subunit_name": "Millime",
+		"subunit_name_plural": "Millimes"
 	},
 	"TOP": {
-		"name": "Pa'anga Tonga",
-		"name_plural": "Pa'anga Tonga",
-		"subunit_name": "seniti",
-		"subunit_name_plural": "seniti"
+		"name": "Paʻangada Tonga",
+		"name_plural": "Paʻangadaha Tonga",
+		"subunit_name": "Seniti",
+		"subunit_name_plural": "Seniti"
 	},
 	"TRY": {
-		"name": "Lira Turkey",
-		"name_plural": "Lira Turkey",
-		"subunit_name": "kuruş",
-		"subunit_name_plural": "kuruş"
+		"name": "Liirada Turkiga",
+		"name_plural": "Liiradaha Turkiga",
+		"subunit_name": "Kuruş",
+		"subunit_name_plural": "Kuruş"
 	},
 	"TTD": {
-		"name": "Dollarka Trinidad & Tobago",
-		"name_plural": "Dollarada Trinidad & Tobago",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Tirinidad iyo Tobago",
+		"name_plural": "Doolarada Tirinidad iyo Tobago",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"TWD": {
-		"name": "Dollarka Taiwan Cusub",
-		"name_plural": "Dollarada Taiwan Cusub",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Taywaanta Cusub",
+		"name_plural": "Doolarada Taywaanta Cusub",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"TZS": {
-		"name": "Shilin Tanzania",
-		"name_plural": "Shilinada Tanzania",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Shilingka Tansaaniya",
+		"name_plural": "Shilingada Tansaaniya",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Senti"
 	},
 	"UAH": {
-		"name": "Hryvnia Ukraine",
-		"name_plural": "Hryvniyada Ukraine",
-		"subunit_name": "kopeck",
-		"subunit_name_plural": "kopeck"
+		"name": "Hryvniaka Yukreeyn",
+		"name_plural": "Hryvniadaha Yukreeyn",
+		"subunit_name": "Kopeck",
+		"subunit_name_plural": "Kopecks"
 	},
 	"UGX": {
-		"name": "Shilin Uganda",
-		"name_plural": "Shilinada Uganda",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Shilingka Uganda",
+		"name_plural": "Shilingada Uganda",
+		"subunit_name": "Senti",
+		"subunit_name_plural": "Senti"
 	},
 	"USD": {
-		"name": "Dollar Amreeka",
-		"name_plural": "Dollarada Amreeka",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Maraykanka",
+		"name_plural": "Doolarada Maraykanka",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"UYU": {
-		"name": "Peso Uruguay",
-		"name_plural": "Pesooyinka Uruguay",
-		"subunit_name": "centésimo",
-		"subunit_name_plural": "centésimo"
+		"name": "Besada Urugway",
+		"name_plural": "Besadaha Urugway",
+		"subunit_name": "Sentésimo",
+		"subunit_name_plural": "Sentésimos"
 	},
 	"UZS": {
-		"name": "Som Uzbekistan",
-		"name_plural": "Somada Uzbekistan",
-		"subunit_name": "tiyin",
-		"subunit_name_plural": "tiyin"
+		"name": "Somka Usbekistan",
+		"name_plural": "Somada Usbekistan",
+		"subunit_name": "Tiyin",
+		"subunit_name_plural": "Tiyin"
 	},
-	"VES": {
-		"name": "Bolívar Venezuela",
-		"name_plural": "Bolívares Venezuela",
-		"subunit_name": "céntimo",
-		"subunit_name_plural": "céntimo"
+	"VED": {
+		"name": "Bolívar Digitalka Fenesuweela",
+		"name_plural": "Bolívar Digitalada Fenesuweela",
+		"subunit_name": "Sentimo",
+		"subunit_name_plural": "Sentimos"
 	},
 	"VND": {
-		"name": "Dong Vietnam",
-		"name_plural": "Dong Vietnam",
-		"subunit_name": "hào",
-		"subunit_name_plural": "hào"
+		"name": "Dongta Fiyetnaam",
+		"name_plural": "Dongtaha Fiyetnaam",
+		"subunit_name": "Hào",
+		"subunit_name_plural": "Hào"
 	},
 	"VUV": {
-		"name": "Vatu Vanuatu",
-		"name_plural": "Vatu Vanuatu",
-		"subunit_name": "centime",
-		"subunit_name_plural": "centime"
+		"name": "Vatuda Vanuatu",
+		"name_plural": "Vatudaha Vanuatu",
+		"subunit_name": "Sentim",
+		"subunit_name_plural": "Sentims"
 	},
 	"WST": {
-		"name": "Tala Samoa",
-		"name_plural": "Tala Samoa",
-		"subunit_name": "sene",
-		"subunit_name_plural": "sene"
+		"name": "Talada Samoa",
+		"name_plural": "Taladaha Samoa",
+		"subunit_name": "Sene",
+		"subunit_name_plural": "Sene"
 	},
 	"XAF": {
-		"name": "Faranka CFA Afrika Dhexe",
-		"name_plural": "Farankada CFA Afrika Dhexe",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentime"
+		"name": "Faranka CFA ee Bartamaha Afrika",
+		"name_plural": "Faranada CFA ee Bartamaha Afrika",
+		"subunit_name": "Sentim",
+		"subunit_name_plural": "Sentims"
 	},
 	"XCD": {
-		"name": "Dollarka Caribbean Bari",
-		"name_plural": "Dollarada Caribbean Bari",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Iist Kaaribyaan",
+		"name_plural": "Doolarada Iist Kaaribyaan",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"XOF": {
-		"name": "Faranka CFA Afrika Galbeed",
-		"name_plural": "Farankada CFA Afrika Galbeed",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentime"
+		"name": "Faranka CFA ee Galbeedka Afrika",
+		"name_plural": "Faranada CFA ee Galbeedka Afrika",
+		"subunit_name": "Sentim",
+		"subunit_name_plural": "Sentims"
 	},
 	"XPF": {
 		"name": "Faranka CFP",
-		"name_plural": "Farankada CFP",
-		"subunit_name": "sentime",
-		"subunit_name_plural": "sentime"
+		"name_plural": "Faranada CFP",
+		"subunit_name": "Sentim",
+		"subunit_name_plural": "Sentims"
 	},
 	"YER": {
-		"name": "Rial Yaman",
-		"name_plural": "Rialyada Yaman",
-		"subunit_name": "fils",
-		"subunit_name_plural": "fils"
+		"name": "Riyaalka Yaman",
+		"name_plural": "Riyaalka Yaman",
+		"subunit_name": "Fils",
+		"subunit_name_plural": "Fils"
 	},
 	"ZAR": {
-		"name": "Rand Afrika Koonfureed",
-		"name_plural": "Rand Afrika Koonfureed",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Randka Koonfur Afrika",
+		"name_plural": "Randada Koonfur Afrika",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	},
 	"ZMW": {
-		"name": "Kwacha Zambia",
-		"name_plural": "Kwachada Zambia",
-		"subunit_name": "ngwee",
-		"subunit_name_plural": "ngwee"
+		"name": "Kwachada Sambiya",
+		"name_plural": "Kwachadaha Sambiya",
+		"subunit_name": "Ngwee",
+		"subunit_name_plural": "Ngwee"
 	},
 	"ZWL": {
-		"name": "Dollarka Zimbabwe",
-		"name_plural": "Dollarada Zimbabwe",
-		"subunit_name": "sent",
-		"subunit_name_plural": "sent"
+		"name": "Doolarka Simbaabwe",
+		"name_plural": "Doolarada Simbaabwe",
+		"subunit_name": "Sent",
+		"subunit_name_plural": "Sents"
 	}
 }

@@ -1,43 +1,43 @@
 {
 	"AED": {
-		"name": "ਯੂਏਈ ਦਿਰਹਮ",
-		"name_plural": "ਯੂਏਈ ਦਿਰਹਮ",
-		"subunit_name": "ਫ਼ਿਲਸ",
-		"subunit_name_plural": "ਫ਼ਿਲਸ"
+		"name": "ਸੰਯੁਕਤ ਅਰਬ ਅਮੀਰਾਤ ਦਿਰਹਾਮ",
+		"name_plural": "ਸੰਯੁਕਤ ਅਰਬ ਅਮੀਰਾਤ ਦਿਰਹਾਮ",
+		"subunit_name": "ਫਿਲਸ",
+		"subunit_name_plural": "ਫਿਲਸ"
 	},
 	"AFN": {
-		"name": "ਅਫ਼ਗਾਨੀ",
-		"name_plural": "ਅਫ਼ਗਾਨੀ",
+		"name": "ਅਫਗਾਨ ਅਫਗਾਨੀ",
+		"name_plural": "ਅਫਗਾਨ ਅਫਗਾਨੀ",
 		"subunit_name": "ਪੁਲ",
 		"subunit_name_plural": "ਪੁਲ"
 	},
 	"ALL": {
 		"name": "ਅਲਬਾਨੀਆਈ ਲੇਕ",
 		"name_plural": "ਅਲਬਾਨੀਆਈ ਲੇਕ",
-		"subunit_name": "ਕਿੰਦਰਕਾ",
-		"subunit_name_plural": "ਕਿੰਦਰਕੇ"
+		"subunit_name": "ਕਿੰਡਾਰਕ",
+		"subunit_name_plural": "ਕਿੰਡਾਰਕ"
 	},
 	"AMD": {
-		"name": "ਆਰਮੀਨੀਆਈ ਡਰਾਮ",
-		"name_plural": "ਆਰਮੀਨੀਆਈ ਡਰਾਮ",
+		"name": "ਅਰਮੀਨੀਆਈ ਡਰਾਮ",
+		"name_plural": "ਅਰਮੀਨੀਆਈ ਡਰਾਮ",
 		"subunit_name": "ਲੂਮਾ",
 		"subunit_name_plural": "ਲੂਮਾ"
 	},
 	"ANG": {
-		"name": "ਨੀਦਰਲੈਂਡਜ਼ ਐਂਟੀਲੀਅਨ ਗਿਲਡਰ",
-		"name_plural": "ਨੀਦਰਲੈਂਡਜ਼ ਐਂਟੀਲੀਅਨ ਗਿਲਡਰ",
+		"name": "ਨੀਦਰਲੈਂਡ ਐਂਟੀਲੀਅਨ ਗਿਲਡਰ",
+		"name_plural": "ਨੀਦਰਲੈਂਡ ਐਂਟੀਲੀਅਨ ਗਿਲਡਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"AOA": {
-		"name": "ਐਂਗੋਲਨ ਕਵਾਂਜ਼ਾ",
-		"name_plural": "ਐਂਗੋਲਨ ਕਵਾਂਜ਼ਾ",
+		"name": "ਅੰਗੋਲਨ ਕਵਾਂਜ਼ਾ",
+		"name_plural": "ਅੰਗੋਲਨ ਕਵਾਂਜ਼ਾ",
 		"subunit_name": "ਸੈਂਟੀਮੋ",
 		"subunit_name_plural": "ਸੈਂਟੀਮੋ"
 	},
 	"ARS": {
-		"name": "ਅਰਜਨਟੀਨੀ ਪੈਸੋ",
-		"name_plural": "ਅਰਜਨਟੀਨੀ ਪੈਸੋ",
+		"name": "ਅਰਜਨਟੀਨਾ ਪੈਸੋ",
+		"name_plural": "ਅਰਜਨਟੀਨਾ ਪੈਸੋ",
 		"subunit_name": "ਸੈਂਟਾਵੋ",
 		"subunit_name_plural": "ਸੈਂਟਾਵੋ"
 	},
@@ -54,26 +54,26 @@
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"AZN": {
-		"name": "ਅਜ਼ਰਬੈਜਾਨੀ ਮਨਾਤ",
-		"name_plural": "ਅਜ਼ਰਬੈਜਾਨੀ ਮਨਾਤ",
-		"subunit_name": "ਕੈਪਿਕ",
-		"subunit_name_plural": "ਕੈਪਿਕ"
+		"name": "ਅਜ਼ਰਬਾਈਜਾਨੀ ਮਨਾਤ",
+		"name_plural": "ਅਜ਼ਰਬਾਈਜਾਨੀ ਮਨਾਤ",
+		"subunit_name": "ਕਪਿਕ",
+		"subunit_name_plural": "ਕਪਿਕ"
 	},
 	"BAM": {
-		"name": "ਬੋਸਨੀਆ-ਹਰਜ਼ੇਗੋਵੀਨਾ ਕਨਵਰਟੇਬਲ ਮਾਰਕ",
-		"name_plural": "ਬੋਸਨੀਆ-ਹਰਜ਼ੇਗੋਵੀਨਾ ਕਨਵਰਟੇਬਲ ਮਾਰਕ",
-		"subunit_name": "ਫੇਨਿੰਗ",
-		"subunit_name_plural": "ਫੇਨਿੰਗ"
+		"name": "ਬੋਸਨੀਆ-ਹਰਜ਼ੇਗੋਵੀਨਾ ਕਨਵਰਟੀਬਲ ਮਾਰਕ",
+		"name_plural": "ਬੋਸਨੀਆ-ਹਰਜ਼ੇਗੋਵੀਨਾ ਕਨਵਰਟੀਬਲ ਮਾਰਕ",
+		"subunit_name": "ਫੈਨਿੰਗ",
+		"subunit_name_plural": "ਫੈਨਿੰਗ"
 	},
 	"BBD": {
-		"name": "ਬਾਰਬਾਡੀਆਈ ਡਾਲਰ",
-		"name_plural": "ਬਾਰਬਾਡੀਆਈ ਡਾਲਰ",
+		"name": "ਬਾਰਬਾਡੀਅਨ ਡਾਲਰ",
+		"name_plural": "ਬਾਰਬਾਡੀਅਨ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"BDT": {
-		"name": "ਬੰਗਲਾਦੇਸ਼ੀ ਟਾਕਾ",
-		"name_plural": "ਬੰਗਲਾਦੇਸ਼ੀ ਟਾਕਾ",
+		"name": "ਬੰਗਲਾਦੇਸ਼ੀ ਟਕਾ",
+		"name_plural": "ਬੰਗਲਾਦੇਸ਼ੀ ਟਕਾ",
 		"subunit_name": "ਪੋਇਸ਼ਾ",
 		"subunit_name_plural": "ਪੋਇਸ਼ਾ"
 	},
@@ -84,32 +84,32 @@
 		"subunit_name_plural": "ਸਟੋਟਿੰਕੀ"
 	},
 	"BHD": {
-		"name": "ਬਹਿਰੀਨੀ ਦੀਨਾਰ",
-		"name_plural": "ਬਹਿਰੀਨੀ ਦੀਨਾਰ",
-		"subunit_name": "ਫ਼ਿਲਸ",
-		"subunit_name_plural": "ਫ਼ਿਲਸ"
+		"name": "ਬਹਿਰੀਨੀ ਦਿਨਾਰ",
+		"name_plural": "ਬਹਿਰੀਨੀ ਦਿਨਾਰ",
+		"subunit_name": "ਫਿਲਸ",
+		"subunit_name_plural": "ਫਿਲਸ"
 	},
 	"BIF": {
-		"name": "ਬੁਰੂੰਡੀਆਈ ਫਰੈਂਕ",
-		"name_plural": "ਬੁਰੂੰਡੀਆਈ ਫਰੈਂਕ",
+		"name": "ਬੁਰੁੰਡੀਅਨ ਫ੍ਰੈਂਕ",
+		"name_plural": "ਬੁਰੁੰਡੀਅਨ ਫ੍ਰੈਂਕ",
 		"subunit_name": "ਸੈਂਟੀਮ",
 		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
 	"BMD": {
-		"name": "ਬਰਮੂਡੀਆਈ ਡਾਲਰ",
-		"name_plural": "ਬਰਮੂਡੀਆਈ ਡਾਲਰ",
+		"name": "ਬਰਮੂਡਾ ਡਾਲਰ",
+		"name_plural": "ਬਰਮੂਡਾ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"BND": {
-		"name": "ਬਰੂਨੀ ਡਾਲਰ",
-		"name_plural": "ਬਰੂਨੀ ਡਾਲਰ",
+		"name": "ਬਰੂਨੇਈ ਡਾਲਰ",
+		"name_plural": "ਬਰੂਨੇਈ ਡਾਲਰ",
 		"subunit_name": "ਸੇਨ",
 		"subunit_name_plural": "ਸੇਨ"
 	},
 	"BOB": {
-		"name": "ਬੋਲੀਵੀਆਈ ਬੋਲੀਵੀਆਨੋ",
-		"name_plural": "ਬੋਲੀਵੀਆਈ ਬੋਲੀਵੀਆਨੋ",
+		"name": "ਬੋਲੀਵੀਅਨ ਬੋਲੀਵੀਆਨੋ",
+		"name_plural": "ਬੋਲੀਵੀਅਨ ਬੋਲੀਵੀਆਨੋ",
 		"subunit_name": "ਸੈਂਟਾਵੋ",
 		"subunit_name_plural": "ਸੈਂਟਾਵੋ"
 	},
@@ -120,20 +120,20 @@
 		"subunit_name_plural": "ਸੈਂਟਾਵੋ"
 	},
 	"BSD": {
-		"name": "ਬਹਾਮੀਆਈ ਡਾਲਰ",
-		"name_plural": "ਬਹਾਮੀਆਈ ਡਾਲਰ",
+		"name": "ਬਹਾਮੀਅਨ ਡਾਲਰ",
+		"name_plural": "ਬਹਾਮੀਅਨ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"BTN": {
-		"name": "ਭੂਟਾਨੀ ਨਗੁਲਤਰਮ",
-		"name_plural": "ਭੂਟਾਨੀ ਨਗੁਲਤਰਮ",
-		"subunit_name": "ਚੇਤਰਮ",
-		"subunit_name_plural": "ਚੇਤਰਮ"
+		"name": "ਭੂਟਾਨੀ ਐਂਗੁਲਟਰਮ",
+		"name_plural": "ਭੂਟਾਨੀ ਐਂਗੁਲਟਰਮ",
+		"subunit_name": "ਚੇਤਰੁਮ",
+		"subunit_name_plural": "ਚੇਤਰੁਮ"
 	},
 	"BWP": {
-		"name": "ਬੋਤਸਵਾਨੀ ਪੁਲਾ",
-		"name_plural": "ਬੋਤਸਵਾਨੀ ਪੁਲਾ",
+		"name": "ਬੋਟਸਵਾਨਾ ਪੁਲਾ",
+		"name_plural": "ਬੋਟਸਵਾਨਾ ਪੁਲਾ",
 		"subunit_name": "ਥੇਬੇ",
 		"subunit_name_plural": "ਥੇਬੇ"
 	},
@@ -150,32 +150,32 @@
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"CAD": {
-		"name": "ਕੈਨੇਡੀਆਈ ਡਾਲਰ",
-		"name_plural": "ਕੈਨੇਡੀਆਈ ਡਾਲਰ",
+		"name": "ਕੈਨੇਡੀਅਨ ਡਾਲਰ",
+		"name_plural": "ਕੈਨੇਡੀਅਨ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"CDF": {
-		"name": "ਕੌਂਗੋਲੀਜ਼ ਫਰੈਂਕ",
-		"name_plural": "ਕੌਂਗੋਲੀਜ਼ ਫਰੈਂਕ",
-		"subunit_name": "ਸੈਂਟੀਮ",
+		"name": "ਕਾਂਗੋਲੀਜ਼ ਫ੍ਰੈਂਕ",
+		"name_plural": "ਕਾਂਗੋਲੀਜ਼ ਫ੍ਰੈਂਕ",
+		"subunit_name": "ਸੈਂਟीਮ",
 		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
 	"CHF": {
-		"name": "ਸਵਿਸ ਫਰੈਂਕ",
-		"name_plural": "ਸਵਿਸ ਫਰੈਂਕ",
+		"name": "ਸਵਿਸ ਫ੍ਰੈਂਕ",
+		"name_plural": "ਸਵਿਸ ਫ੍ਰੈਂਕ",
 		"subunit_name": "ਰੈਪਨ",
 		"subunit_name_plural": "ਰੈਪਨ"
 	},
 	"CLP": {
-		"name": "ਚਿਲੀਆਈ ਪੈਸੋ",
-		"name_plural": "ਚਿਲੀਆਈ ਪੈਸੋ",
+		"name": "ਚਿਲੀ ਪੈਸੋ",
+		"name_plural": "ਚਿਲੀ ਪੈਸੋ",
 		"subunit_name": "ਸੈਂਟਾਵੋ",
 		"subunit_name_plural": "ਸੈਂਟਾਵੋ"
 	},
 	"CNY": {
-		"name": "ਚੀਨੀ ਯੂਆਨ",
-		"name_plural": "ਚੀਨੀ ਯੂਆਨ",
+		"name": "ਚੀਨੀ ਯੁਆਨ",
+		"name_plural": "ਚੀਨੀ ਯੁਆਨ",
 		"subunit_name": "ਫੇਨ",
 		"subunit_name_plural": "ਫੇਨ"
 	},
@@ -191,12 +191,6 @@
 		"subunit_name": "ਸੈਂਟੀਮੋ",
 		"subunit_name_plural": "ਸੈਂਟੀਮੋ"
 	},
-	"CUC": {
-		"name": "ਕਿਊਬਨ ਕਨਵਰਟੇਬਲ ਪੈਸੋ",
-		"name_plural": "ਕਿਊਬਨ ਕਨਵਰਟੇਬਲ ਪੈਸੋ",
-		"subunit_name": "ਸੈਂਟਾਵੋ",
-		"subunit_name_plural": "ਸੈਂਟਾਵੋ"
-	},
 	"CUP": {
 		"name": "ਕਿਊਬਨ ਪੈਸੋ",
 		"name_plural": "ਕਿਊਬਨ ਪੈਸੋ",
@@ -204,20 +198,20 @@
 		"subunit_name_plural": "ਸੈਂਟਾਵੋ"
 	},
 	"CVE": {
-		"name": "ਕੇਪ ਵਰਦੀਆਈ ਐਸਕੂਡੋ",
-		"name_plural": "ਕੇਪ ਵਰਦੀਆਈ ਐਸਕੂਡੋ",
+		"name": "ਕੇਪ ਵਰਡੀਅਨ ਐਸਕੂਡੋ",
+		"name_plural": "ਕੇਪ ਵਰਡੀਅਨ ਐਸਕੂਡੋ",
 		"subunit_name": "ਸੈਂਟਾਵੋ",
 		"subunit_name_plural": "ਸੈਂਟਾਵੋ"
 	},
 	"CZK": {
-		"name": "ਚੈੱਕ ਕੋਰੂਨਾ",
-		"name_plural": "ਚੈੱਕ ਕੋਰੂਨਾ",
-		"subunit_name": "ਹਲੇਰ",
-		"subunit_name_plural": "ਹਲੇਰ"
+		"name": "ਚੈਕ ਕੋਰੁਨਾ",
+		"name_plural": "ਚੈਕ ਕੋਰੁਨਾ",
+		"subunit_name": "ਹੈਲਰ",
+		"subunit_name_plural": "ਹੈਲਰ"
 	},
 	"DJF": {
-		"name": "ਜੀਬੂਤੀਆਈ ਫਰੈਂਕ",
-		"name_plural": "ਜੀਬੂਤੀਆਈ ਫਰੈਂਕ",
+		"name": "ਜੀਬੂਤੀਅਨ ਫ੍ਰੈਂਕ",
+		"name_plural": "ਜੀਬੂਤੀਅਨ ਫ੍ਰੈਂਕ",
 		"subunit_name": "ਸੈਂਟੀਮ",
 		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
@@ -228,34 +222,34 @@
 		"subunit_name_plural": "ਓਰੇ"
 	},
 	"DOP": {
-		"name": "ਡੋਮੀਨੀਕਨ ਪੈਸੋ",
-		"name_plural": "ਡੋਮੀਨੀਕਨ ਪੈਸੋ",
+		"name": "ਡੋਮਿਨਿਕਨ ਪੈਸੋ",
+		"name_plural": "ਡੋਮਿਨਿਕਨ ਪੈਸੋ",
 		"subunit_name": "ਸੈਂਟਾਵੋ",
 		"subunit_name_plural": "ਸੈਂਟਾਵੋ"
 	},
 	"DZD": {
-		"name": "ਅਲਜੀਰੀਆਈ ਦੀਨਾਰ",
-		"name_plural": "ਅਲਜੀਰੀਆਈ ਦੀਨਾਰ",
+		"name": "ਅਲਜੀਰੀਅਨ ਦਿਨਾਰ",
+		"name_plural": "ਅਲਜੀਰੀਅਨ ਦਿਨਾਰ",
 		"subunit_name": "ਸੈਂਟੀਮ",
 		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
 	"EGP": {
-		"name": "ਮਿਸਰੀ ਪਾਊਂਡ",
-		"name_plural": "ਮਿਸਰੀ ਪਾਊਂਡ",
+		"name": "ਮਿਸਰੀ ਪੌਂਡ",
+		"name_plural": "ਮਿਸਰੀ ਪੌਂਡ",
 		"subunit_name": "ਪਿਆਸਟਰ",
 		"subunit_name_plural": "ਪਿਆਸਟਰ"
 	},
 	"ERN": {
-		"name": "ਇਰੀਟਰੀਆਈ ਨਕਫ਼ਾ",
-		"name_plural": "ਇਰੀਟਰੀਆਈ ਨਕਫ਼ਾ",
+		"name": "ਇਰੀਟ੍ਰਿਆਈ ਨਕਫਾ",
+		"name_plural": "ਇਰੀਟ੍ਰਿਆਈ ਨਕਫਾ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"ETB": {
 		"name": "ਇਥੋਪੀਆਈ ਬਿਰ",
 		"name_plural": "ਇਥੋਪੀਆਈ ਬਿਰ",
-		"subunit_name": "ਸੈਂਟਿਮ",
-		"subunit_name_plural": "ਸੈਂਟਿਮ"
+		"subunit_name": "ਸੈਂਟੀਮ",
+		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
 	"EUR": {
 		"name": "ਯੂਰੋ",
@@ -264,62 +258,62 @@
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"FJD": {
-		"name": "ਫਿਜੀਆਈ ਡਾਲਰ",
-		"name_plural": "ਫਿਜੀਆਈ ਡਾਲਰ",
+		"name": "ਫਿਜੀਅਨ ਡਾਲਰ",
+		"name_plural": "ਫਿਜੀਅਨ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"FKP": {
-		"name": "ਫਾਕਲੈਂਡ ਟਾਪੂ ਪਾਊਂਡ",
-		"name_plural": "ਫਾਕਲੈਂਡ ਟਾਪੂ ਪਾਊਂਡ",
+		"name": "ਫਾਕਲੈਂਡ ਆਈਲੈਂਡਸ ਪੌਂਡ",
+		"name_plural": "ਫਾਕਲੈਂਡ ਆਈਲੈਂਡਸ ਪੌਂਡ",
 		"subunit_name": "ਪੈਨੀ",
 		"subunit_name_plural": "ਪੈਨੀ"
 	},
 	"GBP": {
-		"name": "ਬ੍ਰਿਟਿਸ਼ ਪਾਊਂਡ",
-		"name_plural": "ਬ੍ਰਿਟਿਸ਼ ਪਾਊਂਡ",
+		"name": "ਬ੍ਰਿਟਿਸ਼ ਪੌਂਡ",
+		"name_plural": "ਬ੍ਰਿਟਿਸ਼ ਪੌਂਡ",
 		"subunit_name": "ਪੈਨੀ",
 		"subunit_name_plural": "ਪੈਨੀ"
 	},
 	"GEL": {
 		"name": "ਜਾਰਜੀਆਈ ਲਾਰੀ",
 		"name_plural": "ਜਾਰਜੀਆਈ ਲਾਰੀ",
-		"subunit_name": "ਤੇਤਰੀ",
-		"subunit_name_plural": "ਤੇਤਰੀ"
+		"subunit_name": "ਟੇਟਰੀ",
+		"subunit_name_plural": "ਟੇਟਰੀ"
 	},
 	"GHS": {
-		"name": "ਘਾਨੀਆਈ ਸੇਡੀ",
-		"name_plural": "ਘਾਨੀਆਈ ਸੇਡੀ",
+		"name": "ਘਾਨਾਈ ਸੇਡੀ",
+		"name_plural": "ਘਾਨਾਈ ਸੇਡੀ",
 		"subunit_name": "ਪੇਸੇਵਾ",
 		"subunit_name_plural": "ਪੇਸੇਵਾ"
 	},
 	"GIP": {
-		"name": "ਜਿਬਰਾਲਟਰ ਪਾਊਂਡ",
-		"name_plural": "ਜਿਬਰਾਲਟਰ ਪਾਊਂਡ",
+		"name": "ਜਿਬਰਾਲਟਰ ਪੌਂਡ",
+		"name_plural": "ਜਿਬਰਾਲਟਰ ਪੌਂਡ",
 		"subunit_name": "ਪੈਨੀ",
 		"subunit_name_plural": "ਪੈਨी"
 	},
 	"GMD": {
-		"name": "ਗੰਬੀਆਈ ਡਲਾਸੀ",
-		"name_plural": "ਗੰਬੀਆਈ ਡਲਾਸੀ",
+		"name": "ਗੈਂਬੀਆਈ ਦਲਾਸੀ",
+		"name_plural": "ਗੈਂਬੀਆਈ ਦਲਾਸੀ",
 		"subunit_name": "ਬੁਟੁਟ",
 		"subunit_name_plural": "ਬੁਟੁਟ"
 	},
 	"GNF": {
-		"name": "ਗਿਨੀਆਈ ਫਰੈਂਕ",
-		"name_plural": "ਗਿਨੀਆਈ ਫਰੈਂਕ",
+		"name": "ਗਿਨੀਅਨ ਫ੍ਰੈਂਕ",
+		"name_plural": "ਗਿਨੀਅਨ ਫ੍ਰੈਂਕ",
 		"subunit_name": "ਸੈਂਟੀਮ",
 		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
 	"GTQ": {
-		"name": "ਗੁਆਟੇਮਾਲਨ ਕੁਏਟਜ਼ਲ",
-		"name_plural": "ਗੁਆਟੇਮਾਲਨ ਕੁਏਟਜ਼ਲ",
+		"name": "ਗੁਆਟੇਮਾਲਾ ਕੁਏਟਜ਼ਲ",
+		"name_plural": "ਗੁਆਟੇਮਾਲਾ ਕੁਏਟਜ਼ਲ",
 		"subunit_name": "ਸੈਂਟਾਵੋ",
 		"subunit_name_plural": "ਸੈਂਟਾਵੋ"
 	},
 	"GYD": {
-		"name": "ਗੁਆਇਆਨੀਜ਼ ਡਾਲਰ",
-		"name_plural": "ਗੁਆਇਆਨੀਜ਼ ਡਾਲਰ",
+		"name": "ਗੁਆਨਾਈ ਡਾਲਰ",
+		"name_plural": "ਗੁਆਨਾਈ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
@@ -330,82 +324,76 @@
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"HNL": {
-		"name": "ਹੌਂਡੂਰਨ ਲੈਮਪੀਰਾ",
-		"name_plural": "ਹੌਂਡੂਰਨ ਲੈਮਪੀਰਾ",
+		"name": "ਹੋਂਡੁਰਨ ਲੇਮਪਿਰਾ",
+		"name_plural": "ਹੋਂਡੁਰਨ ਲੇਮਪਿਰਾ",
 		"subunit_name": "ਸੈਂਟਾਵੋ",
 		"subunit_name_plural": "ਸੈਂਟਾਵੋ"
 	},
-	"HRK": {
-		"name": "ਕਰੋਏਸ਼ੀਆਈ ਕੁਨਾ",
-		"name_plural": "ਕਰੋਏਸ਼ੀਆਈ ਕੁਨਾ",
-		"subunit_name": "ਲੀਪਾ",
-		"subunit_name_plural": "ਲੀਪਾ"
-	},
 	"HTG": {
-		"name": "ਹੈਤੀਆਈ ਗੌਰਡ",
-		"name_plural": "ਹੈਤੀਆਈ ਗੌਰਡ",
+		"name": "ਹੈਤੀਅਨ ਗੌਰਡ",
+		"name_plural": "ਹੈਤੀਅਨ ਗੌਰਡ",
 		"subunit_name": "ਸੈਂਟੀਮ",
-		"subunit_name_plural": "ਸੈਂਟीਮ"
+		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
 	"HUF": {
-		"name": "ਹੰਗੇਰੀਆਈ ਫ਼ੋਰਿੰਟ",
-		"name_plural": "ਹੰਗੇਰੀਆਈ ਫ਼ੋਰਿੰਟ",
+		"name": "ਹੰਗੇਰੀਅਨ ਫੋਰਿੰਟ",
+		"name_plural": "ਹੰਗੇਰੀਅਨ ਫੋਰਿੰਟ",
 		"subunit_name": "ਫਿਲਰ",
 		"subunit_name_plural": "ਫਿਲਰ"
 	},
 	"IDR": {
-		"name": "ਇੰਡੋਨੇਸ਼ੀਆਈ ਰੁਪਈਆ",
-		"name_plural": "ਇੰਡੋਨੇਸ਼ੀਆਈ ਰੁਪਈਆ",
+		"name": "ਇੰਡੋਨੇਸ਼ੀਆਈ ਰੁਪਿਆਹ",
+		"name_plural": "ਇੰਡੋਨੇਸ਼ੀਆਈ ਰੁਪਿਆਹ",
 		"subunit_name": "ਸੇਨ",
 		"subunit_name_plural": "ਸੇਨ"
 	},
 	"ILS": {
-		"name": "ਇਜ਼ਰਾਈਲੀ ਨਿਊ ਸ਼ੇਕਲ",
-		"name_plural": "ਇਜ਼ਰਾਈਲੀ ਨਿਊ ਸ਼ੇਕਲ",
+		"name": "ਇਜ਼ਰਾਈਲੀ ਨਵਾਂ ਸ਼ੇਕਲ",
+		"name_plural": "ਇਜ਼ਰਾਈਲੀ ਨਵੇਂ ਸ਼ੇਕਲ",
 		"subunit_name": "ਅਗੋਰਾ",
-		"subunit_name_plural": "ਅਗੋਰਾ"
+		"subunit_name_plural": "ਅਗੋਰੋਟ"
 	},
 	"INR": {
 		"name": "ਭਾਰਤੀ ਰੁਪਈਆ",
-		"name_plural": "ਭਾਰਤੀ ਰੁਪਈਆ",
+		"name_plural": "ਭਾਰਤੀ ਰੁਪਏ",
 		"subunit_name": "ਪੈਸਾ",
 		"subunit_name_plural": "ਪੈਸੇ"
 	},
 	"IQD": {
-		"name": "ਇਰਾਕੀ ਦੀਨਾਰ",
-		"name_plural": "ਇਰਾਕੀ ਦੀਨਾਰ",
-		"subunit_name": "ਫ਼ਿਲਸ",
-		"subunit_name_plural": "ਫ਼ਿਲਸ"
+		"name": "ਇਰਾਕੀ ਦਿਨਾਰ",
+		"name_plural": "ਇਰਾਕੀ ਦਿਨਾਰ",
+		"subunit_name": "ਫਿਲਸ",
+		"subunit_name_plural": "ਫਿਲਸ"
 	},
 	"IRR": {
 		"name": "ਈਰਾਨੀ ਰਿਆਲ",
 		"name_plural": "ਈਰਾਨੀ ਰਿਆਲ",
-		"subunit_name": "ਦੀਨਾਰ",
-		"subunit_name_plural": "ਦੀਨਾਰ"
+		"subunit_name": "ਦਿਨਾਰ",
+		"subunit_name_plural": "ਦਿਨਾਰ"
 	},
 	"ISK": {
 		"name": "ਆਈਸਲੈਂਡਿਕ ਕਰੋਨਾ",
 		"name_plural": "ਆਈਸਲੈਂਡਿਕ ਕਰੋਨਾ",
-		"subunit_name": "ਏਅਰ",
-		"subunit_name_plural": "ਏਅਰ"
+		"subunit_name": "ਏਯਰਰ",
+		"subunit_name_plural": "ਏਯਰਰ"
 	},
 	"JMD": {
-		"name": "ਜਮਾਈਕਨ ਡਾਲਰ",
-		"name_plural": "ਜਮਾਈਕਨ ਡਾਲਰ",
+		"name": "ਜਮਾਇਕਨ ਡਾਲਰ",
+		"name_plural": "ਜਮਾਇਕਨ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"JOD": {
-		"name": "ਜਾਰਡਨੀ ਦੀਨਾਰ",
-		"name_plural": "ਜਾਰਡਨੀ ਦੀਨਾਰ",
-		"subunit_name": "ਫ਼ਿਲਸ",
-		"subunit_name_plural": "ਫ਼ਿਲਸ"
+		"name": "ਜਾਰਡਨੀਅਨ ਦਿਨਾਰ",
+		"name_plural": "ਜਾਰਡਨੀਅਨ ਦਿਨਾਰ",
+		"subunit_name": "ਫਿਲਸ",
+		"subunit_name_plural": "ਫਿਲਸ"
 	},
 	"JPY": {
 		"name": "ਜਾਪਾਨੀ ਯੇਨ",
 		"name_plural": "ਜਾਪਾਨੀ ਯੇਨ",
 		"subunit_name": "ਸੇਨ",
-		"subunit_name_plural": "ਸੇन"
+		"subunit_name_plural": "ਸੇਨ"
 	},
 	"KES": {
 		"name": "ਕੀਨੀਆਈ ਸ਼ਿਲਿੰਗ",
@@ -414,10 +402,10 @@
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"KGS": {
-		"name": "ਕਿਰਗਿਜ਼ ਸੋਮ",
-		"name_plural": "ਕਿਰਗਿਜ਼ ਸੋਮ",
-		"subunit_name": "ਤਿਯਨ",
-		"subunit_name_plural": "ਤਿਯਨ"
+		"name": "ਕਿਰਗਿਜ਼ਸਤਾਨੀ ਸੋਮ",
+		"name_plural": "ਕਿਰਗਿਜ਼ਸਤਾਨੀ ਸੋਮ",
+		"subunit_name": "ਤਿਯਿਨ",
+		"subunit_name_plural": "ਤਿਯਿਨ"
 	},
 	"KHR": {
 		"name": "ਕੰਬੋਡੀਆਈ ਰੀਅਲ",
@@ -426,98 +414,98 @@
 		"subunit_name_plural": "ਸੇਨ"
 	},
 	"KMF": {
-		"name": "ਕੋਮੋਰੀਆਈ ਫਰੈਂਕ",
-		"name_plural": "ਕੋਮੋਰੀਆਈ ਫਰੈਂਕ",
+		"name": "ਕੋਮੋਰੀਅਨ ਫ੍ਰੈਂਕ",
+		"name_plural": "ਕੋਮੋਰੀਅਨ ਫ੍ਰੈਂਕ",
 		"subunit_name": "ਸੈਂਟीਮ",
 		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
 	"KPW": {
-		"name": "ਉੱਤਰੀ ਕੋਰੀਆਈ ਵੌਨ",
-		"name_plural": "ਉੱਤਰੀ ਕੋਰੀਆਈ ਵੌਨ",
+		"name": "ਉੱਤਰੀ ਕੋਰੀਆਈ ਵੋਨ",
+		"name_plural": "ਉੱਤਰੀ ਕੋਰੀਆਈ ਵੋਨ",
 		"subunit_name": "ਚੋਨ",
 		"subunit_name_plural": "ਚੋਨ"
 	},
 	"KRW": {
-		"name": "ਦੱਖਣੀ ਕੋਰੀਆਈ ਵੌਨ",
-		"name_plural": "ਦੱਖਣੀ ਕੋਰੀਆਈ ਵੌਨ",
-		"subunit_name": "ਜੋਨ",
-		"subunit_name_plural": "ਜੋਨ"
+		"name": "ਦੱਖਣੀ ਕੋਰੀਆਈ ਵੋਨ",
+		"name_plural": "ਦੱਖਣੀ ਕੋਰੀਆਈ ਵੋਨ",
+		"subunit_name": "ਜਿਓਨ",
+		"subunit_name_plural": "ਜਿਓਨ"
 	},
 	"KWD": {
-		"name": "ਕੁਵੈਤੀ ਦੀਨਾਰ",
-		"name_plural": "ਕੁਵੈਤੀ ਦੀਨਾਰ",
-		"subunit_name": "ਫ਼ਿਲਸ",
-		"subunit_name_plural": "ਫ਼ਿਲਸ"
+		"name": "ਕੁਵੈਤੀ ਦਿਨਾਰ",
+		"name_plural": "ਕੁਵੈਤੀ ਦਿਨਾਰ",
+		"subunit_name": "ਫਿਲਸ",
+		"subunit_name_plural": "ਫਿਲਸ"
 	},
 	"KYD": {
-		"name": "ਕੇਮੈਨ ਟਾਪੂ ਡਾਲਰ",
-		"name_plural": "ਕੇਮੈਨ ਟਾਪੂ ਡਾਲਰ",
+		"name": "ਕੇਮੈਨ ਆਈਲੈਂਡਸ ਡਾਲਰ",
+		"name_plural": "ਕੇਮੈਨ ਆਈਲੈਂਡਸ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"KZT": {
 		"name": "ਕਜ਼ਾਖਸਤਾਨੀ ਤੇਂਗੇ",
 		"name_plural": "ਕਜ਼ਾਖਸਤਾਨੀ ਤੇਂਗੇ",
-		"subunit_name": "ਤਿਯਨ",
-		"subunit_name_plural": "ਤਿਯਨ"
+		"subunit_name": "ਤਿਯਿਨ",
+		"subunit_name_plural": "ਤਿਯਿਨ"
 	},
 	"LAK": {
-		"name": "ਲਾਓਸੀ ਕਿਪ",
-		"name_plural": "ਲਾਓਸੀ ਕਿਪ",
-		"subunit_name": "ਐਟ",
-		"subunit_name_plural": "ਐਟ"
+		"name": "ਲਾਓਟੀਅਨ ਕਿਪ",
+		"name_plural": "ਲਾਓਟੀਅਨ ਕਿਪ",
+		"subunit_name": "ਅੱਟ",
+		"subunit_name_plural": "ਅੱਟ"
 	},
 	"LBP": {
-		"name": "ਲੈਬਨਾਨੀ ਪਾਊਂਡ",
-		"name_plural": "ਲੈਬਨਾਨੀ ਪਾਊਂਡ",
+		"name": "ਲੈਬਨਾਨੀ ਪੌਂਡ",
+		"name_plural": "ਲੈਬਨਾਨੀ ਪੌਂਡ",
 		"subunit_name": "ਪਿਆਸਟਰ",
 		"subunit_name_plural": "ਪਿਆਸਟਰ"
 	},
 	"LKR": {
-		"name": "ਸ੍ਰੀ ਲੰਕਨ ਰੁਪਈਆ",
-		"name_plural": "ਸ੍ਰੀ ਲੰਕਨ ਰੁਪਈਆ",
+		"name": "ਸ੍ਰੀਲੰਕਾਈ ਰੁਪਈਆ",
+		"name_plural": "ਸ੍ਰੀਲੰਕਾਈ ਰੁਪਏ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"LRD": {
-		"name": "ਲਾਈਬੇਰੀਆਈ ਡਾਲਰ",
-		"name_plural": "ਲਾਈਬੇਰੀਆਈ ਡਾਲਰ",
+		"name": "ਲਾਈਬੀਰੀਆਈ ਡਾਲਰ",
+		"name_plural": "ਲਾਈਬੀਰੀਆਈ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"LSL": {
 		"name": "ਲੇਸੋਥੋ ਲੋਟੀ",
 		"name_plural": "ਲੇਸੋਥੋ ਲੋਟੀ",
-		"subunit_name": "ਸੈਂਟੇ",
-		"subunit_name_plural": "ਸੈਂਟੇ"
+		"subunit_name": "ਸੇਂਟੇ",
+		"subunit_name_plural": "ਲਿਸੇਂਟੇ"
 	},
 	"LYD": {
-		"name": "ਲੀਬੀਆਈ ਦੀਨਾਰ",
-		"name_plural": "ਲੀਬੀਆਈ ਦੀਨਾਰ",
-		"subunit_name": "ਦਿਰਹਮ",
-		"subunit_name_plural": "ਦਿਰਹਮ"
+		"name": "ਲੀਬੀਆਈ ਦਿਨਾਰ",
+		"name_plural": "ਲੀਬੀਆਈ ਦਿਨਾਰ",
+		"subunit_name": "ਦਿਰਹਾਮ",
+		"subunit_name_plural": "ਦਿਰਹਾਮ"
 	},
 	"MAD": {
-		"name": "ਮੋਰੋਕਨ ਦਿਰहਮ",
-		"name_plural": "ਮੋਰੋਕਨ ਦਿਰਹਮ",
+		"name": "ਮੋਰੱਕਨ ਦਿਰਹਾਮ",
+		"name_plural": "ਮੋਰੱਕਨ ਦਿਰਹਾਮ",
 		"subunit_name": "ਸੈਂਟੀਮ",
-		"subunit_name_plural": "ਸੈਂਟीਮ"
+		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
 	"MDL": {
-		"name": "ਮੋਲਦੋਵਨ ਲੇਊ",
-		"name_plural": "ਮੋਲਦੋਵਨ ਲੇਊ",
+		"name": "ਮੋਲਡੋਵਨ ਲੇਉ",
+		"name_plural": "ਮੋਲਡੋਵਨ ਲੇਉ",
 		"subunit_name": "ਬਾਨ",
 		"subunit_name_plural": "ਬਾਨ"
 	},
 	"MGA": {
-		"name": "ਮਾਡਾਗਾਸਕਰੀ ਅਰੀਆਰੀ",
-		"name_plural": "ਮਾਡਾਗਾਸਕਰੀ ਅਰੀਆਰੀ",
-		"subunit_name": "ਇਰੇਮਬਿਲਾਂਜਾ",
-		"subunit_name_plural": "ਇਰੇਮਬਿਲਾਂਜਾ"
+		"name": "ਮਾਲਾਗੈਸੀ ਅਰੀਆਰੀ",
+		"name_plural": "ਮਾਲਾਗੈਸੀ ਅਰੀਆਰੀ",
+		"subunit_name": "ਇਰੈਮਬਿਲਾਂਜਾ",
+		"subunit_name_plural": "ਇਰੈਮਬਿਲਾਂਜਾ"
 	},
 	"MKD": {
-		"name": "ਮੈਸੀਡੋਨੀਆਈ ਦੇਨਾਰ",
-		"name_plural": "ਮੈਸੀਡੋਨੀਆਈ ਦੇਨਾਰ",
+		"name": "ਮੈਸੀਡੋਨੀਅਨ ਦਿਨਾਰ",
+		"name_plural": "ਮੈਸੀਡੋਨੀਅਨ ਦਿਨਾਰ",
 		"subunit_name": "ਦੇਨੀ",
 		"subunit_name_plural": "ਦੇਨੀ"
 	},
@@ -528,32 +516,32 @@
 		"subunit_name_plural": "ਪਿਆ"
 	},
 	"MNT": {
-		"name": "ਮੰਗੋਲੀਆਈ ਤੁਗਰਿਕ",
-		"name_plural": "ਮੰਗੋਲੀਆਈ ਤੁਗਰਿਕ",
+		"name": "ਮੰਗੋਲੀਅਨ ਤੁਗਰਿਕ",
+		"name_plural": "ਮੰਗੋਲੀਅਨ ਤੁਗਰਿਕ",
 		"subunit_name": "ਮੋਂਗੋ",
 		"subunit_name_plural": "ਮੋਂਗੋ"
 	},
 	"MOP": {
-		"name": "ਮਕਾਉ ਪਾਤਾਕਾ",
-		"name_plural": "ਮਕਾਉ ਪਾਤਾਕਾ",
-		"subunit_name": "ਆਵੋ",
-		"subunit_name_plural": "ਆਵੋ"
+		"name": "ਮਕਾਓਈ ਪਟਾਕਾ",
+		"name_plural": "ਮਕਾਓਈ ਪਟਾਕਾ",
+		"subunit_name": "ਐਵੋ",
+		"subunit_name_plural": "ਐਵੋ"
 	},
 	"MRU": {
-		"name": "ਮੌਰੀਤਾਨੀਆਈ ਓਗੁਈਆ",
-		"name_plural": "ਮੌਰੀਤਾਨੀਆਈ ਓਗੁਈਆ",
+		"name": "ਮੌਰੀਟਾਨੀਆਈ ਔਗੁਇਆ",
+		"name_plural": "ਮੌਰੀਟਾਨੀਆਈ ਔਗੁਇਆ",
 		"subunit_name": "ਖੌਮਸ",
 		"subunit_name_plural": "ਖੌਮਸ"
 	},
 	"MUR": {
-		"name": "ਮਾਰੀਸ਼ੀਆਈ ਰੁਪਈਆ",
-		"name_plural": "ਮਾਰੀਸ਼ੀਆਈ ਰੁਪਈਆ",
+		"name": "ਮੌਰਿਸ਼ੀਆਈ ਰੁਪਈਆ",
+		"name_plural": "ਮੌਰਿਸ਼ੀਆਈ ਰੁਪਏ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"MVR": {
-		"name": "ਮਾਲਦੀਵੀਆਈ ਰੁਫ਼ੀਆ",
-		"name_plural": "ਮਾਲਦੀਵੀਆਈ ਰੁਫ਼ੀਆ",
+		"name": "ਮਾਲਦੀਵੀ ਰੁਫੀਆ",
+		"name_plural": "ਮਾਲਦੀਵੀ ਰੁਫੀਆ",
 		"subunit_name": "ਲਾਰੀ",
 		"subunit_name_plural": "ਲਾਰੀ"
 	},
@@ -576,14 +564,14 @@
 		"subunit_name_plural": "ਸੇਨ"
 	},
 	"MZN": {
-		"name": "ਮੋਜ਼ਾਮਬੀਕ ਮੇਟੀਕਲ",
-		"name_plural": "ਮੋਜ਼ਾਮਬੀਕ ਮੇਟੀਕਲ",
+		"name": "ਮੋਜ਼ਾਮਬੀਕਨ ਮੈਟੀਕਲ",
+		"name_plural": "ਮੋਜ਼ਾਮਬੀਕਨ ਮੈਟੀਕਲ",
 		"subunit_name": "ਸੈਂਟਾਵੋ",
 		"subunit_name_plural": "ਸੈਂਟਾਵੋ"
 	},
 	"NAD": {
 		"name": "ਨਾਮੀਬੀਆਈ ਡਾਲਰ",
-		"name_plural": "ਨਾਮੀਆਈ ਡਾਲਰ",
+		"name_plural": "ਨਾਮੀਬੀਆਈ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
@@ -594,20 +582,20 @@
 		"subunit_name_plural": "ਕੋਬੋ"
 	},
 	"NIO": {
-		"name": "ਨਿਕਾਰਾਗੂਆਨ ਕੋਰਡੋਬਾ",
-		"name_plural": "ਨਿਕਾਰਾਗੂਆਨ ਕੋਰਡੋਬਾ",
+		"name": "ਨਿਕਾਰਾਗੁਆਈ ਕੋਰਡੋਬਾ",
+		"name_plural": "ਨਿਕਾਰਾਗੁਆਈ ਕੋਰਡੋਬਾ",
 		"subunit_name": "ਸੈਂਟਾਵੋ",
 		"subunit_name_plural": "ਸੈਂਟਾਵੋ"
 	},
 	"NOK": {
-		"name": "ਨਾਰਵੇਜੀਆਈ ਕਰੋਨ",
-		"name_plural": "ਨਾਰਵੇਜੀਆਈ ਕਰੋਨ",
+		"name": "ਨਾਰਵੇਜੀਅਨ ਕਰੋਨ",
+		"name_plural": "ਨਾਰਵੇਜੀਅਨ ਕਰੋਨ",
 		"subunit_name": "ਓਰੇ",
 		"subunit_name_plural": "ਓਰੇ"
 	},
 	"NPR": {
 		"name": "ਨੇਪਾਲੀ ਰੁਪਈਆ",
-		"name_plural": "ਨੇਪਾਲੀ ਰੁਪਈਆ",
+		"name_plural": "ਨੇਪਾਲੀ ਰੁਪਏ",
 		"subunit_name": "ਪੈਸਾ",
 		"subunit_name_plural": "ਪੈਸੇ"
 	},
@@ -624,22 +612,22 @@
 		"subunit_name_plural": "ਬੈਸਾ"
 	},
 	"PAB": {
-		"name": "ਪਨਾਮੀਆਈ ਬਾਲਬੋਆ",
-		"name_plural": "ਪਨਾਮੀਆਈ ਬਾਲਬੋਆ",
-		"subunit_name": "ਸੈਂਟੇਸੀਮੋ",
-		"subunit_name_plural": "ਸੈਂਟੇਸੀਮੋ"
+		"name": "ਪਨਾਮੇਨੀਅਨ ਬਲਬੋਆ",
+		"name_plural": "ਪਨਾਮੇਨੀਅਨ ਬਲਬੋਆ",
+		"subunit_name": "ਸੈਂਟੇਸਿਮੋ",
+		"subunit_name_plural": "ਸੈਂਟੇਸਿਮੋ"
 	},
 	"PEN": {
-		"name": "ਪੇਰੂਵੀਆਈ ਸੋਲ",
-		"name_plural": "ਪੇਰੂਵੀਆਈ ਸੋਲ",
+		"name": "ਪੇਰੂਵੀਅਨ ਸੋਲ",
+		"name_plural": "ਪੇਰੂਵੀਅਨ ਸੋਲ",
 		"subunit_name": "ਸੈਂਟੀਮੋ",
 		"subunit_name_plural": "ਸੈਂਟੀਮੋ"
 	},
 	"PGK": {
 		"name": "ਪਾਪੂਆ ਨਿਊ ਗਿਨੀਆਈ ਕੀਨਾ",
 		"name_plural": "ਪਾਪੂਆ ਨਿਊ ਗਿਨੀਆਈ ਕੀਨਾ",
-		"subunit_name": "ਟੋਇਆ",
-		"subunit_name_plural": "ਟੋਇਆ"
+		"subunit_name": "ਟੋਏਆ",
+		"subunit_name_plural": "ਟੋਏਆ"
 	},
 	"PHP": {
 		"name": "ਫਿਲੀਪੀਨੋ ਪੈਸੋ",
@@ -649,37 +637,37 @@
 	},
 	"PKR": {
 		"name": "ਪਾਕਿਸਤਾਨੀ ਰੁਪਈਆ",
-		"name_plural": "ਪਾਕਿਸਤਾਨੀ ਰੁਪਈਆ",
+		"name_plural": "ਪਾਕਿਸਤਾਨੀ ਰੁਪਏ",
 		"subunit_name": "ਪੈਸਾ",
 		"subunit_name_plural": "ਪੈਸੇ"
 	},
 	"PLN": {
-		"name": "ਪੋਲੈਂਡੀ ਜ਼ਲੋਟੀ",
-		"name_plural": "ਪੋਲੈਂਡੀ ਜ਼ਲੋਟੀ",
-		"subunit_name": "ਗਰੋਸ਼",
-		"subunit_name_plural": "ਗਰੋਸ਼"
+		"name": "ਪੋਲਿਸ਼ ਜ਼ਲੋਟੀ",
+		"name_plural": "ਪੋਲਿਸ਼ ਜ਼ਲੋਟੀ",
+		"subunit_name": "ਗ੍ਰੋਸਜ਼",
+		"subunit_name_plural": "ਗ੍ਰੋਸਜ਼"
 	},
 	"PYG": {
-		"name": "ਪੈਰਾਗੁਆਇਆਈ ਗੁਆਰਾਨੀ",
-		"name_plural": "ਪੈਰਾਗੁਆਇਆਈ ਗੁਆਰਾਨੀ",
+		"name": "ਪੈਰਾਗੁਏਅਨ ਗੁਆਰਾਨੀ",
+		"name_plural": "ਪੈਰਾਗੁਏਅਨ ਗੁਆਰਾਨੀ",
 		"subunit_name": "ਸੈਂਟੀਮੋ",
 		"subunit_name_plural": "ਸੈਂਟੀਮੋ"
 	},
 	"QAR": {
 		"name": "ਕਤਰੀ ਰਿਆਲ",
 		"name_plural": "ਕਤਰੀ ਰਿਆਲ",
-		"subunit_name": "ਦਿਰਹਮ",
-		"subunit_name_plural": "ਦਿਰਹਮ"
+		"subunit_name": "ਦਿਰਹਾਮ",
+		"subunit_name_plural": "ਦਿਰਹਾਮ"
 	},
 	"RON": {
-		"name": "ਰੋਮਾਨੀਆਈ ਲੇਊ",
-		"name_plural": "ਰੋਮਾਨੀਆਈ ਲੇਊ",
+		"name": "ਰੋਮਾਨੀਆਈ ਲੇਉ",
+		"name_plural": "ਰੋਮਾਨੀਆਈ ਲੇਉ",
 		"subunit_name": "ਬਾਨ",
 		"subunit_name_plural": "ਬਾਨ"
 	},
 	"RSD": {
-		"name": "ਸਰਬੀਆਈ ਦੀਨਾਰ",
-		"name_plural": "ਸਰਬੀਆਈ ਦੀਨਾਰ",
+		"name": "ਸਰਬੀਆਈ ਦਿਨਾਰ",
+		"name_plural": "ਸਰਬੀਆਈ ਦਿਨਾਰ",
 		"subunit_name": "ਪਾਰਾ",
 		"subunit_name_plural": "ਪਾਰਾ"
 	},
@@ -690,32 +678,32 @@
 		"subunit_name_plural": "ਕੋਪੇਕ"
 	},
 	"RWF": {
-		"name": "ਰਵਾਂਡਨ ਫਰੈਂਕ",
-		"name_plural": "ਰਵਾਂਡਨ ਫਰੈਂਕ",
+		"name": "ਰਵਾਂਡਨ ਫ੍ਰੈਂਕ",
+		"name_plural": "ਰਵਾਂਡਨ ਫ੍ਰੈਂਕ",
 		"subunit_name": "ਸੈਂਟੀਮ",
 		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
 	"SAR": {
 		"name": "ਸਾਊਦੀ ਰਿਆਲ",
 		"name_plural": "ਸਾਊਦੀ ਰਿਆਲ",
-		"subunit_name": "ਹਲਾਲਾ",
-		"subunit_name_plural": "ਹਲਾਲਾ"
+		"subunit_name": "ਹਲਲਾ",
+		"subunit_name_plural": "ਹਲਲਾ"
 	},
 	"SBD": {
-		"name": "ਸੋਲੋਮਨ ਟਾਪੂ ਡਾਲਰ",
-		"name_plural": "ਸੋਲੋਮਨ ਟਾਪੂ ਡਾਲਰ",
+		"name": "ਸੋਲੋਮਨ ਆਈਲੈਂਡਸ ਡਾਲਰ",
+		"name_plural": "ਸੋਲੋਮਨ ਆਈਲੈਂਡਸ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"SCR": {
-		"name": "ਸੇਸ਼ੇਲੋਇਸ ਰੁਪਈਆ",
-		"name_plural": "ਸੇਸ਼ੇਲੋਇਸ ਰੁਪਈਆ",
+		"name": "ਸੇਸ਼ੇਲੋਈ ਰੁਪਈਆ",
+		"name_plural": "ਸੇਸ਼ੇਲੋਈ ਰੁਪਏ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"SDG": {
-		"name": "ਸੂਡਾਨੀ ਪਾਊਂਡ",
-		"name_plural": "ਸੂਡਾਨੀ ਪਾਊਂਡ",
+		"name": "ਸੂਡਾਨੀ ਪੌਂਡ",
+		"name_plural": "ਸੂਡਾਨੀ ਪੌਂਡ",
 		"subunit_name": "ਪਿਆਸਟਰ",
 		"subunit_name_plural": "ਪਿਆਸਟਰ"
 	},
@@ -732,14 +720,14 @@
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"SHP": {
-		"name": "ਸੇਂਟ ਹੈਲੇਨਾ ਪਾਊਂਡ",
-		"name_plural": "ਸੇਂਟ ਹੈਲੇਨਾ ਪਾਊਂਡ",
+		"name": "ਸੇਂਟ ਹੇਲੇਨਾ ਪੌਂਡ",
+		"name_plural": "ਸੇਂਟ ਹੇਲੇਨਾ ਪੌਂਡ",
 		"subunit_name": "ਪੈਨੀ",
 		"subunit_name_plural": "ਪੈਨੀ"
 	},
-	"SLL": {
-		"name": "ਸੀਏਰਾ ਲੀਓਨੀ ਲਿਓਨ",
-		"name_plural": "ਸੀਏਰਾ ਲੀਓਨੀ ਲਿਓਨ",
+	"SLE": {
+		"name": "ਸਿਏਰਾ ਲਿਓਨੀਅਨ ਲਿਓਨ",
+		"name_plural": "ਸਿਏਰਾ ਲਿਓਨੀਅਨ ਲਿਓਨ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
@@ -750,46 +738,46 @@
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"SRD": {
-		"name": "ਸੂਰੀਨਾਮੀ ਡਾਲਰ",
-		"name_plural": "ਸੂਰੀਨਾਮੀ ਡਾਲਰ",
+		"name": "ਸੂਰੀਨਾਮੀਜ਼ ਡਾਲਰ",
+		"name_plural": "ਸੂਰੀਨਾਮੀਜ਼ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"SSP": {
-		"name": "ਦੱਖਣੀ ਸੂਡਾਨੀ ਪਾਊਂਡ",
-		"name_plural": "ਦੱਖਣੀ ਸੂਡਾਨੀ ਪਾਊਂਡ",
+		"name": "ਦੱਖਣੀ ਸੂਡਾਨੀ ਪੌਂਡ",
+		"name_plural": "ਦੱਖਣੀ ਸੂਡਾਨੀ ਪੌਂਡ",
 		"subunit_name": "ਪਿਆਸਟਰ",
 		"subunit_name_plural": "ਪਿਆਸਟਰ"
 	},
 	"STN": {
-		"name": "ਸਾਓ ਟੋਮੇ ਅਤੇ ਪ੍ਰਿੰਸੀਪੇ ਡੋਬਰਾ",
-		"name_plural": "ਸਾਓ ਟੋਮੇ ਅਤੇ ਪ੍ਰਿੰਸੀਪੇ ਡੋਬਰਾ",
+		"name": "ਸਾਓ ਟੋਮ ਅਤੇ ਪ੍ਰਿੰਸੀਪੀ ਡੋਬਰਾ",
+		"name_plural": "ਸਾਓ ਟੋਮ ਅਤੇ ਪ੍ਰਿੰਸੀਪੀ ਡੋਬਰਾ",
 		"subunit_name": "ਸੈਂਟੀਮੋ",
 		"subunit_name_plural": "ਸੈਂਟੀਮੋ"
 	},
 	"SYP": {
-		"name": "ਸੀਰੀਆਈ ਪਾਊਂਡ",
-		"name_plural": "ਸੀਰੀਆਈ ਪਾਊਂਡ",
+		"name": "ਸੀਰੀਆਈ ਪੌਂਡ",
+		"name_plural": "ਸੀਰੀਆਈ ਪੌਂਡ",
 		"subunit_name": "ਪਿਆਸਟਰ",
 		"subunit_name_plural": "ਪਿਆਸਟਰ"
 	},
 	"SZL": {
-		"name": "ਸਵਾਜ਼ੀ ਲਿਲੰਗੇਨੀ",
-		"name_plural": "ਸਵਾਜ਼ੀ ਲਿਲੰਗੇਨੀ",
+		"name": "ਸਵਾਜ਼ੀ ਲਿਲਾਂਗੇਨੀ",
+		"name_plural": "ਸਵਾਜ਼ੀ ਇਮਾਲਾਂਗੇਨੀ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"THB": {
 		"name": "ਥਾਈ ਬਾਹਤ",
 		"name_plural": "ਥਾਈ ਬਾਹਤ",
-		"subunit_name": "ਸੈਂਟਾਂਗ",
-		"subunit_name_plural": "ਸੈਂਟਾਂਗ"
+		"subunit_name": "ਸਾਤਾਂਗ",
+		"subunit_name_plural": "ਸਾਤਾਂਗ"
 	},
 	"TJS": {
-		"name": "ਤਜਾਕਿਸਤਾਨੀ ਸੋਮੋਨੀ",
-		"name_plural": "ਤਜਾਕਿਸਤਾਨੀ ਸੋਮੋਨੀ",
-		"subunit_name": "ਦਿਰਮ",
-		"subunit_name_plural": "ਦਿਰਮ"
+		"name": "ਤਾਜਿਕਿਸਤਾਨੀ ਸੋਮੋਨੀ",
+		"name_plural": "ਤਾਜਿਕਿਸਤਾਨੀ ਸੋਮੋਨੀ",
+		"subunit_name": "ਦਿਰਾਮ",
+		"subunit_name_plural": "ਦਿਰਾਮ"
 	},
 	"TMT": {
 		"name": "ਤੁਰਕਮੇਨਿਸਤਾਨੀ ਮਨਾਤ",
@@ -798,44 +786,44 @@
 		"subunit_name_plural": "ਤੇਂਗੇ"
 	},
 	"TND": {
-		"name": "ਤਿਊਨੀਸੀਆਈ ਦੀਨਾਰ",
-		"name_plural": "ਤਿਊਨੀਸੀਆਈ ਦੀਨਾਰ",
+		"name": "ਟਿਉਨੀਸ਼ੀਆਈ ਦਿਨਾਰ",
+		"name_plural": "ਟਿਉਨੀਸ਼ੀਆਈ ਦਿਨਾਰ",
 		"subunit_name": "ਮਿਲੀਮ",
 		"subunit_name_plural": "ਮਿਲੀਮ"
 	},
 	"TOP": {
-		"name": "ਟੋਂਗਨ ਪਾਅੰਗਾ",
-		"name_plural": "ਟੋਂਗਨ ਪਾਅੰਗਾ",
+		"name": "ਟੋਂਗਨ ਪਾ'ਆਂਗਾ",
+		"name_plural": "ਟੋਂਗਨ ਪਾ'ਆਂਗਾ",
 		"subunit_name": "ਸੇਨਿਟੀ",
 		"subunit_name_plural": "ਸੇਨਿਟੀ"
 	},
 	"TRY": {
 		"name": "ਤੁਰਕੀ ਲੀਰਾ",
 		"name_plural": "ਤੁਰਕੀ ਲੀਰਾ",
-		"subunit_name": "ਕੁਰੁਸ਼",
-		"subunit_name_plural": "ਕੁਰੁਸ਼"
+		"subunit_name": "ਕੁਰੁਸ",
+		"subunit_name_plural": "ਕੁਰੁਸ"
 	},
 	"TTD": {
-		"name": "ਤ੍ਰਿਨੀਦਾਦ ਅਤੇ ਟੋਬੈਗੋ ਡਾਲਰ",
-		"name_plural": "ਤ੍ਰਿਨੀਦਾਦ ਅਤੇ ਟੋਬੈਗੋ ਡਾਲਰ",
+		"name": "ਟ੍ਰਿਨੀਡਾਡ ਅਤੇ ਟੋਬਾਗੋ ਡਾਲਰ",
+		"name_plural": "ਟ੍ਰਿਨੀਡਾਡ ਅਤੇ ਟੋਬਾਗੋ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"TWD": {
 		"name": "ਨਵਾਂ ਤਾਈਵਾਨ ਡਾਲਰ",
-		"name_plural": "ਨਵਾਂ ਤਾਈਵਾਨ ਡਾਲਰ",
+		"name_plural": "ਨਵੇਂ ਤਾਈਵਾਨ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"TZS": {
-		"name": "ਤਾਂਜਾਨੀਆਈ ਸ਼ਿਲਿੰਗ",
-		"name_plural": "ਤਾਂਜਾਨੀਆਈ ਸ਼ਿਲਿੰਗ",
+		"name": "ਤਨਜ਼ਾਨੀਆਈ ਸ਼ਿਲਿੰਗ",
+		"name_plural": "ਤਨਜ਼ਾਨੀਆਈ ਸ਼ਿਲਿੰਗ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"UAH": {
-		"name": "ਯੂਕਰੇਨੀ ਹਰੀਵਨੀਆ",
-		"name_plural": "ਯੂਕਰੇਨੀ ਹਰੀਵਨੀਆ",
+		"name": "ਯੂਕਰੇਨੀਅਨ ਹਰੀਵਨੀਆ",
+		"name_plural": "ਯੂਕਰੇਨੀਅਨ ਹਰੀਵਨੀਆ",
 		"subunit_name": "ਕੋਪੇਕ",
 		"subunit_name_plural": "ਕੋਪੇਕ"
 	},
@@ -846,40 +834,40 @@
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"USD": {
-		"name": "ਯੂਐਸ ਡਾਲਰ",
-		"name_plural": "ਯੂਐਸ ਡਾਲਰ",
+		"name": "ਅਮਰੀਕੀ ਡਾਲਰ",
+		"name_plural": "ਅਮਰੀਕੀ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"UYU": {
-		"name": "ਉਰੂਗੁਆਇਆਈ ਪੈਸੋ",
-		"name_plural": "ਉਰੂਗੁਆਇਆਈ ਪੈਸੋ",
-		"subunit_name": "ਸੈਂਟੇਸੀਮੋ",
-		"subunit_name_plural": "ਸੈਂਟੇਸੀਮੋ"
+		"name": "ਉਰੂਗੁਏਅਨ ਪੈਸੋ",
+		"name_plural": "ਉਰੂਗੁਏਅਨ ਪੈਸੋ",
+		"subunit_name": "ਸੈਂਟੇਸਿਮੋ",
+		"subunit_name_plural": "ਸੈਂਟੇਸਿਮੋ"
 	},
 	"UZS": {
 		"name": "ਉਜ਼ਬੇਕਿਸਤਾਨੀ ਸੋਮ",
 		"name_plural": "ਉਜ਼ਬੇਕਿਸਤਾਨੀ ਸੋਮ",
-		"subunit_name": "ਤਿਯਨ",
-		"subunit_name_plural": "ਤਿਯਨ"
+		"subunit_name": "ਤਿਯਿਨ",
+		"subunit_name_plural": "ਤਿਯਿਨ"
 	},
-	"VES": {
-		"name": "ਵੈਨੇਜ਼ੁਏਲਨ ਬੋਲੀਵਰ",
-		"name_plural": "ਵੈਨੇਜ਼ੁਏਲਨ ਬੋਲੀਵਰ",
+	"VED": {
+		"name": "ਵੈਨੇਜ਼ੁਏਲਨ ਡਿਜੀਟਲ ਬੋਲੀਵਰ",
+		"name_plural": "ਵੈਨੇਜ਼ੁਏਲਨ ਡਿਜੀਟਲ ਬੋਲੀਵਰ",
 		"subunit_name": "ਸੈਂਟੀਮੋ",
-		"subunit_name_plural": "ਸੈਂਟीਮੋ"
+		"subunit_name_plural": "ਸੈਂਟੀਮੋ"
 	},
 	"VND": {
-		"name": "ਵੀਅਤਨਾਮੀ ਡੌਂਗ",
-		"name_plural": "ਵੀਅਤਨਾਮੀ ਡੌਂਗ",
+		"name": "ਵੀਅਤਨਾਮੀ ਡੋਂਗ",
+		"name_plural": "ਵੀਅਤਨਾਮੀ ਡੋਂਗ",
 		"subunit_name": "ਹਾਓ",
 		"subunit_name_plural": "ਹਾਓ"
 	},
 	"VUV": {
-		"name": "ਵਾਨੁਆਤੂ ਵਾਤੂ",
-		"name_plural": "ਵਾਨੁਆਤੂ ਵਾਤੂ",
+		"name": "ਵਾਨੂਆਟੂ ਵਾਟੂ",
+		"name_plural": "ਵਾਨੂਆਟੂ ਵਾਟੂ",
 		"subunit_name": "ਸੈਂਟੀਮ",
-		"subunit_name_plural": "ਸੈਂਟीਮ"
+		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
 	"WST": {
 		"name": "ਸਮੋਆਈ ਤਾਲਾ",
@@ -888,34 +876,34 @@
 		"subunit_name_plural": "ਸੇਨੇ"
 	},
 	"XAF": {
-		"name": "ਸੈਂਟਰਲ ਅਫਰੀਕਨ ਸੀਐਫਏ ਫਰੈਂਕ",
-		"name_plural": "ਸੈਂਟਰਲ ਅਫਰੀਕਨ ਸੀਐਫਏ ਫਰੈਂਕ",
+		"name": "ਮੱਧ ਅਫਰੀਕੀ ਸੀਐਫਏ ਫ੍ਰੈਂਕ",
+		"name_plural": "ਮੱਧ ਅਫਰੀਕੀ ਸੀਐਫਏ ਫ੍ਰੈਂਕ",
 		"subunit_name": "ਸੈਂਟीਮ",
 		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
 	"XCD": {
-		"name": "ਪੂਰਬੀ ਕੈਰੀਬੀਆਈ ਡਾਲਰ",
-		"name_plural": "ਪੂਰਬੀ ਕੈਰੀਬੀਆਈ ਡਾਲਰ",
+		"name": "ਪੂਰਬੀ ਕੈਰੇਬੀਅਨ ਡਾਲਰ",
+		"name_plural": "ਪੂਰਬੀ ਕੈਰੇਬੀਅਨ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	},
 	"XOF": {
-		"name": "ਪੱਛਮੀ ਅਫਰੀਕਨ ਸੀਐਫਏ ਫਰੈਂਕ",
-		"name_plural": "ਪੱਛਮੀ ਅਫਰੀਕਨ ਸੀਐਫਏ ਫਰੈਂਕ",
+		"name": "ਪੱਛਮੀ ਅਫਰੀਕੀ ਸੀਐਫਏ ਫ੍ਰੈਂਕ",
+		"name_plural": "ਪੱਛਮੀ ਅਫਰੀਕੀ ਸੀਐਫਏ ਫ੍ਰੈਂਕ",
 		"subunit_name": "ਸੈਂਟੀਮ",
 		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
 	"XPF": {
-		"name": "ਸੀਐਫਪੀ ਫਰੈਂਕ",
-		"name_plural": "ਸੀਐਫਪੀ ਫਰੈਂਕ",
-		"subunit_name": "ਸੈਂਟीਮ",
+		"name": "ਸੀਐਫਪੀ ਫ੍ਰੈਂਕ",
+		"name_plural": "ਸੀਐਫਪੀ ਫ੍ਰੈਂਕ",
+		"subunit_name": "ਸੈਂਟੀਮ",
 		"subunit_name_plural": "ਸੈਂਟੀਮ"
 	},
 	"YER": {
 		"name": "ਯਮਨੀ ਰਿਆਲ",
 		"name_plural": "ਯਮਨੀ ਰਿਆਲ",
-		"subunit_name": "ਫ਼ਿਲਸ",
-		"subunit_name_plural": "ਫ਼ਿਲਸ"
+		"subunit_name": "ਫਿਲਸ",
+		"subunit_name_plural": "ਫਿਲਸ"
 	},
 	"ZAR": {
 		"name": "ਦੱਖਣੀ ਅਫਰੀਕੀ ਰੈਂਡ",
@@ -926,12 +914,12 @@
 	"ZMW": {
 		"name": "ਜ਼ਾਂਬੀਆਈ ਕਵਾਚਾ",
 		"name_plural": "ਜ਼ਾਂਬੀਆਈ ਕਵਾਚਾ",
-		"subunit_name": "ਨਗਵੀ",
-		"subunit_name_plural": "ਨਗਵੀ"
+		"subunit_name": "ਐਂਗਵੀ",
+		"subunit_name_plural": "ਐਂਗਵੀ"
 	},
 	"ZWL": {
-		"name": "ਜ਼ਿੰਬਾਬਵੇ ਦਾ ਡਾਲਰ",
-		"name_plural": "ਜ਼ਿੰਬਾਬਵੇ ਦੇ ਡਾਲਰ",
+		"name": "ਜ਼ਿੰਬਾਬਵੇ ਡਾਲਰ",
+		"name_plural": "ਜ਼ਿੰਬਾਬਵੇ ਡਾਲਰ",
 		"subunit_name": "ਸੈਂਟ",
 		"subunit_name_plural": "ਸੈਂਟ"
 	}

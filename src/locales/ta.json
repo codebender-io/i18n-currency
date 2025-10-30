@@ -1,43 +1,43 @@
 {
 	"AED": {
-		"name": "ஐக்கிய அரபு அமீரக திர்ஹாம்",
-		"name_plural": "ஐக்கிய அரபு அமீரக திர்ஹாம்கள்",
-		"subunit_name": "ஃபில்ஸ்",
-		"subunit_name_plural": "ஃபில்ஸ்"
+		"name": "ஐக்கிய அரபு எமிரேட்ஸ் திர்ஹாம்",
+		"name_plural": "ஐக்கிய அரபு எமிரேட்ஸ் திர்ஹாம்கள்",
+		"subunit_name": "பில்ஸ்",
+		"subunit_name_plural": "பில்ஸ்"
 	},
 	"AFN": {
-		"name": "ஆப்கானிஸ்தான் அஃப்கானி",
-		"name_plural": "ஆப்கானிஸ்தான் அஃப்கானிகள்",
+		"name": "ஆப்கான் ஆப்கானி",
+		"name_plural": "ஆப்கான் ஆப்கானிகள்",
 		"subunit_name": "புல்",
 		"subunit_name_plural": "புல்கள்"
 	},
 	"ALL": {
-		"name": "அல்பேனிய லெக்",
-		"name_plural": "அல்பேனிய லெக்குகள்",
-		"subunit_name": "கிண்டார்கா",
-		"subunit_name_plural": "கிண்டார்காக்கள்"
+		"name": "அல்பேனியன் லெக்",
+		"name_plural": "அல்பேனியன் லெக்கே",
+		"subunit_name": "கிண்டார்கே",
+		"subunit_name_plural": "கிண்டார்கே"
 	},
 	"AMD": {
-		"name": "ஆர்மேனிய திராம்",
-		"name_plural": "ஆர்மேனிய திராம்கள்",
-		"subunit_name": "லூமா",
-		"subunit_name_plural": "லூமாக்கள்"
+		"name": "ஆர்மேனியன் ட்ராம்",
+		"name_plural": "ஆர்மேனியன் ட்ராம்கள்",
+		"subunit_name": "லுமா",
+		"subunit_name_plural": "லுமாக்கள்"
 	},
 	"ANG": {
-		"name": "நெதர்லாந்து அண்டில்லியன் கில்டர்",
-		"name_plural": "நெதர்லாந்து அண்டில்லியன் கில்டர்கள்",
+		"name": "நெதர்லாந்து ஆண்டிலியன் கில்டர்",
+		"name_plural": "நெதர்லாந்து ஆண்டிலியன் கில்டர்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"AOA": {
-		"name": "அங்கோலா குவாஞ்சா",
-		"name_plural": "அங்கோலா குவாஞ்சாக்கள்",
+		"name": "அங்கோலன் குவான்சா",
+		"name_plural": "அங்கோலன் குவான்சாக்கள்",
 		"subunit_name": "சென்டிமோ",
 		"subunit_name_plural": "சென்டிமோக்கள்"
 	},
 	"ARS": {
-		"name": "அர்ஜென்டினா பெசோ",
-		"name_plural": "அர்ஜென்டினா பெசோக்கள்",
+		"name": "அர்ஜென்டைன் பெசோ",
+		"name_plural": "அர்ஜென்டைன் பெசோக்கள்",
 		"subunit_name": "சென்டாவோ",
 		"subunit_name_plural": "சென்டாவோக்கள்"
 	},
@@ -48,100 +48,100 @@
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"AWG": {
-		"name": "அரூபா ஃப்ளோரின்",
-		"name_plural": "அரூபா ஃப்ளோரின்கள்",
+		"name": "அருபன் ஃப்ளோரின்",
+		"name_plural": "அருபன் ஃப்ளோரின்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"AZN": {
-		"name": "அஜர்பைஜான் மனாட்",
-		"name_plural": "அஜர்பைஜான் மனாட்கள்",
-		"subunit_name": "கெபிக்",
-		"subunit_name_plural": "கெபிக்குகள்"
+		"name": "அசர்பைஜானி மனத்",
+		"name_plural": "அசர்பைஜானி மனத்கள்",
+		"subunit_name": "கபிக்",
+		"subunit_name_plural": "கபிக்கள்"
 	},
 	"BAM": {
-		"name": "போஸ்னியா-ஹெர்சகோவினா மாற்றக்கூடிய மார்க்",
-		"name_plural": "போஸ்னியா-ஹெர்சகோவினா மாற்றக்கூடிய மார்க்குகள்",
+		"name": "போஸ்னியா-ஹெர்ஸிகோவினா மாற்றத்தக்க மார்க்",
+		"name_plural": "போஸ்னியா-ஹெர்ஸிகோவினா மாற்றத்தக்க மார்க்குகள்",
 		"subunit_name": "ஃபெனிங்",
-		"subunit_name_plural": "ஃபெனிங்கள்"
+		"subunit_name_plural": "ஃபெனிங்குகள்"
 	},
 	"BBD": {
-		"name": "பார்பேடோஸ் டாலர்",
-		"name_plural": "பார்பேடோஸ் டாலர்கள்",
+		"name": "பார்படியன் டாலர்",
+		"name_plural": "பார்படியன் டாலர்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"BDT": {
-		"name": "வங்காளதேச தாக்கா",
-		"name_plural": "வங்காளதேச தாக்காக்கள்",
+		"name": "பங்களாதேஷி டாகா",
+		"name_plural": "பங்களாதேஷி டாகாக்கள்",
 		"subunit_name": "பொய்ஷா",
 		"subunit_name_plural": "பொய்ஷாக்கள்"
 	},
 	"BGN": {
-		"name": "பல்கேரிய லெவ்",
-		"name_plural": "பல்கேரிய லெவாக்கள்",
-		"subunit_name": "ஸ்டோட்டின்கா",
-		"subunit_name_plural": "ஸ்டோட்டின்கிகள்"
+		"name": "பல்கேரியன் லெவ்",
+		"name_plural": "பல்கேரியன் லெவ்கள்",
+		"subunit_name": "ஸ்டோடின்கா",
+		"subunit_name_plural": "ஸ்டோடின்கி"
 	},
 	"BHD": {
 		"name": "பஹ்ரைன் தினார்",
 		"name_plural": "பஹ்ரைன் தினார்கள்",
-		"subunit_name": "ஃபில்ஸ்",
-		"subunit_name_plural": "ஃபில்ஸ்"
+		"subunit_name": "பில்ஸ்",
+		"subunit_name_plural": "பில்ஸ்"
 	},
 	"BIF": {
-		"name": "புருண்டி பிராங்க்",
-		"name_plural": "புருண்டி பிராங்க்குகள்",
-		"subunit_name": "சென்டைம்",
-		"subunit_name_plural": "சென்டைம்கள்"
+		"name": "புருண்டியன் ஃப்ராங்க்",
+		"name_plural": "புருண்டியன் ஃப்ராங்குகள்",
+		"subunit_name": "சென்டிம்",
+		"subunit_name_plural": "சென்டிம்கள்"
 	},
 	"BMD": {
-		"name": "பெர்முடா டாலர்",
-		"name_plural": "பெர்முடா டாலர்கள்",
+		"name": "பெர்முடியன் டாலர்",
+		"name_plural": "பெர்முடியன் டாலர்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"BND": {
-		"name": "புரூணை டாலர்",
-		"name_plural": "புரூணை டாலர்கள்",
+		"name": "புரூனாய் டாலர்",
+		"name_plural": "புரூனாய் டாலர்கள்",
 		"subunit_name": "சென்",
-		"subunit_name_plural": "சென்கள்"
+		"subunit_name_plural": "சென்"
 	},
 	"BOB": {
-		"name": "பொலிவியா பொலிவியானோ",
-		"name_plural": "பொலிவியா பொலிவியானோக்கள்",
+		"name": "பொலிவியன் பொலிவியானோ",
+		"name_plural": "பொலிவியன் பொலிவியானோக்கள்",
 		"subunit_name": "சென்டாவோ",
 		"subunit_name_plural": "சென்டாவோக்கள்"
 	},
 	"BRL": {
-		"name": "பிரேசில் ரியல்",
-		"name_plural": "பிரேசில் ரியல்கள்",
+		"name": "பிரேசிலியன் ரியால்",
+		"name_plural": "பிரேசிலியன் ரியாய்ஸ்",
 		"subunit_name": "சென்டாவோ",
 		"subunit_name_plural": "சென்டாவோக்கள்"
 	},
 	"BSD": {
-		"name": "பகாமாஸ் டாலர்",
-		"name_plural": "பகாமாஸ் டாலர்கள்",
+		"name": "பஹாமியன் டாலர்",
+		"name_plural": "பஹாமியன் டாலர்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"BTN": {
-		"name": "பூட்டான் ந்குல்ட்ரம்",
-		"name_plural": "பூட்டான் ந்குல்ட்ரம்கள்",
-		"subunit_name": "செத்ரும்",
-		"subunit_name_plural": "செத்ரும்கள்"
+		"name": "பூட்டானீஸ் ஙுல்ட்ரம்",
+		"name_plural": "பூட்டானீஸ் ஙுல்ட்ரம்கள்",
+		"subunit_name": "செட்ரம்",
+		"subunit_name_plural": "செட்ரம்கள்"
 	},
 	"BWP": {
-		"name": "போட்ஸ்வானா புலா",
-		"name_plural": "போட்ஸ்வானா புலாக்கள்",
+		"name": "போட்ஸ்வானன் புலா",
+		"name_plural": "போட்ஸ்வானன் புலாக்கள்",
 		"subunit_name": "தெபே",
-		"subunit_name_plural": "தெபேகள்"
+		"subunit_name_plural": "தெபே"
 	},
 	"BYN": {
-		"name": "பெலாரஸ் ரூபிள்",
-		"name_plural": "பெலாரஸ் ரூபிள்கள்",
-		"subunit_name": "கோபேக்",
-		"subunit_name_plural": "கோபேக்குகள்"
+		"name": "பெலருசியன் ரூபிள்",
+		"name_plural": "பெலருசியன் ரூபிள்கள்",
+		"subunit_name": "கோபெக்",
+		"subunit_name_plural": "கோபெக்குகள்"
 	},
 	"BZD": {
 		"name": "பெலீஸ் டாலர்",
@@ -150,112 +150,106 @@
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"CAD": {
-		"name": "கனடா டாலர்",
-		"name_plural": "கனடா டாலர்கள்",
+		"name": "கனடியன் டாலர்",
+		"name_plural": "கனடியன் டாலர்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"CDF": {
-		"name": "காங்கோ பிராங்க்",
-		"name_plural": "காங்கோ பிராங்க்குகள்",
-		"subunit_name": "சென்டைம்",
-		"subunit_name_plural": "சென்டைம்கள்"
+		"name": "காங்கோலீஸ் ஃப்ராங்க்",
+		"name_plural": "காங்கோலீஸ் ஃப்ராங்குகள்",
+		"subunit_name": "சென்டிம்",
+		"subunit_name_plural": "சென்டிம்கள்"
 	},
 	"CHF": {
-		"name": "சுவிட்சர்லாந்து பிராங்க்",
-		"name_plural": "சுவிட்சர்லாந்து பிராங்க்குகள்",
-		"subunit_name": "ராப்பன்",
-		"subunit_name_plural": "ராப்பன்கள்"
+		"name": "சுவிஸ் ஃப்ராங்க்",
+		"name_plural": "சுவிஸ் ஃப்ராங்குகள்",
+		"subunit_name": "ரப்பென்",
+		"subunit_name_plural": "ரப்பென்"
 	},
 	"CLP": {
-		"name": "சிலி பெசோ",
-		"name_plural": "சிலி பெசோக்கள்",
+		"name": "சிலியன் பெசோ",
+		"name_plural": "சிலியன் பெசோக்கள்",
 		"subunit_name": "சென்டாவோ",
 		"subunit_name_plural": "சென்டாவோக்கள்"
 	},
 	"CNY": {
 		"name": "சீன யுவான்",
-		"name_plural": "சீன யுவான்கள்",
+		"name_plural": "சீன யுவான்",
 		"subunit_name": "ஃபென்",
-		"subunit_name_plural": "ஃபென்கள்"
+		"subunit_name_plural": "ஃபென்"
 	},
 	"COP": {
-		"name": "கொலம்பிய பெசோ",
-		"name_plural": "கொலம்பிய பெசோக்கள்",
+		"name": "கொலம்பியன் பெசோ",
+		"name_plural": "கொலம்பியன் பெசோக்கள்",
 		"subunit_name": "சென்டாவோ",
 		"subunit_name_plural": "சென்டாவோக்கள்"
 	},
 	"CRC": {
-		"name": "கோஸ்டா ரிக்கா கொலோன்",
-		"name_plural": "கோஸ்டா ரிக்கா கொலோன்கள்",
+		"name": "கோஸ்டா ரிகன் கோலோன்",
+		"name_plural": "கோஸ்டா ரிகன் கோலோன்கள்",
 		"subunit_name": "சென்டிமோ",
 		"subunit_name_plural": "சென்டிமோக்கள்"
 	},
-	"CUC": {
-		"name": "கியூபா மாற்றக்கூடிய பெசோ",
-		"name_plural": "கியூபா மாற்றக்கூடிய பெசோக்கள்",
-		"subunit_name": "சென்டாவோ",
-		"subunit_name_plural": "சென்டாவோக்கள்"
-	},
 	"CUP": {
-		"name": "கியூபா பெசோ",
-		"name_plural": "கியூபா பெசோக்கள்",
+		"name": "கியூபன் பெசோ",
+		"name_plural": "கியூபன் பெசோக்கள்",
 		"subunit_name": "சென்டாவோ",
 		"subunit_name_plural": "சென்டாவோக்கள்"
 	},
 	"CVE": {
-		"name": "கேப் வெர்டே எஸ்குடோ",
-		"name_plural": "கேப் வெர்டே எஸ்குடோக்கள்",
+		"name": "கேப் வெர்டியன் எஸ்குடோ",
+		"name_plural": "கேப் வெர்டியன் எஸ்குடோக்கள்",
 		"subunit_name": "சென்டாவோ",
 		"subunit_name_plural": "சென்டாவோக்கள்"
 	},
 	"CZK": {
-		"name": "செக் கொரூனா",
-		"name_plural": "செக் கொரூனாக்கள்",
-		"subunit_name": "ஹலேர்",
-		"subunit_name_plural": "ஹலேர்கள்"
+		"name": "செக் கோருனா",
+		"name_plural": "செக் கோருனாக்கள்",
+		"subunit_name": "ஹலெர்",
+		"subunit_name_plural": "ஹலெர்கள்"
 	},
 	"DJF": {
-		"name": "ஜிபூட்டி பிராங்க்",
-		"name_plural": "ஜிபூட்டி பிராங்க்குகள்",
-		"subunit_name": "சென்டைம்",
-		"subunit_name_plural": "சென்டைம்கள்"
+		"name": "ஜிபௌட்டியன் ஃப்ராங்க்",
+		"name_plural": "ஜிபௌட்டியன் ஃப்ராங்குகள்",
+		"subunit_name": "சென்டிம்",
+		"subunit_name_plural": "சென்டிம்கள்"
 	},
 	"DKK": {
-		"name": "டென்மார்க் க்ரோன்",
-		"name_plural": "டென்மார்க் க்ரோனர்",
+		"name": "டேனிஷ் க்ரோன்",
+		"name_plural": "டேனிஷ் க்ரோனர்",
 		"subunit_name": "ஓரே",
 		"subunit_name_plural": "ஓரே"
 	},
 	"DOP": {
-		"name": "டொமினிக்கன் பெசோ",
-		"name_plural": "டொமினிக்கன் பெசோக்கள்",
+		"name": "டொமினிகன் பெசோ",
+		"name_plural": "டொமினிகன் பெசோக்கள்",
 		"subunit_name": "சென்டாவோ",
 		"subunit_name_plural": "சென்டாவோக்கள்"
 	},
 	"DZD": {
-		"name": "அல்ஜீரிய தினார்",
-		"name_plural": "அல்ஜீரிய தினார்கள்",
-		"subunit_name": "சென்டைம்",
-		"subunit_name_plural": "சென்டைம்கள்"
+		"name": "அல்ஜீரியன் தினார்",
+		"name_plural": "அல்ஜீரியன் தினார்கள்",
+		"subunit_name": "சென்டிம்",
+		"subunit_name_plural": "சென்டிம்கள்"
 	},
 	"EGP": {
-		"name": "எகிப்து பவுண்ட்",
-		"name_plural": "எகிப்து பவுண்டுகள்",
+		"name": "எகிப்திய பவுண்ட்",
+		"name_plural": "எகிப்திய பவுண்ட்கள்",
 		"subunit_name": "பியாஸ்டர்",
 		"subunit_name_plural": "பியாஸ்டர்கள்"
 	},
 	"ERN": {
-		"name": "எரிட்ரிய நாஃப்கா",
-		"name_plural": "எரிட்ரிய நாஃப்காக்கள்",
+		"name": "எரித்ரியன் நக்ஃபா",
+		"name_plural": "எரித்ரியன் நக்ஃபாக்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"ETB": {
-		"name": "எதியோப்பிய பிர்",
-		"name_plural": "எதியோப்பிய பிர்கள்",
-		"subunit_name": "சந்திம்",
-		"subunit_name_plural": "சந்திம்கள்"
+		"name": "எத்தியோப்பியன் பிர்",
+		"name_plural": "எத்தியோப்பியன் பிர்கள்",
+		"subunit_name": "சாண்டிம்",
+		"subunit_name_plural": "சாண்டிம்கள்"
 	},
 	"EUR": {
 		"name": "யூரோ",
@@ -264,62 +258,62 @@
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"FJD": {
-		"name": "ஃபிஜி டாலர்",
-		"name_plural": "ஃபிஜி டாலர்கள்",
+		"name": "ஃபிஜியன் டாலர்",
+		"name_plural": "ஃபிஜியன் டாலர்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"FKP": {
 		"name": "ஃபாக்லாந்து தீவுகள் பவுண்ட்",
-		"name_plural": "ஃபாக்லாந்து தீவுகள் பவுண்டுகள்",
+		"name_plural": "ஃபாக்லாந்து தீவுகள் பவுண்ட்கள்",
 		"subunit_name": "பென்னி",
 		"subunit_name_plural": "பென்ஸ்"
 	},
 	"GBP": {
 		"name": "பிரிட்டிஷ் பவுண்ட்",
-		"name_plural": "பிரிட்டிஷ் பவுண்டுகள்",
+		"name_plural": "பிரிட்டிஷ் பவுண்ட்கள்",
 		"subunit_name": "பென்னி",
 		"subunit_name_plural": "பென்ஸ்"
 	},
 	"GEL": {
-		"name": "ஜார்ஜிய லாரி",
-		"name_plural": "ஜார்ஜிய லாரிகள்",
-		"subunit_name": "தெத்ரி",
-		"subunit_name_plural": "தெத்ரிகள்"
+		"name": "ஜார்ஜியன் லாரி",
+		"name_plural": "ஜார்ஜியன் லாரிகள்",
+		"subunit_name": "டெட்ரி",
+		"subunit_name_plural": "டெட்ரி"
 	},
 	"GHS": {
-		"name": "கானா செடி",
-		"name_plural": "கானா செடிகள்",
-		"subunit_name": "பெசெவா",
-		"subunit_name_plural": "பெசெவாக்கள்"
+		"name": "கானியன் சேடி",
+		"name_plural": "கானியன் சேடிகள்",
+		"subunit_name": "பெசேவா",
+		"subunit_name_plural": "பெசேவாக்கள்"
 	},
 	"GIP": {
 		"name": "ஜிப்ரால்டர் பவுண்ட்",
-		"name_plural": "ஜிப்ரால்டர் பவுண்டுகள்",
+		"name_plural": "ஜிப்ரால்டர் பவுண்ட்கள்",
 		"subunit_name": "பென்னி",
 		"subunit_name_plural": "பென்ஸ்"
 	},
 	"GMD": {
-		"name": "காம்பியா டலாசி",
-		"name_plural": "காம்பியா டலாசிகள்",
-		"subunit_name": "புட்டுட்",
-		"subunit_name_plural": "புட்டுட்கள்"
+		"name": "காம்பியன் தலாசி",
+		"name_plural": "காம்பியன் தலாசிகள்",
+		"subunit_name": "புடுட்",
+		"subunit_name_plural": "புடுட்கள்"
 	},
 	"GNF": {
-		"name": "கினி பிராங்க்",
-		"name_plural": "கினி பிராங்க்குகள்",
-		"subunit_name": "சென்டைம்",
-		"subunit_name_plural": "சென்டைம்கள்"
+		"name": "கினியன் ஃப்ராங்க்",
+		"name_plural": "கினியன் ஃப்ராங்குகள்",
+		"subunit_name": "சென்டிம்",
+		"subunit_name_plural": "சென்டிம்கள்"
 	},
 	"GTQ": {
-		"name": "குவாத்தமாலா குவெட்சால்",
-		"name_plural": "குவாத்தமாலா குவெட்சால்கள்",
+		"name": "குவாத்மாலன் குவெட்சல்",
+		"name_plural": "குவாத்மாலன் குவெட்சல்கள்",
 		"subunit_name": "சென்டாவோ",
 		"subunit_name_plural": "சென்டாவோக்கள்"
 	},
 	"GYD": {
-		"name": "கயானா டாலர்",
-		"name_plural": "கயானா டாலர்கள்",
+		"name": "கயானீஸ் டாலர்",
+		"name_plural": "கயானீஸ் டாலர்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
@@ -330,38 +324,32 @@
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"HNL": {
-		"name": "ஹொண்டுராஸ் லெம்பிரா",
-		"name_plural": "ஹொண்டுராஸ் லெம்பிராக்கள்",
+		"name": "ஹோண்டுரன் லெம்பீரா",
+		"name_plural": "ஹோண்டுரன் லெம்பீராக்கள்",
 		"subunit_name": "சென்டாவோ",
 		"subunit_name_plural": "சென்டாவோக்கள்"
 	},
-	"HRK": {
-		"name": "குரோஷிய கூனா",
-		"name_plural": "குரோஷிய கூனாக்கள்",
-		"subunit_name": "லிபா",
-		"subunit_name_plural": "லிபாக்கள்"
-	},
 	"HTG": {
-		"name": "ஹைத்தி கூர்டே",
-		"name_plural": "ஹைத்தி கூர்டேகள்",
-		"subunit_name": "சென்டைம்",
-		"subunit_name_plural": "சென்டைம்கள்"
+		"name": "ஹைட்டியன் கோர்டே",
+		"name_plural": "ஹைட்டியன் கோர்ட்கள்",
+		"subunit_name": "சென்டிம்",
+		"subunit_name_plural": "சென்டிம்கள்"
 	},
 	"HUF": {
-		"name": "ஹங்கேரிய ஃபோரின்ட்",
-		"name_plural": "ஹங்கேரிய ஃபோரின்ட்கள்",
+		"name": "ஹங்கேரியன் ஃபோரின்ட்",
+		"name_plural": "ஹங்கேரியன் ஃபோரின்ட்கள்",
 		"subunit_name": "ஃபில்லர்",
-		"subunit_name_plural": "ஃபில்லர்கள்"
+		"subunit_name_plural": "ஃபில்லர்"
 	},
 	"IDR": {
-		"name": "இந்தோனேஷிய ரூபாய்",
-		"name_plural": "இந்தோனேஷிய ரூபாய்கள்",
+		"name": "இந்தோனேசியன் ருபியா",
+		"name_plural": "இந்தோனேசியன் ருபியாக்கள்",
 		"subunit_name": "சென்",
-		"subunit_name_plural": "சென்கள்"
+		"subunit_name_plural": "சென்"
 	},
 	"ILS": {
-		"name": "இஸ்ரேல் புதிய செக்கல்",
-		"name_plural": "இஸ்ரேல் புதிய செக்கல்கள்",
+		"name": "இஸ்ரேலி நியூ ஷெக்கல்",
+		"name_plural": "இஸ்ரேலி நியூ ஷெக்கல்கள்",
 		"subunit_name": "அகோரா",
 		"subunit_name_plural": "அகோரோட்"
 	},
@@ -372,82 +360,82 @@
 		"subunit_name_plural": "பைசாக்கள்"
 	},
 	"IQD": {
-		"name": "ஈராக் தினார்",
-		"name_plural": "ஈராக் தினார்கள்",
-		"subunit_name": "ஃபில்ஸ்",
-		"subunit_name_plural": "ஃபில்ஸ்"
+		"name": "ஈராக்கி தினார்",
+		"name_plural": "ஈராக்கி தினார்கள்",
+		"subunit_name": "பில்ஸ்",
+		"subunit_name_plural": "பில்ஸ்"
 	},
 	"IRR": {
-		"name": "ஈரான் ரியால்",
-		"name_plural": "ஈரான் ரியால்கள்",
+		"name": "ஈரானியன் ரியால்",
+		"name_plural": "ஈரானியன் ரியால்கள்",
 		"subunit_name": "தினார்",
 		"subunit_name_plural": "தினார்கள்"
 	},
 	"ISK": {
-		"name": "ஐஸ்லாந்து க்ரோனா",
-		"name_plural": "ஐஸ்லாந்து க்ரோனுர்",
+		"name": "ஐஸ்லாண்டிக் க்ரோனா",
+		"name_plural": "ஐஸ்லாண்டிக் க்ரோனூர்",
 		"subunit_name": "ஐரிர்",
-		"subunit_name_plural": "ஆரார்"
+		"subunit_name_plural": "அவ்ரர்"
 	},
 	"JMD": {
-		"name": "ஜமைக்கா டாலர்",
-		"name_plural": "ஜமைக்கா டாலர்கள்",
+		"name": "ஜமைக்கன் டாலர்",
+		"name_plural": "ஜமைக்கன் டாலர்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"JOD": {
-		"name": "ஜோர்தான் தினார்",
-		"name_plural": "ஜோர்தான் தினார்கள்",
-		"subunit_name": "ஃபில்ஸ்",
-		"subunit_name_plural": "ஃபில்ஸ்"
+		"name": "ஜோர்டானியன் தினார்",
+		"name_plural": "ஜோர்டானியன் தினார்கள்",
+		"subunit_name": "பில்ஸ்",
+		"subunit_name_plural": "பில்ஸ்"
 	},
 	"JPY": {
-		"name": "ஜப்பான் யென்",
-		"name_plural": "ஜப்பான் யென்கள்",
+		"name": "ஜப்பானீஸ் யென்",
+		"name_plural": "ஜப்பானீஸ் யென்",
 		"subunit_name": "சென்",
-		"subunit_name_plural": "சென்கள்"
+		"subunit_name_plural": "சென்"
 	},
 	"KES": {
-		"name": "கென்யா சில்லிங்",
-		"name_plural": "கென்யா சில்லிங்குகள்",
+		"name": "கென்யன் ஷில்லிங்",
+		"name_plural": "கென்யன் ஷில்லிங்குகள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"KGS": {
-		"name": "கிர்கிஸ்தான் சோம்",
-		"name_plural": "கிர்கிஸ்தான் சோம்கள்",
-		"subunit_name": "தியின்",
-		"subunit_name_plural": "தியின்கள்"
+		"name": "கிர்கிஸ்தானி சோம்",
+		"name_plural": "கிர்கிஸ்தானி சோம்கள்",
+		"subunit_name": "டியின்",
+		"subunit_name_plural": "டியின்"
 	},
 	"KHR": {
-		"name": "கம்போடியா ரீல்",
-		"name_plural": "கம்போடியா ரீல்கள்",
+		"name": "கம்போடியன் ரியல்",
+		"name_plural": "கம்போடியன் ரியல்கள்",
 		"subunit_name": "சென்",
-		"subunit_name_plural": "சென்கள்"
+		"subunit_name_plural": "சென்"
 	},
 	"KMF": {
-		"name": "கொமோரோஸ் பிராங்க்",
-		"name_plural": "கொமோரோஸ் பிராங்க்குகள்",
-		"subunit_name": "சென்டைம்",
-		"subunit_name_plural": "சென்டைம்கள்"
+		"name": "கோமோரியன் ஃப்ராங்க்",
+		"name_plural": "கோமோரியன் ஃப்ராங்குகள்",
+		"subunit_name": "சென்டிம்",
+		"subunit_name_plural": "சென்டிம்கள்"
 	},
 	"KPW": {
-		"name": "வட கொரிய வொன்",
-		"name_plural": "வட கொரிய வொன்கள்",
+		"name": "வட கொரிய வோன்",
+		"name_plural": "வட கொரிய வோன்",
 		"subunit_name": "ஜியோன்",
-		"subunit_name_plural": "ஜியோன்கள்"
+		"subunit_name_plural": "ஜியோன்"
 	},
 	"KRW": {
-		"name": "தென் கொரிய வொன்",
-		"name_plural": "தென் கொரிய வொன்கள்",
+		"name": "தென் கொரிய வோன்",
+		"name_plural": "தென் கொரிய வோன்",
 		"subunit_name": "ஜியோன்",
-		"subunit_name_plural": "ஜியோன்கள்"
+		"subunit_name_plural": "ஜியோன்"
 	},
 	"KWD": {
-		"name": "குவைத் தினார்",
-		"name_plural": "குவைத் தினார்கள்",
-		"subunit_name": "ஃபில்ஸ்",
-		"subunit_name_plural": "ஃபில்ஸ்"
+		"name": "குவைத்தி தினார்",
+		"name_plural": "குவைத்தி தினார்கள்",
+		"subunit_name": "பில்ஸ்",
+		"subunit_name_plural": "பில்ஸ்"
 	},
 	"KYD": {
 		"name": "கேமன் தீவுகள் டாலர்",
@@ -456,20 +444,20 @@
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"KZT": {
-		"name": "கசக்ஸ்தான் தெங்கே",
-		"name_plural": "கசக்ஸ்தான் தெங்கேகள்",
-		"subunit_name": "தியின்",
-		"subunit_name_plural": "தியின்கள்"
+		"name": "கஜகஸ்தானி டெங்கே",
+		"name_plural": "கஜகஸ்தானி டெங்கேக்கள்",
+		"subunit_name": "டியின்",
+		"subunit_name_plural": "டியின்"
 	},
 	"LAK": {
-		"name": "லாவோஸ் கிப்",
-		"name_plural": "லாவோஸ் கிப்கள்",
-		"subunit_name": "அட்",
-		"subunit_name_plural": "அட்கள்"
+		"name": "லாவோஷியன் கிப்",
+		"name_plural": "லாவோஷியன் கிப்கள்",
+		"subunit_name": "அட்ட்",
+		"subunit_name_plural": "அட்ட்"
 	},
 	"LBP": {
-		"name": "லெபனான் பவுண்ட்",
-		"name_plural": "லெபனான் பவுண்டுகள்",
+		"name": "லெபனீஸ் பவுண்ட்",
+		"name_plural": "லெபனீஸ் பவுண்ட்கள்",
 		"subunit_name": "பியாஸ்டர்",
 		"subunit_name_plural": "பியாஸ்டர்கள்"
 	},
@@ -480,74 +468,74 @@
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"LRD": {
-		"name": "லைபீரிய டாலர்",
-		"name_plural": "லைபீரிய டாலர்கள்",
+		"name": "லைபீரியன் டாலர்",
+		"name_plural": "லைபீரியன் டாலர்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"LSL": {
-		"name": "லெசோத்தோ லோட்டி",
-		"name_plural": "லெசோத்தோ லோட்டிகள்",
+		"name": "லெசோதோ லோட்டி",
+		"name_plural": "லெசோதோ லோட்டி",
 		"subunit_name": "சென்டே",
 		"subunit_name_plural": "லிசென்டே"
 	},
 	"LYD": {
-		"name": "லிபிய தினார்",
-		"name_plural": "லிபிய தினார்கள்",
-		"subunit_name": "திர்ஹாம்",
-		"subunit_name_plural": "திர்ஹாம்கள்"
+		"name": "லிபியன் தினார்",
+		"name_plural": "லிபியன் தினார்கள்",
+		"subunit_name": "திர்ஹம்",
+		"subunit_name_plural": "திர்ஹம்கள்"
 	},
 	"MAD": {
-		"name": "மொராக்கோ திர்ஹாம்",
-		"name_plural": "மொராக்கோ திர்ஹாம்கள்",
-		"subunit_name": "சென்டைம்",
-		"subunit_name_plural": "சென்டைம்கள்"
+		"name": "மொராக்கன் திர்ஹம்",
+		"name_plural": "மொராக்கன் திர்ஹம்கள்",
+		"subunit_name": "சென்டிம்",
+		"subunit_name_plural": "சென்டிம்கள்"
 	},
 	"MDL": {
-		"name": "மால்டோவா லியூ",
-		"name_plural": "மால்டோவா லியூக்கள்",
+		"name": "மோல்டோவன் லியூ",
+		"name_plural": "மோல்டோவன் லேய்",
 		"subunit_name": "பான்",
-		"subunit_name_plural": "பானிகள்"
+		"subunit_name_plural": "பானி"
 	},
 	"MGA": {
-		"name": "மடகாஸ்கர் அரியாரி",
-		"name_plural": "மடகாஸ்கர் அரியாரிகள்",
-		"subunit_name": "இரைம்பிலஞ்சா",
-		"subunit_name_plural": "இரைம்பிலஞ்சாக்கள்"
+		"name": "மலகாசி அரியாரி",
+		"name_plural": "மலகாசி அரியாரிகள்",
+		"subunit_name": "இரைம்பிலாஞ்சா",
+		"subunit_name_plural": "இரைம்பிலாஞ்சா"
 	},
 	"MKD": {
-		"name": "மேசிடோனிய டெனார்",
-		"name_plural": "மேசிடோனிய டெனார்கள்",
+		"name": "மாசிடோனியன் டெனார்",
+		"name_plural": "மாசிடோனியன் டெனாரிகள்",
 		"subunit_name": "டெனி",
-		"subunit_name_plural": "டெனிகள்"
+		"subunit_name_plural": "டெனி"
 	},
 	"MMK": {
-		"name": "மியான்மார் கியாட்",
-		"name_plural": "மியான்மார் கியாட்கள்",
+		"name": "மியான்மர் கியாட்",
+		"name_plural": "மியான்மர் கியாட்கள்",
 		"subunit_name": "பியா",
-		"subunit_name_plural": "பியாக்கள்"
+		"subunit_name_plural": "பியா"
 	},
 	"MNT": {
-		"name": "மங்கோலிய துக்ரிக்",
-		"name_plural": "மங்கோலிய துக்ரிக்குகள்",
+		"name": "மங்கோலியன் டுக்ரிக்",
+		"name_plural": "மங்கோலியன் டுக்ரிக்குகள்",
 		"subunit_name": "மோங்கோ",
-		"subunit_name_plural": "மோங்கோக்கள்"
+		"subunit_name_plural": "மோங்கோ"
 	},
 	"MOP": {
-		"name": "மக்காவு பட்டாக்கா",
-		"name_plural": "மக்காவு பட்டாக்காக்கள்",
+		"name": "மகாவீசியன் படாகா",
+		"name_plural": "மகாவீசியன் படாகாக்கள்",
 		"subunit_name": "அவோ",
 		"subunit_name_plural": "அவோக்கள்"
 	},
 	"MRU": {
-		"name": "மொரிட்டானிய ஓக்வியா",
-		"name_plural": "மொரிட்டானிய ஓக்வியாக்கள்",
-		"subunit_name": "கௌம்ஸ்",
-		"subunit_name_plural": "கௌம்ஸ்கள்"
+		"name": "மொரிஷானியன் ஓகுயா",
+		"name_plural": "மொரிஷானியன் ஓகுயாக்கள்",
+		"subunit_name": "கவும்ஸ்",
+		"subunit_name_plural": "கவும்ஸ்"
 	},
 	"MUR": {
-		"name": "மாரிஷியஸ் ரூபாய்",
-		"name_plural": "மாரிஷியஸ் ரூபாய்கள்",
+		"name": "மொரீஷியன் ரூபாய்",
+		"name_plural": "மொரீஷியன் ரூபாய்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
@@ -555,61 +543,61 @@
 		"name": "மாலத்தீவு ருஃபியா",
 		"name_plural": "மாலத்தீவு ருஃபியாக்கள்",
 		"subunit_name": "லாரி",
-		"subunit_name_plural": "லாரிகள்"
+		"subunit_name_plural": "லாரி"
 	},
 	"MWK": {
-		"name": "மலாவி குவாச்சா",
-		"name_plural": "மலாவி குவாச்சாக்கள்",
+		"name": "மலாவியன் குவாசா",
+		"name_plural": "மலாவியன் குவாசாக்கள்",
 		"subunit_name": "தம்பாலா",
-		"subunit_name_plural": "தம்பாலாக்கள்"
+		"subunit_name_plural": "தம்பாலா"
 	},
 	"MXN": {
-		"name": "மெக்சிகோ பெசோ",
-		"name_plural": "மெக்சிகோ பெசோக்கள்",
+		"name": "மெக்சிகன் பெசோ",
+		"name_plural": "மெக்சிகன் பெசோக்கள்",
 		"subunit_name": "சென்டாவோ",
 		"subunit_name_plural": "சென்டாவோக்கள்"
 	},
 	"MYR": {
-		"name": "மலேஷிய ரிங்கிட்",
-		"name_plural": "மலேஷிய ரிங்கிட்கள்",
+		"name": "மலேசியன் ரிங்கிட்",
+		"name_plural": "மலேசியன் ரிங்கிட்கள்",
 		"subunit_name": "சென்",
-		"subunit_name_plural": "சென்கள்"
+		"subunit_name_plural": "சென்"
 	},
 	"MZN": {
-		"name": "மொசாம்பிக் மெட்டிகல்",
-		"name_plural": "மொசாம்பிக் மெட்டிகல்கள்",
+		"name": "மொசாம்பிகன் மெட்டிகல்",
+		"name_plural": "மொசாம்பிகன் மெட்டிக்கல்கள்",
 		"subunit_name": "சென்டாவோ",
 		"subunit_name_plural": "சென்டாவோக்கள்"
 	},
 	"NAD": {
-		"name": "நமீபிய டாலர்",
-		"name_plural": "நமீபிய டாலர்கள்",
+		"name": "நமீபியன் டாலர்",
+		"name_plural": "நமீபியன் டாலர்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"NGN": {
-		"name": "நைஜீரிய நைரா",
-		"name_plural": "நைஜீரிய நைராக்கள்",
+		"name": "நைஜீரியன் நைரா",
+		"name_plural": "நைஜீரியன் நைராக்கள்",
 		"subunit_name": "கோபோ",
-		"subunit_name_plural": "கோபோக்கள்"
+		"subunit_name_plural": "கோபோ"
 	},
 	"NIO": {
-		"name": "நிக்கராகுவா கோர்டோபா",
-		"name_plural": "நிக்கராகுவா கோர்டோபாக்கள்",
+		"name": "நிகராகுவன் கோர்டோபா",
+		"name_plural": "நிகராகுவன் கோர்டோபாக்கள்",
 		"subunit_name": "சென்டாவோ",
 		"subunit_name_plural": "சென்டாவோக்கள்"
 	},
 	"NOK": {
-		"name": "நார்வே க்ரோன்",
-		"name_plural": "நார்வே க்ரோனர்",
+		"name": "நார்வேஜியன் க்ரோன்",
+		"name_plural": "நார்வேஜியன் க்ரோனர்",
 		"subunit_name": "ஓரே",
 		"subunit_name_plural": "ஓரே"
 	},
 	"NPR": {
-		"name": "நேபாள ரூபாய்",
-		"name_plural": "நேபாள ரூபாய்கள்",
+		"name": "நேபாளி ரூபாய்",
+		"name_plural": "நேபாளி ரூபாய்கள்",
 		"subunit_name": "பைசா",
-		"subunit_name_plural": "பைசாக்கள்"
+		"subunit_name_plural": "பைசா"
 	},
 	"NZD": {
 		"name": "நியூசிலாந்து டாலர்",
@@ -618,86 +606,86 @@
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"OMR": {
-		"name": "ஓமான் ரியால்",
-		"name_plural": "ஓமான் ரியால்கள்",
+		"name": "ஓமானி ரியால்",
+		"name_plural": "ஓமானி ரியால்கள்",
 		"subunit_name": "பைசா",
-		"subunit_name_plural": "பைசாக்கள்"
+		"subunit_name_plural": "பைசா"
 	},
 	"PAB": {
-		"name": "பனாமா பால்போவா",
-		"name_plural": "பனாமா பால்போவாக்கள்",
-		"subunit_name": "சென்டேசிமோ",
-		"subunit_name_plural": "சென்டேசிமோக்கள்"
+		"name": "பனாமானியன் பால்போவா",
+		"name_plural": "பனாமானியன் பால்போவாக்கள்",
+		"subunit_name": "சென்டெசிமோ",
+		"subunit_name_plural": "சென்டெசிமோக்கள்"
 	},
 	"PEN": {
-		"name": "பெரு சோல்",
-		"name_plural": "பெரு சோல்கள்",
+		"name": "பெரூவியன் சோல்",
+		"name_plural": "பெரூவியன் சோல்கள்",
 		"subunit_name": "சென்டிமோ",
 		"subunit_name_plural": "சென்டிமோக்கள்"
 	},
 	"PGK": {
-		"name": "பப்புவா நியூ கினி கீனா",
-		"name_plural": "பப்புவா நியூ கினி கீனாக்கள்",
-		"subunit_name": "தோயா",
-		"subunit_name_plural": "தோயாக்கள்"
+		"name": "பப்புவா நியூ கினியன் கினா",
+		"name_plural": "பப்புவா நியூ கினியன் கினா",
+		"subunit_name": "டோயா",
+		"subunit_name_plural": "டோயா"
 	},
 	"PHP": {
-		"name": "பிலிப்பைன்ஸ் பெசோ",
-		"name_plural": "பிலிப்பைன்ஸ் பெசோக்கள்",
+		"name": "பிலிப்பைன் பெசோ",
+		"name_plural": "பிலிப்பைன் பெசோக்கள்",
 		"subunit_name": "சென்டிமோ",
 		"subunit_name_plural": "சென்டிமோக்கள்"
 	},
 	"PKR": {
-		"name": "பாகிஸ்தான் ரூபாய்",
-		"name_plural": "பாகிஸ்தான் ரூபாய்கள்",
+		"name": "பாகிஸ்தானி ரூபாய்",
+		"name_plural": "பாகிஸ்தானி ரூபாய்கள்",
 		"subunit_name": "பைசா",
-		"subunit_name_plural": "பைசாக்கள்"
+		"subunit_name_plural": "பைசா"
 	},
 	"PLN": {
-		"name": "போலந்து ஜ்லோட்டி",
-		"name_plural": "போலந்து ஜ்லோட்டிகள்",
-		"subunit_name": "க்ரோஷ்",
-		"subunit_name_plural": "க்ரோஷ்ய்"
+		"name": "போலிஷ் ஸ்லாட்டி",
+		"name_plural": "போலிஷ் ஸ்லாட்டிகள்",
+		"subunit_name": "கிரோஸ்",
+		"subunit_name_plural": "கிரோஸி"
 	},
 	"PYG": {
-		"name": "பராகுவே குவாரானி",
-		"name_plural": "பராகுவே குவாரானிகள்",
+		"name": "பராகுவாயன் குவரானி",
+		"name_plural": "பராகுவாயன் குவரானிகள்",
 		"subunit_name": "சென்டிமோ",
 		"subunit_name_plural": "சென்டிமோக்கள்"
 	},
 	"QAR": {
-		"name": "கத்தார் ரியால்",
-		"name_plural": "கத்தார் ரியால்கள்",
-		"subunit_name": "திர்ஹாம்",
-		"subunit_name_plural": "திர்ஹாம்கள்"
+		"name": "கத்தாரி ரியால்",
+		"name_plural": "கத்தாரி ரியால்கள்",
+		"subunit_name": "திர்ஹம்",
+		"subunit_name_plural": "திர்ஹம்கள்"
 	},
 	"RON": {
-		"name": "ருமேனிய லியூ",
-		"name_plural": "ருமேனிய லியூக்கள்",
+		"name": "ரோமானியன் லியூ",
+		"name_plural": "ரோமானியன் லேய்",
 		"subunit_name": "பான்",
-		"subunit_name_plural": "பானிகள்"
+		"subunit_name_plural": "பானி"
 	},
 	"RSD": {
-		"name": "செர்பிய தினார்",
-		"name_plural": "செர்பிய தினார்கள்",
+		"name": "செர்பியன் தினார்",
+		"name_plural": "செர்பியன் தினார்கள்",
 		"subunit_name": "பாரா",
-		"subunit_name_plural": "பாராக்கள்"
+		"subunit_name_plural": "பாரா"
 	},
 	"RUB": {
-		"name": "ரஷ்ய ரூபிள்",
-		"name_plural": "ரஷ்ய ரூபிள்கள்",
-		"subunit_name": "கோபேக்",
-		"subunit_name_plural": "கோபேக்குகள்"
+		"name": "ரஷியன் ரூபிள்",
+		"name_plural": "ரஷியன் ரூபிள்கள்",
+		"subunit_name": "கோபெக்",
+		"subunit_name_plural": "கோபெக்குகள்"
 	},
 	"RWF": {
-		"name": "ருவாண்டா பிராங்க்",
-		"name_plural": "ருவாண்டா பிராங்க்குகள்",
-		"subunit_name": "சென்டைம்",
-		"subunit_name_plural": "சென்டைம்கள்"
+		"name": "ருவாண்டன் ஃப்ராங்க்",
+		"name_plural": "ருவாண்டன் ஃப்ராங்குகள்",
+		"subunit_name": "சென்டிம்",
+		"subunit_name_plural": "சென்டிம்கள்"
 	},
 	"SAR": {
-		"name": "சவூதி ரியால்",
-		"name_plural": "சவூதி ரியால்கள்",
+		"name": "சவுதி ரியால்",
+		"name_plural": "சவுதி ரியால்கள்",
 		"subunit_name": "ஹலாலா",
 		"subunit_name_plural": "ஹலாலாக்கள்"
 	},
@@ -708,20 +696,20 @@
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"SCR": {
-		"name": "சீஷெல்லீஸ் ரூபாய்",
-		"name_plural": "சீஷெல்லீஸ் ரூபாய்கள்",
+		"name": "சிசீலியன் ரூபாய்",
+		"name_plural": "சிசீலியன் ரூபாய்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"SDG": {
-		"name": "சூடான் பவுண்ட்",
-		"name_plural": "சூடான் பவுண்டுகள்",
+		"name": "சூடானீஸ் பவுண்ட்",
+		"name_plural": "சூடானீஸ் பவுண்ட்கள்",
 		"subunit_name": "பியாஸ்டர்",
 		"subunit_name_plural": "பியாஸ்டர்கள்"
 	},
 	"SEK": {
-		"name": "சுவீடன் க்ரோனா",
-		"name_plural": "சுவீடன் க்ரோனோர்",
+		"name": "ஸ்வீடிஷ் க்ரோனா",
+		"name_plural": "ஸ்வீடிஷ் க்ரோனர்",
 		"subunit_name": "ஓரே",
 		"subunit_name_plural": "ஓரே"
 	},
@@ -733,91 +721,91 @@
 	},
 	"SHP": {
 		"name": "செயின்ட் ஹெலேனா பவுண்ட்",
-		"name_plural": "செயின்ட் ஹெலேனா பவுண்டுகள்",
+		"name_plural": "செயின்ட் ஹெலேனா பவுண்ட்கள்",
 		"subunit_name": "பென்னி",
 		"subunit_name_plural": "பென்ஸ்"
 	},
-	"SLL": {
-		"name": "சியெரா லியோன் லியோன்",
-		"name_plural": "சியெரா லியோன் லியோன்கள்",
+	"SLE": {
+		"name": "சியரா லியோனியன் லியோன்",
+		"name_plural": "சியரா லியோனியன் லியோன்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"SOS": {
-		"name": "சோமாலிய சில்லிங்",
-		"name_plural": "சோமாலிய சில்லிங்குகள்",
+		"name": "சோமாலி ஷில்லிங்",
+		"name_plural": "சோமாலி ஷில்லிங்குகள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"SRD": {
-		"name": "சூரினாம் டாலர்",
-		"name_plural": "சூரினாம் டாலர்கள்",
+		"name": "சுரினாமீஸ் டாலர்",
+		"name_plural": "சுரினாமீஸ் டாலர்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"SSP": {
-		"name": "தெற்கு சூடான் பவுண்ட்",
-		"name_plural": "தெற்கு சூடான் பவுண்டுகள்",
+		"name": "தெற்கு சூடானீஸ் பவுண்ட்",
+		"name_plural": "தெற்கு சூடானீஸ் பவுண்ட்கள்",
 		"subunit_name": "பியாஸ்டர்",
 		"subunit_name_plural": "பியாஸ்டர்கள்"
 	},
 	"STN": {
-		"name": "சாவோ தோம் மற்றும் பிரின்சிப்பி டோப்ரா",
-		"name_plural": "சாவோ தோம் மற்றும் பிரின்சிப்பி டோப்ராக்கள்",
+		"name": "சாவோ டோமே மற்றும் பிரின்சிபி டோப்ரா",
+		"name_plural": "சாவோ டோமே மற்றும் பிரின்சிபி டோப்ராக்கள்",
 		"subunit_name": "சென்டிமோ",
 		"subunit_name_plural": "சென்டிமோக்கள்"
 	},
 	"SYP": {
-		"name": "சிரிய பவுண்ட்",
-		"name_plural": "சிரிய பவுண்டுகள்",
+		"name": "சிரியன் பவுண்ட்",
+		"name_plural": "சிரியன் பவுண்ட்கள்",
 		"subunit_name": "பியாஸ்டர்",
 		"subunit_name_plural": "பியாஸ்டர்கள்"
 	},
 	"SZL": {
-		"name": "சுவாசிலாந்து லிலாங்கேனி",
-		"name_plural": "சுவாசிலாந்து எமாலாங்கேனி",
+		"name": "சுவாஸி லிலங்கேனி",
+		"name_plural": "சுவாஸி எமலங்கேனி",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"THB": {
-		"name": "தாய்லாந்து பாஹ்ட்",
-		"name_plural": "தாய்லாந்து பாஹ்ட்கள்",
-		"subunit_name": "சாட்டாங்",
-		"subunit_name_plural": "சாட்டாங்கள்"
+		"name": "தாய் பாஹ்",
+		"name_plural": "தாய் பாஹ்",
+		"subunit_name": "சatang",
+		"subunit_name_plural": "சatang"
 	},
 	"TJS": {
-		"name": "தாஜிகிஸ்தான் சோமோனி",
-		"name_plural": "தாஜிகிஸ்தான் சோமோனிகள்",
-		"subunit_name": "திராம்",
-		"subunit_name_plural": "திராம்கள்"
+		"name": "தாஜிகிஸ்தானி சோமோனி",
+		"name_plural": "தாஜிகிஸ்தானி சோமோனிகள்",
+		"subunit_name": "டிராம்",
+		"subunit_name_plural": "டிராம்கள்"
 	},
 	"TMT": {
-		"name": "துருக்மெனிஸ்தான் மனாட்",
-		"name_plural": "துருக்மெனிஸ்தான் மனாட்கள்",
-		"subunit_name": "தெங்கே",
-		"subunit_name_plural": "தெங்கேகள்"
+		"name": "துர்க்மெனிஸ்தானி மனத்",
+		"name_plural": "துர்க்மெனிஸ்தானி மனத்கள்",
+		"subunit_name": "டெங்கே",
+		"subunit_name_plural": "டெங்கே"
 	},
 	"TND": {
-		"name": "துனிசிய தினார்",
-		"name_plural": "துனிசிய தினார்கள்",
+		"name": "டுனிசியன் தினார்",
+		"name_plural": "டுனிசியன் தினார்கள்",
 		"subunit_name": "மில்லிம்",
 		"subunit_name_plural": "மில்லிம்கள்"
 	},
 	"TOP": {
-		"name": "டொங்கா பாங்கா",
-		"name_plural": "டொங்கா பாங்காக்கள்",
-		"subunit_name": "செனிட்டி",
-		"subunit_name_plural": "செனிட்டிகள்"
+		"name": "டோங்கன் பங்கா",
+		"name_plural": "டோங்கன் பங்கா",
+		"subunit_name": "செனிடி",
+		"subunit_name_plural": "செனிடி"
 	},
 	"TRY": {
-		"name": "துருக்கி லிரா",
-		"name_plural": "துருக்கி லிராக்கள்",
+		"name": "துருக்கிஷ் லீரா",
+		"name_plural": "துருக்கிஷ் லீரா",
 		"subunit_name": "குருஷ்",
-		"subunit_name_plural": "குருஷ்கள்"
+		"subunit_name_plural": "குருஷ்"
 	},
 	"TTD": {
-		"name": "டிரினிடாட் மற்றும் டொபாகோ டாலர்",
-		"name_plural": "டிரினிடாட் மற்றும் டொபாகோ டாலர்கள்",
+		"name": "டிரினிடாட் மற்றும் டோபாகோ டாலர்",
+		"name_plural": "டிரினிடாட் மற்றும் டோபாகோ டாலர்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
@@ -828,20 +816,20 @@
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"TZS": {
-		"name": "தான்சானிய சில்லிங்",
-		"name_plural": "தான்சானிய சில்லிங்குகள்",
+		"name": "டான்சானியன் ஷில்லிங்",
+		"name_plural": "டான்சானியன் ஷில்லிங்குகள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"UAH": {
-		"name": "உக்ரைன் ஹ்ரிவ்னியா",
-		"name_plural": "உக்ரைன் ஹ்ரிவ்னியாக்கள்",
-		"subunit_name": "கோபேக்",
-		"subunit_name_plural": "கோபேக்குகள்"
+		"name": "உக்ரைனியன் ஹ்ரிவ்னியா",
+		"name_plural": "உக்ரைனியன் ஹ்ரிவ்னியாக்கள்",
+		"subunit_name": "கோபெக்",
+		"subunit_name_plural": "கோபெக்குகள்"
 	},
 	"UGX": {
-		"name": "உகாண்டா சில்லிங்",
-		"name_plural": "உகாண்டா சில்லிங்குகள்",
+		"name": "உகாண்டன் ஷில்லிங்",
+		"name_plural": "உகாண்டன் ஷில்லிங்குகள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
@@ -852,46 +840,46 @@
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"UYU": {
-		"name": "உருகுவே பெசோ",
-		"name_plural": "உருகுவே பெசோக்கள்",
-		"subunit_name": "சென்டேசிமோ",
-		"subunit_name_plural": "சென்டேசிமோக்கள்"
+		"name": "உருகுவேயன் பெசோ",
+		"name_plural": "உருகுவேயன் பெசோக்கள்",
+		"subunit_name": "சென்டெசிமோ",
+		"subunit_name_plural": "சென்டெசிமோக்கள்"
 	},
 	"UZS": {
-		"name": "உஸ்பெகிஸ்தான் சோம்",
-		"name_plural": "உஸ்பெகிஸ்தான் சோம்கள்",
-		"subunit_name": "தியின்",
-		"subunit_name_plural": "தியின்கள்"
+		"name": "உஸ்பெக்கிஸ்தானி சோம்",
+		"name_plural": "உஸ்பெக்கிஸ்தானி சோம்",
+		"subunit_name": "டியின்",
+		"subunit_name_plural": "டியின்"
 	},
-	"VES": {
-		"name": "வெனிசுலா பொலிவார்",
-		"name_plural": "வெனிசுலா பொலிவார்கள்",
+	"VED": {
+		"name": "வெனிசுலன் டிஜிட்டல் போலிவர்",
+		"name_plural": "வெனிசுலன் டிஜிட்டல் போலிவர்கள்",
 		"subunit_name": "சென்டிமோ",
 		"subunit_name_plural": "சென்டிமோக்கள்"
 	},
 	"VND": {
-		"name": "வியட்நாம் டோங்",
-		"name_plural": "வியட்நாம் டோங்கள்",
+		"name": "வியட்னாமீஸ் டாங்",
+		"name_plural": "வியட்னாமீஸ் டாங்",
 		"subunit_name": "ஹாவ்",
-		"subunit_name_plural": "ஹாவ்கள்"
+		"subunit_name_plural": "ஹாவ்"
 	},
 	"VUV": {
 		"name": "வனுவாட்டு வாட்டு",
-		"name_plural": "வனுவாட்டு வாட்டுகள்",
-		"subunit_name": "சென்டைம்",
-		"subunit_name_plural": "சென்டைம்கள்"
+		"name_plural": "வனுவாட்டு வாட்டு",
+		"subunit_name": "சென்டிம்",
+		"subunit_name_plural": "சென்டிம்கள்"
 	},
 	"WST": {
-		"name": "சமோவா தாலா",
-		"name_plural": "சமோவா தாலாக்கள்",
+		"name": "சமோவான் தாலா",
+		"name_plural": "சமோவான் தாலா",
 		"subunit_name": "செனே",
-		"subunit_name_plural": "செனேகள்"
+		"subunit_name_plural": "செனே"
 	},
 	"XAF": {
-		"name": "மத்திய ஆப்பிரிக்க சிஎஃப்ஏ பிராங்க்",
-		"name_plural": "மத்திய ஆப்பிரிக்க சிஎஃப்ஏ பிராங்க்குகள்",
-		"subunit_name": "சென்டைம்",
-		"subunit_name_plural": "சென்டைம்கள்"
+		"name": "மத்திய ஆபிரிக்க CFA ஃப்ராங்க்",
+		"name_plural": "மத்திய ஆபிரிக்க CFA ஃப்ராங்குகள்",
+		"subunit_name": "சென்டிம்",
+		"subunit_name_plural": "சென்டிம்கள்"
 	},
 	"XCD": {
 		"name": "கிழக்கு கரிபியன் டாலர்",
@@ -900,38 +888,38 @@
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"XOF": {
-		"name": "மேற்கு ஆப்பிரிக்க சிஎஃப்ஏ பிராங்க்",
-		"name_plural": "மேற்கு ஆப்பிரிக்க சிஎஃப்ஏ பிராங்க்குகள்",
-		"subunit_name": "சென்டைம்",
-		"subunit_name_plural": "சென்டைம்கள்"
+		"name": "மேற்கு ஆபிரிக்க CFA ஃப்ராங்க்",
+		"name_plural": "மேற்கு ஆபிரிக்க CFA ஃப்ராங்குகள்",
+		"subunit_name": "சென்டிம்",
+		"subunit_name_plural": "சென்டிம்கள்"
 	},
 	"XPF": {
-		"name": "சிபிஎஃப் பிராங்க்",
-		"name_plural": "சிபிஎஃப் பிராங்க்குகள்",
-		"subunit_name": "சென்டைம்",
-		"subunit_name_plural": "சென்டைம்கள்"
+		"name": "CFP ஃப்ராங்க்",
+		"name_plural": "CFP ஃப்ராங்குகள்",
+		"subunit_name": "சென்டிம்",
+		"subunit_name_plural": "சென்டிம்கள்"
 	},
 	"YER": {
-		"name": "யேமன் ரியால்",
-		"name_plural": "யேமன் ரியால்கள்",
-		"subunit_name": "ஃபில்ஸ்",
-		"subunit_name_plural": "ஃபில்ஸ்"
+		"name": "ஏமன் ரியால்",
+		"name_plural": "ஏமன் ரியால்கள்",
+		"subunit_name": "பில்ஸ்",
+		"subunit_name_plural": "பில்ஸ்"
 	},
 	"ZAR": {
-		"name": "தென் ஆப்பிரிக்க ராண்ட்",
-		"name_plural": "தென் ஆப்பிரிக்க ராண்டுகள்",
+		"name": "தென் ஆபிரிக்க ராண்ட்",
+		"name_plural": "தென் ஆபிரிக்க ராண்ட்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	},
 	"ZMW": {
-		"name": "சாம்பியா குவாச்சா",
-		"name_plural": "சாம்பியா குவாச்சாக்கள்",
-		"subunit_name": "ங்குவீ",
-		"subunit_name_plural": "ங்குவீகள்"
+		"name": "சாம்பியன் குவாசா",
+		"name_plural": "சாம்பியன் குவாசாக்கள்",
+		"subunit_name": "ங்வீ",
+		"subunit_name_plural": "ங்வீ"
 	},
 	"ZWL": {
-		"name": "ஜிம்பாப்வே டாலர்",
-		"name_plural": "ஜிம்பாப்வே டாலர்கள்",
+		"name": "சிம்பா஬்வே டாலர்",
+		"name_plural": "சிம்பா஬்வே டாலர்கள்",
 		"subunit_name": "சென்ட்",
 		"subunit_name_plural": "சென்ட்கள்"
 	}

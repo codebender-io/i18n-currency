@@ -1,6 +1,6 @@
 {
 	"name": "@codebender-io/i18n-currency",
-	"version": "1.0.0",
+	"version": "2.0.0",
 	"description": "Utility library for dealing with currencies",
 	"license": "Apache-2.0",
 	"author": "codebender-io",
